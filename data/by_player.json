@@ -1,0 +1,447 @@
+{
+    "Agnes1": {
+        "n_games": 2,
+        "score_share": 0.0,
+        "opponent_score_share": 0.5827717876534648
+    },
+    "Alexander Starfelt": {
+        "n_games": 7,
+        "score_share": 0.44264069264069267,
+        "opponent_score_share": 0.5112832497023674
+    },
+    "Andreas Josefson": {
+        "n_games": 5,
+        "score_share": 0.4181929181929182,
+        "opponent_score_share": 0.6189977831737742
+    },
+    "Benjamin Ger. Hed.": {
+        "n_games": 8,
+        "score_share": 0.5242521367521367,
+        "opponent_score_share": 0.5120253191117161
+    },
+    "Bj\u00f6rn Berglund": {
+        "n_games": 2,
+        "score_share": 0.46153846153846156,
+        "opponent_score_share": 0.49838347416472417
+    },
+    "Bj\u00f6rn Westerfors": {
+        "n_games": 2,
+        "score_share": 0.5,
+        "opponent_score_share": 0.37382062382062387
+    },
+    "Calle Sandin": {
+        "n_games": 2,
+        "score_share": 0.4125874125874126,
+        "opponent_score_share": 0.48266377719502723
+    },
+    "Charlotte Johansson": {
+        "n_games": 4,
+        "score_share": 0.6420454545454545,
+        "opponent_score_share": 0.500911218115502
+    },
+    "Cissi Hellman": {
+        "n_games": 15,
+        "score_share": 0.47803954097432355,
+        "opponent_score_share": 0.525710535931657
+    },
+    "Conny \u00c5berg": {
+        "n_games": 2,
+        "score_share": 0.15,
+        "opponent_score_share": 0.5180980477855478
+    },
+    "Daniel Mensak": {
+        "n_games": 5,
+        "score_share": 0.6307142857142857,
+        "opponent_score_share": 0.4933591131091132
+    },
+    "Edith S\u00f6derstr\u00f6m": {
+        "n_games": 3,
+        "score_share": 0.25925925925925924,
+        "opponent_score_share": 0.5806901976019624
+    },
+    "Edvin Lindsten": {
+        "n_games": 10,
+        "score_share": 0.605695644225056,
+        "opponent_score_share": 0.4696334538342211
+    },
+    "Emma1": {
+        "n_games": 2,
+        "score_share": 0.35833333333333334,
+        "opponent_score_share": 0.39559468309468315
+    },
+    "Erik Nordenankar": {
+        "n_games": 24,
+        "score_share": 0.710450688395861,
+        "opponent_score_share": 0.48516240661421883
+    },
+    "Erik Sunninger": {
+        "n_games": 3,
+        "score_share": 0.47222222222222227,
+        "opponent_score_share": 0.5311015183074007
+    },
+    "Estrid": {
+        "n_games": 5,
+        "score_share": 0.72058229352347,
+        "opponent_score_share": 0.5341040223393165
+    },
+    "Fanny Kjellner": {
+        "n_games": 3,
+        "score_share": 0.5046296296296297,
+        "opponent_score_share": 0.46831885007305174
+    },
+    "Felix H\u00e4ggstr\u00f6m": {
+        "n_games": 2,
+        "score_share": 0.4192307692307692,
+        "opponent_score_share": 0.51633325008325
+    },
+    "Filip Tyd\u00e9n": {
+        "n_games": 5,
+        "score_share": 0.6461829836829838,
+        "opponent_score_share": 0.5719554302401896
+    },
+    "Frida \u00d6hrn": {
+        "n_games": 6,
+        "score_share": 0.4019522144522145,
+        "opponent_score_share": 0.4595215695705892
+    },
+    "Gabriel Nordenankar": {
+        "n_games": 20,
+        "score_share": 0.6507491119991121,
+        "opponent_score_share": 0.49745709897917234
+    },
+    "Gustaf Ekenstein": {
+        "n_games": 3,
+        "score_share": 0.4611111111111111,
+        "opponent_score_share": 0.48198371073371077
+    },
+    "Hannes": {
+        "n_games": 4,
+        "score_share": 0.57069493006993,
+        "opponent_score_share": 0.46807498771653183
+    },
+    "Henrik Blomkvist": {
+        "n_games": 4,
+        "score_share": 0.44635780885780885,
+        "opponent_score_share": 0.6014741838511021
+    },
+    "Ida Wimmerman": {
+        "n_games": 6,
+        "score_share": 0.5017578826402356,
+        "opponent_score_share": 0.49757772572898634
+    },
+    "Isabell Dillstr\u00f6m": {
+        "n_games": 2,
+        "score_share": 0.36428571428571427,
+        "opponent_score_share": 0.512995905609542
+    },
+    "Jacob Stenman": {
+        "n_games": 5,
+        "score_share": 0.3577272727272728,
+        "opponent_score_share": 0.5179952841276371
+    },
+    "Jakob Lien": {
+        "n_games": 20,
+        "score_share": 0.5853708546355605,
+        "opponent_score_share": 0.484962322555496
+    },
+    "Jens Finn\u00e4s": {
+        "n_games": 5,
+        "score_share": 0.4709090909090909,
+        "opponent_score_share": 0.46957152275334096
+    },
+    "Jens Hultkrans": {
+        "n_games": 8,
+        "score_share": 0.5053184560537501,
+        "opponent_score_share": 0.4822788805915005
+    },
+    "Jens West": {
+        "n_games": 2,
+        "score_share": 0.27083333333333337,
+        "opponent_score_share": 0.5569444444444445
+    },
+    "Jerker Karlsson": {
+        "n_games": 15,
+        "score_share": 0.5226412476412478,
+        "opponent_score_share": 0.5471342787902143
+    },
+    "Jesper Kronholm": {
+        "n_games": 7,
+        "score_share": 0.5905122655122655,
+        "opponent_score_share": 0.479235939129745
+    },
+    "Joakim Lundin": {
+        "n_games": 2,
+        "score_share": 0.3484848484848485,
+        "opponent_score_share": 0.4519451728826729
+    },
+    "Joel Danell": {
+        "n_games": 2,
+        "score_share": 0.4125,
+        "opponent_score_share": 0.4666245791245791
+    },
+    "Johan Alm": {
+        "n_games": 5,
+        "score_share": 0.6757478632478632,
+        "opponent_score_share": 0.4772103299868646
+    },
+    "Johan Berg": {
+        "n_games": 2,
+        "score_share": 0.375,
+        "opponent_score_share": 0.4870313162216572
+    },
+    "Johan Ekman": {
+        "n_games": 11,
+        "score_share": 0.4550928869110687,
+        "opponent_score_share": 0.5003418984746728
+    },
+    "Johan Kjell": {
+        "n_games": 12,
+        "score_share": 0.558712502094855,
+        "opponent_score_share": 0.5127379976418233
+    },
+    "Johanna R\u00e5dstr\u00f6m": {
+        "n_games": 8,
+        "score_share": 0.36044823232323236,
+        "opponent_score_share": 0.4629384688996034
+    },
+    "Johannes Birgersson": {
+        "n_games": 3,
+        "score_share": 0.4713804713804713,
+        "opponent_score_share": 0.46995391904170386
+    },
+    "John Kjellkvist": {
+        "n_games": 3,
+        "score_share": 0.763888888888889,
+        "opponent_score_share": 0.3557303807303807
+    },
+    "John Qvale": {
+        "n_games": 4,
+        "score_share": 0.3174048174048174,
+        "opponent_score_share": 0.49955747955747953
+    },
+    "Josefin Asplund": {
+        "n_games": 7,
+        "score_share": 0.5672184957899244,
+        "opponent_score_share": 0.5037786515149961
+    },
+    "Julius Jorborg": {
+        "n_games": 6,
+        "score_share": 0.4171777296777297,
+        "opponent_score_share": 0.47131170610930995
+    },
+    "Kajsa Hallberg-Nor.": {
+        "n_games": 4,
+        "score_share": 0.24941239316239316,
+        "opponent_score_share": 0.5051287138787139
+    },
+    "Karl1": {
+        "n_games": 2,
+        "score_share": 0.1736111111111111,
+        "opponent_score_share": 0.5357181924828984
+    },
+    "Kevin Carlsson": {
+        "n_games": 2,
+        "score_share": 0.36713286713286714,
+        "opponent_score_share": 0.4930840571465571
+    },
+    "Klara Gustin": {
+        "n_games": 2,
+        "score_share": 0.26111111111111107,
+        "opponent_score_share": 0.5423190235690236
+    },
+    "Kusha": {
+        "n_games": 4,
+        "score_share": 0.4875,
+        "opponent_score_share": 0.46948824455216503
+    },
+    "Leo": {
+        "n_games": 2,
+        "score_share": 0.35833333333333334,
+        "opponent_score_share": 0.51401424351792
+    },
+    "Linn Debove": {
+        "n_games": 4,
+        "score_share": 0.40625,
+        "opponent_score_share": 0.4940364238992698
+    },
+    "Linn Enhage": {
+        "n_games": 5,
+        "score_share": 0.225,
+        "opponent_score_share": 0.5409955273484686
+    },
+    "Lotta Harder": {
+        "n_games": 3,
+        "score_share": 0.6235690235690236,
+        "opponent_score_share": 0.47968767343767343
+    },
+    "Louise Persson": {
+        "n_games": 4,
+        "score_share": 0.5689903846153845,
+        "opponent_score_share": 0.4509710486272986
+    },
+    "Love Elfvelin": {
+        "n_games": 7,
+        "score_share": 0.4349618635332921,
+        "opponent_score_share": 0.5132804860483432
+    },
+    "LoveKalle": {
+        "n_games": 11,
+        "score_share": 0.5708989243080153,
+        "opponent_score_share": 0.5099570667923231
+    },
+    "Lovisa Birgersson": {
+        "n_games": 8,
+        "score_share": 0.5262706043956045,
+        "opponent_score_share": 0.49001399848762095
+    },
+    "Maria Adel\u00f6f": {
+        "n_games": 5,
+        "score_share": 0.4079487179487179,
+        "opponent_score_share": 0.4029725780755192
+    },
+    "Mathilda Hansson": {
+        "n_games": 4,
+        "score_share": 0.5174242424242423,
+        "opponent_score_share": 0.4534549702748232
+    },
+    "Mina": {
+        "n_games": 3,
+        "score_share": 0.3526936026936027,
+        "opponent_score_share": 0.5354429521096188
+    },
+    "Niklas": {
+        "n_games": 4,
+        "score_share": 0.5385912698412698,
+        "opponent_score_share": 0.4915997173442027
+    },
+    "Olga": {
+        "n_games": 2,
+        "score_share": 0.2,
+        "opponent_score_share": 0.5822040731599555
+    },
+    "Olle Hjort": {
+        "n_games": 3,
+        "score_share": 0.28619528619528617,
+        "opponent_score_share": 0.5097629608046275
+    },
+    "Olle Strandberg": {
+        "n_games": 3,
+        "score_share": 0.7125,
+        "opponent_score_share": 0.35313513873562896
+    },
+    "Olof Sabelstr\u00f6m": {
+        "n_games": 6,
+        "score_share": 0.35000000000000003,
+        "opponent_score_share": 0.5422299241726531
+    },
+    "Patrik J\u00e4rg\u00e5rden": {
+        "n_games": 3,
+        "score_share": 0.6721380471380471,
+        "opponent_score_share": 0.41966065524889046
+    },
+    "Pelle Dovborg": {
+        "n_games": 8,
+        "score_share": 0.4329812548562548,
+        "opponent_score_share": 0.48288531228872145
+    },
+    "Petter Hammarb\u00e4ck": {
+        "n_games": 2,
+        "score_share": 0.24431818181818182,
+        "opponent_score_share": 0.49882553788803785
+    },
+    "Philip Little": {
+        "n_games": 2,
+        "score_share": 0.38076923076923075,
+        "opponent_score_share": 0.5011458388632302
+    },
+    "Richard Ekman": {
+        "n_games": 12,
+        "score_share": 0.6095665908165909,
+        "opponent_score_share": 0.45046274941276704
+    },
+    "Robeson": {
+        "n_games": 3,
+        "score_share": 0.4898989898989899,
+        "opponent_score_share": 0.5099090610732767
+    },
+    "Robin Fogelberg": {
+        "n_games": 8,
+        "score_share": 0.4804311497326203,
+        "opponent_score_share": 0.5707873274896932
+    },
+    "Robin Linderborg": {
+        "n_games": 9,
+        "score_share": 0.5583462833462833,
+        "opponent_score_share": 0.5162468131159439
+    },
+    "Sandra Starfelt": {
+        "n_games": 3,
+        "score_share": 0.5058275058275058,
+        "opponent_score_share": 0.49643415589494017
+    },
+    "Sebastin Fors\u00e9n": {
+        "n_games": 3,
+        "score_share": 0.6105664488017429,
+        "opponent_score_share": 0.5290675872783716
+    },
+    "Simon1": {
+        "n_games": 3,
+        "score_share": 0.4657407407407408,
+        "opponent_score_share": 0.43910941636431833
+    },
+    "Sofia Ahlstr\u00f6m": {
+        "n_games": 4,
+        "score_share": 0.471474358974359,
+        "opponent_score_share": 0.5195147059406514
+    },
+    "Sofia Bard": {
+        "n_games": 2,
+        "score_share": 0.47756410256410253,
+        "opponent_score_share": 0.478624194433018
+    },
+    "Sofia R\u00e5dstr\u00f6m": {
+        "n_games": 12,
+        "score_share": 0.31971500721500723,
+        "opponent_score_share": 0.5422337214282947
+    },
+    "Sofia S\u00f6derberg": {
+        "n_games": 2,
+        "score_share": 0.15,
+        "opponent_score_share": 0.4966597862921392
+    },
+    "Sofia \u00d6": {
+        "n_games": 6,
+        "score_share": 0.3446350762527233,
+        "opponent_score_share": 0.5537057795558241
+    },
+    "Sussie R\u00e5dis": {
+        "n_games": 4,
+        "score_share": 0.4777972027972027,
+        "opponent_score_share": 0.49035675143211904
+    },
+    "Theodore Ripman": {
+        "n_games": 16,
+        "score_share": 0.5189697455322456,
+        "opponent_score_share": 0.5021528060260876
+    },
+    "Tobe Welander": {
+        "n_games": 6,
+        "score_share": 0.48502616664381376,
+        "opponent_score_share": 0.4979965181748803
+    },
+    "Tove Papp Lindkvist": {
+        "n_games": 2,
+        "score_share": 0.3418803418803419,
+        "opponent_score_share": 0.4744422346444405
+    },
+    "Ville Nordenankar": {
+        "n_games": 8,
+        "score_share": 0.579861111111111,
+        "opponent_score_share": 0.5567744741837184
+    },
+    "Ylva Ohlson": {
+        "n_games": 7,
+        "score_share": 0.5159032144326262,
+        "opponent_score_share": 0.44232370959261713
+    }
+}

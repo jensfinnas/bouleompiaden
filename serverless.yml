@@ -1,0 +1,32 @@
+service: buoleompiaden
+
+provider:
+  name: aws
+  runtime: python3.6
+  stage: dev
+  region: eu-north-1
+  timeout: 30
+
+plugins:
+  - serverless-python-requirements
+  - serverless-wsgi
+
+custom:
+  wsgi:
+    app: api.app
+    packRequirements: false
+  pythonRequirements:
+    dockerizePip: non-linux
+
+package:
+  exclude:
+    - env/**
+    - .ipynb_checkpoints/**
+
+
+functions:
+  app:
+    handler: wsgi.handler
+    events:
+      - http: ANY /
+      - http: 'ANY {proxy+}'
