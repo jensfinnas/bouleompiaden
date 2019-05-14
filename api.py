@@ -1,23 +1,48 @@
-from flask import Flask, jsonify, Response, make_response
-from modules.simulate import game
+from flask import Flask, jsonify, Response, make_response, render_template
+from flask_jsglue import JSGlue
 from dicttoxml import dicttoxml
 from urllib.parse import unquote
 import csv
 import io
 
-app = Flask(__name__)
+from modules.simulate import game
+from modules import  players
+from settings import STAGE
 
+app = Flask(__name__)
+jsglue = JSGlue(app)
 
 @app.route("/", methods=["GET"])
-def foo():
-    return dicttoxml({"hello": "world"})
+def index():
+    all_players = players.all()
+    # Hackishly remove all players without both first and last name
+    all_players = [x for x in all_players if " " in x]
+
+    context = {
+        "players": all_players
+    }
+
+
+    # Hack: The urls for the ajax calls has to be prepended with a the stage
+    # when deployed to AWS Lambda
+    if STAGE == "local":
+        context["url_prefix"] = ""
+    elif STAGE in ["dev", "production"]:
+        context["url_prefix"] = STAGE
+    else:
+        raise Exception("Invalid stage: {}".format(STAGE))
+
+
+    return render_template('index.html', **context)
 
 def get_context(player1, player2):
+    """Sets up data context for a simulated game between two players
+    """
     n_games = 1000
     player1, player2 = unquote(player1), unquote(player2)
     resp = game(player1, player2, n_games=n_games)
 
-    return {
+    context = {
         "player1": {
             "name": player1,
             "wins": resp["p1_wins"],
@@ -41,9 +66,20 @@ def get_context(player1, player2):
             "historical_score_share": resp["p2"]["score_share"],
         },
         "n_games": n_games,
+        "diff_counts": resp["diff_counts"],
+        "most_likely_diff": resp["most_likely_diff"],
         # most common results
         "results": resp["result_counts"].head(10).reset_index().values.tolist()
     }
+    if resp["p1_win_prob"] > resp["p2_win_prob"]:
+        context["winner"] = context["player1"]
+        context["loser"] = context["player2"]
+    else:
+        context["winner"] = context["player2"]
+        context["loser"] = context["player1"]
+
+    return context
+
 
 @app.route("/<fmt>/<player1>/vs/<player2>", methods=["GET"])
 def simulate(fmt, player1, player2):
@@ -51,6 +87,9 @@ def simulate(fmt, player1, player2):
 
     if fmt == "json":
         return jsonify(context)
+
+    elif fmt == "html":
+        return render_template("result.html", **context)
 
     elif fmt == "csv":
         rows = []

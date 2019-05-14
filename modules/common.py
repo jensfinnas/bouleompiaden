@@ -69,8 +69,13 @@ def simulate_many_games(n_games, simulate_round_fn, score_to_win, *args, **kwarg
     meta["sim_mean_diff"] = diff.mean()
     meta["sim_mean_diff_abs"] = np.abs(diff.mean())
     meta["sim_most_common_diff"] = diff.mode().iloc[0]
-    meta["scores"] = scores
+    meta["scores"] = list(scores)
 
+    diff = df_games["p1_score"] - df_games["p2_score"]
+
+    diff_counts = diff.value_counts()
+    meta["diff_counts"] = diff_counts.sort_index().to_frame().reset_index().values.tolist()
+    meta["most_likely_diff"] = diff_counts.idxmax()
     results = df_games["p1_score"].astype(int).astype(str) + "-" + df_games["p2_score"].astype(int).astype(str)
     meta["result_counts"] = results.value_counts()
 

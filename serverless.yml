@@ -6,6 +6,8 @@ provider:
   stage: dev
   region: eu-north-1
   timeout: 30
+  environment:
+    STAGE: ${opt:stage, self:provider.stage}
 
 plugins:
   - serverless-python-requirements

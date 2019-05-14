@@ -20,7 +20,7 @@ test: clean-pyc
 	AWS_PROFILE=jensfinnas PYTHONPATH=. py.test $(file) --verbose
 
 serve:
-	sls wsgi serve
+	sls wsgi serve --stage local
 
 deploy:
 	sls deploy --aws-profile jensfinnas
