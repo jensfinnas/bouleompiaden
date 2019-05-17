@@ -1,0 +1,4148 @@
+{
+  "Agnes Lind": [
+    {
+      "year": 2012,
+      "opponent": "Johan Ekman",
+      "player_score": 0,
+      "opponent_score": 7,
+      "winner": "Johan Ekman",
+      "is_winner": false
+    },
+    {
+      "year": 2012,
+      "opponent": "Erik Nordenankar",
+      "player_score": 0,
+      "opponent_score": 9,
+      "winner": "Erik Nordenankar",
+      "is_winner": false
+    }
+  ],
+  "Alexander Starfelt": [
+    {
+      "year": 2017,
+      "opponent": "Jakob Lien",
+      "player_score": 6,
+      "opponent_score": 7,
+      "winner": "Jakob Lien",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "John Qvale",
+      "player_score": 7,
+      "opponent_score": 6,
+      "winner": "Alexander Starfelt",
+      "is_winner": true
+    },
+    {
+      "year": 2017,
+      "opponent": "Robin Linderborg",
+      "player_score": 2,
+      "opponent_score": 7,
+      "winner": "Robin Linderborg",
+      "is_winner": false
+    },
+    {
+      "year": 2017,
+      "opponent": "Sofia \u00d6rning",
+      "player_score": 7,
+      "opponent_score": 2,
+      "winner": "Alexander Starfelt",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Gabriel Nordenankar",
+      "player_score": 4,
+      "opponent_score": 8,
+      "winner": "Gabriel Nordenankar",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Robin Fogelberg",
+      "player_score": 7,
+      "opponent_score": 5,
+      "winner": "Alexander Starfelt",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Charlotte Johansson",
+      "player_score": 2,
+      "opponent_score": 9,
+      "winner": "Charlotte Johansson",
+      "is_winner": false
+    }
+  ],
+  "Andreas Josefson": [
+    {
+      "year": 2011,
+      "opponent": "Gabriel Nordenankar",
+      "player_score": 7,
+      "opponent_score": 2,
+      "winner": "Andreas Josefson",
+      "is_winner": true
+    },
+    {
+      "year": 2011,
+      "opponent": "Erik Nordenankar",
+      "player_score": 0,
+      "opponent_score": 8,
+      "winner": "Erik Nordenankar",
+      "is_winner": false
+    },
+    {
+      "year": 2012,
+      "opponent": "Filip Tyd\u00e9n",
+      "player_score": 5,
+      "opponent_score": 8,
+      "winner": "Filip Tyd\u00e9n",
+      "is_winner": false
+    },
+    {
+      "year": 2011,
+      "opponent": "Cissi Hellman",
+      "player_score": 5,
+      "opponent_score": 9,
+      "winner": "Cissi Hellman",
+      "is_winner": false
+    },
+    {
+      "year": 2012,
+      "opponent": "Richard Ekman",
+      "player_score": 8,
+      "opponent_score": 6,
+      "winner": "Andreas Josefson",
+      "is_winner": true
+    }
+  ],
+  "Benjamin Ger. Hed.": [
+    {
+      "year": 2017,
+      "opponent": "Mathilda Hansson",
+      "player_score": 8,
+      "opponent_score": 4,
+      "winner": "Benjamin Ger. Hed.",
+      "is_winner": true
+    },
+    {
+      "year": 2017,
+      "opponent": "Mathilda Hansson",
+      "player_score": 9,
+      "opponent_score": 6,
+      "winner": "Benjamin Ger. Hed.",
+      "is_winner": true
+    },
+    {
+      "year": 2017,
+      "opponent": "Gabriel Nordenankar",
+      "player_score": 6,
+      "opponent_score": 9,
+      "winner": "Gabriel Nordenankar",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Charlotte Johansson",
+      "player_score": 0,
+      "opponent_score": 7,
+      "winner": "Charlotte Johansson",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Philip Little",
+      "player_score": 7,
+      "opponent_score": 6,
+      "winner": "Benjamin Ger. Hed.",
+      "is_winner": true
+    },
+    {
+      "year": 2017,
+      "opponent": "Maria Adel\u00f6f",
+      "player_score": 7,
+      "opponent_score": 0,
+      "winner": "Benjamin Ger. Hed.",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Edith S\u00f6derstr\u00f6m",
+      "player_score": 8,
+      "opponent_score": 1,
+      "winner": "Benjamin Ger. Hed.",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Estrid",
+      "player_score": 1,
+      "opponent_score": 9,
+      "winner": "Estrid",
+      "is_winner": false
+    }
+  ],
+  "Bj\u00f6rn Berglund": [
+    {
+      "year": 2018,
+      "opponent": "Sussie R\u00e5dis",
+      "player_score": 6,
+      "opponent_score": 7,
+      "winner": "Sussie R\u00e5dis",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Theodore Ripman",
+      "player_score": 6,
+      "opponent_score": 7,
+      "winner": "Theodore Ripman",
+      "is_winner": false
+    }
+  ],
+  "Bj\u00f6rn Westerfors": [
+    {
+      "year": 2016,
+      "opponent": "Linn Enhage",
+      "player_score": 7,
+      "opponent_score": 4,
+      "winner": "Bj\u00f6rn Westerfors",
+      "is_winner": true
+    },
+    {
+      "year": 2016,
+      "opponent": "Jerker Karlsson",
+      "player_score": 4,
+      "opponent_score": 7,
+      "winner": "Jerker Karlsson",
+      "is_winner": false
+    }
+  ],
+  "Calle Sandin": [
+    {
+      "year": 2011,
+      "opponent": "Henrik Blomkvist",
+      "player_score": 6,
+      "opponent_score": 7,
+      "winner": "Henrik Blomkvist",
+      "is_winner": false
+    },
+    {
+      "year": 2011,
+      "opponent": "Theodore Ripman",
+      "player_score": 4,
+      "opponent_score": 7,
+      "winner": "Theodore Ripman",
+      "is_winner": false
+    }
+  ],
+  "Charlotte Johansson": [
+    {
+      "year": 2018,
+      "opponent": "Cissi Hellman",
+      "player_score": 7,
+      "opponent_score": 5,
+      "winner": "Charlotte Johansson",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Alexander Starfelt",
+      "player_score": 9,
+      "opponent_score": 2,
+      "winner": "Charlotte Johansson",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Benjamin Ger. Hed.",
+      "player_score": 7,
+      "opponent_score": 0,
+      "winner": "Charlotte Johansson",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Johan Kjell",
+      "player_score": 2,
+      "opponent_score": 10,
+      "winner": "Johan Kjell",
+      "is_winner": false
+    }
+  ],
+  "Cissi Hellman": [
+    {
+      "year": 2011,
+      "opponent": "Andreas Josefson",
+      "player_score": 9,
+      "opponent_score": 5,
+      "winner": "Cissi Hellman",
+      "is_winner": true
+    },
+    {
+      "year": 2011,
+      "opponent": "Gabriel Nordenankar",
+      "player_score": 3,
+      "opponent_score": 7,
+      "winner": "Gabriel Nordenankar",
+      "is_winner": false
+    },
+    {
+      "year": 2012,
+      "opponent": "Theodore Ripman",
+      "player_score": 7,
+      "opponent_score": 3,
+      "winner": "Cissi Hellman",
+      "is_winner": true
+    },
+    {
+      "year": 2016,
+      "opponent": "Linn Debove",
+      "player_score": 1,
+      "opponent_score": 7,
+      "winner": "Linn Debove",
+      "is_winner": false
+    },
+    {
+      "year": 2016,
+      "opponent": "Erik Nordenankar",
+      "player_score": 7,
+      "opponent_score": 6,
+      "winner": "Cissi Hellman",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Philip Little",
+      "player_score": 7,
+      "opponent_score": 3,
+      "winner": "Cissi Hellman",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Jens Hultkrans",
+      "player_score": 7,
+      "opponent_score": 2,
+      "winner": "Cissi Hellman",
+      "is_winner": true
+    },
+    {
+      "year": 2011,
+      "opponent": "Jakob Lien",
+      "player_score": 7,
+      "opponent_score": 5,
+      "winner": "Cissi Hellman",
+      "is_winner": true
+    },
+    {
+      "year": 2011,
+      "opponent": "Olof Sabelstr\u00f6m",
+      "player_score": 7,
+      "opponent_score": 5,
+      "winner": "Cissi Hellman",
+      "is_winner": true
+    },
+    {
+      "year": 2011,
+      "opponent": "Erik Nordenankar",
+      "player_score": 9,
+      "opponent_score": 14,
+      "winner": "Erik Nordenankar",
+      "is_winner": false
+    },
+    {
+      "year": 2012,
+      "opponent": "Theodore Ripman",
+      "player_score": 4,
+      "opponent_score": 9,
+      "winner": "Theodore Ripman",
+      "is_winner": false
+    },
+    {
+      "year": 2017,
+      "opponent": "Julius Jorborg",
+      "player_score": 0,
+      "opponent_score": 7,
+      "winner": "Julius Jorborg",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Charlotte Johansson",
+      "player_score": 5,
+      "opponent_score": 7,
+      "winner": "Charlotte Johansson",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Jesper Kronholm",
+      "player_score": 10,
+      "opponent_score": 5,
+      "winner": "Cissi Hellman",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Robin Fogelberg",
+      "player_score": 7,
+      "opponent_score": 9,
+      "winner": "Robin Fogelberg",
+      "is_winner": false
+    }
+  ],
+  "Conny \u00c5berg": [
+    {
+      "year": 2012,
+      "opponent": "Johan Alm",
+      "player_score": 0,
+      "opponent_score": 7,
+      "winner": "Johan Alm",
+      "is_winner": false
+    },
+    {
+      "year": 2012,
+      "opponent": "Johanna R\u00e5dstr\u00f6m",
+      "player_score": 3,
+      "opponent_score": 7,
+      "winner": "Johanna R\u00e5dstr\u00f6m",
+      "is_winner": false
+    }
+  ],
+  "Daniel Mensak": [
+    {
+      "year": 2016,
+      "opponent": "Frida \u00d6hrn",
+      "player_score": 7,
+      "opponent_score": 1,
+      "winner": "Daniel Mensak",
+      "is_winner": true
+    },
+    {
+      "year": 2016,
+      "opponent": "Erik Sunninger",
+      "player_score": 9,
+      "opponent_score": 3,
+      "winner": "Daniel Mensak",
+      "is_winner": true
+    },
+    {
+      "year": 2016,
+      "opponent": "Felix H\u00e4ggstr\u00f6m",
+      "player_score": 7,
+      "opponent_score": 3,
+      "winner": "Daniel Mensak",
+      "is_winner": true
+    },
+    {
+      "year": 2016,
+      "opponent": "Gabriel Nordenankar",
+      "player_score": 6,
+      "opponent_score": 9,
+      "winner": "Gabriel Nordenankar",
+      "is_winner": false
+    },
+    {
+      "year": 2016,
+      "opponent": "Jerker Karlsson",
+      "player_score": 9,
+      "opponent_score": 12,
+      "winner": "Jerker Karlsson",
+      "is_winner": false
+    }
+  ],
+  "Edith S\u00f6derstr\u00f6m": [
+    {
+      "year": 2018,
+      "opponent": "Benjamin Ger. Hed.",
+      "player_score": 1,
+      "opponent_score": 8,
+      "winner": "Benjamin Ger. Hed.",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Jens Hultkrans",
+      "player_score": 8,
+      "opponent_score": 4,
+      "winner": "Edith S\u00f6derstr\u00f6m",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Olle Strandberg",
+      "player_score": 0,
+      "opponent_score": 8,
+      "winner": "Olle Strandberg",
+      "is_winner": false
+    }
+  ],
+  "Edvin Lindsten": [
+    {
+      "year": 2017,
+      "opponent": "Robin Linderborg",
+      "player_score": 9,
+      "opponent_score": 4,
+      "winner": "Edvin Lindsten",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Olga Andersson",
+      "player_score": 7,
+      "opponent_score": 3,
+      "winner": "Edvin Lindsten",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Sofia \u00d6rning",
+      "player_score": 7,
+      "opponent_score": 1,
+      "winner": "Edvin Lindsten",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Sofia \u00d6rning",
+      "player_score": 9,
+      "opponent_score": 8,
+      "winner": "Edvin Lindsten",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Theodore Ripman",
+      "player_score": 2,
+      "opponent_score": 9,
+      "winner": "Theodore Ripman",
+      "is_winner": false
+    },
+    {
+      "year": 2017,
+      "opponent": "Karl S\u00f6derberg",
+      "player_score": 7,
+      "opponent_score": 2,
+      "winner": "Edvin Lindsten",
+      "is_winner": true
+    },
+    {
+      "year": 2017,
+      "opponent": "Jakob Lien",
+      "player_score": 7,
+      "opponent_score": 1,
+      "winner": "Edvin Lindsten",
+      "is_winner": true
+    },
+    {
+      "year": 2017,
+      "opponent": "Richard Ekman",
+      "player_score": 9,
+      "opponent_score": 4,
+      "winner": "Edvin Lindsten",
+      "is_winner": true
+    },
+    {
+      "year": 2017,
+      "opponent": "Erik Nordenankar",
+      "player_score": 9,
+      "opponent_score": 6,
+      "winner": "Edvin Lindsten",
+      "is_winner": true
+    },
+    {
+      "year": 2017,
+      "opponent": "Gabriel Nordenankar",
+      "player_score": 2,
+      "opponent_score": 13,
+      "winner": "Gabriel Nordenankar",
+      "is_winner": false
+    }
+  ],
+  "Emma Pettersson": [
+    {
+      "year": 2017,
+      "opponent": "Sofia Ahlstr\u00f6m",
+      "player_score": 3,
+      "opponent_score": 7,
+      "winner": "Sofia Ahlstr\u00f6m",
+      "is_winner": false
+    },
+    {
+      "year": 2017,
+      "opponent": "Sofia R\u00e5dstr\u00f6m",
+      "player_score": 5,
+      "opponent_score": 7,
+      "winner": "Sofia R\u00e5dstr\u00f6m",
+      "is_winner": false
+    }
+  ],
+  "Erik Nordenankar": [
+    {
+      "year": 2011,
+      "opponent": "Sofia R\u00e5dstr\u00f6m",
+      "player_score": 8,
+      "opponent_score": 0,
+      "winner": "Erik Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2011,
+      "opponent": "Cissi Hellman",
+      "player_score": 14,
+      "opponent_score": 9,
+      "winner": "Erik Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2012,
+      "opponent": "Johan Alm",
+      "player_score": 6,
+      "opponent_score": 7,
+      "winner": "Johan Alm",
+      "is_winner": false
+    },
+    {
+      "year": 2017,
+      "opponent": "Johannes Birgersson",
+      "player_score": 8,
+      "opponent_score": 1,
+      "winner": "Erik Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2017,
+      "opponent": "Tobe Welander",
+      "player_score": 9,
+      "opponent_score": 8,
+      "winner": "Erik Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2017,
+      "opponent": "Ville Nordenankar",
+      "player_score": 9,
+      "opponent_score": 1,
+      "winner": "Erik Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2017,
+      "opponent": "Edvin Lindsten",
+      "player_score": 6,
+      "opponent_score": 9,
+      "winner": "Edvin Lindsten",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Johan Ekman",
+      "player_score": 8,
+      "opponent_score": 3,
+      "winner": "Erik Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Love Andr\u00e9asson",
+      "player_score": 8,
+      "opponent_score": 3,
+      "winner": "Erik Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Johan Ekman",
+      "player_score": 10,
+      "opponent_score": 3,
+      "winner": "Erik Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2011,
+      "opponent": "Jakob Lien",
+      "player_score": 6,
+      "opponent_score": 7,
+      "winner": "Jakob Lien",
+      "is_winner": false
+    },
+    {
+      "year": 2011,
+      "opponent": "Andreas Josefson",
+      "player_score": 8,
+      "opponent_score": 0,
+      "winner": "Erik Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2011,
+      "opponent": "Henrik Blomkvist",
+      "player_score": 7,
+      "opponent_score": 3,
+      "winner": "Erik Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2012,
+      "opponent": "Agnes Lind",
+      "player_score": 9,
+      "opponent_score": 0,
+      "winner": "Erik Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2012,
+      "opponent": "Johan Ekman",
+      "player_score": 7,
+      "opponent_score": 2,
+      "winner": "Erik Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2016,
+      "opponent": "Cissi Hellman",
+      "player_score": 6,
+      "opponent_score": 7,
+      "winner": "Cissi Hellman",
+      "is_winner": false
+    },
+    {
+      "year": 2016,
+      "opponent": "Linn Debove",
+      "player_score": 8,
+      "opponent_score": 0,
+      "winner": "Erik Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2016,
+      "opponent": "Jakob Lien",
+      "player_score": 8,
+      "opponent_score": 9,
+      "winner": "Jakob Lien",
+      "is_winner": false
+    },
+    {
+      "year": 2017,
+      "opponent": "Lovisa Birgersson",
+      "player_score": 8,
+      "opponent_score": 0,
+      "winner": "Erik Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2017,
+      "opponent": "Jerker Karlsson",
+      "player_score": 13,
+      "opponent_score": 7,
+      "winner": "Erik Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Lovisa Birgersson",
+      "player_score": 9,
+      "opponent_score": 4,
+      "winner": "Erik Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Robin Linderborg",
+      "player_score": 11,
+      "opponent_score": 5,
+      "winner": "Erik Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Johan Kjell",
+      "player_score": 8,
+      "opponent_score": 9,
+      "winner": "Johan Kjell",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Robin Fogelberg",
+      "player_score": 14,
+      "opponent_score": 7,
+      "winner": "Erik Nordenankar",
+      "is_winner": true
+    }
+  ],
+  "Erik Sunninger": [
+    {
+      "year": 2016,
+      "opponent": "Tobe Welander",
+      "player_score": 7,
+      "opponent_score": 5,
+      "winner": "Erik Sunninger",
+      "is_winner": true
+    },
+    {
+      "year": 2016,
+      "opponent": "Sofia Bard",
+      "player_score": 7,
+      "opponent_score": 5,
+      "winner": "Erik Sunninger",
+      "is_winner": true
+    },
+    {
+      "year": 2016,
+      "opponent": "Daniel Mensak",
+      "player_score": 3,
+      "opponent_score": 9,
+      "winner": "Daniel Mensak",
+      "is_winner": false
+    }
+  ],
+  "Estrid": [
+    {
+      "year": 2018,
+      "opponent": "Fanny Kjellner",
+      "player_score": 7,
+      "opponent_score": 2,
+      "winner": "Estrid",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Benjamin Ger. Hed.",
+      "player_score": 9,
+      "opponent_score": 1,
+      "winner": "Estrid",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Hannes Jordan",
+      "player_score": 9,
+      "opponent_score": 2,
+      "winner": "Estrid",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Jesper Kronholm",
+      "player_score": 7,
+      "opponent_score": 4,
+      "winner": "Estrid",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Robin Fogelberg",
+      "player_score": 8,
+      "opponent_score": 9,
+      "winner": "Robin Fogelberg",
+      "is_winner": false
+    }
+  ],
+  "Fanny Kjellner": [
+    {
+      "year": 2018,
+      "opponent": "Love Elfvelin",
+      "player_score": 5,
+      "opponent_score": 7,
+      "winner": "Love Elfvelin",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Kajsa Hallberg-Nor.",
+      "player_score": 7,
+      "opponent_score": 1,
+      "winner": "Fanny Kjellner",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Estrid",
+      "player_score": 2,
+      "opponent_score": 7,
+      "winner": "Estrid",
+      "is_winner": false
+    }
+  ],
+  "Felix H\u00e4ggstr\u00f6m": [
+    {
+      "year": 2016,
+      "opponent": "Frida \u00d6hrn",
+      "player_score": 7,
+      "opponent_score": 6,
+      "winner": "Felix H\u00e4ggstr\u00f6m",
+      "is_winner": true
+    },
+    {
+      "year": 2016,
+      "opponent": "Daniel Mensak",
+      "player_score": 3,
+      "opponent_score": 7,
+      "winner": "Daniel Mensak",
+      "is_winner": false
+    }
+  ],
+  "Filip Tyd\u00e9n": [
+    {
+      "year": 2012,
+      "opponent": "Love Andr\u00e9asson",
+      "player_score": 7,
+      "opponent_score": 5,
+      "winner": "Filip Tyd\u00e9n",
+      "is_winner": true
+    },
+    {
+      "year": 2012,
+      "opponent": "Johan Alm",
+      "player_score": 13,
+      "opponent_score": 3,
+      "winner": "Filip Tyd\u00e9n",
+      "is_winner": true
+    },
+    {
+      "year": 2012,
+      "opponent": "Richard Ekman",
+      "player_score": 7,
+      "opponent_score": 5,
+      "winner": "Filip Tyd\u00e9n",
+      "is_winner": true
+    },
+    {
+      "year": 2012,
+      "opponent": "Andreas Josefson",
+      "player_score": 8,
+      "opponent_score": 5,
+      "winner": "Filip Tyd\u00e9n",
+      "is_winner": true
+    },
+    {
+      "year": 2012,
+      "opponent": "Jakob Lien",
+      "player_score": 7,
+      "opponent_score": 4,
+      "winner": "Filip Tyd\u00e9n",
+      "is_winner": true
+    }
+  ],
+  "Frida \u00d6hrn": [
+    {
+      "year": 2016,
+      "opponent": "Felix H\u00e4ggstr\u00f6m",
+      "player_score": 6,
+      "opponent_score": 7,
+      "winner": "Felix H\u00e4ggstr\u00f6m",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Olle Hjort",
+      "player_score": 4,
+      "opponent_score": 7,
+      "winner": "Olle Hjort",
+      "is_winner": false
+    },
+    {
+      "year": 2012,
+      "opponent": "Sofia R\u00e5dstr\u00f6m",
+      "player_score": 7,
+      "opponent_score": 4,
+      "winner": "Frida \u00d6hrn",
+      "is_winner": true
+    },
+    {
+      "year": 2012,
+      "opponent": "Jakob Lien",
+      "player_score": 4,
+      "opponent_score": 7,
+      "winner": "Jakob Lien",
+      "is_winner": false
+    },
+    {
+      "year": 2016,
+      "opponent": "Daniel Mensak",
+      "player_score": 1,
+      "opponent_score": 7,
+      "winner": "Daniel Mensak",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Ylva Andr\u00e9asson",
+      "player_score": 6,
+      "opponent_score": 7,
+      "winner": "Ylva Andr\u00e9asson",
+      "is_winner": false
+    }
+  ],
+  "Gabriel Nordenankar": [
+    {
+      "year": 2012,
+      "opponent": "Love Andr\u00e9asson",
+      "player_score": 2,
+      "opponent_score": 7,
+      "winner": "Love Andr\u00e9asson",
+      "is_winner": false
+    },
+    {
+      "year": 2016,
+      "opponent": "Lotta Harder",
+      "player_score": 9,
+      "opponent_score": 2,
+      "winner": "Gabriel Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2016,
+      "opponent": "Daniel Mensak",
+      "player_score": 9,
+      "opponent_score": 6,
+      "winner": "Gabriel Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2017,
+      "opponent": "Sofia Ahlstr\u00f6m",
+      "player_score": 7,
+      "opponent_score": 5,
+      "winner": "Gabriel Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2017,
+      "opponent": "Edvin Lindsten",
+      "player_score": 13,
+      "opponent_score": 2,
+      "winner": "Gabriel Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Alexander Starfelt",
+      "player_score": 8,
+      "opponent_score": 4,
+      "winner": "Gabriel Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Gustaf Ekenstein",
+      "player_score": 7,
+      "opponent_score": 5,
+      "winner": "Gabriel Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Niklas Larsson",
+      "player_score": 9,
+      "opponent_score": 5,
+      "winner": "Gabriel Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Jens Hultkrans",
+      "player_score": 4,
+      "opponent_score": 9,
+      "winner": "Jens Hultkrans",
+      "is_winner": false
+    },
+    {
+      "year": 2011,
+      "opponent": "Cissi Hellman",
+      "player_score": 7,
+      "opponent_score": 3,
+      "winner": "Gabriel Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2011,
+      "opponent": "Andreas Josefson",
+      "player_score": 2,
+      "opponent_score": 7,
+      "winner": "Andreas Josefson",
+      "is_winner": false
+    },
+    {
+      "year": 2012,
+      "opponent": "Olof Sabelstr\u00f6m",
+      "player_score": 9,
+      "opponent_score": 1,
+      "winner": "Gabriel Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2016,
+      "opponent": "Johan Ekman",
+      "player_score": 7,
+      "opponent_score": 1,
+      "winner": "Gabriel Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2016,
+      "opponent": "Pelle Dovborg",
+      "player_score": 7,
+      "opponent_score": 4,
+      "winner": "Gabriel Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2016,
+      "opponent": "Jakob Lien",
+      "player_score": 12,
+      "opponent_score": 6,
+      "winner": "Gabriel Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2017,
+      "opponent": "Sofia R\u00e5dstr\u00f6m",
+      "player_score": 7,
+      "opponent_score": 4,
+      "winner": "Gabriel Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2017,
+      "opponent": "Pelle Dovborg",
+      "player_score": 10,
+      "opponent_score": 3,
+      "winner": "Gabriel Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2017,
+      "opponent": "Benjamin Ger. Hed.",
+      "player_score": 9,
+      "opponent_score": 6,
+      "winner": "Gabriel Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2017,
+      "opponent": "Jerker Karlsson",
+      "player_score": 9,
+      "opponent_score": 2,
+      "winner": "Gabriel Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Ville Nordenankar",
+      "player_score": 9,
+      "opponent_score": 1,
+      "winner": "Gabriel Nordenankar",
+      "is_winner": true
+    }
+  ],
+  "Gustaf Ekenstein": [
+    {
+      "year": 2018,
+      "opponent": "Sussie R\u00e5dis",
+      "player_score": 3,
+      "opponent_score": 7,
+      "winner": "Sussie R\u00e5dis",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "John Qvale",
+      "player_score": 8,
+      "opponent_score": 4,
+      "winner": "Gustaf Ekenstein",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Gabriel Nordenankar",
+      "player_score": 5,
+      "opponent_score": 7,
+      "winner": "Gabriel Nordenankar",
+      "is_winner": false
+    }
+  ],
+  "Hannes Jordan": [
+    {
+      "year": 2018,
+      "opponent": "Louise Persson",
+      "player_score": 9,
+      "opponent_score": 7,
+      "winner": "Hannes Jordan",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Jacob Stenman",
+      "player_score": 7,
+      "opponent_score": 6,
+      "winner": "Hannes Jordan",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Linn Enhage",
+      "player_score": 7,
+      "opponent_score": 0,
+      "winner": "Hannes Jordan",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Estrid",
+      "player_score": 2,
+      "opponent_score": 9,
+      "winner": "Estrid",
+      "is_winner": false
+    }
+  ],
+  "Henrik Blomkvist": [
+    {
+      "year": 2011,
+      "opponent": "Erik Nordenankar",
+      "player_score": 3,
+      "opponent_score": 7,
+      "winner": "Erik Nordenankar",
+      "is_winner": false
+    },
+    {
+      "year": 2011,
+      "opponent": "Theodore Ripman",
+      "player_score": 4,
+      "opponent_score": 7,
+      "winner": "Theodore Ripman",
+      "is_winner": false
+    },
+    {
+      "year": 2011,
+      "opponent": "Calle Sandin",
+      "player_score": 7,
+      "opponent_score": 6,
+      "winner": "Henrik Blomkvist",
+      "is_winner": true
+    },
+    {
+      "year": 2011,
+      "opponent": "John Kjellkvist",
+      "player_score": 7,
+      "opponent_score": 5,
+      "winner": "Henrik Blomkvist",
+      "is_winner": true
+    }
+  ],
+  "Ida Wimmerman": [
+    {
+      "year": 2017,
+      "opponent": "Josefin Asplund",
+      "player_score": 6,
+      "opponent_score": 8,
+      "winner": "Josefin Asplund",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Leo Ehnborg",
+      "player_score": 7,
+      "opponent_score": 3,
+      "winner": "Ida Wimmerman",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Ylva Andr\u00e9asson",
+      "player_score": 9,
+      "opponent_score": 8,
+      "winner": "Ida Wimmerman",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Jens Hultkrans",
+      "player_score": 4,
+      "opponent_score": 9,
+      "winner": "Jens Hultkrans",
+      "is_winner": false
+    },
+    {
+      "year": 2017,
+      "opponent": "Sofia Ahlstr\u00f6m",
+      "player_score": 6,
+      "opponent_score": 7,
+      "winner": "Sofia Ahlstr\u00f6m",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Josefin Asplund",
+      "player_score": 7,
+      "opponent_score": 5,
+      "winner": "Ida Wimmerman",
+      "is_winner": true
+    }
+  ],
+  "Isabell Dillstr\u00f6m": [
+    {
+      "year": 2018,
+      "opponent": "Love Andr\u00e9asson",
+      "player_score": 6,
+      "opponent_score": 8,
+      "winner": "Love Andr\u00e9asson",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Johan Ekman",
+      "player_score": 3,
+      "opponent_score": 7,
+      "winner": "Johan Ekman",
+      "is_winner": false
+    }
+  ],
+  "Jacob Stenman": [
+    {
+      "year": 2017,
+      "opponent": "Tobe Welander",
+      "player_score": 4,
+      "opponent_score": 7,
+      "winner": "Tobe Welander",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Hannes Jordan",
+      "player_score": 6,
+      "opponent_score": 7,
+      "winner": "Hannes Jordan",
+      "is_winner": false
+    },
+    {
+      "year": 2017,
+      "opponent": "Ylva Andr\u00e9asson",
+      "player_score": 7,
+      "opponent_score": 6,
+      "winner": "Jacob Stenman",
+      "is_winner": true
+    },
+    {
+      "year": 2017,
+      "opponent": "Pelle Dovborg",
+      "player_score": 3,
+      "opponent_score": 7,
+      "winner": "Pelle Dovborg",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Jakob Lien",
+      "player_score": 1,
+      "opponent_score": 7,
+      "winner": "Jakob Lien",
+      "is_winner": false
+    }
+  ],
+  "Jakob Lien": [
+    {
+      "year": 2011,
+      "opponent": "Erik Nordenankar",
+      "player_score": 7,
+      "opponent_score": 6,
+      "winner": "Jakob Lien",
+      "is_winner": true
+    },
+    {
+      "year": 2011,
+      "opponent": "Sofia R\u00e5dstr\u00f6m",
+      "player_score": 8,
+      "opponent_score": 2,
+      "winner": "Jakob Lien",
+      "is_winner": true
+    },
+    {
+      "year": 2011,
+      "opponent": "Cissi Hellman",
+      "player_score": 5,
+      "opponent_score": 7,
+      "winner": "Cissi Hellman",
+      "is_winner": false
+    },
+    {
+      "year": 2012,
+      "opponent": "Frida \u00d6hrn",
+      "player_score": 7,
+      "opponent_score": 4,
+      "winner": "Jakob Lien",
+      "is_winner": true
+    },
+    {
+      "year": 2012,
+      "opponent": "Patrik J\u00e4rg\u00e5rden",
+      "player_score": 7,
+      "opponent_score": 4,
+      "winner": "Jakob Lien",
+      "is_winner": true
+    },
+    {
+      "year": 2012,
+      "opponent": "Filip Tyd\u00e9n",
+      "player_score": 4,
+      "opponent_score": 7,
+      "winner": "Filip Tyd\u00e9n",
+      "is_winner": false
+    },
+    {
+      "year": 2012,
+      "opponent": "Theodore Ripman",
+      "player_score": 7,
+      "opponent_score": 5,
+      "winner": "Jakob Lien",
+      "is_winner": true
+    },
+    {
+      "year": 2016,
+      "opponent": "Erik Nordenankar",
+      "player_score": 9,
+      "opponent_score": 8,
+      "winner": "Jakob Lien",
+      "is_winner": true
+    },
+    {
+      "year": 2016,
+      "opponent": "Jerker Karlsson",
+      "player_score": 9,
+      "opponent_score": 0,
+      "winner": "Jakob Lien",
+      "is_winner": true
+    },
+    {
+      "year": 2016,
+      "opponent": "Gabriel Nordenankar",
+      "player_score": 6,
+      "opponent_score": 12,
+      "winner": "Gabriel Nordenankar",
+      "is_winner": false
+    },
+    {
+      "year": 2017,
+      "opponent": "Simon Rosendahl",
+      "player_score": 7,
+      "opponent_score": 3,
+      "winner": "Jakob Lien",
+      "is_winner": true
+    },
+    {
+      "year": 2017,
+      "opponent": "Edvin Lindsten",
+      "player_score": 1,
+      "opponent_score": 7,
+      "winner": "Edvin Lindsten",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Linn Enhage",
+      "player_score": 4,
+      "opponent_score": 7,
+      "winner": "Linn Enhage",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Jacob Stenman",
+      "player_score": 7,
+      "opponent_score": 1,
+      "winner": "Jakob Lien",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Lovisa Birgersson",
+      "player_score": 5,
+      "opponent_score": 9,
+      "winner": "Lovisa Birgersson",
+      "is_winner": false
+    },
+    {
+      "year": 2012,
+      "opponent": "Sofia R\u00e5dstr\u00f6m",
+      "player_score": 9,
+      "opponent_score": 6,
+      "winner": "Jakob Lien",
+      "is_winner": true
+    },
+    {
+      "year": 2016,
+      "opponent": "Maria Adel\u00f6f",
+      "player_score": 7,
+      "opponent_score": 5,
+      "winner": "Jakob Lien",
+      "is_winner": true
+    },
+    {
+      "year": 2016,
+      "opponent": "Sofia S\u00f6derberg",
+      "player_score": 7,
+      "opponent_score": 0,
+      "winner": "Jakob Lien",
+      "is_winner": true
+    },
+    {
+      "year": 2017,
+      "opponent": "Alexander Starfelt",
+      "player_score": 7,
+      "opponent_score": 6,
+      "winner": "Jakob Lien",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Josefin Asplund",
+      "player_score": 8,
+      "opponent_score": 3,
+      "winner": "Jakob Lien",
+      "is_winner": true
+    }
+  ],
+  "Jens Finn\u00e4s": [
+    {
+      "year": 2016,
+      "opponent": "John Qvale",
+      "player_score": 7,
+      "opponent_score": 4,
+      "winner": "Jens Finn\u00e4s",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Love Andr\u00e9asson",
+      "player_score": 2,
+      "opponent_score": 9,
+      "winner": "Love Andr\u00e9asson",
+      "is_winner": false
+    },
+    {
+      "year": 2016,
+      "opponent": "Lotta Harder",
+      "player_score": 2,
+      "opponent_score": 8,
+      "winner": "Lotta Harder",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Joakim Lundin",
+      "player_score": 7,
+      "opponent_score": 4,
+      "winner": "Jens Finn\u00e4s",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Kusha Bahrami",
+      "player_score": 7,
+      "opponent_score": 3,
+      "winner": "Jens Finn\u00e4s",
+      "is_winner": true
+    }
+  ],
+  "Jens Hultkrans": [
+    {
+      "year": 2018,
+      "opponent": "Edith S\u00f6derstr\u00f6m",
+      "player_score": 4,
+      "opponent_score": 8,
+      "winner": "Edith S\u00f6derstr\u00f6m",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Johan Kjell",
+      "player_score": 5,
+      "opponent_score": 13,
+      "winner": "Johan Kjell",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Sofia R\u00e5dstr\u00f6m",
+      "player_score": 7,
+      "opponent_score": 4,
+      "winner": "Jens Hultkrans",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Cissi Hellman",
+      "player_score": 2,
+      "opponent_score": 7,
+      "winner": "Cissi Hellman",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Richard Ekman",
+      "player_score": 9,
+      "opponent_score": 6,
+      "winner": "Jens Hultkrans",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Ida Wimmerman",
+      "player_score": 9,
+      "opponent_score": 4,
+      "winner": "Jens Hultkrans",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Gabriel Nordenankar",
+      "player_score": 9,
+      "opponent_score": 4,
+      "winner": "Jens Hultkrans",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Robin Fogelberg",
+      "player_score": 10,
+      "opponent_score": 7,
+      "winner": "Jens Hultkrans",
+      "is_winner": true
+    }
+  ],
+  "Jens West": [
+    {
+      "year": 2011,
+      "opponent": "John Kjellkvist",
+      "player_score": 1,
+      "opponent_score": 7,
+      "winner": "John Kjellkvist",
+      "is_winner": false
+    },
+    {
+      "year": 2011,
+      "opponent": "Olof Sabelstr\u00f6m",
+      "player_score": 5,
+      "opponent_score": 7,
+      "winner": "Olof Sabelstr\u00f6m",
+      "is_winner": false
+    }
+  ],
+  "Jerker Karlsson": [
+    {
+      "year": 2012,
+      "opponent": "Johan Kjell",
+      "player_score": 6,
+      "opponent_score": 7,
+      "winner": "Johan Kjell",
+      "is_winner": false
+    },
+    {
+      "year": 2016,
+      "opponent": "Richard Ekman",
+      "player_score": 9,
+      "opponent_score": 3,
+      "winner": "Jerker Karlsson",
+      "is_winner": true
+    },
+    {
+      "year": 2016,
+      "opponent": "Daniel Mensak",
+      "player_score": 12,
+      "opponent_score": 9,
+      "winner": "Jerker Karlsson",
+      "is_winner": true
+    },
+    {
+      "year": 2017,
+      "opponent": "Sandra Starfelt",
+      "player_score": 7,
+      "opponent_score": 4,
+      "winner": "Jerker Karlsson",
+      "is_winner": true
+    },
+    {
+      "year": 2017,
+      "opponent": "Ville Nordenankar",
+      "player_score": 5,
+      "opponent_score": 7,
+      "winner": "Ville Nordenankar",
+      "is_winner": false
+    },
+    {
+      "year": 2017,
+      "opponent": "Love Elfvelin",
+      "player_score": 8,
+      "opponent_score": 6,
+      "winner": "Jerker Karlsson",
+      "is_winner": true
+    },
+    {
+      "year": 2017,
+      "opponent": "Josefin Asplund",
+      "player_score": 9,
+      "opponent_score": 5,
+      "winner": "Jerker Karlsson",
+      "is_winner": true
+    },
+    {
+      "year": 2017,
+      "opponent": "Gabriel Nordenankar",
+      "player_score": 2,
+      "opponent_score": 9,
+      "winner": "Gabriel Nordenankar",
+      "is_winner": false
+    },
+    {
+      "year": 2017,
+      "opponent": "Erik Nordenankar",
+      "player_score": 7,
+      "opponent_score": 13,
+      "winner": "Erik Nordenankar",
+      "is_winner": false
+    },
+    {
+      "year": 2012,
+      "opponent": "Johan Kjell",
+      "player_score": 5,
+      "opponent_score": 8,
+      "winner": "Johan Kjell",
+      "is_winner": false
+    },
+    {
+      "year": 2012,
+      "opponent": "Theodore Ripman",
+      "player_score": 6,
+      "opponent_score": 7,
+      "winner": "Theodore Ripman",
+      "is_winner": false
+    },
+    {
+      "year": 2016,
+      "opponent": "Bj\u00f6rn Westerfors",
+      "player_score": 7,
+      "opponent_score": 4,
+      "winner": "Jerker Karlsson",
+      "is_winner": true
+    },
+    {
+      "year": 2016,
+      "opponent": "Linn Enhage",
+      "player_score": 7,
+      "opponent_score": 1,
+      "winner": "Jerker Karlsson",
+      "is_winner": true
+    },
+    {
+      "year": 2016,
+      "opponent": "Jakob Lien",
+      "player_score": 0,
+      "opponent_score": 9,
+      "winner": "Jakob Lien",
+      "is_winner": false
+    },
+    {
+      "year": 2017,
+      "opponent": "Love Andr\u00e9asson",
+      "player_score": 9,
+      "opponent_score": 1,
+      "winner": "Jerker Karlsson",
+      "is_winner": true
+    }
+  ],
+  "Jesper Kronholm": [
+    {
+      "year": 2017,
+      "opponent": "Ville Nordenankar",
+      "player_score": 6,
+      "opponent_score": 9,
+      "winner": "Ville Nordenankar",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Estrid",
+      "player_score": 4,
+      "opponent_score": 7,
+      "winner": "Estrid",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Kajsa Hallberg-Nor.",
+      "player_score": 8,
+      "opponent_score": 1,
+      "winner": "Jesper Kronholm",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Cissi Hellman",
+      "player_score": 5,
+      "opponent_score": 10,
+      "winner": "Cissi Hellman",
+      "is_winner": false
+    },
+    {
+      "year": 2017,
+      "opponent": "Theodore Ripman",
+      "player_score": 7,
+      "opponent_score": 1,
+      "winner": "Jesper Kronholm",
+      "is_winner": true
+    },
+    {
+      "year": 2017,
+      "opponent": "Johan Ekman",
+      "player_score": 7,
+      "opponent_score": 4,
+      "winner": "Jesper Kronholm",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Mina Kheirkhah",
+      "player_score": 7,
+      "opponent_score": 4,
+      "winner": "Jesper Kronholm",
+      "is_winner": true
+    }
+  ],
+  "Joakim Lundin": [
+    {
+      "year": 2018,
+      "opponent": "Jens Finn\u00e4s",
+      "player_score": 4,
+      "opponent_score": 7,
+      "winner": "Jens Finn\u00e4s",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Pelle Dovborg",
+      "player_score": 4,
+      "opponent_score": 8,
+      "winner": "Pelle Dovborg",
+      "is_winner": false
+    }
+  ],
+  "Joel Danell": [
+    {
+      "year": 2012,
+      "opponent": "Patrik J\u00e4rg\u00e5rden",
+      "player_score": 1,
+      "opponent_score": 7,
+      "winner": "Patrik J\u00e4rg\u00e5rden",
+      "is_winner": false
+    },
+    {
+      "year": 2012,
+      "opponent": "Klara Gustin",
+      "player_score": 7,
+      "opponent_score": 3,
+      "winner": "Joel Danell",
+      "is_winner": true
+    }
+  ],
+  "Johan Alm": [
+    {
+      "year": 2012,
+      "opponent": "Johanna R\u00e5dstr\u00f6m",
+      "player_score": 7,
+      "opponent_score": 1,
+      "winner": "Johan Alm",
+      "is_winner": true
+    },
+    {
+      "year": 2012,
+      "opponent": "Conny \u00c5berg",
+      "player_score": 7,
+      "opponent_score": 0,
+      "winner": "Johan Alm",
+      "is_winner": true
+    },
+    {
+      "year": 2012,
+      "opponent": "Erik Nordenankar",
+      "player_score": 7,
+      "opponent_score": 6,
+      "winner": "Johan Alm",
+      "is_winner": true
+    },
+    {
+      "year": 2012,
+      "opponent": "Theodore Ripman",
+      "player_score": 7,
+      "opponent_score": 2,
+      "winner": "Johan Alm",
+      "is_winner": true
+    },
+    {
+      "year": 2012,
+      "opponent": "Filip Tyd\u00e9n",
+      "player_score": 3,
+      "opponent_score": 13,
+      "winner": "Filip Tyd\u00e9n",
+      "is_winner": false
+    }
+  ],
+  "Johan Berg": [
+    {
+      "year": 2017,
+      "opponent": "Theodore Ripman",
+      "player_score": 4,
+      "opponent_score": 8,
+      "winner": "Theodore Ripman",
+      "is_winner": false
+    },
+    {
+      "year": 2017,
+      "opponent": "Johan Ekman",
+      "player_score": 5,
+      "opponent_score": 7,
+      "winner": "Johan Ekman",
+      "is_winner": false
+    }
+  ],
+  "Johan Ekman": [
+    {
+      "year": 2012,
+      "opponent": "Erik Nordenankar",
+      "player_score": 2,
+      "opponent_score": 7,
+      "winner": "Erik Nordenankar",
+      "is_winner": false
+    },
+    {
+      "year": 2016,
+      "opponent": "Pelle Dovborg",
+      "player_score": 7,
+      "opponent_score": 1,
+      "winner": "Johan Ekman",
+      "is_winner": true
+    },
+    {
+      "year": 2016,
+      "opponent": "Gabriel Nordenankar",
+      "player_score": 1,
+      "opponent_score": 7,
+      "winner": "Gabriel Nordenankar",
+      "is_winner": false
+    },
+    {
+      "year": 2017,
+      "opponent": "Johan Berg",
+      "player_score": 7,
+      "opponent_score": 5,
+      "winner": "Johan Ekman",
+      "is_winner": true
+    },
+    {
+      "year": 2017,
+      "opponent": "Jesper Kronholm",
+      "player_score": 4,
+      "opponent_score": 7,
+      "winner": "Jesper Kronholm",
+      "is_winner": false
+    },
+    {
+      "year": 2017,
+      "opponent": "Johannes Birgersson",
+      "player_score": 4,
+      "opponent_score": 8,
+      "winner": "Johannes Birgersson",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Isabell Dillstr\u00f6m",
+      "player_score": 7,
+      "opponent_score": 3,
+      "winner": "Johan Ekman",
+      "is_winner": true
+    },
+    {
+      "year": 2012,
+      "opponent": "Agnes Lind",
+      "player_score": 7,
+      "opponent_score": 0,
+      "winner": "Johan Ekman",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Erik Nordenankar",
+      "player_score": 3,
+      "opponent_score": 8,
+      "winner": "Erik Nordenankar",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Kusha Bahrami",
+      "player_score": 3,
+      "opponent_score": 7,
+      "winner": "Kusha Bahrami",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Erik Nordenankar",
+      "player_score": 3,
+      "opponent_score": 10,
+      "winner": "Erik Nordenankar",
+      "is_winner": false
+    }
+  ],
+  "Johan Kjell": [
+    {
+      "year": 2012,
+      "opponent": "Jerker Karlsson",
+      "player_score": 8,
+      "opponent_score": 5,
+      "winner": "Johan Kjell",
+      "is_winner": true
+    },
+    {
+      "year": 2017,
+      "opponent": "Ville Nordenankar",
+      "player_score": 2,
+      "opponent_score": 7,
+      "winner": "Ville Nordenankar",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Charlotte Johansson",
+      "player_score": 10,
+      "opponent_score": 2,
+      "winner": "Johan Kjell",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Erik Nordenankar",
+      "player_score": 9,
+      "opponent_score": 8,
+      "winner": "Johan Kjell",
+      "is_winner": true
+    },
+    {
+      "year": 2012,
+      "opponent": "Jerker Karlsson",
+      "player_score": 7,
+      "opponent_score": 6,
+      "winner": "Johan Kjell",
+      "is_winner": true
+    },
+    {
+      "year": 2017,
+      "opponent": "Sandra Starfelt",
+      "player_score": 6,
+      "opponent_score": 7,
+      "winner": "Sandra Starfelt",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Sofia \u00d6rning",
+      "player_score": 0,
+      "opponent_score": 7,
+      "winner": "Sofia \u00d6rning",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Olga Andersson",
+      "player_score": 9,
+      "opponent_score": 1,
+      "winner": "Johan Kjell",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Robeson",
+      "player_score": 7,
+      "opponent_score": 5,
+      "winner": "Johan Kjell",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Sebastin Fors\u00e9n",
+      "player_score": 9,
+      "opponent_score": 8,
+      "winner": "Johan Kjell",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Theodore Ripman",
+      "player_score": 10,
+      "opponent_score": 3,
+      "winner": "Johan Kjell",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Jens Hultkrans",
+      "player_score": 13,
+      "opponent_score": 5,
+      "winner": "Johan Kjell",
+      "is_winner": true
+    }
+  ],
+  "Johanna R\u00e5dstr\u00f6m": [
+    {
+      "year": 2012,
+      "opponent": "Conny \u00c5berg",
+      "player_score": 7,
+      "opponent_score": 3,
+      "winner": "Johanna R\u00e5dstr\u00f6m",
+      "is_winner": true
+    },
+    {
+      "year": 2016,
+      "opponent": "Richard Ekman",
+      "player_score": 2,
+      "opponent_score": 7,
+      "winner": "Richard Ekman",
+      "is_winner": false
+    },
+    {
+      "year": 2017,
+      "opponent": "Tobe Welander",
+      "player_score": 2,
+      "opponent_score": 8,
+      "winner": "Tobe Welander",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Niklas Larsson",
+      "player_score": 3,
+      "opponent_score": 7,
+      "winner": "Niklas Larsson",
+      "is_winner": false
+    },
+    {
+      "year": 2012,
+      "opponent": "Johan Alm",
+      "player_score": 1,
+      "opponent_score": 7,
+      "winner": "Johan Alm",
+      "is_winner": false
+    },
+    {
+      "year": 2016,
+      "opponent": "Sofia R\u00e5dstr\u00f6m",
+      "player_score": 7,
+      "opponent_score": 3,
+      "winner": "Johanna R\u00e5dstr\u00f6m",
+      "is_winner": true
+    },
+    {
+      "year": 2017,
+      "opponent": "Love Elfvelin",
+      "player_score": 3,
+      "opponent_score": 8,
+      "winner": "Love Elfvelin",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Robeson",
+      "player_score": 4,
+      "opponent_score": 7,
+      "winner": "Robeson",
+      "is_winner": false
+    }
+  ],
+  "Johannes Birgersson": [
+    {
+      "year": 2017,
+      "opponent": "Erik Nordenankar",
+      "player_score": 1,
+      "opponent_score": 8,
+      "winner": "Erik Nordenankar",
+      "is_winner": false
+    },
+    {
+      "year": 2017,
+      "opponent": "Petter Hammarb\u00e4ck",
+      "player_score": 7,
+      "opponent_score": 4,
+      "winner": "Johannes Birgersson",
+      "is_winner": true
+    },
+    {
+      "year": 2017,
+      "opponent": "Johan Ekman",
+      "player_score": 8,
+      "opponent_score": 4,
+      "winner": "Johannes Birgersson",
+      "is_winner": true
+    }
+  ],
+  "John Kjellkvist": [
+    {
+      "year": 2011,
+      "opponent": "Olof Sabelstr\u00f6m",
+      "player_score": 8,
+      "opponent_score": 0,
+      "winner": "John Kjellkvist",
+      "is_winner": true
+    },
+    {
+      "year": 2011,
+      "opponent": "Henrik Blomkvist",
+      "player_score": 5,
+      "opponent_score": 7,
+      "winner": "Henrik Blomkvist",
+      "is_winner": false
+    },
+    {
+      "year": 2011,
+      "opponent": "Jens West",
+      "player_score": 7,
+      "opponent_score": 1,
+      "winner": "John Kjellkvist",
+      "is_winner": true
+    }
+  ],
+  "John Qvale": [
+    {
+      "year": 2018,
+      "opponent": "Gustaf Ekenstein",
+      "player_score": 4,
+      "opponent_score": 8,
+      "winner": "Gustaf Ekenstein",
+      "is_winner": false
+    },
+    {
+      "year": 2016,
+      "opponent": "Lotta Harder",
+      "player_score": 1,
+      "opponent_score": 8,
+      "winner": "Lotta Harder",
+      "is_winner": false
+    },
+    {
+      "year": 2016,
+      "opponent": "Jens Finn\u00e4s",
+      "player_score": 4,
+      "opponent_score": 7,
+      "winner": "Jens Finn\u00e4s",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Alexander Starfelt",
+      "player_score": 6,
+      "opponent_score": 7,
+      "winner": "Alexander Starfelt",
+      "is_winner": false
+    }
+  ],
+  "Josefin Asplund": [
+    {
+      "year": 2017,
+      "opponent": "Sofia Ahlstr\u00f6m",
+      "player_score": 10,
+      "opponent_score": 3,
+      "winner": "Josefin Asplund",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Lovisa Birgersson",
+      "player_score": 7,
+      "opponent_score": 5,
+      "winner": "Josefin Asplund",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Ida Wimmerman",
+      "player_score": 5,
+      "opponent_score": 7,
+      "winner": "Ida Wimmerman",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Jakob Lien",
+      "player_score": 3,
+      "opponent_score": 8,
+      "winner": "Jakob Lien",
+      "is_winner": false
+    },
+    {
+      "year": 2017,
+      "opponent": "Ida Wimmerman",
+      "player_score": 8,
+      "opponent_score": 6,
+      "winner": "Josefin Asplund",
+      "is_winner": true
+    },
+    {
+      "year": 2017,
+      "opponent": "Julius Jorborg",
+      "player_score": 7,
+      "opponent_score": 0,
+      "winner": "Josefin Asplund",
+      "is_winner": true
+    },
+    {
+      "year": 2017,
+      "opponent": "Jerker Karlsson",
+      "player_score": 5,
+      "opponent_score": 9,
+      "winner": "Jerker Karlsson",
+      "is_winner": false
+    }
+  ],
+  "Julius Jorborg": [
+    {
+      "year": 2017,
+      "opponent": "Cissi Hellman",
+      "player_score": 7,
+      "opponent_score": 0,
+      "winner": "Julius Jorborg",
+      "is_winner": true
+    },
+    {
+      "year": 2017,
+      "opponent": "Josefin Asplund",
+      "player_score": 0,
+      "opponent_score": 7,
+      "winner": "Josefin Asplund",
+      "is_winner": false
+    },
+    {
+      "year": 2017,
+      "opponent": "Sofia R\u00e5dstr\u00f6m",
+      "player_score": 6,
+      "opponent_score": 8,
+      "winner": "Sofia R\u00e5dstr\u00f6m",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Kevin Carlsson",
+      "player_score": 8,
+      "opponent_score": 3,
+      "winner": "Julius Jorborg",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Ylva Andr\u00e9asson",
+      "player_score": 1,
+      "opponent_score": 7,
+      "winner": "Ylva Andr\u00e9asson",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Ville Nordenankar",
+      "player_score": 2,
+      "opponent_score": 7,
+      "winner": "Ville Nordenankar",
+      "is_winner": false
+    }
+  ],
+  "Kajsa Hallberg-Nor.": [
+    {
+      "year": 2017,
+      "opponent": "Mathilda Hansson",
+      "player_score": 3,
+      "opponent_score": 7,
+      "winner": "Mathilda Hansson",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Fanny Kjellner",
+      "player_score": 1,
+      "opponent_score": 7,
+      "winner": "Fanny Kjellner",
+      "is_winner": false
+    },
+    {
+      "year": 2017,
+      "opponent": "Maria Adel\u00f6f",
+      "player_score": 6,
+      "opponent_score": 7,
+      "winner": "Maria Adel\u00f6f",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Jesper Kronholm",
+      "player_score": 1,
+      "opponent_score": 8,
+      "winner": "Jesper Kronholm",
+      "is_winner": false
+    }
+  ],
+  "Karl S\u00f6derberg": [
+    {
+      "year": 2017,
+      "opponent": "Edvin Lindsten",
+      "player_score": 2,
+      "opponent_score": 7,
+      "winner": "Edvin Lindsten",
+      "is_winner": false
+    },
+    {
+      "year": 2017,
+      "opponent": "Simon Rosendahl",
+      "player_score": 1,
+      "opponent_score": 7,
+      "winner": "Simon Rosendahl",
+      "is_winner": false
+    }
+  ],
+  "Kevin Carlsson": [
+    {
+      "year": 2018,
+      "opponent": "Julius Jorborg",
+      "player_score": 3,
+      "opponent_score": 8,
+      "winner": "Julius Jorborg",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Louise Persson",
+      "player_score": 6,
+      "opponent_score": 7,
+      "winner": "Louise Persson",
+      "is_winner": false
+    }
+  ],
+  "Klara Gustin": [
+    {
+      "year": 2012,
+      "opponent": "Joel Danell",
+      "player_score": 3,
+      "opponent_score": 7,
+      "winner": "Joel Danell",
+      "is_winner": false
+    },
+    {
+      "year": 2012,
+      "opponent": "Patrik J\u00e4rg\u00e5rden",
+      "player_score": 2,
+      "opponent_score": 7,
+      "winner": "Patrik J\u00e4rg\u00e5rden",
+      "is_winner": false
+    }
+  ],
+  "Kusha Bahrami": [
+    {
+      "year": 2018,
+      "opponent": "Jens Finn\u00e4s",
+      "player_score": 3,
+      "opponent_score": 7,
+      "winner": "Jens Finn\u00e4s",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Johan Ekman",
+      "player_score": 7,
+      "opponent_score": 3,
+      "winner": "Kusha Bahrami",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Pelle Dovborg",
+      "player_score": 7,
+      "opponent_score": 3,
+      "winner": "Kusha Bahrami",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Theodore Ripman",
+      "player_score": 3,
+      "opponent_score": 9,
+      "winner": "Theodore Ripman",
+      "is_winner": false
+    }
+  ],
+  "Leo Ehnborg": [
+    {
+      "year": 2018,
+      "opponent": "Ida Wimmerman",
+      "player_score": 3,
+      "opponent_score": 7,
+      "winner": "Ida Wimmerman",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Lovisa Birgersson",
+      "player_score": 5,
+      "opponent_score": 7,
+      "winner": "Lovisa Birgersson",
+      "is_winner": false
+    }
+  ],
+  "Linn Debove": [
+    {
+      "year": 2016,
+      "opponent": "Erik Nordenankar",
+      "player_score": 0,
+      "opponent_score": 8,
+      "winner": "Erik Nordenankar",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Mina Kheirkhah",
+      "player_score": 5,
+      "opponent_score": 7,
+      "winner": "Mina Kheirkhah",
+      "is_winner": false
+    },
+    {
+      "year": 2016,
+      "opponent": "Cissi Hellman",
+      "player_score": 7,
+      "opponent_score": 1,
+      "winner": "Linn Debove",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Love Elfvelin",
+      "player_score": 4,
+      "opponent_score": 8,
+      "winner": "Love Elfvelin",
+      "is_winner": false
+    }
+  ],
+  "Linn Enhage": [
+    {
+      "year": 2016,
+      "opponent": "Jerker Karlsson",
+      "player_score": 1,
+      "opponent_score": 7,
+      "winner": "Jerker Karlsson",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Hannes Jordan",
+      "player_score": 0,
+      "opponent_score": 7,
+      "winner": "Hannes Jordan",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Lovisa Birgersson",
+      "player_score": 0,
+      "opponent_score": 7,
+      "winner": "Lovisa Birgersson",
+      "is_winner": false
+    },
+    {
+      "year": 2016,
+      "opponent": "Bj\u00f6rn Westerfors",
+      "player_score": 4,
+      "opponent_score": 7,
+      "winner": "Bj\u00f6rn Westerfors",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Jakob Lien",
+      "player_score": 7,
+      "opponent_score": 4,
+      "winner": "Linn Enhage",
+      "is_winner": true
+    }
+  ],
+  "Lotta Harder": [
+    {
+      "year": 2016,
+      "opponent": "Jens Finn\u00e4s",
+      "player_score": 8,
+      "opponent_score": 2,
+      "winner": "Lotta Harder",
+      "is_winner": true
+    },
+    {
+      "year": 2016,
+      "opponent": "John Qvale",
+      "player_score": 8,
+      "opponent_score": 1,
+      "winner": "Lotta Harder",
+      "is_winner": true
+    },
+    {
+      "year": 2016,
+      "opponent": "Gabriel Nordenankar",
+      "player_score": 2,
+      "opponent_score": 9,
+      "winner": "Gabriel Nordenankar",
+      "is_winner": false
+    }
+  ],
+  "Louise Persson": [
+    {
+      "year": 2018,
+      "opponent": "Kevin Carlsson",
+      "player_score": 7,
+      "opponent_score": 6,
+      "winner": "Louise Persson",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Ville Nordenankar",
+      "player_score": 3,
+      "opponent_score": 7,
+      "winner": "Ville Nordenankar",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Olle Hjort",
+      "player_score": 5,
+      "opponent_score": 0,
+      "winner": "Louise Persson",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Hannes Jordan",
+      "player_score": 7,
+      "opponent_score": 9,
+      "winner": "Hannes Jordan",
+      "is_winner": false
+    }
+  ],
+  "Love Andr\u00e9asson": [
+    {
+      "year": 2017,
+      "opponent": "Sofia \u00d6rning",
+      "player_score": 7,
+      "opponent_score": 1,
+      "winner": "Love Andr\u00e9asson",
+      "is_winner": true
+    },
+    {
+      "year": 2017,
+      "opponent": "Robin Linderborg",
+      "player_score": 8,
+      "opponent_score": 3,
+      "winner": "Love Andr\u00e9asson",
+      "is_winner": true
+    },
+    {
+      "year": 2017,
+      "opponent": "Jerker Karlsson",
+      "player_score": 1,
+      "opponent_score": 9,
+      "winner": "Jerker Karlsson",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Isabell Dillstr\u00f6m",
+      "player_score": 8,
+      "opponent_score": 6,
+      "winner": "Love Andr\u00e9asson",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Pelle Dovborg",
+      "player_score": 7,
+      "opponent_score": 3,
+      "winner": "Love Andr\u00e9asson",
+      "is_winner": true
+    },
+    {
+      "year": 2012,
+      "opponent": "Olof Sabelstr\u00f6m",
+      "player_score": 7,
+      "opponent_score": 5,
+      "winner": "Love Andr\u00e9asson",
+      "is_winner": true
+    },
+    {
+      "year": 2012,
+      "opponent": "Gabriel Nordenankar",
+      "player_score": 7,
+      "opponent_score": 2,
+      "winner": "Love Andr\u00e9asson",
+      "is_winner": true
+    },
+    {
+      "year": 2012,
+      "opponent": "Filip Tyd\u00e9n",
+      "player_score": 5,
+      "opponent_score": 7,
+      "winner": "Filip Tyd\u00e9n",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Erik Nordenankar",
+      "player_score": 3,
+      "opponent_score": 8,
+      "winner": "Erik Nordenankar",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Jens Finn\u00e4s",
+      "player_score": 9,
+      "opponent_score": 2,
+      "winner": "Love Andr\u00e9asson",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Robin Linderborg",
+      "player_score": 7,
+      "opponent_score": 9,
+      "winner": "Robin Linderborg",
+      "is_winner": false
+    }
+  ],
+  "Love Elfvelin": [
+    {
+      "year": 2017,
+      "opponent": "Richard Ekman",
+      "player_score": 2,
+      "opponent_score": 7,
+      "winner": "Richard Ekman",
+      "is_winner": false
+    },
+    {
+      "year": 2017,
+      "opponent": "Johanna R\u00e5dstr\u00f6m",
+      "player_score": 8,
+      "opponent_score": 3,
+      "winner": "Love Elfvelin",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Linn Debove",
+      "player_score": 8,
+      "opponent_score": 4,
+      "winner": "Love Elfvelin",
+      "is_winner": true
+    },
+    {
+      "year": 2017,
+      "opponent": "Jerker Karlsson",
+      "player_score": 6,
+      "opponent_score": 8,
+      "winner": "Jerker Karlsson",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Richard Ekman",
+      "player_score": 5,
+      "opponent_score": 7,
+      "winner": "Richard Ekman",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Fanny Kjellner",
+      "player_score": 7,
+      "opponent_score": 5,
+      "winner": "Love Elfvelin",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Ville Nordenankar",
+      "player_score": 0,
+      "opponent_score": 9,
+      "winner": "Ville Nordenankar",
+      "is_winner": false
+    }
+  ],
+  "Lovisa Birgersson": [
+    {
+      "year": 2017,
+      "opponent": "Petter Hammarb\u00e4ck",
+      "player_score": 7,
+      "opponent_score": 1,
+      "winner": "Lovisa Birgersson",
+      "is_winner": true
+    },
+    {
+      "year": 2017,
+      "opponent": "Erik Nordenankar",
+      "player_score": 0,
+      "opponent_score": 8,
+      "winner": "Erik Nordenankar",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Leo Ehnborg",
+      "player_score": 7,
+      "opponent_score": 5,
+      "winner": "Lovisa Birgersson",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Erik Nordenankar",
+      "player_score": 4,
+      "opponent_score": 9,
+      "winner": "Erik Nordenankar",
+      "is_winner": false
+    },
+    {
+      "year": 2017,
+      "opponent": "Theodore Ripman",
+      "player_score": 5,
+      "opponent_score": 8,
+      "winner": "Theodore Ripman",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Josefin Asplund",
+      "player_score": 5,
+      "opponent_score": 7,
+      "winner": "Josefin Asplund",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Linn Enhage",
+      "player_score": 7,
+      "opponent_score": 0,
+      "winner": "Lovisa Birgersson",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Jakob Lien",
+      "player_score": 9,
+      "opponent_score": 5,
+      "winner": "Lovisa Birgersson",
+      "is_winner": true
+    }
+  ],
+  "Maria Adel\u00f6f": [
+    {
+      "year": 2016,
+      "opponent": "Jakob Lien",
+      "player_score": 5,
+      "opponent_score": 7,
+      "winner": "Jakob Lien",
+      "is_winner": false
+    },
+    {
+      "year": 2016,
+      "opponent": "Sofia S\u00f6derberg",
+      "player_score": 7,
+      "opponent_score": 3,
+      "winner": "Maria Adel\u00f6f",
+      "is_winner": true
+    },
+    {
+      "year": 2017,
+      "opponent": "Benjamin Ger. Hed.",
+      "player_score": 0,
+      "opponent_score": 7,
+      "winner": "Benjamin Ger. Hed.",
+      "is_winner": false
+    },
+    {
+      "year": 2017,
+      "opponent": "Kajsa Hallberg-Nor.",
+      "player_score": 7,
+      "opponent_score": 6,
+      "winner": "Maria Adel\u00f6f",
+      "is_winner": true
+    },
+    {
+      "year": 2017,
+      "opponent": "Sandra Starfelt",
+      "player_score": 5,
+      "opponent_score": 8,
+      "winner": "Sandra Starfelt",
+      "is_winner": false
+    }
+  ],
+  "Mathilda Hansson": [
+    {
+      "year": 2017,
+      "opponent": "Kajsa Hallberg-Nor.",
+      "player_score": 7,
+      "opponent_score": 3,
+      "winner": "Mathilda Hansson",
+      "is_winner": true
+    },
+    {
+      "year": 2017,
+      "opponent": "Benjamin Ger. Hed.",
+      "player_score": 4,
+      "opponent_score": 8,
+      "winner": "Benjamin Ger. Hed.",
+      "is_winner": false
+    },
+    {
+      "year": 2017,
+      "opponent": "Ylva Andr\u00e9asson",
+      "player_score": 7,
+      "opponent_score": 4,
+      "winner": "Mathilda Hansson",
+      "is_winner": true
+    },
+    {
+      "year": 2017,
+      "opponent": "Benjamin Ger. Hed.",
+      "player_score": 6,
+      "opponent_score": 9,
+      "winner": "Benjamin Ger. Hed.",
+      "is_winner": false
+    }
+  ],
+  "Mina Kheirkhah": [
+    {
+      "year": 2018,
+      "opponent": "Jesper Kronholm",
+      "player_score": 4,
+      "opponent_score": 7,
+      "winner": "Jesper Kronholm",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Linn Debove",
+      "player_score": 7,
+      "opponent_score": 5,
+      "winner": "Mina Kheirkhah",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Richard Ekman",
+      "player_score": 1,
+      "opponent_score": 8,
+      "winner": "Richard Ekman",
+      "is_winner": false
+    }
+  ],
+  "Niklas Larsson": [
+    {
+      "year": 2018,
+      "opponent": "Sebastin Fors\u00e9n",
+      "player_score": 2,
+      "opponent_score": 7,
+      "winner": "Sebastin Fors\u00e9n",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Johanna R\u00e5dstr\u00f6m",
+      "player_score": 7,
+      "opponent_score": 3,
+      "winner": "Niklas Larsson",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Sofia \u00d6rning",
+      "player_score": 7,
+      "opponent_score": 1,
+      "winner": "Niklas Larsson",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Gabriel Nordenankar",
+      "player_score": 5,
+      "opponent_score": 9,
+      "winner": "Gabriel Nordenankar",
+      "is_winner": false
+    }
+  ],
+  "Olga Andersson": [
+    {
+      "year": 2018,
+      "opponent": "Johan Kjell",
+      "player_score": 1,
+      "opponent_score": 9,
+      "winner": "Johan Kjell",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Edvin Lindsten",
+      "player_score": 3,
+      "opponent_score": 7,
+      "winner": "Edvin Lindsten",
+      "is_winner": false
+    }
+  ],
+  "Olle Hjort": [
+    {
+      "year": 2018,
+      "opponent": "Louise Persson",
+      "player_score": 0,
+      "opponent_score": 5,
+      "winner": "Louise Persson",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Frida \u00d6hrn",
+      "player_score": 7,
+      "opponent_score": 4,
+      "winner": "Olle Hjort",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Robin Linderborg",
+      "player_score": 2,
+      "opponent_score": 7,
+      "winner": "Robin Linderborg",
+      "is_winner": false
+    }
+  ],
+  "Olle Strandberg": [
+    {
+      "year": 2018,
+      "opponent": "Edith S\u00f6derstr\u00f6m",
+      "player_score": 8,
+      "opponent_score": 0,
+      "winner": "Olle Strandberg",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Robin Fogelberg",
+      "player_score": 7,
+      "opponent_score": 9,
+      "winner": "Robin Fogelberg",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Sofia R\u00e5dstr\u00f6m",
+      "player_score": 7,
+      "opponent_score": 3,
+      "winner": "Olle Strandberg",
+      "is_winner": true
+    }
+  ],
+  "Olof Sabelstr\u00f6m": [
+    {
+      "year": 2011,
+      "opponent": "Cissi Hellman",
+      "player_score": 5,
+      "opponent_score": 7,
+      "winner": "Cissi Hellman",
+      "is_winner": false
+    },
+    {
+      "year": 2012,
+      "opponent": "Love Andr\u00e9asson",
+      "player_score": 5,
+      "opponent_score": 7,
+      "winner": "Love Andr\u00e9asson",
+      "is_winner": false
+    },
+    {
+      "year": 2012,
+      "opponent": "Gabriel Nordenankar",
+      "player_score": 1,
+      "opponent_score": 9,
+      "winner": "Gabriel Nordenankar",
+      "is_winner": false
+    },
+    {
+      "year": 2011,
+      "opponent": "Jens West",
+      "player_score": 7,
+      "opponent_score": 5,
+      "winner": "Olof Sabelstr\u00f6m",
+      "is_winner": true
+    },
+    {
+      "year": 2011,
+      "opponent": "John Kjellkvist",
+      "player_score": 0,
+      "opponent_score": 8,
+      "winner": "John Kjellkvist",
+      "is_winner": false
+    },
+    {
+      "year": 2011,
+      "opponent": "Theodore Ripman",
+      "player_score": 7,
+      "opponent_score": 5,
+      "winner": "Olof Sabelstr\u00f6m",
+      "is_winner": true
+    }
+  ],
+  "Patrik J\u00e4rg\u00e5rden": [
+    {
+      "year": 2012,
+      "opponent": "Klara Gustin",
+      "player_score": 7,
+      "opponent_score": 2,
+      "winner": "Patrik J\u00e4rg\u00e5rden",
+      "is_winner": true
+    },
+    {
+      "year": 2012,
+      "opponent": "Joel Danell",
+      "player_score": 7,
+      "opponent_score": 1,
+      "winner": "Patrik J\u00e4rg\u00e5rden",
+      "is_winner": true
+    },
+    {
+      "year": 2012,
+      "opponent": "Jakob Lien",
+      "player_score": 4,
+      "opponent_score": 7,
+      "winner": "Jakob Lien",
+      "is_winner": false
+    }
+  ],
+  "Pelle Dovborg": [
+    {
+      "year": 2016,
+      "opponent": "Gabriel Nordenankar",
+      "player_score": 4,
+      "opponent_score": 7,
+      "winner": "Gabriel Nordenankar",
+      "is_winner": false
+    },
+    {
+      "year": 2017,
+      "opponent": "Jacob Stenman",
+      "player_score": 7,
+      "opponent_score": 3,
+      "winner": "Pelle Dovborg",
+      "is_winner": true
+    },
+    {
+      "year": 2017,
+      "opponent": "Gabriel Nordenankar",
+      "player_score": 3,
+      "opponent_score": 10,
+      "winner": "Gabriel Nordenankar",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Kusha Bahrami",
+      "player_score": 3,
+      "opponent_score": 7,
+      "winner": "Kusha Bahrami",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Joakim Lundin",
+      "player_score": 8,
+      "opponent_score": 4,
+      "winner": "Pelle Dovborg",
+      "is_winner": true
+    },
+    {
+      "year": 2016,
+      "opponent": "Johan Ekman",
+      "player_score": 1,
+      "opponent_score": 7,
+      "winner": "Johan Ekman",
+      "is_winner": false
+    },
+    {
+      "year": 2017,
+      "opponent": "Tove Papp Lindkvist",
+      "player_score": 7,
+      "opponent_score": 2,
+      "winner": "Pelle Dovborg",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Love Andr\u00e9asson",
+      "player_score": 3,
+      "opponent_score": 7,
+      "winner": "Love Andr\u00e9asson",
+      "is_winner": false
+    }
+  ],
+  "Petter Hammarb\u00e4ck": [
+    {
+      "year": 2017,
+      "opponent": "Johannes Birgersson",
+      "player_score": 4,
+      "opponent_score": 7,
+      "winner": "Johannes Birgersson",
+      "is_winner": false
+    },
+    {
+      "year": 2017,
+      "opponent": "Lovisa Birgersson",
+      "player_score": 1,
+      "opponent_score": 7,
+      "winner": "Lovisa Birgersson",
+      "is_winner": false
+    }
+  ],
+  "Philip Little": [
+    {
+      "year": 2018,
+      "opponent": "Cissi Hellman",
+      "player_score": 3,
+      "opponent_score": 7,
+      "winner": "Cissi Hellman",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Benjamin Ger. Hed.",
+      "player_score": 6,
+      "opponent_score": 7,
+      "winner": "Benjamin Ger. Hed.",
+      "is_winner": false
+    }
+  ],
+  "Richard Ekman": [
+    {
+      "year": 2012,
+      "opponent": "Filip Tyd\u00e9n",
+      "player_score": 5,
+      "opponent_score": 7,
+      "winner": "Filip Tyd\u00e9n",
+      "is_winner": false
+    },
+    {
+      "year": 2012,
+      "opponent": "Andreas Josefson",
+      "player_score": 6,
+      "opponent_score": 8,
+      "winner": "Andreas Josefson",
+      "is_winner": false
+    },
+    {
+      "year": 2017,
+      "opponent": "Tobe Welander",
+      "player_score": 7,
+      "opponent_score": 1,
+      "winner": "Richard Ekman",
+      "is_winner": true
+    },
+    {
+      "year": 2017,
+      "opponent": "Sofia R\u00e5dstr\u00f6m",
+      "player_score": 10,
+      "opponent_score": 1,
+      "winner": "Richard Ekman",
+      "is_winner": true
+    },
+    {
+      "year": 2017,
+      "opponent": "Edvin Lindsten",
+      "player_score": 4,
+      "opponent_score": 9,
+      "winner": "Edvin Lindsten",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Love Elfvelin",
+      "player_score": 7,
+      "opponent_score": 5,
+      "winner": "Richard Ekman",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Mina Kheirkhah",
+      "player_score": 8,
+      "opponent_score": 1,
+      "winner": "Richard Ekman",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Jens Hultkrans",
+      "player_score": 6,
+      "opponent_score": 9,
+      "winner": "Jens Hultkrans",
+      "is_winner": false
+    },
+    {
+      "year": 2016,
+      "opponent": "Sofia R\u00e5dstr\u00f6m",
+      "player_score": 7,
+      "opponent_score": 3,
+      "winner": "Richard Ekman",
+      "is_winner": true
+    },
+    {
+      "year": 2016,
+      "opponent": "Johanna R\u00e5dstr\u00f6m",
+      "player_score": 7,
+      "opponent_score": 2,
+      "winner": "Richard Ekman",
+      "is_winner": true
+    },
+    {
+      "year": 2016,
+      "opponent": "Jerker Karlsson",
+      "player_score": 3,
+      "opponent_score": 9,
+      "winner": "Jerker Karlsson",
+      "is_winner": false
+    },
+    {
+      "year": 2017,
+      "opponent": "Love Elfvelin",
+      "player_score": 7,
+      "opponent_score": 2,
+      "winner": "Richard Ekman",
+      "is_winner": true
+    }
+  ],
+  "Robeson": [
+    {
+      "year": 2018,
+      "opponent": "Johanna R\u00e5dstr\u00f6m",
+      "player_score": 7,
+      "opponent_score": 4,
+      "winner": "Robeson",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Sebastin Fors\u00e9n",
+      "player_score": 5,
+      "opponent_score": 7,
+      "winner": "Sebastin Fors\u00e9n",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Johan Kjell",
+      "player_score": 5,
+      "opponent_score": 7,
+      "winner": "Johan Kjell",
+      "is_winner": false
+    }
+  ],
+  "Robin Fogelberg": [
+    {
+      "year": 2018,
+      "opponent": "Sussie R\u00e5dis",
+      "player_score": 8,
+      "opponent_score": 3,
+      "winner": "Robin Fogelberg",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Alexander Starfelt",
+      "player_score": 5,
+      "opponent_score": 7,
+      "winner": "Alexander Starfelt",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Cissi Hellman",
+      "player_score": 9,
+      "opponent_score": 7,
+      "winner": "Robin Fogelberg",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Estrid",
+      "player_score": 9,
+      "opponent_score": 8,
+      "winner": "Robin Fogelberg",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Jens Hultkrans",
+      "player_score": 7,
+      "opponent_score": 10,
+      "winner": "Jens Hultkrans",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Erik Nordenankar",
+      "player_score": 7,
+      "opponent_score": 14,
+      "winner": "Erik Nordenankar",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Theodore Ripman",
+      "player_score": 3,
+      "opponent_score": 7,
+      "winner": "Theodore Ripman",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Olle Strandberg",
+      "player_score": 9,
+      "opponent_score": 7,
+      "winner": "Robin Fogelberg",
+      "is_winner": true
+    }
+  ],
+  "Robin Linderborg": [
+    {
+      "year": 2017,
+      "opponent": "Alexander Starfelt",
+      "player_score": 7,
+      "opponent_score": 2,
+      "winner": "Robin Linderborg",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Ylva Andr\u00e9asson",
+      "player_score": 7,
+      "opponent_score": 4,
+      "winner": "Robin Linderborg",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Olle Hjort",
+      "player_score": 7,
+      "opponent_score": 2,
+      "winner": "Robin Linderborg",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Sussie R\u00e5dis",
+      "player_score": 9,
+      "opponent_score": 6,
+      "winner": "Robin Linderborg",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Love Andr\u00e9asson",
+      "player_score": 9,
+      "opponent_score": 7,
+      "winner": "Robin Linderborg",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Erik Nordenankar",
+      "player_score": 5,
+      "opponent_score": 11,
+      "winner": "Erik Nordenankar",
+      "is_winner": false
+    },
+    {
+      "year": 2017,
+      "opponent": "Love Andr\u00e9asson",
+      "player_score": 3,
+      "opponent_score": 8,
+      "winner": "Love Andr\u00e9asson",
+      "is_winner": false
+    },
+    {
+      "year": 2017,
+      "opponent": "Simon Rosendahl",
+      "player_score": 7,
+      "opponent_score": 2,
+      "winner": "Robin Linderborg",
+      "is_winner": true
+    },
+    {
+      "year": 2017,
+      "opponent": "Edvin Lindsten",
+      "player_score": 4,
+      "opponent_score": 9,
+      "winner": "Edvin Lindsten",
+      "is_winner": false
+    }
+  ],
+  "Sandra Starfelt": [
+    {
+      "year": 2017,
+      "opponent": "Johan Kjell",
+      "player_score": 7,
+      "opponent_score": 6,
+      "winner": "Sandra Starfelt",
+      "is_winner": true
+    },
+    {
+      "year": 2017,
+      "opponent": "Maria Adel\u00f6f",
+      "player_score": 8,
+      "opponent_score": 5,
+      "winner": "Sandra Starfelt",
+      "is_winner": true
+    },
+    {
+      "year": 2017,
+      "opponent": "Jerker Karlsson",
+      "player_score": 4,
+      "opponent_score": 7,
+      "winner": "Jerker Karlsson",
+      "is_winner": false
+    }
+  ],
+  "Sebastin Fors\u00e9n": [
+    {
+      "year": 2018,
+      "opponent": "Niklas Larsson",
+      "player_score": 7,
+      "opponent_score": 2,
+      "winner": "Sebastin Fors\u00e9n",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Johan Kjell",
+      "player_score": 8,
+      "opponent_score": 9,
+      "winner": "Johan Kjell",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Robeson",
+      "player_score": 7,
+      "opponent_score": 5,
+      "winner": "Sebastin Fors\u00e9n",
+      "is_winner": true
+    }
+  ],
+  "Simon Rosendahl": [
+    {
+      "year": 2017,
+      "opponent": "Karl S\u00f6derberg",
+      "player_score": 7,
+      "opponent_score": 1,
+      "winner": "Simon Rosendahl",
+      "is_winner": true
+    },
+    {
+      "year": 2017,
+      "opponent": "Robin Linderborg",
+      "player_score": 2,
+      "opponent_score": 7,
+      "winner": "Robin Linderborg",
+      "is_winner": false
+    },
+    {
+      "year": 2017,
+      "opponent": "Jakob Lien",
+      "player_score": 3,
+      "opponent_score": 7,
+      "winner": "Jakob Lien",
+      "is_winner": false
+    }
+  ],
+  "Sofia Ahlstr\u00f6m": [
+    {
+      "year": 2017,
+      "opponent": "Ida Wimmerman",
+      "player_score": 7,
+      "opponent_score": 6,
+      "winner": "Sofia Ahlstr\u00f6m",
+      "is_winner": true
+    },
+    {
+      "year": 2017,
+      "opponent": "Emma Pettersson",
+      "player_score": 7,
+      "opponent_score": 3,
+      "winner": "Sofia Ahlstr\u00f6m",
+      "is_winner": true
+    },
+    {
+      "year": 2017,
+      "opponent": "Gabriel Nordenankar",
+      "player_score": 5,
+      "opponent_score": 7,
+      "winner": "Gabriel Nordenankar",
+      "is_winner": false
+    },
+    {
+      "year": 2017,
+      "opponent": "Josefin Asplund",
+      "player_score": 3,
+      "opponent_score": 10,
+      "winner": "Josefin Asplund",
+      "is_winner": false
+    }
+  ],
+  "Sofia Bard": [
+    {
+      "year": 2016,
+      "opponent": "Erik Sunninger",
+      "player_score": 5,
+      "opponent_score": 7,
+      "winner": "Erik Sunninger",
+      "is_winner": false
+    },
+    {
+      "year": 2016,
+      "opponent": "Tobe Welander",
+      "player_score": 7,
+      "opponent_score": 6,
+      "winner": "Sofia Bard",
+      "is_winner": true
+    }
+  ],
+  "Sofia R\u00e5dstr\u00f6m": [
+    {
+      "year": 2012,
+      "opponent": "Jakob Lien",
+      "player_score": 6,
+      "opponent_score": 9,
+      "winner": "Jakob Lien",
+      "is_winner": false
+    },
+    {
+      "year": 2012,
+      "opponent": "Frida \u00d6hrn",
+      "player_score": 4,
+      "opponent_score": 7,
+      "winner": "Frida \u00d6hrn",
+      "is_winner": false
+    },
+    {
+      "year": 2016,
+      "opponent": "Johanna R\u00e5dstr\u00f6m",
+      "player_score": 3,
+      "opponent_score": 7,
+      "winner": "Johanna R\u00e5dstr\u00f6m",
+      "is_winner": false
+    },
+    {
+      "year": 2016,
+      "opponent": "Richard Ekman",
+      "player_score": 3,
+      "opponent_score": 7,
+      "winner": "Richard Ekman",
+      "is_winner": false
+    },
+    {
+      "year": 2017,
+      "opponent": "Gabriel Nordenankar",
+      "player_score": 4,
+      "opponent_score": 7,
+      "winner": "Gabriel Nordenankar",
+      "is_winner": false
+    },
+    {
+      "year": 2017,
+      "opponent": "Emma Pettersson",
+      "player_score": 7,
+      "opponent_score": 5,
+      "winner": "Sofia R\u00e5dstr\u00f6m",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Olle Strandberg",
+      "player_score": 3,
+      "opponent_score": 7,
+      "winner": "Olle Strandberg",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Jens Hultkrans",
+      "player_score": 4,
+      "opponent_score": 7,
+      "winner": "Jens Hultkrans",
+      "is_winner": false
+    },
+    {
+      "year": 2011,
+      "opponent": "Jakob Lien",
+      "player_score": 2,
+      "opponent_score": 8,
+      "winner": "Jakob Lien",
+      "is_winner": false
+    },
+    {
+      "year": 2011,
+      "opponent": "Erik Nordenankar",
+      "player_score": 0,
+      "opponent_score": 8,
+      "winner": "Erik Nordenankar",
+      "is_winner": false
+    },
+    {
+      "year": 2017,
+      "opponent": "Julius Jorborg",
+      "player_score": 8,
+      "opponent_score": 6,
+      "winner": "Sofia R\u00e5dstr\u00f6m",
+      "is_winner": true
+    },
+    {
+      "year": 2017,
+      "opponent": "Richard Ekman",
+      "player_score": 1,
+      "opponent_score": 10,
+      "winner": "Richard Ekman",
+      "is_winner": false
+    }
+  ],
+  "Sofia S\u00f6derberg": [
+    {
+      "year": 2016,
+      "opponent": "Jakob Lien",
+      "player_score": 0,
+      "opponent_score": 7,
+      "winner": "Jakob Lien",
+      "is_winner": false
+    },
+    {
+      "year": 2016,
+      "opponent": "Maria Adel\u00f6f",
+      "player_score": 3,
+      "opponent_score": 7,
+      "winner": "Maria Adel\u00f6f",
+      "is_winner": false
+    }
+  ],
+  "Sofia \u00d6rning": [
+    {
+      "year": 2017,
+      "opponent": "Alexander Starfelt",
+      "player_score": 2,
+      "opponent_score": 7,
+      "winner": "Alexander Starfelt",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Johan Kjell",
+      "player_score": 7,
+      "opponent_score": 0,
+      "winner": "Sofia \u00d6rning",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Niklas Larsson",
+      "player_score": 1,
+      "opponent_score": 7,
+      "winner": "Niklas Larsson",
+      "is_winner": false
+    },
+    {
+      "year": 2017,
+      "opponent": "Love Andr\u00e9asson",
+      "player_score": 1,
+      "opponent_score": 7,
+      "winner": "Love Andr\u00e9asson",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Edvin Lindsten",
+      "player_score": 1,
+      "opponent_score": 7,
+      "winner": "Edvin Lindsten",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Edvin Lindsten",
+      "player_score": 8,
+      "opponent_score": 9,
+      "winner": "Edvin Lindsten",
+      "is_winner": false
+    }
+  ],
+  "Sussie R\u00e5dis": [
+    {
+      "year": 2018,
+      "opponent": "Robin Fogelberg",
+      "player_score": 3,
+      "opponent_score": 8,
+      "winner": "Robin Fogelberg",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Bj\u00f6rn Berglund",
+      "player_score": 7,
+      "opponent_score": 6,
+      "winner": "Sussie R\u00e5dis",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Gustaf Ekenstein",
+      "player_score": 7,
+      "opponent_score": 3,
+      "winner": "Sussie R\u00e5dis",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Robin Linderborg",
+      "player_score": 6,
+      "opponent_score": 9,
+      "winner": "Robin Linderborg",
+      "is_winner": false
+    }
+  ],
+  "Theodore Ripman": [
+    {
+      "year": 2011,
+      "opponent": "Calle Sandin",
+      "player_score": 7,
+      "opponent_score": 4,
+      "winner": "Theodore Ripman",
+      "is_winner": true
+    },
+    {
+      "year": 2011,
+      "opponent": "Henrik Blomkvist",
+      "player_score": 7,
+      "opponent_score": 4,
+      "winner": "Theodore Ripman",
+      "is_winner": true
+    },
+    {
+      "year": 2011,
+      "opponent": "Olof Sabelstr\u00f6m",
+      "player_score": 5,
+      "opponent_score": 7,
+      "winner": "Olof Sabelstr\u00f6m",
+      "is_winner": false
+    },
+    {
+      "year": 2012,
+      "opponent": "Cissi Hellman",
+      "player_score": 9,
+      "opponent_score": 4,
+      "winner": "Theodore Ripman",
+      "is_winner": true
+    },
+    {
+      "year": 2012,
+      "opponent": "Jerker Karlsson",
+      "player_score": 7,
+      "opponent_score": 6,
+      "winner": "Theodore Ripman",
+      "is_winner": true
+    },
+    {
+      "year": 2012,
+      "opponent": "Johan Alm",
+      "player_score": 2,
+      "opponent_score": 7,
+      "winner": "Johan Alm",
+      "is_winner": false
+    },
+    {
+      "year": 2017,
+      "opponent": "Jesper Kronholm",
+      "player_score": 1,
+      "opponent_score": 7,
+      "winner": "Jesper Kronholm",
+      "is_winner": false
+    },
+    {
+      "year": 2017,
+      "opponent": "Lovisa Birgersson",
+      "player_score": 8,
+      "opponent_score": 5,
+      "winner": "Theodore Ripman",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Bj\u00f6rn Berglund",
+      "player_score": 7,
+      "opponent_score": 6,
+      "winner": "Theodore Ripman",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Robin Fogelberg",
+      "player_score": 7,
+      "opponent_score": 3,
+      "winner": "Theodore Ripman",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Kusha Bahrami",
+      "player_score": 9,
+      "opponent_score": 3,
+      "winner": "Theodore Ripman",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Johan Kjell",
+      "player_score": 3,
+      "opponent_score": 10,
+      "winner": "Johan Kjell",
+      "is_winner": false
+    },
+    {
+      "year": 2012,
+      "opponent": "Cissi Hellman",
+      "player_score": 3,
+      "opponent_score": 7,
+      "winner": "Cissi Hellman",
+      "is_winner": false
+    },
+    {
+      "year": 2012,
+      "opponent": "Jakob Lien",
+      "player_score": 5,
+      "opponent_score": 7,
+      "winner": "Jakob Lien",
+      "is_winner": false
+    },
+    {
+      "year": 2017,
+      "opponent": "Johan Berg",
+      "player_score": 8,
+      "opponent_score": 4,
+      "winner": "Theodore Ripman",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Edvin Lindsten",
+      "player_score": 9,
+      "opponent_score": 2,
+      "winner": "Theodore Ripman",
+      "is_winner": true
+    }
+  ],
+  "Tobe Welander": [
+    {
+      "year": 2016,
+      "opponent": "Sofia Bard",
+      "player_score": 6,
+      "opponent_score": 7,
+      "winner": "Sofia Bard",
+      "is_winner": false
+    },
+    {
+      "year": 2016,
+      "opponent": "Erik Sunninger",
+      "player_score": 5,
+      "opponent_score": 7,
+      "winner": "Erik Sunninger",
+      "is_winner": false
+    },
+    {
+      "year": 2017,
+      "opponent": "Johanna R\u00e5dstr\u00f6m",
+      "player_score": 8,
+      "opponent_score": 2,
+      "winner": "Tobe Welander",
+      "is_winner": true
+    },
+    {
+      "year": 2017,
+      "opponent": "Richard Ekman",
+      "player_score": 1,
+      "opponent_score": 7,
+      "winner": "Richard Ekman",
+      "is_winner": false
+    },
+    {
+      "year": 2017,
+      "opponent": "Jacob Stenman",
+      "player_score": 7,
+      "opponent_score": 4,
+      "winner": "Tobe Welander",
+      "is_winner": true
+    },
+    {
+      "year": 2017,
+      "opponent": "Erik Nordenankar",
+      "player_score": 8,
+      "opponent_score": 9,
+      "winner": "Erik Nordenankar",
+      "is_winner": false
+    }
+  ],
+  "Tove Papp Lindkvist": [
+    {
+      "year": 2017,
+      "opponent": "Pelle Dovborg",
+      "player_score": 2,
+      "opponent_score": 7,
+      "winner": "Pelle Dovborg",
+      "is_winner": false
+    },
+    {
+      "year": 2017,
+      "opponent": "Ylva Andr\u00e9asson",
+      "player_score": 6,
+      "opponent_score": 7,
+      "winner": "Ylva Andr\u00e9asson",
+      "is_winner": false
+    }
+  ],
+  "Ville Nordenankar": [
+    {
+      "year": 2018,
+      "opponent": "Louise Persson",
+      "player_score": 7,
+      "opponent_score": 3,
+      "winner": "Ville Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Julius Jorborg",
+      "player_score": 7,
+      "opponent_score": 2,
+      "winner": "Ville Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Love Elfvelin",
+      "player_score": 9,
+      "opponent_score": 0,
+      "winner": "Ville Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Gabriel Nordenankar",
+      "player_score": 1,
+      "opponent_score": 9,
+      "winner": "Gabriel Nordenankar",
+      "is_winner": false
+    },
+    {
+      "year": 2017,
+      "opponent": "Johan Kjell",
+      "player_score": 7,
+      "opponent_score": 2,
+      "winner": "Ville Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2017,
+      "opponent": "Jerker Karlsson",
+      "player_score": 7,
+      "opponent_score": 5,
+      "winner": "Ville Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2017,
+      "opponent": "Jesper Kronholm",
+      "player_score": 9,
+      "opponent_score": 6,
+      "winner": "Ville Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2017,
+      "opponent": "Erik Nordenankar",
+      "player_score": 1,
+      "opponent_score": 9,
+      "winner": "Erik Nordenankar",
+      "is_winner": false
+    }
+  ],
+  "Ylva Andr\u00e9asson": [
+    {
+      "year": 2017,
+      "opponent": "Jacob Stenman",
+      "player_score": 6,
+      "opponent_score": 7,
+      "winner": "Jacob Stenman",
+      "is_winner": false
+    },
+    {
+      "year": 2017,
+      "opponent": "Mathilda Hansson",
+      "player_score": 4,
+      "opponent_score": 7,
+      "winner": "Mathilda Hansson",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Frida \u00d6hrn",
+      "player_score": 7,
+      "opponent_score": 6,
+      "winner": "Ylva Andr\u00e9asson",
+      "is_winner": true
+    },
+    {
+      "year": 2017,
+      "opponent": "Tove Papp Lindkvist",
+      "player_score": 7,
+      "opponent_score": 6,
+      "winner": "Ylva Andr\u00e9asson",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Robin Linderborg",
+      "player_score": 4,
+      "opponent_score": 7,
+      "winner": "Robin Linderborg",
+      "is_winner": false
+    },
+    {
+      "year": 2018,
+      "opponent": "Julius Jorborg",
+      "player_score": 7,
+      "opponent_score": 1,
+      "winner": "Ylva Andr\u00e9asson",
+      "is_winner": true
+    },
+    {
+      "year": 2018,
+      "opponent": "Ida Wimmerman",
+      "player_score": 8,
+      "opponent_score": 9,
+      "winner": "Ida Wimmerman",
+      "is_winner": false
+    }
+  ]
+}

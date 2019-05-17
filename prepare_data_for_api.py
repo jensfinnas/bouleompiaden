@@ -1,8 +1,9 @@
 """Takes
 """
 import pandas as pd
+import numpy as np
 import json
-from settings import PLAYER_DATA_FILE
+from settings import PLAYER_DATA_FILE, GAMES_BY_PLAYER_FILE
 
 OUTFILE = PLAYER_DATA_FILE
 
@@ -62,6 +63,7 @@ df_players = pd.concat([
     by_player["name"].count().rename("n_games"),
     by_player["score_share"].mean(),
     by_player["is_winner"].sum().rename("n_wins"),
+    by_player["year"].apply(lambda x: list(np.sort(x.unique()))).rename("years"),
 ], axis=1)
 df_players["win_rate"] = df_players["n_wins"] / df_players["n_games"]
 
@@ -82,6 +84,33 @@ df_players["skill"] = df_players["skill"] / best_skill
 df_players.to_csv(OUTFILE, encoding="utf-8")
 print("Updated {}".format(OUTFILE))
 
+###
+# Prepare game data
+###
+games_json = {}
+for player in df_players.index.unique():
+    p1_games = (df[df["p1_name"] == player]
+                [["year", "p2_name", "p1_score", "p2_score", "winner_name"]]
+                .rename(columns={"p1_score": "player_score",
+                                 "p2_score": "opponent_score",
+                                 "p2_name": "opponent",
+                                 "winner_name": "winner"})
+                )
+    p2_games = (df[df["p2_name"] == player]
+                [["year", "p1_name", "p1_score", "p2_score", "winner_name"]]
+                .rename(columns={"p2_score": "player_score",
+                                 "p1_score": "opponent_score",
+                                 "p1_name": "opponent",
+                                 "winner_name": "winner"})
+                )
+    df_games = pd.concat([p1_games, p2_games], sort=False)
+    df_games["is_winner"] = df_games["winner"] == player
+    games_json[player] = df_games.to_dict("records")
+
+
+with open(GAMES_BY_PLAYER_FILE, 'w') as f:
+    json.dump(games_json, f, indent=2)
+print("Updated {}".format(GAMES_BY_PLAYER_FILE))
 """
 ###
 # Compute skill

@@ -17,7 +17,8 @@ var p2_wins = diff_counts.map(function(d) { return d[0] < 0 ? d[1] : 0})
 
 Highcharts.chart('result-chart', {
   chart: {
-    "type": "column"
+    "type": "column",
+    height: 250
   },
   title:{
       text:''
@@ -92,5 +93,50 @@ Highcharts.chart('result-chart', {
       <td class="text-right">{{'%0.f'| format(player1.historical_win_rate * 100|float)}} %</td>
       <td class="text-right">{{'%0.f'| format(player2.historical_win_rate * 100|float)}} %</td>
     </tr>
+    <tr>
+      <th>Tidigare turneringar</th>
+      <td class="text-right">{{player1.years|join(', ')}}</td>
+      <td class="text-right">{{player2.years|join(', ')}}</td>
+
+    </tr>
   </tbody>
 </table>
+
+{% if previous_games|length == 0 %}
+ <p>
+   {{player1.name}} och {{player2.name}} har aldrig mötts tidigare i Bouleympiaden.
+ </p>
+
+{% else %}
+  <p>
+    {{player1.name}} och {{player2.name}} har mötts
+    {% if previous_games|length == 1 %}
+    en gång
+    {% else %}
+    {{previous_games|length}} gånger
+    {% endif %}
+    tidigare i Bouleympiaden.
+  </p>
+
+  <table class="table">
+    <thead>
+      <tr>
+        <th></th>
+        <th>{{player1.name}}</th>
+        <th>{{player2.name}}</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for game in previous_games  %}
+
+        <tr>
+          <th>{{game.year}}</th>
+          <td class="text-right">
+            {{game.p1_score|int}} poäng</td>
+          <td class="text-right">{{game.p2_score|int}} poäng</td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+{% endif %}
+<h4

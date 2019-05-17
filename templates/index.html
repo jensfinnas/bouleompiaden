@@ -4,7 +4,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Bouleompiaden</title>
+    <title>Bouleympiaden: Matchsimulator</title>
     <script
     src="https://code.jquery.com/jquery-3.4.1.min.js"
     integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
@@ -13,11 +13,29 @@
     {{ JSGlue.include() }}
     <link href="https://stackpath.bootstrapcdn.com/bootswatch/4.3.1/journal/bootstrap.min.css" rel="stylesheet" integrity="sha384-ciphE0NCAlD2/N6NUApXAN2dAs/vcSAOTzyE202jJx3oS8n4tAQezRgnlHqcJ59C" crossorigin="anonymous">
 
+    <style>
+      /*
+      .jumbotron {
+        background-image: url("{{ url_for('static', filename='img/bouleballs.jpg') }}");
+        background-size: cover;
+        color: white;
+        text-shadow:
+          -1px -1px 1px #424141,
+           1px -1px 1px #424141,
+          -1px  1px 1px #424141,
+           1px  1px 1px #424141;
+      }*/
+    </style>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+
     <script src="https://code.highcharts.com/highcharts.src.js"></script>
     <script src="https://code.highcharts.com/modules/histogram-bellcurve.js"></script>
   </head>
   <body>
       <div class="jumbotron">
+        <!--
+        <img src="{{ url_for('static', filename='img/bouleballs.jpg') }}" alt="">
+      -->
         <h1>Bouleympiaden</h1>
         <p class="lead">Din digitala matchsimulator</p>
       </div>
@@ -40,6 +58,8 @@
               {% for player in players  %}
               <option value="{{player}}">{{player}}</option>
               {% endfor %}
+              <option value="">...</option>
+              <option value="Ny spelare">Ny spelare</option>
             </select>
           </p>
         </div>
@@ -124,7 +144,7 @@
           $loading.show()
           $resultContainer.hide()
 
-          var url = '{{"/" + url_prefix if url_prefix else "" }}' + Flask.url_for("simulate", { //"/dev" + Flask.url_for("simulate", {
+          var url = Flask.url_for("simulate", { //"/dev" + Flask.url_for("simulate", {
             "fmt": "html",
             "player1": p1,
             "player2": p2,

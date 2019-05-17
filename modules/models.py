@@ -13,7 +13,7 @@ def simulate_round_v4(p1_skill, p2_skill, skill_factor=3, stdev=6.5, n=10000):
 
     lower, upper = 0, 5 # bounds
     mid = (lower + upper) / 2.0
-    mu = mid * (p1_skill - p2_skill) * skill_factor
+    mu = mid + mid * (p1_skill - p2_skill) * skill_factor
     sigma = stdev
 
     scores = truncated_norm_distribution(mu, sigma, lower, upper, n).round(0)

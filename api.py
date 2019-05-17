@@ -1,4 +1,4 @@
-from flask import Flask, jsonify, Response, make_response, render_template
+from flask import Flask, jsonify, Response, make_response, render_template, url_for
 from flask_jsglue import JSGlue
 from dicttoxml import dicttoxml
 from urllib.parse import unquote
@@ -12,36 +12,31 @@ from settings import STAGE
 app = Flask(__name__)
 jsglue = JSGlue(app)
 
+#if STAGE in ["dev", "production"]:
+#    url_prefix = "/" + STAGE
+#else:
+#    url_prefix = ""
+
+
 @app.route("/", methods=["GET"])
-def index():
+def site_index():
     all_players = players.all()
     # Hackishly remove all players without both first and last name
-    all_players = [x for x in all_players if " " in x]
-
+    allowed_first_names = ["Robeson", "Estrid"]
+    all_players = [x for x in all_players if (" " in x) or
+                                             (x in allowed_first_names)]
     context = {
-        "players": all_players
+        "players": all_players,
     }
-
-
-    # Hack: The urls for the ajax calls has to be prepended with a the stage
-    # when deployed to AWS Lambda
-    if STAGE == "local":
-        context["url_prefix"] = ""
-    elif STAGE in ["dev", "production"]:
-        context["url_prefix"] = STAGE
-    else:
-        raise Exception("Invalid stage: {}".format(STAGE))
-
 
     return render_template('index.html', **context)
 
 def get_context(player1, player2):
-    """Sets up data context for a simulated game between two players
+    """Sets up data context for a simulated game between two players.
     """
     n_games = 1000
     player1, player2 = unquote(player1), unquote(player2)
     resp = game(player1, player2, n_games=n_games)
-
     context = {
         "player1": {
             "name": player1,
@@ -50,6 +45,7 @@ def get_context(player1, player2):
             "skill": resp["p1"]["skill"],
             "skill_uncertainty": resp["p1"]["skill_uncertainty"],
             "n_games": resp["p1"]["n_games"],
+            "years": resp["p1"]["years"],
             "historical_wins": resp["p1"]["n_wins"],
             "historical_win_rate": resp["p1"]["win_rate"],
             "historical_score_share": resp["p1"]["score_share"],
@@ -61,6 +57,7 @@ def get_context(player1, player2):
             "skill": resp["p2"]["skill"],
             "skill_uncertainty": resp["p2"]["skill_uncertainty"],
             "n_games": resp["p2"]["n_games"],
+            "years": resp["p2"]["years"],
             "historical_wins": resp["p2"]["n_wins"],
             "historical_win_rate": resp["p2"]["win_rate"],
             "historical_score_share": resp["p2"]["score_share"],
@@ -71,6 +68,8 @@ def get_context(player1, player2):
         # most common results
         "results": resp["result_counts"].head(10).reset_index().values.tolist()
     }
+    context["previous_games"] = players.previous_mutual_games(player1, player2)
+
     if resp["p1_win_prob"] > resp["p2_win_prob"]:
         context["winner"] = context["player1"]
         context["loser"] = context["player2"]
@@ -128,6 +127,7 @@ def simulate(fmt, player1, player2):
         return Response(xml, content_type='text/xml; charset=utf-8')
     else:
         return "Bad format: {}".format(fmt)
+
 
 def translate(key):
     try:
