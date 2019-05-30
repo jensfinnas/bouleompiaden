@@ -1,31 +1,40 @@
 import pandas as pd
 import json
 from ast import literal_eval
+from trueskill import  Rating
 
-from settings import PLAYER_DATA_FILE, GAMES_BY_PLAYER_FILE
+from settings import BY_PLAYER_FILE, META_DATA_FILE, GAMES_BY_PLAYER_FILE, TRUE_SKILL_BASE
+
+with open(BY_PLAYER_FILE) as f:
+    players = json.load(f)
+
+with open(META_DATA_FILE) as f:
+    metadata = json.load(f)
 
 def all():
     """Get a list of all players."""
-    return pd.read_csv(PLAYER_DATA_FILE, encoding="utf-8")["name"].tolist()
+    return players.values()
 
 def get(player_name):
-    df_players = pd.read_csv(PLAYER_DATA_FILE, encoding="utf-8").set_index("name")
-
     try:
-        player = df_players.loc[player_name]
-        player["years"] = literal_eval(player["years"])
+        player = players[player_name]
+        player["rating"] = Rating(mu=player["skill"],
+                                  sigma=player["skill_sigma"])
     except KeyError:
         # New/unrecognized player
-        player = pd.Series({
+        player = {
             "n_games": 0,
             "opponent_score_share": 0.5,
-            "skill": 0.5,
+            "skill": TRUE_SKILL_BASE,
+            "rating": Rating(),
             "n_wins": 0,
             "win_rate": 0,
             "score_share": 0,
+            "skill_rank": None,
+            "skill_rank_pct": None,
             "years": []
-        }, name=player_name)
-    return player.to_dict()
+        }        
+    return player
 
 def previous_mutual_games(player1, player2):
     """Get all historical games between two players.

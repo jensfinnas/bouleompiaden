@@ -1,4 +1,22 @@
 {
+  "Agnes Hannervall": [
+    {
+      "year": 2019,
+      "opponent": "Lovisa Birgersson",
+      "player_score": 1,
+      "opponent_score": 8,
+      "winner": "Lovisa Birgersson",
+      "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Julius Jorborg",
+      "player_score": 3,
+      "opponent_score": 8,
+      "winner": "Julius Jorborg",
+      "is_winner": false
+    }
+  ],
   "Agnes Lind": [
     {
       "year": 2012,
@@ -17,6 +35,32 @@
       "is_winner": false
     }
   ],
+  "Alexander Bjerner": [
+    {
+      "year": 2019,
+      "opponent": "Bj\u00f6rn Berglund",
+      "player_score": 8,
+      "opponent_score": 4,
+      "winner": "Alexander Bjerner",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Jesper Kronholm",
+      "player_score": 1,
+      "opponent_score": 10,
+      "winner": "Jesper Kronholm",
+      "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Lotta Harder",
+      "player_score": 9,
+      "opponent_score": 4,
+      "winner": "Alexander Bjerner",
+      "is_winner": true
+    }
+  ],
   "Alexander Starfelt": [
     {
       "year": 2017,
@@ -31,6 +75,22 @@
       "opponent": "John Qvale",
       "player_score": 7,
       "opponent_score": 6,
+      "winner": "Alexander Starfelt",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Kajsa Hallberg-Nor.",
+      "player_score": 9,
+      "opponent_score": 2,
+      "winner": "Alexander Starfelt",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Olga Andersson",
+      "player_score": 10,
+      "opponent_score": 2,
       "winner": "Alexander Starfelt",
       "is_winner": true
     },
@@ -72,6 +132,22 @@
       "player_score": 2,
       "opponent_score": 9,
       "winner": "Charlotte Johansson",
+      "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Cissi Hellman",
+      "player_score": 8,
+      "opponent_score": 3,
+      "winner": "Alexander Starfelt",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Jens Hultkrans",
+      "player_score": 8,
+      "opponent_score": 10,
+      "winner": "Jens Hultkrans",
       "is_winner": false
     }
   ],
@@ -159,6 +235,54 @@
       "is_winner": true
     },
     {
+      "year": 2019,
+      "opponent": "Julius Jorborg",
+      "player_score": 8,
+      "opponent_score": 2,
+      "winner": "Benjamin Ger. Hed.",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Lovisa Birgersson",
+      "player_score": 3,
+      "opponent_score": 9,
+      "winner": "Lovisa Birgersson",
+      "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Bj\u00f6rn Berglund",
+      "player_score": 9,
+      "opponent_score": 7,
+      "winner": "Benjamin Ger. Hed.",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Jens Hultkrans",
+      "player_score": 10,
+      "opponent_score": 6,
+      "winner": "Benjamin Ger. Hed.",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Estrid",
+      "player_score": 10,
+      "opponent_score": 5,
+      "winner": "Benjamin Ger. Hed.",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Theodore Ripman",
+      "player_score": 5,
+      "opponent_score": 13,
+      "winner": "Theodore Ripman",
+      "is_winner": false
+    },
+    {
       "year": 2017,
       "opponent": "Maria Adel\u00f6f",
       "player_score": 7,
@@ -181,6 +305,22 @@
       "opponent_score": 9,
       "winner": "Estrid",
       "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Love Andr\u00e9asson",
+      "player_score": 10,
+      "opponent_score": 8,
+      "winner": "Benjamin Ger. Hed.",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Kusha Bahrami",
+      "player_score": 10,
+      "opponent_score": 1,
+      "winner": "Benjamin Ger. Hed.",
+      "is_winner": true
     }
   ],
   "Bj\u00f6rn Berglund": [
@@ -198,6 +338,30 @@
       "player_score": 6,
       "opponent_score": 7,
       "winner": "Theodore Ripman",
+      "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Alexander Bjerner",
+      "player_score": 4,
+      "opponent_score": 8,
+      "winner": "Alexander Bjerner",
+      "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Charlotte Johansson",
+      "player_score": 8,
+      "opponent_score": 4,
+      "winner": "Bj\u00f6rn Berglund",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Benjamin Ger. Hed.",
+      "player_score": 7,
+      "opponent_score": 9,
+      "winner": "Benjamin Ger. Hed.",
       "is_winner": false
     }
   ],
@@ -255,6 +419,22 @@
       "is_winner": true
     },
     {
+      "year": 2019,
+      "opponent": "Lotta Harder",
+      "player_score": 2,
+      "opponent_score": 7,
+      "winner": "Lotta Harder",
+      "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Bj\u00f6rn Berglund",
+      "player_score": 4,
+      "opponent_score": 8,
+      "winner": "Bj\u00f6rn Berglund",
+      "is_winner": false
+    },
+    {
       "year": 2018,
       "opponent": "Benjamin Ger. Hed.",
       "player_score": 7,
@@ -268,6 +448,40 @@
       "player_score": 2,
       "opponent_score": 10,
       "winner": "Johan Kjell",
+      "is_winner": false
+    }
+  ],
+  "Christian Steen": [
+    {
+      "year": 2019,
+      "opponent": "Mina Kheirkhah",
+      "player_score": 5,
+      "opponent_score": 8,
+      "winner": "Mina Kheirkhah",
+      "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Olle Strandberg",
+      "player_score": 8,
+      "opponent_score": 5,
+      "winner": "Christian Steen",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Jens Hultkrans",
+      "player_score": 8,
+      "opponent_score": 5,
+      "winner": "Christian Steen",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Mina Kheirkhah",
+      "player_score": 8,
+      "opponent_score": 12,
+      "winner": "Mina Kheirkhah",
       "is_winner": false
     }
   ],
@@ -327,6 +541,38 @@
       "opponent_score": 2,
       "winner": "Cissi Hellman",
       "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Kusha Bahrami",
+      "player_score": 8,
+      "opponent_score": 4,
+      "winner": "Cissi Hellman",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Alexander Starfelt",
+      "player_score": 3,
+      "opponent_score": 8,
+      "winner": "Alexander Starfelt",
+      "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Louise Persson",
+      "player_score": 8,
+      "opponent_score": 5,
+      "winner": "Cissi Hellman",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Robeson",
+      "player_score": 5,
+      "opponent_score": 10,
+      "winner": "Robeson",
+      "is_winner": false
     },
     {
       "year": 2011,
@@ -391,6 +637,14 @@
       "opponent_score": 9,
       "winner": "Robin Fogelberg",
       "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Niklas Frisk",
+      "player_score": 10,
+      "opponent_score": 8,
+      "winner": "Cissi Hellman",
+      "is_winner": true
     }
   ],
   "Conny \u00c5berg": [
@@ -477,6 +731,30 @@
       "opponent_score": 8,
       "winner": "Olle Strandberg",
       "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Jens Finn\u00e4s",
+      "player_score": 4,
+      "opponent_score": 9,
+      "winner": "Jens Finn\u00e4s",
+      "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Joakim Lundin",
+      "player_score": 8,
+      "opponent_score": 7,
+      "winner": "Edith S\u00f6derstr\u00f6m",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Micke Leyi",
+      "player_score": 0,
+      "opponent_score": 8,
+      "winner": "Micke Leyi",
+      "is_winner": false
     }
   ],
   "Edvin Lindsten": [
@@ -518,6 +796,38 @@
       "player_score": 2,
       "opponent_score": 9,
       "winner": "Theodore Ripman",
+      "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "John Qvale",
+      "player_score": 8,
+      "opponent_score": 5,
+      "winner": "Edvin Lindsten",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Fanny Kjellner",
+      "player_score": 8,
+      "opponent_score": 4,
+      "winner": "Edvin Lindsten",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Martha Brauer",
+      "player_score": 11,
+      "opponent_score": 1,
+      "winner": "Edvin Lindsten",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Robin Fogelberg",
+      "player_score": 7,
+      "opponent_score": 10,
+      "winner": "Robin Fogelberg",
       "is_winner": false
     },
     {
@@ -659,6 +969,38 @@
       "opponent_score": 3,
       "winner": "Erik Nordenankar",
       "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Jan Bergstrand",
+      "player_score": 8,
+      "opponent_score": 1,
+      "winner": "Erik Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Sofia \u00d6rning",
+      "player_score": 9,
+      "opponent_score": 4,
+      "winner": "Erik Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Jens Finn\u00e4s",
+      "player_score": 11,
+      "opponent_score": 2,
+      "winner": "Erik Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Theodore Ripman",
+      "player_score": 6,
+      "opponent_score": 10,
+      "winner": "Theodore Ripman",
+      "is_winner": false
     },
     {
       "year": 2011,
@@ -825,6 +1167,46 @@
       "is_winner": true
     },
     {
+      "year": 2019,
+      "opponent": "Nils Brolin",
+      "player_score": 8,
+      "opponent_score": 3,
+      "winner": "Estrid",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Martha Brauer",
+      "player_score": 8,
+      "opponent_score": 3,
+      "winner": "Estrid",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Olaver",
+      "player_score": 10,
+      "opponent_score": 7,
+      "winner": "Estrid",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Mina Kheirkhah",
+      "player_score": 11,
+      "opponent_score": 3,
+      "winner": "Estrid",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Robeson",
+      "player_score": 5,
+      "opponent_score": 13,
+      "winner": "Robeson",
+      "is_winner": false
+    },
+    {
       "year": 2018,
       "opponent": "Jesper Kronholm",
       "player_score": 7,
@@ -839,6 +1221,22 @@
       "opponent_score": 9,
       "winner": "Robin Fogelberg",
       "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Gabriel Nordenankar",
+      "player_score": 10,
+      "opponent_score": 9,
+      "winner": "Estrid",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Benjamin Ger. Hed.",
+      "player_score": 5,
+      "opponent_score": 10,
+      "winner": "Benjamin Ger. Hed.",
+      "is_winner": false
     }
   ],
   "Fanny Kjellner": [
@@ -848,6 +1246,22 @@
       "player_score": 5,
       "opponent_score": 7,
       "winner": "Love Elfvelin",
+      "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Jakob Gustafsson",
+      "player_score": 8,
+      "opponent_score": 3,
+      "winner": "Fanny Kjellner",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Robeson",
+      "player_score": 3,
+      "opponent_score": 9,
+      "winner": "Robeson",
       "is_winner": false
     },
     {
@@ -864,6 +1278,14 @@
       "player_score": 2,
       "opponent_score": 7,
       "winner": "Estrid",
+      "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Edvin Lindsten",
+      "player_score": 4,
+      "opponent_score": 8,
+      "winner": "Edvin Lindsten",
       "is_winner": false
     }
   ],
@@ -925,6 +1347,24 @@
       "opponent_score": 4,
       "winner": "Filip Tyd\u00e9n",
       "is_winner": true
+    }
+  ],
+  "Frida Danielsson": [
+    {
+      "year": 2019,
+      "opponent": "Olaver",
+      "player_score": 1,
+      "opponent_score": 8,
+      "winner": "Olaver",
+      "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Theodore Ripman",
+      "player_score": 1,
+      "opponent_score": 9,
+      "winner": "Theodore Ripman",
+      "is_winner": false
     }
   ],
   "Frida \u00d6hrn": [
@@ -1048,6 +1488,46 @@
       "player_score": 4,
       "opponent_score": 9,
       "winner": "Jens Hultkrans",
+      "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Joakim Lundin",
+      "player_score": 8,
+      "opponent_score": 6,
+      "winner": "Gabriel Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Jens Finn\u00e4s",
+      "player_score": 9,
+      "opponent_score": 5,
+      "winner": "Gabriel Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Johan Ekman",
+      "player_score": 10,
+      "opponent_score": 6,
+      "winner": "Gabriel Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Jerker Karlsson",
+      "player_score": 10,
+      "opponent_score": 6,
+      "winner": "Gabriel Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Estrid",
+      "player_score": 9,
+      "opponent_score": 10,
+      "winner": "Estrid",
       "is_winner": false
     },
     {
@@ -1175,6 +1655,14 @@
       "is_winner": true
     },
     {
+      "year": 2019,
+      "opponent": "Micke Leyi",
+      "player_score": 4,
+      "opponent_score": 8,
+      "winner": "Micke Leyi",
+      "is_winner": false
+    },
+    {
       "year": 2018,
       "opponent": "Jacob Stenman",
       "player_score": 7,
@@ -1196,6 +1684,40 @@
       "player_score": 2,
       "opponent_score": 9,
       "winner": "Estrid",
+      "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Johanna R\u00e5dstr\u00f6m",
+      "player_score": 9,
+      "opponent_score": 3,
+      "winner": "Hannes Jordan",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Jens Finn\u00e4s",
+      "player_score": 7,
+      "opponent_score": 8,
+      "winner": "Jens Finn\u00e4s",
+      "is_winner": false
+    }
+  ],
+  "Hasse Hallgren": [
+    {
+      "year": 2019,
+      "opponent": "Olle Strandberg",
+      "player_score": 1,
+      "opponent_score": 8,
+      "winner": "Olle Strandberg",
+      "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Robin Linderborg",
+      "player_score": 2,
+      "opponent_score": 8,
+      "winner": "Robin Linderborg",
       "is_winner": false
     }
   ],
@@ -1285,6 +1807,14 @@
   ],
   "Isabell Dillstr\u00f6m": [
     {
+      "year": 2019,
+      "opponent": "Linnea Karlsson",
+      "player_score": 3,
+      "opponent_score": 8,
+      "winner": "Linnea Karlsson",
+      "is_winner": false
+    },
+    {
       "year": 2018,
       "opponent": "Love Andr\u00e9asson",
       "player_score": 6,
@@ -1298,6 +1828,14 @@
       "player_score": 3,
       "opponent_score": 7,
       "winner": "Johan Ekman",
+      "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Love Andr\u00e9asson",
+      "player_score": 6,
+      "opponent_score": 8,
+      "winner": "Love Andr\u00e9asson",
       "is_winner": false
     }
   ],
@@ -1340,6 +1878,32 @@
       "player_score": 1,
       "opponent_score": 7,
       "winner": "Jakob Lien",
+      "is_winner": false
+    }
+  ],
+  "Jakob Gustafsson": [
+    {
+      "year": 2019,
+      "opponent": "Fanny Kjellner",
+      "player_score": 3,
+      "opponent_score": 8,
+      "winner": "Fanny Kjellner",
+      "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "John Qvale",
+      "player_score": 8,
+      "opponent_score": 4,
+      "winner": "Jakob Gustafsson",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Jerker Karlsson",
+      "player_score": 5,
+      "opponent_score": 8,
+      "winner": "Jerker Karlsson",
       "is_winner": false
     }
   ],
@@ -1465,6 +2029,30 @@
       "is_winner": false
     },
     {
+      "year": 2019,
+      "opponent": "Philip Little",
+      "player_score": 9,
+      "opponent_score": 5,
+      "winner": "Jakob Lien",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Jesper Kronholm",
+      "player_score": 10,
+      "opponent_score": 4,
+      "winner": "Jakob Lien",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Pelle Dovborg",
+      "player_score": 0,
+      "opponent_score": 10,
+      "winner": "Pelle Dovborg",
+      "is_winner": false
+    },
+    {
       "year": 2012,
       "opponent": "Sofia R\u00e5dstr\u00f6m",
       "player_score": 9,
@@ -1505,6 +2093,24 @@
       "is_winner": true
     }
   ],
+  "Jan Bergstrand": [
+    {
+      "year": 2019,
+      "opponent": "Olle Nyr\u00e9n",
+      "player_score": 3,
+      "opponent_score": 9,
+      "winner": "Olle Nyr\u00e9n",
+      "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Erik Nordenankar",
+      "player_score": 1,
+      "opponent_score": 8,
+      "winner": "Erik Nordenankar",
+      "is_winner": false
+    }
+  ],
   "Jens Finn\u00e4s": [
     {
       "year": 2016,
@@ -1521,6 +2127,22 @@
       "opponent_score": 9,
       "winner": "Love Andr\u00e9asson",
       "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Edith S\u00f6derstr\u00f6m",
+      "player_score": 9,
+      "opponent_score": 4,
+      "winner": "Jens Finn\u00e4s",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Hannes Jordan",
+      "player_score": 8,
+      "opponent_score": 7,
+      "winner": "Jens Finn\u00e4s",
+      "is_winner": true
     },
     {
       "year": 2016,
@@ -1545,6 +2167,22 @@
       "opponent_score": 3,
       "winner": "Jens Finn\u00e4s",
       "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Gabriel Nordenankar",
+      "player_score": 5,
+      "opponent_score": 9,
+      "winner": "Gabriel Nordenankar",
+      "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Erik Nordenankar",
+      "player_score": 2,
+      "opponent_score": 11,
+      "winner": "Erik Nordenankar",
+      "is_winner": false
     }
   ],
   "Jens Hultkrans": [
@@ -1563,6 +2201,30 @@
       "opponent_score": 13,
       "winner": "Johan Kjell",
       "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Christian Steen",
+      "player_score": 5,
+      "opponent_score": 8,
+      "winner": "Christian Steen",
+      "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Sussie R\u00e5dis",
+      "player_score": 8,
+      "opponent_score": 4,
+      "winner": "Jens Hultkrans",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Alexander Starfelt",
+      "player_score": 10,
+      "opponent_score": 8,
+      "winner": "Jens Hultkrans",
+      "is_winner": true
     },
     {
       "year": 2018,
@@ -1611,6 +2273,30 @@
       "opponent_score": 7,
       "winner": "Jens Hultkrans",
       "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Viktor G\u00e4rde",
+      "player_score": 8,
+      "opponent_score": 4,
+      "winner": "Jens Hultkrans",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Sofia R\u00e5dstr\u00f6m",
+      "player_score": 11,
+      "opponent_score": 3,
+      "winner": "Jens Hultkrans",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Benjamin Ger. Hed.",
+      "player_score": 6,
+      "opponent_score": 10,
+      "winner": "Benjamin Ger. Hed.",
+      "is_winner": false
     }
   ],
   "Jens West": [
@@ -1705,6 +2391,30 @@
       "is_winner": false
     },
     {
+      "year": 2019,
+      "opponent": "Johannes Birgersson",
+      "player_score": 8,
+      "opponent_score": 7,
+      "winner": "Jerker Karlsson",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Magnus Enlund",
+      "player_score": 3,
+      "opponent_score": 8,
+      "winner": "Magnus Enlund",
+      "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Jakob Gustafsson",
+      "player_score": 8,
+      "opponent_score": 5,
+      "winner": "Jerker Karlsson",
+      "is_winner": true
+    },
+    {
       "year": 2012,
       "opponent": "Johan Kjell",
       "player_score": 5,
@@ -1751,6 +2461,22 @@
       "opponent_score": 1,
       "winner": "Jerker Karlsson",
       "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Lovisa Birgersson",
+      "player_score": 10,
+      "opponent_score": 8,
+      "winner": "Jerker Karlsson",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Gabriel Nordenankar",
+      "player_score": 6,
+      "opponent_score": 10,
+      "winner": "Gabriel Nordenankar",
+      "is_winner": false
     }
   ],
   "Jesper Kronholm": [
@@ -1787,6 +2513,22 @@
       "is_winner": false
     },
     {
+      "year": 2019,
+      "opponent": "Olga Andersson",
+      "player_score": 9,
+      "opponent_score": 1,
+      "winner": "Jesper Kronholm",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Olle Nyr\u00e9n",
+      "player_score": 8,
+      "opponent_score": 7,
+      "winner": "Jesper Kronholm",
+      "is_winner": true
+    },
+    {
       "year": 2017,
       "opponent": "Theodore Ripman",
       "player_score": 7,
@@ -1809,6 +2551,30 @@
       "opponent_score": 4,
       "winner": "Jesper Kronholm",
       "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Jakob Lien",
+      "player_score": 4,
+      "opponent_score": 10,
+      "winner": "Jakob Lien",
+      "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Alexander Bjerner",
+      "player_score": 10,
+      "opponent_score": 1,
+      "winner": "Jesper Kronholm",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Pelle Dovborg",
+      "player_score": 6,
+      "opponent_score": 10,
+      "winner": "Pelle Dovborg",
+      "is_winner": false
     }
   ],
   "Joakim Lundin": [
@@ -1821,11 +2587,27 @@
       "is_winner": false
     },
     {
+      "year": 2019,
+      "opponent": "Edith S\u00f6derstr\u00f6m",
+      "player_score": 7,
+      "opponent_score": 8,
+      "winner": "Edith S\u00f6derstr\u00f6m",
+      "is_winner": false
+    },
+    {
       "year": 2018,
       "opponent": "Pelle Dovborg",
       "player_score": 4,
       "opponent_score": 8,
       "winner": "Pelle Dovborg",
+      "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Gabriel Nordenankar",
+      "player_score": 6,
+      "opponent_score": 8,
+      "winner": "Gabriel Nordenankar",
       "is_winner": false
     }
   ],
@@ -1965,6 +2747,22 @@
       "is_winner": true
     },
     {
+      "year": 2019,
+      "opponent": "Olaver",
+      "player_score": 9,
+      "opponent_score": 4,
+      "winner": "Johan Ekman",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Mathilda Hansson",
+      "player_score": 8,
+      "opponent_score": 1,
+      "winner": "Johan Ekman",
+      "is_winner": true
+    },
+    {
       "year": 2012,
       "opponent": "Agnes Lind",
       "player_score": 7,
@@ -1994,6 +2792,22 @@
       "player_score": 3,
       "opponent_score": 10,
       "winner": "Erik Nordenankar",
+      "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Theodore Ripman",
+      "player_score": 7,
+      "opponent_score": 8,
+      "winner": "Theodore Ripman",
+      "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Gabriel Nordenankar",
+      "player_score": 6,
+      "opponent_score": 10,
+      "winner": "Gabriel Nordenankar",
       "is_winner": false
     }
   ],
@@ -2129,6 +2943,14 @@
       "is_winner": false
     },
     {
+      "year": 2019,
+      "opponent": "Hannes Jordan",
+      "player_score": 3,
+      "opponent_score": 9,
+      "winner": "Hannes Jordan",
+      "is_winner": false
+    },
+    {
       "year": 2012,
       "opponent": "Johan Alm",
       "player_score": 1,
@@ -2159,9 +2981,25 @@
       "opponent_score": 7,
       "winner": "Robeson",
       "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Robin Fogelberg",
+      "player_score": 3,
+      "opponent_score": 8,
+      "winner": "Robin Fogelberg",
+      "is_winner": false
     }
   ],
   "Johannes Birgersson": [
+    {
+      "year": 2019,
+      "opponent": "Robeson",
+      "player_score": 4,
+      "opponent_score": 8,
+      "winner": "Robeson",
+      "is_winner": false
+    },
     {
       "year": 2017,
       "opponent": "Erik Nordenankar",
@@ -2185,6 +3023,14 @@
       "opponent_score": 4,
       "winner": "Johannes Birgersson",
       "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Jerker Karlsson",
+      "player_score": 7,
+      "opponent_score": 8,
+      "winner": "Jerker Karlsson",
+      "is_winner": false
     }
   ],
   "John Kjellkvist": [
@@ -2223,6 +3069,14 @@
       "is_winner": false
     },
     {
+      "year": 2019,
+      "opponent": "Jakob Gustafsson",
+      "player_score": 4,
+      "opponent_score": 8,
+      "winner": "Jakob Gustafsson",
+      "is_winner": false
+    },
+    {
       "year": 2016,
       "opponent": "Lotta Harder",
       "player_score": 1,
@@ -2244,6 +3098,14 @@
       "player_score": 6,
       "opponent_score": 7,
       "winner": "Alexander Starfelt",
+      "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Edvin Lindsten",
+      "player_score": 5,
+      "opponent_score": 8,
+      "winner": "Edvin Lindsten",
       "is_winner": false
     }
   ],
@@ -2347,11 +3209,43 @@
       "is_winner": false
     },
     {
+      "year": 2019,
+      "opponent": "Agnes Hannervall",
+      "player_score": 8,
+      "opponent_score": 3,
+      "winner": "Julius Jorborg",
+      "is_winner": true
+    },
+    {
       "year": 2018,
       "opponent": "Ville Nordenankar",
       "player_score": 2,
       "opponent_score": 7,
       "winner": "Ville Nordenankar",
+      "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Benjamin Ger. Hed.",
+      "player_score": 2,
+      "opponent_score": 8,
+      "winner": "Benjamin Ger. Hed.",
+      "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Lotta Harder",
+      "player_score": 8,
+      "opponent_score": 6,
+      "winner": "Julius Jorborg",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Robin Fogelberg",
+      "player_score": 8,
+      "opponent_score": 10,
+      "winner": "Robin Fogelberg",
       "is_winner": false
     }
   ],
@@ -2386,6 +3280,22 @@
       "player_score": 1,
       "opponent_score": 8,
       "winner": "Jesper Kronholm",
+      "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Alexander Starfelt",
+      "player_score": 2,
+      "opponent_score": 9,
+      "winner": "Alexander Starfelt",
+      "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Kusha Bahrami",
+      "player_score": 2,
+      "opponent_score": 9,
+      "winner": "Kusha Bahrami",
       "is_winner": false
     }
   ],
@@ -2461,6 +3371,22 @@
       "is_winner": true
     },
     {
+      "year": 2019,
+      "opponent": "Kajsa Hallberg-Nor.",
+      "player_score": 9,
+      "opponent_score": 2,
+      "winner": "Kusha Bahrami",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Benjamin Ger. Hed.",
+      "player_score": 1,
+      "opponent_score": 10,
+      "winner": "Benjamin Ger. Hed.",
+      "is_winner": false
+    },
+    {
       "year": 2018,
       "opponent": "Pelle Dovborg",
       "player_score": 7,
@@ -2475,9 +3401,41 @@
       "opponent_score": 9,
       "winner": "Theodore Ripman",
       "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Cissi Hellman",
+      "player_score": 4,
+      "opponent_score": 8,
+      "winner": "Cissi Hellman",
+      "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Monica Harder",
+      "player_score": 8,
+      "opponent_score": 6,
+      "winner": "Kusha Bahrami",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Magnus Enlund",
+      "player_score": 10,
+      "opponent_score": 7,
+      "winner": "Kusha Bahrami",
+      "is_winner": true
     }
   ],
   "Leo Ehnborg": [
+    {
+      "year": 2019,
+      "opponent": "Mathilda Hansson",
+      "player_score": 4,
+      "opponent_score": 8,
+      "winner": "Mathilda Hansson",
+      "is_winner": false
+    },
     {
       "year": 2018,
       "opponent": "Ida Wimmerman",
@@ -2492,6 +3450,14 @@
       "player_score": 5,
       "opponent_score": 7,
       "winner": "Lovisa Birgersson",
+      "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Richard Ekman",
+      "player_score": 2,
+      "opponent_score": 8,
+      "winner": "Richard Ekman",
       "is_winner": false
     }
   ],
@@ -2571,6 +3537,32 @@
       "is_winner": true
     }
   ],
+  "Linnea Karlsson": [
+    {
+      "year": 2019,
+      "opponent": "Sebastin Fors\u00e9n",
+      "player_score": 0,
+      "opponent_score": 8,
+      "winner": "Sebastin Fors\u00e9n",
+      "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Isabell Dillstr\u00f6m",
+      "player_score": 8,
+      "opponent_score": 3,
+      "winner": "Linnea Karlsson",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Martha Brauer",
+      "player_score": 1,
+      "opponent_score": 8,
+      "winner": "Martha Brauer",
+      "is_winner": false
+    }
+  ],
   "Lotta Harder": [
     {
       "year": 2016,
@@ -2589,12 +3581,36 @@
       "is_winner": true
     },
     {
+      "year": 2019,
+      "opponent": "Alexander Bjerner",
+      "player_score": 4,
+      "opponent_score": 9,
+      "winner": "Alexander Bjerner",
+      "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Julius Jorborg",
+      "player_score": 6,
+      "opponent_score": 8,
+      "winner": "Julius Jorborg",
+      "is_winner": false
+    },
+    {
       "year": 2016,
       "opponent": "Gabriel Nordenankar",
       "player_score": 2,
       "opponent_score": 9,
       "winner": "Gabriel Nordenankar",
       "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Charlotte Johansson",
+      "player_score": 7,
+      "opponent_score": 2,
+      "winner": "Lotta Harder",
+      "is_winner": true
     }
   ],
   "Louise Persson": [
@@ -2605,6 +3621,14 @@
       "opponent_score": 6,
       "winner": "Louise Persson",
       "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Monica Harder",
+      "player_score": 4,
+      "opponent_score": 8,
+      "winner": "Monica Harder",
+      "is_winner": false
     },
     {
       "year": 2018,
@@ -2628,6 +3652,22 @@
       "player_score": 7,
       "opponent_score": 9,
       "winner": "Hannes Jordan",
+      "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Ville Nordenankar",
+      "player_score": 8,
+      "opponent_score": 0,
+      "winner": "Louise Persson",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Cissi Hellman",
+      "player_score": 5,
+      "opponent_score": 8,
+      "winner": "Cissi Hellman",
       "is_winner": false
     }
   ],
@@ -2671,6 +3711,30 @@
       "opponent_score": 3,
       "winner": "Love Andr\u00e9asson",
       "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Isabell Dillstr\u00f6m",
+      "player_score": 8,
+      "opponent_score": 6,
+      "winner": "Love Andr\u00e9asson",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Sebastin Fors\u00e9n",
+      "player_score": 9,
+      "opponent_score": 0,
+      "winner": "Love Andr\u00e9asson",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Benjamin Ger. Hed.",
+      "player_score": 8,
+      "opponent_score": 10,
+      "winner": "Benjamin Ger. Hed.",
+      "is_winner": false
     },
     {
       "year": 2012,
@@ -2813,6 +3877,22 @@
       "is_winner": false
     },
     {
+      "year": 2019,
+      "opponent": "Agnes Hannervall",
+      "player_score": 8,
+      "opponent_score": 1,
+      "winner": "Lovisa Birgersson",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Jerker Karlsson",
+      "player_score": 8,
+      "opponent_score": 10,
+      "winner": "Jerker Karlsson",
+      "is_winner": false
+    },
+    {
       "year": 2017,
       "opponent": "Theodore Ripman",
       "player_score": 5,
@@ -2842,6 +3922,40 @@
       "player_score": 9,
       "opponent_score": 5,
       "winner": "Lovisa Birgersson",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Benjamin Ger. Hed.",
+      "player_score": 9,
+      "opponent_score": 3,
+      "winner": "Lovisa Birgersson",
+      "is_winner": true
+    }
+  ],
+  "Magnus Enlund": [
+    {
+      "year": 2019,
+      "opponent": "Kusha Bahrami",
+      "player_score": 7,
+      "opponent_score": 10,
+      "winner": "Kusha Bahrami",
+      "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Robeson",
+      "player_score": 8,
+      "opponent_score": 4,
+      "winner": "Magnus Enlund",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Jerker Karlsson",
+      "player_score": 8,
+      "opponent_score": 3,
+      "winner": "Magnus Enlund",
       "is_winner": true
     }
   ],
@@ -2887,6 +4001,40 @@
       "is_winner": false
     }
   ],
+  "Martha Brauer": [
+    {
+      "year": 2019,
+      "opponent": "Linnea Karlsson",
+      "player_score": 8,
+      "opponent_score": 1,
+      "winner": "Martha Brauer",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Pelle Dovborg",
+      "player_score": 8,
+      "opponent_score": 2,
+      "winner": "Martha Brauer",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Estrid",
+      "player_score": 3,
+      "opponent_score": 8,
+      "winner": "Estrid",
+      "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Edvin Lindsten",
+      "player_score": 1,
+      "opponent_score": 11,
+      "winner": "Edvin Lindsten",
+      "is_winner": false
+    }
+  ],
   "Mathilda Hansson": [
     {
       "year": 2017,
@@ -2919,6 +4067,64 @@
       "opponent_score": 9,
       "winner": "Benjamin Ger. Hed.",
       "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Sofia R\u00e5dstr\u00f6m",
+      "player_score": 3,
+      "opponent_score": 9,
+      "winner": "Sofia R\u00e5dstr\u00f6m",
+      "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Leo Ehnborg",
+      "player_score": 8,
+      "opponent_score": 4,
+      "winner": "Mathilda Hansson",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Johan Ekman",
+      "player_score": 1,
+      "opponent_score": 8,
+      "winner": "Johan Ekman",
+      "is_winner": false
+    }
+  ],
+  "Micke Leyi": [
+    {
+      "year": 2019,
+      "opponent": "Edith S\u00f6derstr\u00f6m",
+      "player_score": 8,
+      "opponent_score": 0,
+      "winner": "Micke Leyi",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Hannes Jordan",
+      "player_score": 8,
+      "opponent_score": 4,
+      "winner": "Micke Leyi",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Robin Fogelberg",
+      "player_score": 0,
+      "opponent_score": 8,
+      "winner": "Robin Fogelberg",
+      "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Theodore Ripman",
+      "player_score": 8,
+      "opponent_score": 10,
+      "winner": "Theodore Ripman",
+      "is_winner": false
     }
   ],
   "Mina Kheirkhah": [
@@ -2929,6 +4135,14 @@
       "opponent_score": 7,
       "winner": "Jesper Kronholm",
       "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Christian Steen",
+      "player_score": 12,
+      "opponent_score": 8,
+      "winner": "Mina Kheirkhah",
+      "is_winner": true
     },
     {
       "year": 2018,
@@ -2945,6 +4159,82 @@
       "opponent_score": 8,
       "winner": "Richard Ekman",
       "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Sussie R\u00e5dis",
+      "player_score": 8,
+      "opponent_score": 1,
+      "winner": "Mina Kheirkhah",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Christian Steen",
+      "player_score": 8,
+      "opponent_score": 5,
+      "winner": "Mina Kheirkhah",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Estrid",
+      "player_score": 3,
+      "opponent_score": 11,
+      "winner": "Estrid",
+      "is_winner": false
+    }
+  ],
+  "Monica Harder": [
+    {
+      "year": 2019,
+      "opponent": "Kusha Bahrami",
+      "player_score": 6,
+      "opponent_score": 8,
+      "winner": "Kusha Bahrami",
+      "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Louise Persson",
+      "player_score": 8,
+      "opponent_score": 4,
+      "winner": "Monica Harder",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Niklas Frisk",
+      "player_score": 3,
+      "opponent_score": 9,
+      "winner": "Niklas Frisk",
+      "is_winner": false
+    }
+  ],
+  "Niklas Frisk": [
+    {
+      "year": 2019,
+      "opponent": "Monica Harder",
+      "player_score": 9,
+      "opponent_score": 3,
+      "winner": "Niklas Frisk",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Cissi Hellman",
+      "player_score": 8,
+      "opponent_score": 10,
+      "winner": "Cissi Hellman",
+      "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Ville Nordenankar",
+      "player_score": 8,
+      "opponent_score": 2,
+      "winner": "Niklas Frisk",
+      "is_winner": true
     }
   ],
   "Niklas Larsson": [
@@ -2981,6 +4271,58 @@
       "is_winner": false
     }
   ],
+  "Nils Brolin": [
+    {
+      "year": 2019,
+      "opponent": "Pelle Dovborg",
+      "player_score": 3,
+      "opponent_score": 8,
+      "winner": "Pelle Dovborg",
+      "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Estrid",
+      "player_score": 3,
+      "opponent_score": 8,
+      "winner": "Estrid",
+      "is_winner": false
+    }
+  ],
+  "Olaver": [
+    {
+      "year": 2019,
+      "opponent": "Johan Ekman",
+      "player_score": 4,
+      "opponent_score": 9,
+      "winner": "Johan Ekman",
+      "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Frida Danielsson",
+      "player_score": 8,
+      "opponent_score": 1,
+      "winner": "Olaver",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Richard Ekman",
+      "player_score": 8,
+      "opponent_score": 7,
+      "winner": "Olaver",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Estrid",
+      "player_score": 7,
+      "opponent_score": 10,
+      "winner": "Estrid",
+      "is_winner": false
+    }
+  ],
   "Olga Andersson": [
     {
       "year": 2018,
@@ -2996,6 +4338,38 @@
       "player_score": 3,
       "opponent_score": 7,
       "winner": "Edvin Lindsten",
+      "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Jesper Kronholm",
+      "player_score": 1,
+      "opponent_score": 9,
+      "winner": "Jesper Kronholm",
+      "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Philip Little",
+      "player_score": 10,
+      "opponent_score": 2,
+      "winner": "Olga Andersson",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Sofia \u00d6rning",
+      "player_score": 8,
+      "opponent_score": 6,
+      "winner": "Olga Andersson",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Alexander Starfelt",
+      "player_score": 2,
+      "opponent_score": 10,
+      "winner": "Alexander Starfelt",
       "is_winner": false
     }
   ],
@@ -3025,6 +4399,32 @@
       "is_winner": false
     }
   ],
+  "Olle Nyr\u00e9n": [
+    {
+      "year": 2019,
+      "opponent": "Sofia \u00d6rning",
+      "player_score": 5,
+      "opponent_score": 9,
+      "winner": "Sofia \u00d6rning",
+      "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Jan Bergstrand",
+      "player_score": 9,
+      "opponent_score": 3,
+      "winner": "Olle Nyr\u00e9n",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Jesper Kronholm",
+      "player_score": 7,
+      "opponent_score": 8,
+      "winner": "Jesper Kronholm",
+      "is_winner": false
+    }
+  ],
   "Olle Strandberg": [
     {
       "year": 2018,
@@ -3043,12 +4443,36 @@
       "is_winner": false
     },
     {
+      "year": 2019,
+      "opponent": "Viktor G\u00e4rde",
+      "player_score": 7,
+      "opponent_score": 8,
+      "winner": "Viktor G\u00e4rde",
+      "is_winner": false
+    },
+    {
       "year": 2018,
       "opponent": "Sofia R\u00e5dstr\u00f6m",
       "player_score": 7,
       "opponent_score": 3,
       "winner": "Olle Strandberg",
       "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Hasse Hallgren",
+      "player_score": 8,
+      "opponent_score": 1,
+      "winner": "Olle Strandberg",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Christian Steen",
+      "player_score": 5,
+      "opponent_score": 8,
+      "winner": "Christian Steen",
+      "is_winner": false
     }
   ],
   "Olof Sabelstr\u00f6m": [
@@ -3169,6 +4593,22 @@
       "is_winner": true
     },
     {
+      "year": 2019,
+      "opponent": "Martha Brauer",
+      "player_score": 2,
+      "opponent_score": 8,
+      "winner": "Martha Brauer",
+      "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Jesper Kronholm",
+      "player_score": 10,
+      "opponent_score": 6,
+      "winner": "Pelle Dovborg",
+      "is_winner": true
+    },
+    {
       "year": 2016,
       "opponent": "Johan Ekman",
       "player_score": 1,
@@ -3190,6 +4630,38 @@
       "player_score": 3,
       "opponent_score": 7,
       "winner": "Love Andr\u00e9asson",
+      "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Nils Brolin",
+      "player_score": 8,
+      "opponent_score": 3,
+      "winner": "Pelle Dovborg",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Sebastin Fors\u00e9n",
+      "player_score": 9,
+      "opponent_score": 5,
+      "winner": "Pelle Dovborg",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Jakob Lien",
+      "player_score": 10,
+      "opponent_score": 0,
+      "winner": "Pelle Dovborg",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Robeson",
+      "player_score": 7,
+      "opponent_score": 10,
+      "winner": "Robeson",
       "is_winner": false
     }
   ],
@@ -3213,6 +4685,14 @@
   ],
   "Philip Little": [
     {
+      "year": 2019,
+      "opponent": "Olga Andersson",
+      "player_score": 2,
+      "opponent_score": 10,
+      "winner": "Olga Andersson",
+      "is_winner": false
+    },
+    {
       "year": 2018,
       "opponent": "Cissi Hellman",
       "player_score": 3,
@@ -3226,6 +4706,14 @@
       "player_score": 6,
       "opponent_score": 7,
       "winner": "Benjamin Ger. Hed.",
+      "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Jakob Lien",
+      "player_score": 5,
+      "opponent_score": 9,
+      "winner": "Jakob Lien",
       "is_winner": false
     }
   ],
@@ -3295,6 +4783,30 @@
       "is_winner": false
     },
     {
+      "year": 2019,
+      "opponent": "Leo Ehnborg",
+      "player_score": 8,
+      "opponent_score": 2,
+      "winner": "Richard Ekman",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Sofia R\u00e5dstr\u00f6m",
+      "player_score": 7,
+      "opponent_score": 8,
+      "winner": "Sofia R\u00e5dstr\u00f6m",
+      "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Olaver",
+      "player_score": 7,
+      "opponent_score": 8,
+      "winner": "Olaver",
+      "is_winner": false
+    },
+    {
       "year": 2016,
       "opponent": "Sofia R\u00e5dstr\u00f6m",
       "player_score": 7,
@@ -3351,6 +4863,70 @@
       "opponent_score": 7,
       "winner": "Johan Kjell",
       "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Magnus Enlund",
+      "player_score": 4,
+      "opponent_score": 8,
+      "winner": "Magnus Enlund",
+      "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Pelle Dovborg",
+      "player_score": 10,
+      "opponent_score": 7,
+      "winner": "Robeson",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Johannes Birgersson",
+      "player_score": 8,
+      "opponent_score": 4,
+      "winner": "Robeson",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Fanny Kjellner",
+      "player_score": 9,
+      "opponent_score": 3,
+      "winner": "Robeson",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Robin Linderborg",
+      "player_score": 10,
+      "opponent_score": 4,
+      "winner": "Robeson",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Cissi Hellman",
+      "player_score": 10,
+      "opponent_score": 5,
+      "winner": "Robeson",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Theodore Ripman",
+      "player_score": 9,
+      "opponent_score": 10,
+      "winner": "Theodore Ripman",
+      "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Estrid",
+      "player_score": 13,
+      "opponent_score": 5,
+      "winner": "Robeson",
+      "is_winner": true
     }
   ],
   "Robin Fogelberg": [
@@ -3403,6 +4979,30 @@
       "is_winner": false
     },
     {
+      "year": 2019,
+      "opponent": "Johanna R\u00e5dstr\u00f6m",
+      "player_score": 8,
+      "opponent_score": 3,
+      "winner": "Robin Fogelberg",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Micke Leyi",
+      "player_score": 8,
+      "opponent_score": 0,
+      "winner": "Robin Fogelberg",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Julius Jorborg",
+      "player_score": 10,
+      "opponent_score": 8,
+      "winner": "Robin Fogelberg",
+      "is_winner": true
+    },
+    {
       "year": 2018,
       "opponent": "Theodore Ripman",
       "player_score": 3,
@@ -3417,6 +5017,22 @@
       "opponent_score": 7,
       "winner": "Robin Fogelberg",
       "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Edvin Lindsten",
+      "player_score": 10,
+      "opponent_score": 7,
+      "winner": "Robin Fogelberg",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Theodore Ripman",
+      "player_score": 4,
+      "opponent_score": 10,
+      "winner": "Theodore Ripman",
+      "is_winner": false
     }
   ],
   "Robin Linderborg": [
@@ -3466,6 +5082,30 @@
       "player_score": 5,
       "opponent_score": 11,
       "winner": "Erik Nordenankar",
+      "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Hasse Hallgren",
+      "player_score": 8,
+      "opponent_score": 2,
+      "winner": "Robin Linderborg",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Viktor G\u00e4rde",
+      "player_score": 8,
+      "opponent_score": 7,
+      "winner": "Robin Linderborg",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Robeson",
+      "player_score": 4,
+      "opponent_score": 10,
+      "winner": "Robeson",
       "is_winner": false
     },
     {
@@ -3537,12 +5177,36 @@
       "is_winner": false
     },
     {
+      "year": 2019,
+      "opponent": "Linnea Karlsson",
+      "player_score": 8,
+      "opponent_score": 0,
+      "winner": "Sebastin Fors\u00e9n",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Pelle Dovborg",
+      "player_score": 5,
+      "opponent_score": 9,
+      "winner": "Pelle Dovborg",
+      "is_winner": false
+    },
+    {
       "year": 2018,
       "opponent": "Robeson",
       "player_score": 7,
       "opponent_score": 5,
       "winner": "Sebastin Fors\u00e9n",
       "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Love Andr\u00e9asson",
+      "player_score": 0,
+      "opponent_score": 9,
+      "winner": "Love Andr\u00e9asson",
+      "is_winner": false
     }
   ],
   "Simon Rosendahl": [
@@ -3689,6 +5353,22 @@
       "is_winner": false
     },
     {
+      "year": 2019,
+      "opponent": "Mathilda Hansson",
+      "player_score": 9,
+      "opponent_score": 3,
+      "winner": "Sofia R\u00e5dstr\u00f6m",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Jens Hultkrans",
+      "player_score": 3,
+      "opponent_score": 11,
+      "winner": "Jens Hultkrans",
+      "is_winner": false
+    },
+    {
       "year": 2011,
       "opponent": "Jakob Lien",
       "player_score": 2,
@@ -3719,6 +5399,14 @@
       "opponent_score": 10,
       "winner": "Richard Ekman",
       "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Richard Ekman",
+      "player_score": 8,
+      "opponent_score": 7,
+      "winner": "Sofia R\u00e5dstr\u00f6m",
+      "is_winner": true
     }
   ],
   "Sofia S\u00f6derberg": [
@@ -3765,6 +5453,22 @@
       "is_winner": false
     },
     {
+      "year": 2019,
+      "opponent": "Olle Nyr\u00e9n",
+      "player_score": 9,
+      "opponent_score": 5,
+      "winner": "Sofia \u00d6rning",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Olga Andersson",
+      "player_score": 6,
+      "opponent_score": 8,
+      "winner": "Olga Andersson",
+      "is_winner": false
+    },
+    {
       "year": 2017,
       "opponent": "Love Andr\u00e9asson",
       "player_score": 1,
@@ -3787,9 +5491,25 @@
       "opponent_score": 9,
       "winner": "Edvin Lindsten",
       "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Erik Nordenankar",
+      "player_score": 4,
+      "opponent_score": 9,
+      "winner": "Erik Nordenankar",
+      "is_winner": false
     }
   ],
   "Sussie R\u00e5dis": [
+    {
+      "year": 2019,
+      "opponent": "Mina Kheirkhah",
+      "player_score": 1,
+      "opponent_score": 8,
+      "winner": "Mina Kheirkhah",
+      "is_winner": false
+    },
     {
       "year": 2018,
       "opponent": "Robin Fogelberg",
@@ -3820,6 +5540,14 @@
       "player_score": 6,
       "opponent_score": 9,
       "winner": "Robin Linderborg",
+      "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Jens Hultkrans",
+      "player_score": 4,
+      "opponent_score": 8,
+      "winner": "Jens Hultkrans",
       "is_winner": false
     }
   ],
@@ -3921,6 +5649,46 @@
       "is_winner": false
     },
     {
+      "year": 2019,
+      "opponent": "Frida Danielsson",
+      "player_score": 9,
+      "opponent_score": 1,
+      "winner": "Theodore Ripman",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Johan Ekman",
+      "player_score": 8,
+      "opponent_score": 7,
+      "winner": "Theodore Ripman",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Micke Leyi",
+      "player_score": 10,
+      "opponent_score": 8,
+      "winner": "Theodore Ripman",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Robin Fogelberg",
+      "player_score": 10,
+      "opponent_score": 4,
+      "winner": "Theodore Ripman",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Robeson",
+      "player_score": 10,
+      "opponent_score": 9,
+      "winner": "Theodore Ripman",
+      "is_winner": true
+    },
+    {
       "year": 2012,
       "opponent": "Cissi Hellman",
       "player_score": 3,
@@ -3949,6 +5717,22 @@
       "opponent": "Edvin Lindsten",
       "player_score": 9,
       "opponent_score": 2,
+      "winner": "Theodore Ripman",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Erik Nordenankar",
+      "player_score": 10,
+      "opponent_score": 6,
+      "winner": "Theodore Ripman",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Benjamin Ger. Hed.",
+      "player_score": 13,
+      "opponent_score": 5,
       "winner": "Theodore Ripman",
       "is_winner": true
     }
@@ -4021,6 +5805,32 @@
       "is_winner": false
     }
   ],
+  "Viktor G\u00e4rde": [
+    {
+      "year": 2019,
+      "opponent": "Jens Hultkrans",
+      "player_score": 4,
+      "opponent_score": 8,
+      "winner": "Jens Hultkrans",
+      "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Olle Strandberg",
+      "player_score": 8,
+      "opponent_score": 7,
+      "winner": "Viktor G\u00e4rde",
+      "is_winner": true
+    },
+    {
+      "year": 2019,
+      "opponent": "Robin Linderborg",
+      "player_score": 7,
+      "opponent_score": 8,
+      "winner": "Robin Linderborg",
+      "is_winner": false
+    }
+  ],
   "Ville Nordenankar": [
     {
       "year": 2018,
@@ -4052,6 +5862,22 @@
       "player_score": 1,
       "opponent_score": 9,
       "winner": "Gabriel Nordenankar",
+      "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Niklas Frisk",
+      "player_score": 2,
+      "opponent_score": 8,
+      "winner": "Niklas Frisk",
+      "is_winner": false
+    },
+    {
+      "year": 2019,
+      "opponent": "Louise Persson",
+      "player_score": 0,
+      "opponent_score": 8,
+      "winner": "Louise Persson",
       "is_winner": false
     },
     {

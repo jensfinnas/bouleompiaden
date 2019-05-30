@@ -23,11 +23,14 @@ def site_index():
     all_players = players.all()
     # Hackishly remove all players without both first and last name
     allowed_first_names = ["Robeson", "Estrid"]
-    all_players = [x for x in all_players if (" " in x) or
-                                             (x in allowed_first_names)]
+    all_players = [x for x in all_players if (" " in x["name"]) or
+                                             (x["name"] in allowed_first_names)]
+
     context = {
         "players": all_players,
     }
+    # number of players etc.
+    context.update(players.metadata)
 
     return render_template('index.html', **context)
 
@@ -40,10 +43,11 @@ def get_context(player1, player2):
     context = {
         "player1": {
             "name": player1,
-            "wins": resp["p1_wins"],
+            #"wins": resp["p1_wins"],
             "win_prob": resp["p1_win_prob"],
-            "skill": resp["p1"]["skill"],
-            "skill_uncertainty": resp["p1"]["skill_uncertainty"],
+            "skill": resp["p1"]["rating"].mu,
+            "skill_rank": resp["p1"]["skill_rank"],
+            "skill_history": resp["p1"]["skill_history"],
             "n_games": resp["p1"]["n_games"],
             "years": resp["p1"]["years"],
             "historical_wins": resp["p1"]["n_wins"],
@@ -52,21 +56,22 @@ def get_context(player1, player2):
         },
         "player2": {
             "name": player2,
-            "wins": resp["p2_wins"],
+            #"wins": resp["p2_wins"],
             "win_prob": resp["p2_win_prob"],
-            "skill": resp["p2"]["skill"],
-            "skill_uncertainty": resp["p2"]["skill_uncertainty"],
+            "skill": resp["p2"]["rating"].mu,
+            "skill_rank": resp["p2"]["skill_rank"],
+            "skill_history": resp["p2"]["skill_history"],
             "n_games": resp["p2"]["n_games"],
             "years": resp["p2"]["years"],
             "historical_wins": resp["p2"]["n_wins"],
             "historical_win_rate": resp["p2"]["win_rate"],
             "historical_score_share": resp["p2"]["score_share"],
         },
-        "n_games": n_games,
-        "diff_counts": resp["diff_counts"],
-        "most_likely_diff": resp["most_likely_diff"],
+        #"n_games": n_games,
+        #"diff_counts": resp["diff_counts"],
+        #"most_likely_diff": resp["most_likely_diff"],
         # most common results
-        "results": resp["result_counts"].head(10).reset_index().values.tolist()
+        #"results": resp["result_counts"].head(10).reset_index().values.tolist()
     }
     context["previous_games"] = players.previous_mutual_games(player1, player2)
 
@@ -96,7 +101,7 @@ def simulate(fmt, player1, player2):
         rows.append([])
 
 
-        keys = ["name", "wins", "win_prob", "skill", "skill_uncertainty"]
+        keys = ["name", "wins", "win_prob", "skill", "skill_sigma"]
         for key in keys:
             row = [translate(key), context["player1"][key], context["player2"][key]]
             rows.append(row)
@@ -136,7 +141,7 @@ def translate(key):
             "wins": "Antal förväntade vinster",
             "win_prob": "Vinstchans",
             "skill": "Skill (0-1)",
-            "skill_uncertainty": "Osäkerhet på skill",
+            "skill_sigma": "Osäkerhet på skill",
             "n_games": "Antal matcher",
             "historical_wins": "Antal vinster",
             "historical_win_rate": "Andel vinster",

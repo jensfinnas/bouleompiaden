@@ -3,9 +3,10 @@
 import pandas as pd
 import numpy as np
 import json
-from settings import PLAYER_DATA_FILE, GAMES_BY_PLAYER_FILE
+from collections import  defaultdict
+from trueskill import TrueSkill, Rating, rate_1vs1
+from settings import BY_PLAYER_FILE, GAMES_BY_PLAYER_FILE, META_DATA_FILE, TRUE_SKILL_BASE, TRUE_SKILL_BETA, TRUE_SKILL_SIGMA
 
-OUTFILE = PLAYER_DATA_FILE
 
 ###
 # Prepare raw data
@@ -72,17 +73,74 @@ df_long = df_long.merge(df_players["score_share"].rename("opponent_hist_score_sh
 df_players["opponent_score_share"] = df_long.groupby("name")["opponent_hist_score_share"].mean()
 df_players.sort_values("opponent_score_share")
 
-best_score_share = df_players["score_share"].max()
+# Compute skill
+true_skill_env = TrueSkill(draw_probability=0, mu=TRUE_SKILL_BASE,
+                           sigma=TRUE_SKILL_SIGMA, beta=TRUE_SKILL_BETA)
+true_skill_env.make_as_global()
+
+player_skills = defaultdict(list)
+
+for ix, game in df.iterrows():
+    p1 = game["p1_name"]
+    p2 = game["p2_name"]
+
+    try:
+        p1_skill = player_skills[p1][-1][1]
+    except (KeyError, IndexError):
+        p1_skill = Rating()
+
+    try:
+        p2_skill = player_skills[p2][-1][1]
+    except (KeyError, IndexError):
+        p2_skill = Rating()
+
+    if game[u"p1_score"] > game[u"p2_score"]:
+        p1_new_skill, p2_new_skill = rate_1vs1(p1_skill, p2_skill)
+    else:
+        p2_new_skill, p1_new_skill = rate_1vs1(p2_skill, p1_skill)
+
+    player_skills[p1].append((game["year"], p1_new_skill))
+    player_skills[p2].append((game["year"], p2_new_skill))
+
+for player, skill_history in player_skills.items():
+    df_players.loc[player, "skill"] = skill_history[-1][1].mu
+    df_players.loc[player, "skill_sigma"] = skill_history[-1][1].sigma
+    # {2017: 123, 2018: 132}
+    player_skills[player] = dict([(year, np.round(skill.mu)) for i, (year, skill) in enumerate(skill_history) if (i == len(skill_history) - 1) or skill_history[i+1][0] != year])
 
 
-df_players["opponent_skill"] = df_players["opponent_score_share"] / best_score_share
-df_players["skill"] = df_players["score_share"] /  best_score_share * (df_players["opponent_skill"] / 0.5)
+    #df_players.loc[player, "skill_history"] = ",".join([str(x.mu) for x in skill_history])
 
-best_skill = df_players["skill"].max()
-df_players["skill"] = df_players["skill"] / best_skill
+df_players["name"] = df_players.index
+df_players["skill_rank"] = df_players["skill"].rank(ascending=False)
+df_players["skill_rank_pct"] = df_players["skill"].rank(ascending=False)
 
-df_players.to_csv(OUTFILE, encoding="utf-8")
-print("Updated {}".format(OUTFILE))
+players_json = df_players.to_dict("index")
+
+years = df["year"].sort_values().unique()
+for player, player_json in players_json.items():
+    skill_history = player_skills[player]
+    players_json[player]["skill_history"] = []
+    prev_skill = None
+    for year in years:
+        if year in skill_history:
+            skill = skill_history[year]
+        else:
+            skill = None
+        prev_skill = skill
+        players_json[player]["skill_history"].append((year, skill))
+
+def default(o):
+    """serialize numpy.int64"""
+    if isinstance(o, np.int64): return int(o)
+    raise TypeError
+
+with open(BY_PLAYER_FILE, 'w') as f:
+    json.dump(players_json, f, indent=2, default=default)
+print("Updated {}".format(BY_PLAYER_FILE))
+
+#df_players.to_csv(OUTFILE, encoding="utf-8")
+#print("Updated {}".format(OUTFILE))
 
 ###
 # Prepare game data
@@ -111,6 +169,19 @@ for player in df_players.index.unique():
 with open(GAMES_BY_PLAYER_FILE, 'w') as f:
     json.dump(games_json, f, indent=2)
 print("Updated {}".format(GAMES_BY_PLAYER_FILE))
+
+###
+# Prepare meta data
+###
+metadata = {
+    "n_players": len(df_players.index),
+    "years": df["year"].sort_values().unique().tolist(),
+}
+with open(META_DATA_FILE, 'w') as f:
+    json.dump(metadata, f, indent=2)
+print("Updated {}".format(META_DATA_FILE))
+
+
 """
 ###
 # Compute skill

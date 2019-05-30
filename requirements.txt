@@ -18,3 +18,4 @@ scipy==1.2.1
 six==1.12.0
 Werkzeug==0.15.1
 dicttoxml==1.7.4
+trueskill==0.4.5

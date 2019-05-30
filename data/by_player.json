@@ -1,447 +1,4460 @@
 {
-    "Agnes1": {
-        "n_games": 2,
-        "score_share": 0.0,
-        "opponent_score_share": 0.5827717876534648
-    },
-    "Alexander Starfelt": {
-        "n_games": 7,
-        "score_share": 0.44264069264069267,
-        "opponent_score_share": 0.5112832497023674
-    },
-    "Andreas Josefson": {
-        "n_games": 5,
-        "score_share": 0.4181929181929182,
-        "opponent_score_share": 0.6189977831737742
-    },
-    "Benjamin Ger. Hed.": {
-        "n_games": 8,
-        "score_share": 0.5242521367521367,
-        "opponent_score_share": 0.5120253191117161
-    },
-    "Bj\u00f6rn Berglund": {
-        "n_games": 2,
-        "score_share": 0.46153846153846156,
-        "opponent_score_share": 0.49838347416472417
-    },
-    "Bj\u00f6rn Westerfors": {
-        "n_games": 2,
-        "score_share": 0.5,
-        "opponent_score_share": 0.37382062382062387
-    },
-    "Calle Sandin": {
-        "n_games": 2,
-        "score_share": 0.4125874125874126,
-        "opponent_score_share": 0.48266377719502723
-    },
-    "Charlotte Johansson": {
-        "n_games": 4,
-        "score_share": 0.6420454545454545,
-        "opponent_score_share": 0.500911218115502
-    },
-    "Cissi Hellman": {
-        "n_games": 15,
-        "score_share": 0.47803954097432355,
-        "opponent_score_share": 0.525710535931657
-    },
-    "Conny \u00c5berg": {
-        "n_games": 2,
-        "score_share": 0.15,
-        "opponent_score_share": 0.5180980477855478
-    },
-    "Daniel Mensak": {
-        "n_games": 5,
-        "score_share": 0.6307142857142857,
-        "opponent_score_share": 0.4933591131091132
-    },
-    "Edith S\u00f6derstr\u00f6m": {
-        "n_games": 3,
-        "score_share": 0.25925925925925924,
-        "opponent_score_share": 0.5806901976019624
-    },
-    "Edvin Lindsten": {
-        "n_games": 10,
-        "score_share": 0.605695644225056,
-        "opponent_score_share": 0.4696334538342211
-    },
-    "Emma1": {
-        "n_games": 2,
-        "score_share": 0.35833333333333334,
-        "opponent_score_share": 0.39559468309468315
-    },
-    "Erik Nordenankar": {
-        "n_games": 24,
-        "score_share": 0.710450688395861,
-        "opponent_score_share": 0.48516240661421883
-    },
-    "Erik Sunninger": {
-        "n_games": 3,
-        "score_share": 0.47222222222222227,
-        "opponent_score_share": 0.5311015183074007
-    },
-    "Estrid": {
-        "n_games": 5,
-        "score_share": 0.72058229352347,
-        "opponent_score_share": 0.5341040223393165
-    },
-    "Fanny Kjellner": {
-        "n_games": 3,
-        "score_share": 0.5046296296296297,
-        "opponent_score_share": 0.46831885007305174
-    },
-    "Felix H\u00e4ggstr\u00f6m": {
-        "n_games": 2,
-        "score_share": 0.4192307692307692,
-        "opponent_score_share": 0.51633325008325
-    },
-    "Filip Tyd\u00e9n": {
-        "n_games": 5,
-        "score_share": 0.6461829836829838,
-        "opponent_score_share": 0.5719554302401896
-    },
-    "Frida \u00d6hrn": {
-        "n_games": 6,
-        "score_share": 0.4019522144522145,
-        "opponent_score_share": 0.4595215695705892
-    },
-    "Gabriel Nordenankar": {
-        "n_games": 20,
-        "score_share": 0.6507491119991121,
-        "opponent_score_share": 0.49745709897917234
-    },
-    "Gustaf Ekenstein": {
-        "n_games": 3,
-        "score_share": 0.4611111111111111,
-        "opponent_score_share": 0.48198371073371077
-    },
-    "Hannes": {
-        "n_games": 4,
-        "score_share": 0.57069493006993,
-        "opponent_score_share": 0.46807498771653183
-    },
-    "Henrik Blomkvist": {
-        "n_games": 4,
-        "score_share": 0.44635780885780885,
-        "opponent_score_share": 0.6014741838511021
-    },
-    "Ida Wimmerman": {
-        "n_games": 6,
-        "score_share": 0.5017578826402356,
-        "opponent_score_share": 0.49757772572898634
-    },
-    "Isabell Dillstr\u00f6m": {
-        "n_games": 2,
-        "score_share": 0.36428571428571427,
-        "opponent_score_share": 0.512995905609542
-    },
-    "Jacob Stenman": {
-        "n_games": 5,
-        "score_share": 0.3577272727272728,
-        "opponent_score_share": 0.5179952841276371
-    },
-    "Jakob Lien": {
-        "n_games": 20,
-        "score_share": 0.5853708546355605,
-        "opponent_score_share": 0.484962322555496
-    },
-    "Jens Finn\u00e4s": {
-        "n_games": 5,
-        "score_share": 0.4709090909090909,
-        "opponent_score_share": 0.46957152275334096
-    },
-    "Jens Hultkrans": {
-        "n_games": 8,
-        "score_share": 0.5053184560537501,
-        "opponent_score_share": 0.4822788805915005
-    },
-    "Jens West": {
-        "n_games": 2,
-        "score_share": 0.27083333333333337,
-        "opponent_score_share": 0.5569444444444445
-    },
-    "Jerker Karlsson": {
-        "n_games": 15,
-        "score_share": 0.5226412476412478,
-        "opponent_score_share": 0.5471342787902143
-    },
-    "Jesper Kronholm": {
-        "n_games": 7,
-        "score_share": 0.5905122655122655,
-        "opponent_score_share": 0.479235939129745
-    },
-    "Joakim Lundin": {
-        "n_games": 2,
-        "score_share": 0.3484848484848485,
-        "opponent_score_share": 0.4519451728826729
-    },
-    "Joel Danell": {
-        "n_games": 2,
-        "score_share": 0.4125,
-        "opponent_score_share": 0.4666245791245791
-    },
-    "Johan Alm": {
-        "n_games": 5,
-        "score_share": 0.6757478632478632,
-        "opponent_score_share": 0.4772103299868646
-    },
-    "Johan Berg": {
-        "n_games": 2,
-        "score_share": 0.375,
-        "opponent_score_share": 0.4870313162216572
-    },
-    "Johan Ekman": {
-        "n_games": 11,
-        "score_share": 0.4550928869110687,
-        "opponent_score_share": 0.5003418984746728
-    },
-    "Johan Kjell": {
-        "n_games": 12,
-        "score_share": 0.558712502094855,
-        "opponent_score_share": 0.5127379976418233
-    },
-    "Johanna R\u00e5dstr\u00f6m": {
-        "n_games": 8,
-        "score_share": 0.36044823232323236,
-        "opponent_score_share": 0.4629384688996034
-    },
-    "Johannes Birgersson": {
-        "n_games": 3,
-        "score_share": 0.4713804713804713,
-        "opponent_score_share": 0.46995391904170386
-    },
-    "John Kjellkvist": {
-        "n_games": 3,
-        "score_share": 0.763888888888889,
-        "opponent_score_share": 0.3557303807303807
-    },
-    "John Qvale": {
-        "n_games": 4,
-        "score_share": 0.3174048174048174,
-        "opponent_score_share": 0.49955747955747953
-    },
-    "Josefin Asplund": {
-        "n_games": 7,
-        "score_share": 0.5672184957899244,
-        "opponent_score_share": 0.5037786515149961
-    },
-    "Julius Jorborg": {
-        "n_games": 6,
-        "score_share": 0.4171777296777297,
-        "opponent_score_share": 0.47131170610930995
-    },
-    "Kajsa Hallberg-Nor.": {
-        "n_games": 4,
-        "score_share": 0.24941239316239316,
-        "opponent_score_share": 0.5051287138787139
-    },
-    "Karl1": {
-        "n_games": 2,
-        "score_share": 0.1736111111111111,
-        "opponent_score_share": 0.5357181924828984
-    },
-    "Kevin Carlsson": {
-        "n_games": 2,
-        "score_share": 0.36713286713286714,
-        "opponent_score_share": 0.4930840571465571
-    },
-    "Klara Gustin": {
-        "n_games": 2,
-        "score_share": 0.26111111111111107,
-        "opponent_score_share": 0.5423190235690236
-    },
-    "Kusha": {
-        "n_games": 4,
-        "score_share": 0.4875,
-        "opponent_score_share": 0.46948824455216503
-    },
-    "Leo": {
-        "n_games": 2,
-        "score_share": 0.35833333333333334,
-        "opponent_score_share": 0.51401424351792
-    },
-    "Linn Debove": {
-        "n_games": 4,
-        "score_share": 0.40625,
-        "opponent_score_share": 0.4940364238992698
-    },
-    "Linn Enhage": {
-        "n_games": 5,
-        "score_share": 0.225,
-        "opponent_score_share": 0.5409955273484686
-    },
-    "Lotta Harder": {
-        "n_games": 3,
-        "score_share": 0.6235690235690236,
-        "opponent_score_share": 0.47968767343767343
-    },
-    "Louise Persson": {
-        "n_games": 4,
-        "score_share": 0.5689903846153845,
-        "opponent_score_share": 0.4509710486272986
-    },
-    "Love Elfvelin": {
-        "n_games": 7,
-        "score_share": 0.4349618635332921,
-        "opponent_score_share": 0.5132804860483432
-    },
-    "LoveKalle": {
-        "n_games": 11,
-        "score_share": 0.5708989243080153,
-        "opponent_score_share": 0.5099570667923231
-    },
-    "Lovisa Birgersson": {
-        "n_games": 8,
-        "score_share": 0.5262706043956045,
-        "opponent_score_share": 0.49001399848762095
-    },
-    "Maria Adel\u00f6f": {
-        "n_games": 5,
-        "score_share": 0.4079487179487179,
-        "opponent_score_share": 0.4029725780755192
-    },
-    "Mathilda Hansson": {
-        "n_games": 4,
-        "score_share": 0.5174242424242423,
-        "opponent_score_share": 0.4534549702748232
-    },
-    "Mina": {
-        "n_games": 3,
-        "score_share": 0.3526936026936027,
-        "opponent_score_share": 0.5354429521096188
-    },
-    "Niklas": {
-        "n_games": 4,
-        "score_share": 0.5385912698412698,
-        "opponent_score_share": 0.4915997173442027
-    },
-    "Olga": {
-        "n_games": 2,
-        "score_share": 0.2,
-        "opponent_score_share": 0.5822040731599555
-    },
-    "Olle Hjort": {
-        "n_games": 3,
-        "score_share": 0.28619528619528617,
-        "opponent_score_share": 0.5097629608046275
-    },
-    "Olle Strandberg": {
-        "n_games": 3,
-        "score_share": 0.7125,
-        "opponent_score_share": 0.35313513873562896
-    },
-    "Olof Sabelstr\u00f6m": {
-        "n_games": 6,
-        "score_share": 0.35000000000000003,
-        "opponent_score_share": 0.5422299241726531
-    },
-    "Patrik J\u00e4rg\u00e5rden": {
-        "n_games": 3,
-        "score_share": 0.6721380471380471,
-        "opponent_score_share": 0.41966065524889046
-    },
-    "Pelle Dovborg": {
-        "n_games": 8,
-        "score_share": 0.4329812548562548,
-        "opponent_score_share": 0.48288531228872145
-    },
-    "Petter Hammarb\u00e4ck": {
-        "n_games": 2,
-        "score_share": 0.24431818181818182,
-        "opponent_score_share": 0.49882553788803785
-    },
-    "Philip Little": {
-        "n_games": 2,
-        "score_share": 0.38076923076923075,
-        "opponent_score_share": 0.5011458388632302
-    },
-    "Richard Ekman": {
-        "n_games": 12,
-        "score_share": 0.6095665908165909,
-        "opponent_score_share": 0.45046274941276704
-    },
-    "Robeson": {
-        "n_games": 3,
-        "score_share": 0.4898989898989899,
-        "opponent_score_share": 0.5099090610732767
-    },
-    "Robin Fogelberg": {
-        "n_games": 8,
-        "score_share": 0.4804311497326203,
-        "opponent_score_share": 0.5707873274896932
-    },
-    "Robin Linderborg": {
-        "n_games": 9,
-        "score_share": 0.5583462833462833,
-        "opponent_score_share": 0.5162468131159439
-    },
-    "Sandra Starfelt": {
-        "n_games": 3,
-        "score_share": 0.5058275058275058,
-        "opponent_score_share": 0.49643415589494017
-    },
-    "Sebastin Fors\u00e9n": {
-        "n_games": 3,
-        "score_share": 0.6105664488017429,
-        "opponent_score_share": 0.5290675872783716
-    },
-    "Simon1": {
-        "n_games": 3,
-        "score_share": 0.4657407407407408,
-        "opponent_score_share": 0.43910941636431833
-    },
-    "Sofia Ahlstr\u00f6m": {
-        "n_games": 4,
-        "score_share": 0.471474358974359,
-        "opponent_score_share": 0.5195147059406514
-    },
-    "Sofia Bard": {
-        "n_games": 2,
-        "score_share": 0.47756410256410253,
-        "opponent_score_share": 0.478624194433018
-    },
-    "Sofia R\u00e5dstr\u00f6m": {
-        "n_games": 12,
-        "score_share": 0.31971500721500723,
-        "opponent_score_share": 0.5422337214282947
-    },
-    "Sofia S\u00f6derberg": {
-        "n_games": 2,
-        "score_share": 0.15,
-        "opponent_score_share": 0.4966597862921392
-    },
-    "Sofia \u00d6": {
-        "n_games": 6,
-        "score_share": 0.3446350762527233,
-        "opponent_score_share": 0.5537057795558241
-    },
-    "Sussie R\u00e5dis": {
-        "n_games": 4,
-        "score_share": 0.4777972027972027,
-        "opponent_score_share": 0.49035675143211904
-    },
-    "Theodore Ripman": {
-        "n_games": 16,
-        "score_share": 0.5189697455322456,
-        "opponent_score_share": 0.5021528060260876
-    },
-    "Tobe Welander": {
-        "n_games": 6,
-        "score_share": 0.48502616664381376,
-        "opponent_score_share": 0.4979965181748803
-    },
-    "Tove Papp Lindkvist": {
-        "n_games": 2,
-        "score_share": 0.3418803418803419,
-        "opponent_score_share": 0.4744422346444405
-    },
-    "Ville Nordenankar": {
-        "n_games": 8,
-        "score_share": 0.579861111111111,
-        "opponent_score_share": 0.5567744741837184
-    },
-    "Ylva Ohlson": {
-        "n_games": 7,
-        "score_share": 0.5159032144326262,
-        "opponent_score_share": 0.44232370959261713
-    }
+  "Agnes Hannervall": {
+    "n_games": 2,
+    "score_share": 0.1919191919191919,
+    "n_wins": 0.0,
+    "years": [
+      2019
+    ],
+    "win_rate": 0.0,
+    "opponent_score_share": 0.5083787046287046,
+    "skill": 21.674243340660976,
+    "skill_sigma": 82.5674383386487,
+    "name": "Agnes Hannervall",
+    "skill_rank": 95.0,
+    "skill_rank_pct": 95.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        22.0
+      ]
+    ]
+  },
+  "Agnes Lind": {
+    "n_games": 2,
+    "score_share": 0.0,
+    "n_wins": 0.0,
+    "years": [
+      2012
+    ],
+    "win_rate": 0.0,
+    "opponent_score_share": 0.6021503385018411,
+    "skill": 40.604338251255086,
+    "skill_sigma": 86.1348965818825,
+    "name": "Agnes Lind",
+    "skill_rank": 78.0,
+    "skill_rank_pct": 78.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        41.0
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        null
+      ]
+    ]
+  },
+  "Alexander Bjerner": {
+    "n_games": 3,
+    "score_share": 0.48329448329448327,
+    "n_wins": 2.0,
+    "years": [
+      2019
+    ],
+    "win_rate": 0.6666666666666666,
+    "opponent_score_share": 0.5436557269890603,
+    "skill": 134.8486494767722,
+    "skill_sigma": 77.148715380216,
+    "name": "Alexander Bjerner",
+    "skill_rank": 28.0,
+    "skill_rank_pct": 28.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        135.0
+      ]
+    ]
+  },
+  "Alexander Starfelt": {
+    "n_games": 11,
+    "score_share": 0.538337924701561,
+    "n_wins": 6.0,
+    "years": [
+      2017,
+      2018,
+      2019
+    ],
+    "win_rate": 0.5454545454545454,
+    "opponent_score_share": 0.4654604748723701,
+    "skill": 130.65754662791494,
+    "skill_sigma": 55.66944765264386,
+    "name": "Alexander Starfelt",
+    "skill_rank": 31.0,
+    "skill_rank_pct": 31.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        77.0
+      ],
+      [
+        2018,
+        98.0
+      ],
+      [
+        2019,
+        131.0
+      ]
+    ]
+  },
+  "Andreas Josefson": {
+    "n_games": 5,
+    "score_share": 0.4181929181929182,
+    "n_wins": 2.0,
+    "years": [
+      2011,
+      2012
+    ],
+    "win_rate": 0.4,
+    "opponent_score_share": 0.6154529206284758,
+    "skill": 81.4383038338104,
+    "skill_sigma": 70.03253127982998,
+    "name": "Andreas Josefson",
+    "skill_rank": 56.0,
+    "skill_rank_pct": 56.0,
+    "skill_history": [
+      [
+        2011,
+        77.0
+      ],
+      [
+        2012,
+        81.0
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        null
+      ]
+    ]
+  },
+  "Benjamin Ger. Hed.": {
+    "n_games": 16,
+    "score_share": 0.5525380001942501,
+    "n_wins": 11.0,
+    "years": [
+      2017,
+      2018,
+      2019
+    ],
+    "win_rate": 0.6875,
+    "opponent_score_share": 0.4977093412674692,
+    "skill": 203.04097714883403,
+    "skill_sigma": 46.25879256186444,
+    "name": "Benjamin Ger. Hed.",
+    "skill_rank": 9.0,
+    "skill_rank_pct": 9.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        177.0
+      ],
+      [
+        2018,
+        157.0
+      ],
+      [
+        2019,
+        203.0
+      ]
+    ]
+  },
+  "Bj\u00f6rn Berglund": {
+    "n_games": 5,
+    "score_share": 0.4721153846153846,
+    "n_wins": 1.0,
+    "years": [
+      2018,
+      2019
+    ],
+    "win_rate": 0.2,
+    "opponent_score_share": 0.5018141716772295,
+    "skill": 39.403608546819335,
+    "skill_sigma": 69.27973490540512,
+    "name": "Bj\u00f6rn Berglund",
+    "skill_rank": 79.0,
+    "skill_rank_pct": 79.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        27.0
+      ],
+      [
+        2019,
+        39.0
+      ]
+    ]
+  },
+  "Bj\u00f6rn Westerfors": {
+    "n_games": 2,
+    "score_share": 0.5,
+    "n_wins": 1.0,
+    "years": [
+      2016
+    ],
+    "win_rate": 0.5,
+    "opponent_score_share": 0.3672904872904873,
+    "skill": 83.08742212813353,
+    "skill_sigma": 82.92787710835623,
+    "name": "Bj\u00f6rn Westerfors",
+    "skill_rank": 55.0,
+    "skill_rank_pct": 55.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        83.0
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        null
+      ]
+    ]
+  },
+  "Calle Sandin": {
+    "n_games": 2,
+    "score_share": 0.4125874125874126,
+    "n_wins": 0.0,
+    "years": [
+      2011
+    ],
+    "win_rate": 0.0,
+    "opponent_score_share": 0.5031838727633922,
+    "skill": 25.969764317371745,
+    "skill_sigma": 84.8525198316017,
+    "name": "Calle Sandin",
+    "skill_rank": 93.0,
+    "skill_rank_pct": 93.0,
+    "skill_history": [
+      [
+        2011,
+        26.0
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        null
+      ]
+    ]
+  },
+  "Charlotte Johansson": {
+    "n_games": 6,
+    "score_share": 0.5206228956228955,
+    "n_wins": 3.0,
+    "years": [
+      2018,
+      2019
+    ],
+    "win_rate": 0.5,
+    "opponent_score_share": 0.5277569339408216,
+    "skill": 109.21678519769871,
+    "skill_sigma": 63.304419916969316,
+    "name": "Charlotte Johansson",
+    "skill_rank": 42.0,
+    "skill_rank_pct": 42.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        171.0
+      ],
+      [
+        2019,
+        109.0
+      ]
+    ]
+  },
+  "Christian Steen": {
+    "n_games": 4,
+    "score_share": 0.5038461538461538,
+    "n_wins": 2.0,
+    "years": [
+      2019
+    ],
+    "win_rate": 0.5,
+    "opponent_score_share": 0.5362718781179916,
+    "skill": 117.29961861365159,
+    "skill_sigma": 70.71324416571116,
+    "name": "Christian Steen",
+    "skill_rank": 38.0,
+    "skill_rank_pct": 38.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        117.0
+      ]
+    ]
+  },
+  "Cissi Hellman": {
+    "n_games": 20,
+    "score_share": 0.48071302791411474,
+    "n_wins": 11.0,
+    "years": [
+      2011,
+      2012,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "win_rate": 0.55,
+    "opponent_score_share": 0.5355121346372823,
+    "skill": 141.7087569670192,
+    "skill_sigma": 41.761726468239665,
+    "name": "Cissi Hellman",
+    "skill_rank": 21.0,
+    "skill_rank_pct": 21.0,
+    "skill_history": [
+      [
+        2011,
+        142.0
+      ],
+      [
+        2012,
+        136.0
+      ],
+      [
+        2016,
+        140.0
+      ],
+      [
+        2017,
+        124.0
+      ],
+      [
+        2018,
+        134.0
+      ],
+      [
+        2019,
+        142.0
+      ]
+    ]
+  },
+  "Conny \u00c5berg": {
+    "n_games": 2,
+    "score_share": 0.15,
+    "n_wins": 0.0,
+    "years": [
+      2012
+    ],
+    "win_rate": 0.0,
+    "opponent_score_share": 0.5081895881895881,
+    "skill": 29.675367945397134,
+    "skill_sigma": 84.94176502166599,
+    "name": "Conny \u00c5berg",
+    "skill_rank": 87.0,
+    "skill_rank_pct": 87.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        30.0
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        null
+      ]
+    ]
+  },
+  "Daniel Mensak": {
+    "n_games": 5,
+    "score_share": 0.6307142857142857,
+    "n_wins": 3.0,
+    "years": [
+      2016
+    ],
+    "win_rate": 0.6,
+    "opponent_score_share": 0.4882208534155903,
+    "skill": 137.19007616437077,
+    "skill_sigma": 68.02286575638321,
+    "name": "Daniel Mensak",
+    "skill_rank": 24.0,
+    "skill_rank_pct": 24.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        137.0
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        null
+      ]
+    ]
+  },
+  "Edith S\u00f6derstr\u00f6m": {
+    "n_games": 6,
+    "score_share": 0.2698005698005698,
+    "n_wins": 2.0,
+    "years": [
+      2018,
+      2019
+    ],
+    "win_rate": 0.3333333333333333,
+    "opponent_score_share": 0.5188793332908792,
+    "skill": 58.721641262854064,
+    "skill_sigma": 67.23390150907439,
+    "name": "Edith S\u00f6derstr\u00f6m",
+    "skill_rank": 71.0,
+    "skill_rank_pct": 71.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        79.0
+      ],
+      [
+        2019,
+        59.0
+      ]
+    ]
+  },
+  "Edvin Lindsten": {
+    "n_games": 14,
+    "score_share": 0.6191027926322044,
+    "n_wins": 11.0,
+    "years": [
+      2017,
+      2018,
+      2019
+    ],
+    "win_rate": 0.7857142857142857,
+    "opponent_score_share": 0.48347457407270816,
+    "skill": 223.5322432529017,
+    "skill_sigma": 51.30491509898655,
+    "name": "Edvin Lindsten",
+    "skill_rank": 6.0,
+    "skill_rank_pct": 6.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        231.0
+      ],
+      [
+        2018,
+        225.0
+      ],
+      [
+        2019,
+        224.0
+      ]
+    ]
+  },
+  "Emma Pettersson": {
+    "n_games": 2,
+    "score_share": 0.35833333333333334,
+    "n_wins": 0.0,
+    "years": [
+      2017
+    ],
+    "win_rate": 0.0,
+    "opponent_score_share": 0.4135438172938173,
+    "skill": 4.5817304606345335,
+    "skill_sigma": 82.55932425645045,
+    "name": "Emma Pettersson",
+    "skill_rank": 98.0,
+    "skill_rank_pct": 98.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        5.0
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        null
+      ]
+    ]
+  },
+  "Erik Nordenankar": {
+    "n_games": 28,
+    "score_share": 0.7090416767446819,
+    "n_wins": 21.0,
+    "years": [
+      2011,
+      2012,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "win_rate": 0.75,
+    "opponent_score_share": 0.4782740091287852,
+    "skill": 229.8753577495328,
+    "skill_sigma": 37.68520649310408,
+    "name": "Erik Nordenankar",
+    "skill_rank": 3.0,
+    "skill_rank_pct": 3.0,
+    "skill_history": [
+      [
+        2011,
+        183.0
+      ],
+      [
+        2012,
+        188.0
+      ],
+      [
+        2016,
+        164.0
+      ],
+      [
+        2017,
+        204.0
+      ],
+      [
+        2018,
+        229.0
+      ],
+      [
+        2019,
+        230.0
+      ]
+    ]
+  },
+  "Erik Sunninger": {
+    "n_games": 3,
+    "score_share": 0.47222222222222227,
+    "n_wins": 2.0,
+    "years": [
+      2016
+    ],
+    "win_rate": 0.6666666666666666,
+    "opponent_score_share": 0.5311015183074007,
+    "skill": 135.78080747383754,
+    "skill_sigma": 78.95138517991572,
+    "name": "Erik Sunninger",
+    "skill_rank": 25.0,
+    "skill_rank_pct": 25.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        136.0
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        null
+      ]
+    ]
+  },
+  "Estrid": {
+    "n_games": 12,
+    "score_share": 0.6307361168816277,
+    "n_wins": 9.0,
+    "years": [
+      2018,
+      2019
+    ],
+    "win_rate": 0.75,
+    "opponent_score_share": 0.5230738663941698,
+    "skill": 224.95409547707513,
+    "skill_sigma": 51.32867697446917,
+    "name": "Estrid",
+    "skill_rank": 5.0,
+    "skill_rank_pct": 5.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        200.0
+      ],
+      [
+        2019,
+        225.0
+      ]
+    ]
+  },
+  "Fanny Kjellner": {
+    "n_games": 6,
+    "score_share": 0.4707491582491583,
+    "n_wins": 2.0,
+    "years": [
+      2018,
+      2019
+    ],
+    "win_rate": 0.3333333333333333,
+    "opponent_score_share": 0.4889089593776612,
+    "skill": 54.983859403950454,
+    "skill_sigma": 66.93611477006206,
+    "name": "Fanny Kjellner",
+    "skill_rank": 73.0,
+    "skill_rank_pct": 73.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        60.0
+      ],
+      [
+        2019,
+        55.0
+      ]
+    ]
+  },
+  "Felix H\u00e4ggstr\u00f6m": {
+    "n_games": 2,
+    "score_share": 0.4192307692307692,
+    "n_wins": 1.0,
+    "years": [
+      2016
+    ],
+    "win_rate": 0.5,
+    "opponent_score_share": 0.51633325008325,
+    "skill": 95.49985607310059,
+    "skill_sigma": 83.55704086538617,
+    "name": "Felix H\u00e4ggstr\u00f6m",
+    "skill_rank": 50.0,
+    "skill_rank_pct": 50.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        95.0
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        null
+      ]
+    ]
+  },
+  "Filip Tyd\u00e9n": {
+    "n_games": 5,
+    "score_share": 0.6461829836829838,
+    "n_wins": 5.0,
+    "years": [
+      2012
+    ],
+    "win_rate": 1.0,
+    "opponent_score_share": 0.5715456651056761,
+    "skill": 253.5752124795787,
+    "skill_sigma": 69.44615865417624,
+    "name": "Filip Tyd\u00e9n",
+    "skill_rank": 2.0,
+    "skill_rank_pct": 2.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        254.0
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        null
+      ]
+    ]
+  },
+  "Frida Danielsson": {
+    "n_games": 2,
+    "score_share": 0.10555555555555556,
+    "n_wins": 0.0,
+    "years": [
+      2019
+    ],
+    "win_rate": 0.0,
+    "opponent_score_share": 0.5477148728090981,
+    "skill": 30.583928552944442,
+    "skill_sigma": 83.9939587252977,
+    "name": "Frida Danielsson",
+    "skill_rank": 86.0,
+    "skill_rank_pct": 86.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        31.0
+      ]
+    ]
+  },
+  "Frida \u00d6hrn": {
+    "n_games": 6,
+    "score_share": 0.4019522144522145,
+    "n_wins": 1.0,
+    "years": [
+      2012,
+      2016,
+      2018
+    ],
+    "win_rate": 0.16666666666666666,
+    "opponent_score_share": 0.46261352947201195,
+    "skill": 1.3050742687339483,
+    "skill_sigma": 68.19681380959432,
+    "name": "Frida \u00d6hrn",
+    "skill_rank": 99.0,
+    "skill_rank_pct": 99.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        93.0
+      ],
+      [
+        2016,
+        41.0
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        1.0
+      ],
+      [
+        2019,
+        null
+      ]
+    ]
+  },
+  "Gabriel Nordenankar": {
+    "n_games": 25,
+    "score_share": 0.6381180865917708,
+    "n_wins": 21.0,
+    "years": [
+      2011,
+      2012,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "win_rate": 0.84,
+    "opponent_score_share": 0.5064874202255943,
+    "skill": 268.6103947410602,
+    "skill_sigma": 40.816865523293444,
+    "name": "Gabriel Nordenankar",
+    "skill_rank": 1.0,
+    "skill_rank_pct": 1.0,
+    "skill_history": [
+      [
+        2011,
+        100.0
+      ],
+      [
+        2012,
+        105.0
+      ],
+      [
+        2016,
+        209.0
+      ],
+      [
+        2017,
+        263.0
+      ],
+      [
+        2018,
+        265.0
+      ],
+      [
+        2019,
+        269.0
+      ]
+    ]
+  },
+  "Gustaf Ekenstein": {
+    "n_games": 3,
+    "score_share": 0.4611111111111111,
+    "n_wins": 1.0,
+    "years": [
+      2018
+    ],
+    "win_rate": 0.3333333333333333,
+    "opponent_score_share": 0.45399498681954825,
+    "skill": 77.35295727691766,
+    "skill_sigma": 80.20883091450936,
+    "name": "Gustaf Ekenstein",
+    "skill_rank": 60.0,
+    "skill_rank_pct": 60.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        77.0
+      ],
+      [
+        2019,
+        null
+      ]
+    ]
+  },
+  "Hannes Jordan": {
+    "n_games": 7,
+    "score_share": 0.5475399600399601,
+    "n_wins": 4.0,
+    "years": [
+      2018,
+      2019
+    ],
+    "win_rate": 0.5714285714285714,
+    "opponent_score_share": 0.44385802045023626,
+    "skill": 123.32495419441575,
+    "skill_sigma": 63.99205612418714,
+    "name": "Hannes Jordan",
+    "skill_rank": 36.0,
+    "skill_rank_pct": 36.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        166.0
+      ],
+      [
+        2019,
+        123.0
+      ]
+    ]
+  },
+  "Hasse Hallgren": {
+    "n_games": 2,
+    "score_share": 0.15555555555555556,
+    "n_wins": 0.0,
+    "years": [
+      2019
+    ],
+    "win_rate": 0.0,
+    "opponent_score_share": 0.5999794187294187,
+    "skill": 37.144129908095984,
+    "skill_sigma": 84.46074954323204,
+    "name": "Hasse Hallgren",
+    "skill_rank": 81.0,
+    "skill_rank_pct": 81.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        37.0
+      ]
+    ]
+  },
+  "Henrik Blomkvist": {
+    "n_games": 4,
+    "score_share": 0.44635780885780885,
+    "n_wins": 2.0,
+    "years": [
+      2011
+    ],
+    "win_rate": 0.5,
+    "opponent_score_share": 0.6113819787224898,
+    "skill": 112.78320716944289,
+    "skill_sigma": 73.41018044223122,
+    "name": "Henrik Blomkvist",
+    "skill_rank": 40.0,
+    "skill_rank_pct": 40.0,
+    "skill_history": [
+      [
+        2011,
+        113.0
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        null
+      ]
+    ]
+  },
+  "Ida Wimmerman": {
+    "n_games": 6,
+    "score_share": 0.5017578826402356,
+    "n_wins": 3.0,
+    "years": [
+      2017,
+      2018
+    ],
+    "win_rate": 0.5,
+    "opponent_score_share": 0.49472821568409814,
+    "skill": 111.04222345376026,
+    "skill_sigma": 65.0840712774202,
+    "name": "Ida Wimmerman",
+    "skill_rank": 41.0,
+    "skill_rank_pct": 41.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        32.0
+      ],
+      [
+        2018,
+        111.0
+      ],
+      [
+        2019,
+        null
+      ]
+    ]
+  },
+  "Isabell Dillstr\u00f6m": {
+    "n_games": 4,
+    "score_share": 0.3574675324675325,
+    "n_wins": 0.0,
+    "years": [
+      2018,
+      2019
+    ],
+    "win_rate": 0.0,
+    "opponent_score_share": 0.48995725504654075,
+    "skill": -5.26344084615297,
+    "skill_sigma": 75.05400910910028,
+    "name": "Isabell Dillstr\u00f6m",
+    "skill_rank": 100.0,
+    "skill_rank_pct": 100.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        32.0
+      ],
+      [
+        2019,
+        -5.0
+      ]
+    ]
+  },
+  "Jacob Stenman": {
+    "n_games": 5,
+    "score_share": 0.3577272727272728,
+    "n_wins": 1.0,
+    "years": [
+      2017,
+      2018
+    ],
+    "win_rate": 0.2,
+    "opponent_score_share": 0.524309374707621,
+    "skill": 24.1250677242515,
+    "skill_sigma": 70.30892407946986,
+    "name": "Jacob Stenman",
+    "skill_rank": 94.0,
+    "skill_rank_pct": 94.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        55.0
+      ],
+      [
+        2018,
+        24.0
+      ],
+      [
+        2019,
+        null
+      ]
+    ]
+  },
+  "Jakob Gustafsson": {
+    "n_games": 3,
+    "score_share": 0.44133644133644134,
+    "n_wins": 1.0,
+    "years": [
+      2019
+    ],
+    "win_rate": 0.3333333333333333,
+    "opponent_score_share": 0.43719715469715476,
+    "skill": 53.381353614083764,
+    "skill_sigma": 78.34049681112849,
+    "name": "Jakob Gustafsson",
+    "skill_rank": 75.0,
+    "skill_rank_pct": 75.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        53.0
+      ]
+    ]
+  },
+  "Jakob Lien": {
+    "n_games": 23,
+    "score_share": 0.5680243456458289,
+    "n_wins": 16.0,
+    "years": [
+      2011,
+      2012,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "win_rate": 0.6956521739130435,
+    "opponent_score_share": 0.49401454490267477,
+    "skill": 179.55771201000184,
+    "skill_sigma": 41.207738929357156,
+    "name": "Jakob Lien",
+    "skill_rank": 10.0,
+    "skill_rank_pct": 10.0,
+    "skill_history": [
+      [
+        2011,
+        127.0
+      ],
+      [
+        2012,
+        186.0
+      ],
+      [
+        2016,
+        209.0
+      ],
+      [
+        2017,
+        206.0
+      ],
+      [
+        2018,
+        182.0
+      ],
+      [
+        2019,
+        180.0
+      ]
+    ]
+  },
+  "Jan Bergstrand": {
+    "n_games": 2,
+    "score_share": 0.18055555555555555,
+    "n_wins": 0.0,
+    "years": [
+      2019
+    ],
+    "win_rate": 0.0,
+    "opponent_score_share": 0.6168224256739283,
+    "skill": 36.53002646683068,
+    "skill_sigma": 84.96417009199082,
+    "name": "Jan Bergstrand",
+    "skill_rank": 82.0,
+    "skill_rank_pct": 82.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        37.0
+      ]
+    ]
+  },
+  "Jens Finn\u00e4s": {
+    "n_games": 9,
+    "score_share": 0.4545750545750546,
+    "n_wins": 5.0,
+    "years": [
+      2016,
+      2018,
+      2019
+    ],
+    "win_rate": 0.5555555555555556,
+    "opponent_score_share": 0.50378422801978,
+    "skill": 144.96256553954154,
+    "skill_sigma": 58.686992479361244,
+    "name": "Jens Finn\u00e4s",
+    "skill_rank": 19.0,
+    "skill_rank_pct": 19.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        96.0
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        131.0
+      ],
+      [
+        2019,
+        145.0
+      ]
+    ]
+  },
+  "Jens Hultkrans": {
+    "n_games": 14,
+    "score_share": 0.5340547291177543,
+    "n_wins": 9.0,
+    "years": [
+      2018,
+      2019
+    ],
+    "win_rate": 0.6428571428571429,
+    "opponent_score_share": 0.4809848942088823,
+    "skill": 176.22168395382946,
+    "skill_sigma": 47.962591264035964,
+    "name": "Jens Hultkrans",
+    "skill_rank": 13.0,
+    "skill_rank_pct": 13.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        171.0
+      ],
+      [
+        2019,
+        176.0
+      ]
+    ]
+  },
+  "Jens West": {
+    "n_games": 2,
+    "score_share": 0.27083333333333337,
+    "n_wins": 0.0,
+    "years": [
+      2011
+    ],
+    "win_rate": 0.0,
+    "opponent_score_share": 0.5569444444444445,
+    "skill": 31.23227082619833,
+    "skill_sigma": 85.5722604886366,
+    "name": "Jens West",
+    "skill_rank": 85.0,
+    "skill_rank_pct": 85.0,
+    "skill_history": [
+      [
+        2011,
+        31.0
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        null
+      ]
+    ]
+  },
+  "Jerker Karlsson": {
+    "n_games": 20,
+    "score_share": 0.5095809745809746,
+    "n_wins": 11.0,
+    "years": [
+      2012,
+      2016,
+      2017,
+      2019
+    ],
+    "win_rate": 0.55,
+    "opponent_score_share": 0.5416156831268288,
+    "skill": 159.84028852367072,
+    "skill_sigma": 43.0537175615712,
+    "name": "Jerker Karlsson",
+    "skill_rank": 16.0,
+    "skill_rank_pct": 16.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        16.0
+      ],
+      [
+        2016,
+        120.0
+      ],
+      [
+        2017,
+        149.0
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        160.0
+      ]
+    ]
+  },
+  "Jesper Kronholm": {
+    "n_games": 12,
+    "score_share": 0.5947270322270323,
+    "n_wins": 7.0,
+    "years": [
+      2017,
+      2018,
+      2019
+    ],
+    "win_rate": 0.5833333333333334,
+    "opponent_score_share": 0.4821731993511596,
+    "skill": 137.68528065420745,
+    "skill_sigma": 52.08318501570671,
+    "name": "Jesper Kronholm",
+    "skill_rank": 23.0,
+    "skill_rank_pct": 23.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        150.0
+      ],
+      [
+        2018,
+        128.0
+      ],
+      [
+        2019,
+        138.0
+      ]
+    ]
+  },
+  "Joakim Lundin": {
+    "n_games": 4,
+    "score_share": 0.39805194805194805,
+    "n_wins": 0.0,
+    "years": [
+      2018,
+      2019
+    ],
+    "win_rate": 0.0,
+    "opponent_score_share": 0.46688672443581786,
+    "skill": -6.926347984630405,
+    "skill_sigma": 76.0053259549576,
+    "name": "Joakim Lundin",
+    "skill_rank": 102.0,
+    "skill_rank_pct": 102.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        24.0
+      ],
+      [
+        2019,
+        -7.0
+      ]
+    ]
+  },
+  "Joel Danell": {
+    "n_games": 2,
+    "score_share": 0.4125,
+    "n_wins": 1.0,
+    "years": [
+      2012
+    ],
+    "win_rate": 0.5,
+    "opponent_score_share": 0.4666245791245791,
+    "skill": 100.08555688967844,
+    "skill_sigma": 84.61235738999534,
+    "name": "Joel Danell",
+    "skill_rank": 49.0,
+    "skill_rank_pct": 49.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        100.0
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        null
+      ]
+    ]
+  },
+  "Johan Alm": {
+    "n_games": 5,
+    "score_share": 0.6757478632478632,
+    "n_wins": 4.0,
+    "years": [
+      2012
+    ],
+    "win_rate": 0.8,
+    "opponent_score_share": 0.48117318204559084,
+    "skill": 203.95190071100978,
+    "skill_sigma": 69.67080765008075,
+    "name": "Johan Alm",
+    "skill_rank": 8.0,
+    "skill_rank_pct": 8.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        204.0
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        null
+      ]
+    ]
+  },
+  "Johan Berg": {
+    "n_games": 2,
+    "score_share": 0.375,
+    "n_wins": 0.0,
+    "years": [
+      2017
+    ],
+    "win_rate": 0.0,
+    "opponent_score_share": 0.527634468463988,
+    "skill": 28.29005189883221,
+    "skill_sigma": 83.52955215234816,
+    "name": "Johan Berg",
+    "skill_rank": 89.0,
+    "skill_rank_pct": 89.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        28.0
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        null
+      ]
+    ]
+  },
+  "Johan Ekman": {
+    "n_games": 15,
+    "score_share": 0.4952590002590003,
+    "n_wins": 6.0,
+    "years": [
+      2012,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "win_rate": 0.4,
+    "opponent_score_share": 0.51332858141073,
+    "skill": 88.01537690670958,
+    "skill_sigma": 49.61112782547556,
+    "name": "Johan Ekman",
+    "skill_rank": 54.0,
+    "skill_rank_pct": 54.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        111.0
+      ],
+      [
+        2016,
+        107.0
+      ],
+      [
+        2017,
+        88.0
+      ],
+      [
+        2018,
+        72.0
+      ],
+      [
+        2019,
+        88.0
+      ]
+    ]
+  },
+  "Johan Kjell": {
+    "n_games": 12,
+    "score_share": 0.558712502094855,
+    "n_wins": 9.0,
+    "years": [
+      2012,
+      2017,
+      2018
+    ],
+    "win_rate": 0.75,
+    "opponent_score_share": 0.5143956084250813,
+    "skill": 204.10879918597072,
+    "skill_sigma": 50.748730512642965,
+    "name": "Johan Kjell",
+    "skill_rank": 7.0,
+    "skill_rank_pct": 7.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        164.0
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        90.0
+      ],
+      [
+        2018,
+        204.0
+      ],
+      [
+        2019,
+        null
+      ]
+    ]
+  },
+  "Johanna R\u00e5dstr\u00f6m": {
+    "n_games": 10,
+    "score_share": 0.3406313131313132,
+    "n_wins": 2.0,
+    "years": [
+      2012,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "win_rate": 0.2,
+    "opponent_score_share": 0.4909603784285189,
+    "skill": -16.340457087333967,
+    "skill_sigma": 58.326989916668865,
+    "name": "Johanna R\u00e5dstr\u00f6m",
+    "skill_rank": 103.0,
+    "skill_rank_pct": 103.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        96.0
+      ],
+      [
+        2016,
+        78.0
+      ],
+      [
+        2017,
+        27.0
+      ],
+      [
+        2018,
+        -1.0
+      ],
+      [
+        2019,
+        -16.0
+      ]
+    ]
+  },
+  "Johannes Birgersson": {
+    "n_games": 5,
+    "score_share": 0.44282828282828285,
+    "n_wins": 2.0,
+    "years": [
+      2017,
+      2019
+    ],
+    "win_rate": 0.4,
+    "opponent_score_share": 0.5077270771808502,
+    "skill": 75.62010069915637,
+    "skill_sigma": 68.13723952043263,
+    "name": "Johannes Birgersson",
+    "skill_rank": 63.0,
+    "skill_rank_pct": 63.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        134.0
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        76.0
+      ]
+    ]
+  },
+  "John Kjellkvist": {
+    "n_games": 3,
+    "score_share": 0.763888888888889,
+    "n_wins": 2.0,
+    "years": [
+      2011
+    ],
+    "win_rate": 0.6666666666666666,
+    "opponent_score_share": 0.3557303807303807,
+    "skill": 132.5990498437464,
+    "skill_sigma": 78.25874563072736,
+    "name": "John Kjellkvist",
+    "skill_rank": 29.0,
+    "skill_rank_pct": 29.0,
+    "skill_history": [
+      [
+        2011,
+        133.0
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        null
+      ]
+    ]
+  },
+  "John Qvale": {
+    "n_games": 6,
+    "score_share": 0.3312613312613313,
+    "n_wins": 0.0,
+    "years": [
+      2016,
+      2018,
+      2019
+    ],
+    "win_rate": 0.0,
+    "opponent_score_share": 0.5130980147468561,
+    "skill": -36.03990037944982,
+    "skill_sigma": 70.4217297508844,
+    "name": "John Qvale",
+    "skill_rank": 105.0,
+    "skill_rank_pct": 105.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        30.0
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        -14.0
+      ],
+      [
+        2019,
+        -36.0
+      ]
+    ]
+  },
+  "Josefin Asplund": {
+    "n_games": 7,
+    "score_share": 0.5672184957899244,
+    "n_wins": 4.0,
+    "years": [
+      2017,
+      2018
+    ],
+    "win_rate": 0.5714285714285714,
+    "opponent_score_share": 0.5099075505341489,
+    "skill": 130.4332980074855,
+    "skill_sigma": 62.32176744085515,
+    "name": "Josefin Asplund",
+    "skill_rank": 32.0,
+    "skill_rank_pct": 32.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        166.0
+      ],
+      [
+        2018,
+        130.0
+      ],
+      [
+        2019,
+        null
+      ]
+    ]
+  },
+  "Julius Jorborg": {
+    "n_games": 10,
+    "score_share": 0.44462121212121214,
+    "n_wins": 4.0,
+    "years": [
+      2017,
+      2018,
+      2019
+    ],
+    "win_rate": 0.4,
+    "opponent_score_share": 0.46175307306653784,
+    "skill": 76.22759928731564,
+    "skill_sigma": 55.001232245643564,
+    "name": "Julius Jorborg",
+    "skill_rank": 62.0,
+    "skill_rank_pct": 62.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        65.0
+      ],
+      [
+        2018,
+        57.0
+      ],
+      [
+        2019,
+        76.0
+      ]
+    ]
+  },
+  "Kajsa Hallberg-Nor.": {
+    "n_games": 6,
+    "score_share": 0.2268809893809894,
+    "n_wins": 0.0,
+    "years": [
+      2017,
+      2018,
+      2019
+    ],
+    "win_rate": 0.0,
+    "opponent_score_share": 0.48963742849215225,
+    "skill": -38.45748883230061,
+    "skill_sigma": 69.40632525883584,
+    "name": "Kajsa Hallberg-Nor.",
+    "skill_rank": 106.0,
+    "skill_rank_pct": 106.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        27.0
+      ],
+      [
+        2018,
+        -10.0
+      ],
+      [
+        2019,
+        -38.0
+      ]
+    ]
+  },
+  "Karl S\u00f6derberg": {
+    "n_games": 2,
+    "score_share": 0.1736111111111111,
+    "n_wins": 0.0,
+    "years": [
+      2017
+    ],
+    "win_rate": 0.0,
+    "opponent_score_share": 0.5424217666864726,
+    "skill": 27.280357561711284,
+    "skill_sigma": 84.98149113379436,
+    "name": "Karl S\u00f6derberg",
+    "skill_rank": 90.0,
+    "skill_rank_pct": 90.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        27.0
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        null
+      ]
+    ]
+  },
+  "Kevin Carlsson": {
+    "n_games": 2,
+    "score_share": 0.36713286713286714,
+    "n_wins": 0.0,
+    "years": [
+      2018
+    ],
+    "win_rate": 0.0,
+    "opponent_score_share": 0.5075899100899102,
+    "skill": 20.337252474869217,
+    "skill_sigma": 83.70742550857545,
+    "name": "Kevin Carlsson",
+    "skill_rank": 96.0,
+    "skill_rank_pct": 96.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        20.0
+      ],
+      [
+        2019,
+        null
+      ]
+    ]
+  },
+  "Klara Gustin": {
+    "n_games": 2,
+    "score_share": 0.26111111111111107,
+    "n_wins": 0.0,
+    "years": [
+      2012
+    ],
+    "win_rate": 0.0,
+    "opponent_score_share": 0.5423190235690236,
+    "skill": 29.587947994928417,
+    "skill_sigma": 85.21211485784006,
+    "name": "Klara Gustin",
+    "skill_rank": 88.0,
+    "skill_rank_pct": 88.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        30.0
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        null
+      ]
+    ]
+  },
+  "Kusha Bahrami": {
+    "n_games": 9,
+    "score_share": 0.48356534533005124,
+    "n_wins": 5.0,
+    "years": [
+      2018,
+      2019
+    ],
+    "win_rate": 0.5555555555555556,
+    "opponent_score_share": 0.48059369564313426,
+    "skill": 126.55723983537918,
+    "skill_sigma": 57.139920746312704,
+    "name": "Kusha Bahrami",
+    "skill_rank": 33.0,
+    "skill_rank_pct": 33.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        108.0
+      ],
+      [
+        2019,
+        127.0
+      ]
+    ]
+  },
+  "Leo Ehnborg": {
+    "n_games": 4,
+    "score_share": 0.3125,
+    "n_wins": 0.0,
+    "years": [
+      2018,
+      2019
+    ],
+    "win_rate": 0.0,
+    "opponent_score_share": 0.5298998251204134,
+    "skill": -24.602539251509633,
+    "skill_sigma": 73.89992497301172,
+    "name": "Leo Ehnborg",
+    "skill_rank": 104.0,
+    "skill_rank_pct": 104.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        13.0
+      ],
+      [
+        2019,
+        -25.0
+      ]
+    ]
+  },
+  "Linn Debove": {
+    "n_games": 4,
+    "score_share": 0.40625,
+    "n_wins": 1.0,
+    "years": [
+      2016,
+      2018
+    ],
+    "win_rate": 0.25,
+    "opponent_score_share": 0.5267734287137374,
+    "skill": 53.36213346843949,
+    "skill_sigma": 71.72224095144915,
+    "name": "Linn Debove",
+    "skill_rank": 76.0,
+    "skill_rank_pct": 76.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        116.0
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        53.0
+      ],
+      [
+        2019,
+        null
+      ]
+    ]
+  },
+  "Linn Enhage": {
+    "n_games": 5,
+    "score_share": 0.225,
+    "n_wins": 1.0,
+    "years": [
+      2016,
+      2018
+    ],
+    "win_rate": 0.2,
+    "opponent_score_share": 0.5394562954805922,
+    "skill": 46.366821782478816,
+    "skill_sigma": 67.85920966306423,
+    "name": "Linn Enhage",
+    "skill_rank": 77.0,
+    "skill_rank_pct": 77.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        24.0
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        46.0
+      ],
+      [
+        2019,
+        null
+      ]
+    ]
+  },
+  "Linnea Karlsson": {
+    "n_games": 3,
+    "score_share": 0.27946127946127947,
+    "n_wins": 1.0,
+    "years": [
+      2019
+    ],
+    "win_rate": 0.3333333333333333,
+    "opponent_score_share": 0.466726202265418,
+    "skill": 63.95074747992943,
+    "skill_sigma": 79.09346593363298,
+    "name": "Linnea Karlsson",
+    "skill_rank": 67.0,
+    "skill_rank_pct": 67.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        64.0
+      ]
+    ]
+  },
+  "Lotta Harder": {
+    "n_games": 6,
+    "score_share": 0.5641247641247641,
+    "n_wins": 3.0,
+    "years": [
+      2016,
+      2019
+    ],
+    "win_rate": 0.5,
+    "opponent_score_share": 0.47874884391112466,
+    "skill": 107.41274714143034,
+    "skill_sigma": 64.84366547047885,
+    "name": "Lotta Harder",
+    "skill_rank": 43.0,
+    "skill_rank_pct": 43.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        133.0
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        107.0
+      ]
+    ]
+  },
+  "Louise Persson": {
+    "n_games": 7,
+    "score_share": 0.5705586080586081,
+    "n_wins": 3.0,
+    "years": [
+      2018,
+      2019
+    ],
+    "win_rate": 0.42857142857142855,
+    "opponent_score_share": 0.44253880249610056,
+    "skill": 100.62086265960528,
+    "skill_sigma": 62.602970858817784,
+    "name": "Louise Persson",
+    "skill_rank": 47.0,
+    "skill_rank_pct": 47.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        110.0
+      ],
+      [
+        2019,
+        101.0
+      ]
+    ]
+  },
+  "Love Andr\u00e9asson": {
+    "n_games": 14,
+    "score_share": 0.5925543702329417,
+    "n_wins": 9.0,
+    "years": [
+      2012,
+      2017,
+      2018,
+      2019
+    ],
+    "win_rate": 0.6428571428571429,
+    "opponent_score_share": 0.5072751281621549,
+    "skill": 170.8745514607335,
+    "skill_sigma": 49.38195541803231,
+    "name": "Love Andr\u00e9asson",
+    "skill_rank": 15.0,
+    "skill_rank_pct": 15.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        147.0
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        158.0
+      ],
+      [
+        2018,
+        168.0
+      ],
+      [
+        2019,
+        171.0
+      ]
+    ]
+  },
+  "Love Elfvelin": {
+    "n_games": 7,
+    "score_share": 0.4349618635332921,
+    "n_wins": 3.0,
+    "years": [
+      2017,
+      2018
+    ],
+    "win_rate": 0.42857142857142855,
+    "opponent_score_share": 0.4882168558954274,
+    "skill": 79.75355157381074,
+    "skill_sigma": 62.347108043949724,
+    "name": "Love Elfvelin",
+    "skill_rank": 57.0,
+    "skill_rank_pct": 57.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        59.0
+      ],
+      [
+        2018,
+        80.0
+      ],
+      [
+        2019,
+        null
+      ]
+    ]
+  },
+  "Lovisa Birgersson": {
+    "n_games": 11,
+    "score_share": 0.5721361971361971,
+    "n_wins": 6.0,
+    "years": [
+      2017,
+      2018,
+      2019
+    ],
+    "win_rate": 0.5454545454545454,
+    "opponent_score_share": 0.4681084072824265,
+    "skill": 140.2509613635193,
+    "skill_sigma": 53.04590799712907,
+    "name": "Lovisa Birgersson",
+    "skill_rank": 22.0,
+    "skill_rank_pct": 22.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        76.0
+      ],
+      [
+        2018,
+        123.0
+      ],
+      [
+        2019,
+        140.0
+      ]
+    ]
+  },
+  "Magnus Enlund": {
+    "n_games": 3,
+    "score_share": 0.6019013666072489,
+    "n_wins": 2.0,
+    "years": [
+      2019
+    ],
+    "win_rate": 0.6666666666666666,
+    "opponent_score_share": 0.5245272908041461,
+    "skill": 135.35472381612158,
+    "skill_sigma": 75.7424978798871,
+    "name": "Magnus Enlund",
+    "skill_rank": 27.0,
+    "skill_rank_pct": 27.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        135.0
+      ]
+    ]
+  },
+  "Maria Adel\u00f6f": {
+    "n_games": 5,
+    "score_share": 0.4079487179487179,
+    "n_wins": 2.0,
+    "years": [
+      2016,
+      2017
+    ],
+    "win_rate": 0.4,
+    "opponent_score_share": 0.4006541682097149,
+    "skill": 79.06493350453842,
+    "skill_sigma": 70.63473189403533,
+    "name": "Maria Adel\u00f6f",
+    "skill_rank": 58.0,
+    "skill_rank_pct": 58.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        110.0
+      ],
+      [
+        2017,
+        79.0
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        null
+      ]
+    ]
+  },
+  "Martha Brauer": {
+    "n_games": 4,
+    "score_share": 0.5112373737373738,
+    "n_wins": 2.0,
+    "years": [
+      2019
+    ],
+    "win_rate": 0.5,
+    "opponent_score_share": 0.5085883439377469,
+    "skill": 123.99354336397963,
+    "skill_sigma": 74.36796022529721,
+    "name": "Martha Brauer",
+    "skill_rank": 35.0,
+    "skill_rank_pct": 35.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        124.0
+      ]
+    ]
+  },
+  "Mathilda Hansson": {
+    "n_games": 7,
+    "score_share": 0.44249639249639244,
+    "n_wins": 3.0,
+    "years": [
+      2017,
+      2019
+    ],
+    "win_rate": 0.42857142857142855,
+    "opponent_score_share": 0.430176068582056,
+    "skill": 61.73113021939947,
+    "skill_sigma": 62.44136871684596,
+    "name": "Mathilda Hansson",
+    "skill_rank": 68.0,
+    "skill_rank_pct": 68.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        112.0
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        62.0
+      ]
+    ]
+  },
+  "Micke Leyi": {
+    "n_games": 4,
+    "score_share": 0.5277777777777777,
+    "n_wins": 2.0,
+    "years": [
+      2019
+    ],
+    "win_rate": 0.5,
+    "opponent_score_share": 0.4789573677912452,
+    "skill": 118.75123520987455,
+    "skill_sigma": 71.66970719733192,
+    "name": "Micke Leyi",
+    "skill_rank": 37.0,
+    "skill_rank_pct": 37.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        119.0
+      ]
+    ]
+  },
+  "Mina Kheirkhah": {
+    "n_games": 7,
+    "score_share": 0.48237714666286097,
+    "n_wins": 4.0,
+    "years": [
+      2018,
+      2019
+    ],
+    "win_rate": 0.5714285714285714,
+    "opponent_score_share": 0.5193171182307627,
+    "skill": 143.79339360059586,
+    "skill_sigma": 61.89426458396343,
+    "name": "Mina Kheirkhah",
+    "skill_rank": 20.0,
+    "skill_rank_pct": 20.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        77.0
+      ],
+      [
+        2019,
+        144.0
+      ]
+    ]
+  },
+  "Monica Harder": {
+    "n_games": 3,
+    "score_share": 0.4484126984126984,
+    "n_wins": 1.0,
+    "years": [
+      2019
+    ],
+    "win_rate": 0.3333333333333333,
+    "opponent_score_share": 0.5729795894011581,
+    "skill": 78.81746855676758,
+    "skill_sigma": 77.4943025196078,
+    "name": "Monica Harder",
+    "skill_rank": 59.0,
+    "skill_rank_pct": 59.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        79.0
+      ]
+    ]
+  },
+  "Niklas Frisk": {
+    "n_games": 3,
+    "score_share": 0.6648148148148149,
+    "n_wins": 2.0,
+    "years": [
+      2019
+    ],
+    "win_rate": 0.6666666666666666,
+    "opponent_score_share": 0.4710048717385673,
+    "skill": 154.7114838431503,
+    "skill_sigma": 75.12271511618276,
+    "name": "Niklas Frisk",
+    "skill_rank": 18.0,
+    "skill_rank_pct": 18.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        155.0
+      ]
+    ]
+  },
+  "Niklas Larsson": {
+    "n_games": 4,
+    "score_share": 0.5385912698412698,
+    "n_wins": 2.0,
+    "years": [
+      2018
+    ],
+    "win_rate": 0.5,
+    "opponent_score_share": 0.4733038677629751,
+    "skill": 105.6823524729945,
+    "skill_sigma": 75.36398625031485,
+    "name": "Niklas Larsson",
+    "skill_rank": 44.0,
+    "skill_rank_pct": 44.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        106.0
+      ],
+      [
+        2019,
+        null
+      ]
+    ]
+  },
+  "Nils Brolin": {
+    "n_games": 2,
+    "score_share": 0.2727272727272727,
+    "n_wins": 0.0,
+    "years": [
+      2019
+    ],
+    "win_rate": 0.0,
+    "opponent_score_share": 0.5678946518287518,
+    "skill": 33.75838609995294,
+    "skill_sigma": 84.06311988568982,
+    "name": "Nils Brolin",
+    "skill_rank": 83.0,
+    "skill_rank_pct": 83.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        34.0
+      ]
+    ]
+  },
+  "Olaver": {
+    "n_games": 4,
+    "score_share": 0.5354198089492207,
+    "n_wins": 2.0,
+    "years": [
+      2019
+    ],
+    "win_rate": 0.5,
+    "opponent_score_share": 0.458689875226253,
+    "skill": 105.35138939947967,
+    "skill_sigma": 72.38389012923305,
+    "name": "Olaver",
+    "skill_rank": 45.0,
+    "skill_rank_pct": 45.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        105.0
+      ]
+    ]
+  },
+  "Olga Andersson": {
+    "n_games": 6,
+    "score_share": 0.3452380952380953,
+    "n_wins": 2.0,
+    "years": [
+      2018,
+      2019
+    ],
+    "win_rate": 0.3333333333333333,
+    "opponent_score_share": 0.5025349364550197,
+    "skill": 54.92395267855684,
+    "skill_sigma": 66.48676758271888,
+    "name": "Olga Andersson",
+    "skill_rank": 74.0,
+    "skill_rank_pct": 74.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        37.0
+      ],
+      [
+        2019,
+        55.0
+      ]
+    ]
+  },
+  "Olle Hjort": {
+    "n_games": 3,
+    "score_share": 0.28619528619528617,
+    "n_wins": 1.0,
+    "years": [
+      2018
+    ],
+    "win_rate": 0.3333333333333333,
+    "opponent_score_share": 0.50873038998039,
+    "skill": 66.76260065264162,
+    "skill_sigma": 78.52012909827872,
+    "name": "Olle Hjort",
+    "skill_rank": 66.0,
+    "skill_rank_pct": 66.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        67.0
+      ],
+      [
+        2019,
+        null
+      ]
+    ]
+  },
+  "Olle Nyr\u00e9n": {
+    "n_games": 3,
+    "score_share": 0.5246031746031746,
+    "n_wins": 1.0,
+    "years": [
+      2019
+    ],
+    "win_rate": 0.3333333333333333,
+    "opponent_score_share": 0.38609165284001884,
+    "skill": 56.80005250073488,
+    "skill_sigma": 76.87095078579905,
+    "name": "Olle Nyr\u00e9n",
+    "skill_rank": 72.0,
+    "skill_rank_pct": 72.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        57.0
+      ]
+    ]
+  },
+  "Olle Strandberg": {
+    "n_games": 6,
+    "score_share": 0.64627849002849,
+    "n_wins": 3.0,
+    "years": [
+      2018,
+      2019
+    ],
+    "win_rate": 0.5,
+    "opponent_score_share": 0.37795650065257896,
+    "skill": 90.79873942879327,
+    "skill_sigma": 66.23671491274749,
+    "name": "Olle Strandberg",
+    "skill_rank": 51.0,
+    "skill_rank_pct": 51.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        119.0
+      ],
+      [
+        2019,
+        91.0
+      ]
+    ]
+  },
+  "Olof Sabelstr\u00f6m": {
+    "n_games": 6,
+    "score_share": 0.35000000000000003,
+    "n_wins": 2.0,
+    "years": [
+      2011,
+      2012
+    ],
+    "win_rate": 0.3333333333333333,
+    "opponent_score_share": 0.5510196072716709,
+    "skill": 68.28621916958525,
+    "skill_sigma": 66.39322076442784,
+    "name": "Olof Sabelstr\u00f6m",
+    "skill_rank": 65.0,
+    "skill_rank_pct": 65.0,
+    "skill_history": [
+      [
+        2011,
+        113.0
+      ],
+      [
+        2012,
+        68.0
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        null
+      ]
+    ]
+  },
+  "Patrik J\u00e4rg\u00e5rden": {
+    "n_games": 3,
+    "score_share": 0.6721380471380471,
+    "n_wins": 2.0,
+    "years": [
+      2012
+    ],
+    "win_rate": 0.6666666666666666,
+    "opponent_score_share": 0.4138784855856466,
+    "skill": 131.00410241904703,
+    "skill_sigma": 79.5568469906315,
+    "name": "Patrik J\u00e4rg\u00e5rden",
+    "skill_rank": 30.0,
+    "skill_rank_pct": 30.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        131.0
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        null
+      ]
+    ]
+  },
+  "Pelle Dovborg": {
+    "n_games": 14,
+    "score_share": 0.505053186775876,
+    "n_wins": 7.0,
+    "years": [
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "win_rate": 0.5,
+    "opponent_score_share": 0.5002785520782403,
+    "skill": 126.2545485685162,
+    "skill_sigma": 48.838321370940804,
+    "name": "Pelle Dovborg",
+    "skill_rank": 34.0,
+    "skill_rank_pct": 34.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        35.0
+      ],
+      [
+        2017,
+        94.0
+      ],
+      [
+        2018,
+        78.0
+      ],
+      [
+        2019,
+        126.0
+      ]
+    ]
+  },
+  "Petter Hammarb\u00e4ck": {
+    "n_games": 2,
+    "score_share": 0.24431818181818182,
+    "n_wins": 0.0,
+    "years": [
+      2017
+    ],
+    "win_rate": 0.0,
+    "opponent_score_share": 0.50748223998224,
+    "skill": 26.179641830201906,
+    "skill_sigma": 84.84990972441136,
+    "name": "Petter Hammarb\u00e4ck",
+    "skill_rank": 92.0,
+    "skill_rank_pct": 92.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        26.0
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        null
+      ]
+    ]
+  },
+  "Philip Little": {
+    "n_games": 4,
+    "score_share": 0.32133699633699636,
+    "n_wins": 0.0,
+    "years": [
+      2018,
+      2019
+    ],
+    "win_rate": 0.0,
+    "opponent_score_share": 0.4866283672480723,
+    "skill": -6.352307197677086,
+    "skill_sigma": 74.73141974470886,
+    "name": "Philip Little",
+    "skill_rank": 101.0,
+    "skill_rank_pct": 101.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        37.0
+      ],
+      [
+        2019,
+        -6.0
+      ]
+    ]
+  },
+  "Richard Ekman": {
+    "n_games": 15,
+    "score_share": 0.6032088282088284,
+    "n_wins": 8.0,
+    "years": [
+      2012,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "win_rate": 0.5333333333333333,
+    "opponent_score_share": 0.4546554925000303,
+    "skill": 89.50639914912908,
+    "skill_sigma": 48.012542414818206,
+    "name": "Richard Ekman",
+    "skill_rank": 53.0,
+    "skill_rank_pct": 53.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        27.0
+      ],
+      [
+        2016,
+        62.0
+      ],
+      [
+        2017,
+        106.0
+      ],
+      [
+        2018,
+        116.0
+      ],
+      [
+        2019,
+        90.0
+      ]
+    ]
+  },
+  "Robeson": {
+    "n_games": 11,
+    "score_share": 0.5804355525014123,
+    "n_wins": 7.0,
+    "years": [
+      2018,
+      2019
+    ],
+    "win_rate": 0.6363636363636364,
+    "opponent_score_share": 0.5160444490157408,
+    "skill": 175.3514856580295,
+    "skill_sigma": 51.713540162926705,
+    "name": "Robeson",
+    "skill_rank": 14.0,
+    "skill_rank_pct": 14.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        62.0
+      ],
+      [
+        2019,
+        175.0
+      ]
+    ]
+  },
+  "Robin Fogelberg": {
+    "n_games": 13,
+    "score_share": 0.5384790046554752,
+    "n_wins": 8.0,
+    "years": [
+      2018,
+      2019
+    ],
+    "win_rate": 0.6153846153846154,
+    "opponent_score_share": 0.5372246520764793,
+    "skill": 176.40568685155012,
+    "skill_sigma": 49.11222365057746,
+    "name": "Robin Fogelberg",
+    "skill_rank": 12.0,
+    "skill_rank_pct": 12.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        137.0
+      ],
+      [
+        2019,
+        176.0
+      ]
+    ]
+  },
+  "Robin Linderborg": {
+    "n_games": 12,
+    "score_share": 0.5536803474303474,
+    "n_wins": 8.0,
+    "years": [
+      2017,
+      2018,
+      2019
+    ],
+    "win_rate": 0.6666666666666666,
+    "opponent_score_share": 0.49103928925166157,
+    "skill": 179.5441328912899,
+    "skill_sigma": 52.67419530180075,
+    "name": "Robin Linderborg",
+    "skill_rank": 11.0,
+    "skill_rank_pct": 11.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        117.0
+      ],
+      [
+        2018,
+        181.0
+      ],
+      [
+        2019,
+        180.0
+      ]
+    ]
+  },
+  "Sandra Starfelt": {
+    "n_games": 3,
+    "score_share": 0.5058275058275058,
+    "n_wins": 2.0,
+    "years": [
+      2017
+    ],
+    "win_rate": 0.6666666666666666,
+    "opponent_score_share": 0.4920807315415159,
+    "skill": 135.64029050604324,
+    "skill_sigma": 76.85775208584907,
+    "name": "Sandra Starfelt",
+    "skill_rank": 26.0,
+    "skill_rank_pct": 26.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        136.0
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        null
+      ]
+    ]
+  },
+  "Sebastin Fors\u00e9n": {
+    "n_games": 6,
+    "score_share": 0.5314737005913477,
+    "n_wins": 3.0,
+    "years": [
+      2018,
+      2019
+    ],
+    "win_rate": 0.5,
+    "opponent_score_share": 0.5091346934846057,
+    "skill": 100.58929608082501,
+    "skill_sigma": 64.9238044689726,
+    "name": "Sebastin Fors\u00e9n",
+    "skill_rank": 48.0,
+    "skill_rank_pct": 48.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        130.0
+      ],
+      [
+        2019,
+        101.0
+      ]
+    ]
+  },
+  "Simon Rosendahl": {
+    "n_games": 3,
+    "score_share": 0.4657407407407408,
+    "n_wins": 1.0,
+    "years": [
+      2017
+    ],
+    "win_rate": 0.3333333333333333,
+    "opponent_score_share": 0.4317719347290958,
+    "skill": 76.53282832370752,
+    "skill_sigma": 79.46349753648761,
+    "name": "Simon Rosendahl",
+    "skill_rank": 61.0,
+    "skill_rank_pct": 61.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        77.0
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        null
+      ]
+    ]
+  },
+  "Sofia Ahlstr\u00f6m": {
+    "n_games": 4,
+    "score_share": 0.471474358974359,
+    "n_wins": 2.0,
+    "years": [
+      2017
+    ],
+    "win_rate": 0.5,
+    "opponent_score_share": 0.5163569495888161,
+    "skill": 114.18005627957096,
+    "skill_sigma": 75.23291608000136,
+    "name": "Sofia Ahlstr\u00f6m",
+    "skill_rank": 39.0,
+    "skill_rank_pct": 39.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        114.0
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        null
+      ]
+    ]
+  },
+  "Sofia Bard": {
+    "n_games": 2,
+    "score_share": 0.47756410256410253,
+    "n_wins": 1.0,
+    "years": [
+      2016
+    ],
+    "win_rate": 0.5,
+    "opponent_score_share": 0.478624194433018,
+    "skill": 104.14521922195854,
+    "skill_sigma": 84.70986121426486,
+    "name": "Sofia Bard",
+    "skill_rank": 46.0,
+    "skill_rank_pct": 46.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        104.0
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        null
+      ]
+    ]
+  },
+  "Sofia R\u00e5dstr\u00f6m": {
+    "n_games": 15,
+    "score_share": 0.3556132756132756,
+    "n_wins": 4.0,
+    "years": [
+      2011,
+      2012,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "win_rate": 0.26666666666666666,
+    "opponent_score_share": 0.5330171568702039,
+    "skill": 27.18195681928694,
+    "skill_sigma": 49.91296404423157,
+    "name": "Sofia R\u00e5dstr\u00f6m",
+    "skill_rank": 91.0,
+    "skill_rank_pct": 91.0,
+    "skill_history": [
+      [
+        2011,
+        30.0
+      ],
+      [
+        2012,
+        -7.0
+      ],
+      [
+        2016,
+        -41.0
+      ],
+      [
+        2017,
+        5.0
+      ],
+      [
+        2018,
+        -15.0
+      ],
+      [
+        2019,
+        27.0
+      ]
+    ]
+  },
+  "Sofia S\u00f6derberg": {
+    "n_games": 2,
+    "score_share": 0.15,
+    "n_wins": 0.0,
+    "years": [
+      2016
+    ],
+    "win_rate": 0.0,
+    "opponent_score_share": 0.4879865317972734,
+    "skill": 37.35064278665492,
+    "skill_sigma": 85.6826341432565,
+    "name": "Sofia S\u00f6derberg",
+    "skill_rank": 80.0,
+    "skill_rank_pct": 80.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        37.0
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        null
+      ]
+    ]
+  },
+  "Sofia \u00d6rning": {
+    "n_games": 9,
+    "score_share": 0.3829923707374687,
+    "n_wins": 2.0,
+    "years": [
+      2017,
+      2018,
+      2019
+    ],
+    "win_rate": 0.2222222222222222,
+    "opponent_score_share": 0.5605871776356653,
+    "skill": 32.663268864828076,
+    "skill_sigma": 60.76400766675779,
+    "name": "Sofia \u00d6rning",
+    "skill_rank": 84.0,
+    "skill_rank_pct": 84.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        30.0
+      ],
+      [
+        2018,
+        32.0
+      ],
+      [
+        2019,
+        33.0
+      ]
+    ]
+  },
+  "Sussie R\u00e5dis": {
+    "n_games": 6,
+    "score_share": 0.3926055426055426,
+    "n_wins": 2.0,
+    "years": [
+      2018,
+      2019
+    ],
+    "win_rate": 0.3333333333333333,
+    "opponent_score_share": 0.5069696205988222,
+    "skill": 60.68694078161044,
+    "skill_sigma": 66.19100717525548,
+    "name": "Sussie R\u00e5dis",
+    "skill_rank": 70.0,
+    "skill_rank_pct": 70.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        104.0
+      ],
+      [
+        2019,
+        61.0
+      ]
+    ]
+  },
+  "Theodore Ripman": {
+    "n_games": 23,
+    "score_share": 0.5600099366689756,
+    "n_wins": 17.0,
+    "years": [
+      2011,
+      2012,
+      2017,
+      2018,
+      2019
+    ],
+    "win_rate": 0.7391304347826086,
+    "opponent_score_share": 0.506376055962064,
+    "skill": 225.7933996983352,
+    "skill_sigma": 39.97845005405127,
+    "name": "Theodore Ripman",
+    "skill_rank": 4.0,
+    "skill_rank_pct": 4.0,
+    "skill_history": [
+      [
+        2011,
+        128.0
+      ],
+      [
+        2012,
+        116.0
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        126.0
+      ],
+      [
+        2018,
+        167.0
+      ],
+      [
+        2019,
+        226.0
+      ]
+    ]
+  },
+  "Tobe Welander": {
+    "n_games": 6,
+    "score_share": 0.48502616664381376,
+    "n_wins": 2.0,
+    "years": [
+      2016,
+      2017
+    ],
+    "win_rate": 0.3333333333333333,
+    "opponent_score_share": 0.49339923593307017,
+    "skill": 61.20457073686394,
+    "skill_sigma": 66.35287144278375,
+    "name": "Tobe Welander",
+    "skill_rank": 69.0,
+    "skill_rank_pct": 69.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        31.0
+      ],
+      [
+        2017,
+        61.0
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        null
+      ]
+    ]
+  },
+  "Tove Papp Lindkvist": {
+    "n_games": 2,
+    "score_share": 0.3418803418803419,
+    "n_wins": 0.0,
+    "years": [
+      2017
+    ],
+    "win_rate": 0.0,
+    "opponent_score_share": 0.5104782006042511,
+    "skill": 14.847812139465605,
+    "skill_sigma": 83.6011236092295,
+    "name": "Tove Papp Lindkvist",
+    "skill_rank": 97.0,
+    "skill_rank_pct": 97.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        15.0
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        null
+      ]
+    ]
+  },
+  "Viktor G\u00e4rde": {
+    "n_games": 3,
+    "score_share": 0.4444444444444445,
+    "n_wins": 1.0,
+    "years": [
+      2019
+    ],
+    "win_rate": 0.3333333333333333,
+    "opponent_score_share": 0.5780045221921973,
+    "skill": 90.08206163964589,
+    "skill_sigma": 77.57679065014277,
+    "name": "Viktor G\u00e4rde",
+    "skill_rank": 52.0,
+    "skill_rank_pct": 52.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        90.0
+      ]
+    ]
+  },
+  "Ville Nordenankar": {
+    "n_games": 10,
+    "score_share": 0.48388888888888887,
+    "n_wins": 6.0,
+    "years": [
+      2017,
+      2018,
+      2019
+    ],
+    "win_rate": 0.6,
+    "opponent_score_share": 0.5695695378825849,
+    "skill": 157.797354596403,
+    "skill_sigma": 55.7577016136873,
+    "name": "Ville Nordenankar",
+    "skill_rank": 17.0,
+    "skill_rank_pct": 17.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        184.0
+      ],
+      [
+        2018,
+        206.0
+      ],
+      [
+        2019,
+        158.0
+      ]
+    ]
+  },
+  "Ylva Andr\u00e9asson": {
+    "n_games": 7,
+    "score_share": 0.5159032144326262,
+    "n_wins": 3.0,
+    "years": [
+      2017,
+      2018
+    ],
+    "win_rate": 0.42857142857142855,
+    "opponent_score_share": 0.43487366624971674,
+    "skill": 71.74727048903235,
+    "skill_sigma": 63.35635627436192,
+    "name": "Ylva Andr\u00e9asson",
+    "skill_rank": 64.0,
+    "skill_rank_pct": 64.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        64.0
+      ],
+      [
+        2018,
+        72.0
+      ],
+      [
+        2019,
+        null
+      ]
+    ]
+  }
 }

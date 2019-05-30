@@ -2,70 +2,8 @@
   {{player1.name}} har <strong>{{'%0.f'| format(player1.win_prob*100|float)}} procents chans</strong> att vinna över {{player2.name}}.
 </p>
 <p>
-  När vi simulerar {{n_games}} matcher vinner {{winner.name}} {{winner.wins|int}} gånger. Den mest troliga segermarginalen är {{most_likely_diff|float|abs|int}} poäng.
+  När vi simulerar tusen matcher vinner {{winner.name}} {{(winner.win_prob*1000)|float|round|int}} gånger.
 </p>
-<p>
-  Följande graf visar sannolikheten för olika poängmarginaler (givet att matchen går till 8 poäng).
-</p>
-
-<div id="result-chart"></div>
-<script type="text/javascript">
-var diff_counts = {{diff_counts}};
-var categories = diff_counts.map(function(d) { return Math.abs(d[0])})
-var p1_wins = diff_counts.map(function(d) { return d[0] > 0 ? d[1] : 0})
-var p2_wins = diff_counts.map(function(d) { return d[0] < 0 ? d[1] : 0})
-
-Highcharts.chart('result-chart', {
-  chart: {
-    "type": "column",
-    height: 250
-  },
-  title:{
-      text:''
-  },
-  xAxis: {
-    categories: categories,
-    reversed: true,
-    title: "Segermarginal (poäng)"
-  },
-  yAxis: {
-    min: 0,
-    title: ""
-  },
-  plotOptions: {
-    column: {
-      pointPadding: 0,
-      borderWidth: 0,
-      groupPadding: 0,
-      shadow: false,
-      grouping: false
-    }
-  },
-  tooltip: {
-    formatter:function(){
-        if(this.point.y > 0) {
-          var points = Math.abs(categories[this.point.x])
-          var n = this.point.y;
-          return this.series.name + " med " + points + " poäng " + n + " gånger av {{n_games}}."
-        }
-        else {
-          return ''
-        }
-      }
-
-  },
-  series: [{
-    name: '{{player1.name}} vinner',
-    color: '#EB6864',
-    data: p1_wins
-  },
-  {
-    name: '{{player2.name}} vinner',
-    color: '#6d64eb',
-    data: p2_wins
-  }]
-});
-</script>
 
 <hr>
 <h4>Statistik från tidigare år</h4>
@@ -94,10 +32,9 @@ Highcharts.chart('result-chart', {
       <td class="text-right">{{'%0.f'| format(player2.historical_win_rate * 100|float)}} %</td>
     </tr>
     <tr>
-      <th>Tidigare turneringar</th>
-      <td class="text-right">{{player1.years|join(', ')}}</td>
-      <td class="text-right">{{player2.years|join(', ')}}</td>
-
+      <th>Ranking</th>
+      <td class="text-right">{{player1.skill_rank|int}} <small>({{player1.skill|int}} p)</small></td>
+      <td class="text-right">{{player2.skill_rank|int}} <small>({{player2.skill|int}} p)</small></td>
     </tr>
   </tbody>
 </table>

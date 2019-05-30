@@ -1,35 +1,29 @@
 import numpy as np
 import pandas as pd
+import math
 from modules import players
 from modules.utils import truncated_norm_distribution
 from modules.common import simulate_many_games
-from modules.models import simulate_round_v4
+from settings import true_skill_env
 
-ROUND_SCORE_STD = 6.5
-SKILL_FACTOR = 12.0
+
+def win_probability(a, b):
+    deltaMu = sum([x.mu for x in a]) - sum([x.mu for x in b])
+    sumSigma = sum([x.sigma ** 2 for x in a]) + sum([x.sigma ** 2 for x in b])
+    playerCount = len(a) + len(b)
+    beta = true_skill_env.beta
+    denominator = math.sqrt(playerCount * (beta * beta) + sumSigma)
+    return true_skill_env.cdf(deltaMu / denominator)
 
 def game(player1, player2, n_games=1000):
     p1 = players.get(player1)
     p2 = players.get(player2)
 
-    MIN_STD = 0.05 # alla antas ha minst denna osäkerhet
-    MAX_STD = 0.15 # högsta osäkerhet
-    N_GAME_CAP = 10.0 # Har spelaren gjort så här många matcher får den max osäkerhet
-
-    # Cap skill skill uncertainty, but avoid division by zero
-    p1_n_games = max(min(p1["n_games"], N_GAME_CAP), 1)
-    p2_n_games = max(min(p2["n_games"], N_GAME_CAP), 1)
-
-
-    p1["skill_uncertainty"] = MIN_STD + (1 - p1_n_games / N_GAME_CAP)  * (MAX_STD - MIN_STD)
-    p2["skill_uncertainty"] = MIN_STD + (1 - p2_n_games / N_GAME_CAP) * (MAX_STD - MIN_STD)
-
-    p1_skill_dist = truncated_norm_distribution(p1["skill"], p1["skill_uncertainty"], 0, 1, 1000)
-    p2_skill_dist = truncated_norm_distribution(p2["skill"], p2["skill_uncertainty"], 0, 1, 1000)
-
-
-    resp = simulate_many_games(n_games, simulate_round_v4, 8, p1_skill_dist, p2_skill_dist, skill_factor=SKILL_FACTOR, stdev=ROUND_SCORE_STD)
-    resp["p1"] = p1
-    resp["p2"] = p2
+    resp = {
+        "p1": p1,
+        "p2": p2,
+    }
+    resp["p1_win_prob"] = win_probability([p1["rating"]], [p2["rating"]])
+    resp["p2_win_prob"] = 1 - resp["p1_win_prob"]
 
     return resp
