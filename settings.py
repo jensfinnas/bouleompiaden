@@ -8,11 +8,14 @@ META_DATA_FILE = "data/metadata.json"
 
 STAGE = os.environ.get("STAGE", "local")
 
+# the ranking that new players start from
+TRUE_SKILL_BASE = 100.0
 
-#
-TRUE_SKILL_BASE = 100.0 # base rating/skill
-TRUE_SKILL_SIGMA = TRUE_SKILL_BASE / 1.0 # the initial standard deviation of ratings. The recommended value is a third of mu.
-TRUE_SKILL_BETA = TRUE_SKILL_SIGMA * 1.0 # the distance which guarantees about 76% chance of winning. The recommended value is a half of sigma.
+# the initial standard deviation of ratings. The recommended value is a third of mu.
+# but we keep it sligtly higher as there seem to be quite a bit of uncertainty
+# about the skill level of players (source: mostly gut feeling)
+TRUE_SKILL_SIGMA = TRUE_SKILL_BASE / 1.0
+TRUE_SKILL_BETA = TRUE_SKILL_SIGMA * 0.5 # the distance which guarantees about 76% chance of winning. The recommended value is a half of sigma.
 
 true_skill_env = TrueSkill(draw_probability=0, mu=TRUE_SKILL_BASE,
                            sigma=TRUE_SKILL_SIGMA, beta=TRUE_SKILL_BETA)

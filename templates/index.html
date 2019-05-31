@@ -3,7 +3,7 @@
 <html lang="sv" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>Bouleympiaden: Matchsimulator</title>
     <script
     src="https://code.jquery.com/jquery-3.4.1.min.js"
@@ -50,14 +50,12 @@
     <script src="https://code.highcharts.com/modules/histogram-bellcurve.js"></script>
   </head>
   <body>
+    <main role="main" class="">
+
       <div class="jumbotron">
-        <!--
-        <img src="{{ url_for('static', filename='img/bouleballs.jpg') }}" alt="">
-      -->
         <h1>Bouleympiaden</h1>
         <p class="lead">Matchsimulator och spelarranking</p>
       </div>
-
 
       <div class="card text-white bg-primary mb-3">
         <div class="card-header">Simulera en match</div>
@@ -104,7 +102,7 @@
       </div>
       <div class="card border-light mb-3">
         <div class="card-body">
-          <h4 class="card-title">Spelarranking</h4>
+          <h4 class="card-title mb-2">Spelarranking</h4>
           <div class="card-text">
             <table class="table">
               <thead>
@@ -118,7 +116,7 @@
               <tbody>
                 {% for player in players|sort(attribute='skill', reverse = True)  %}
 
-                  <tr class="collapsed" data-toggle="collapse" data-target="#p{{loop.index}}" aria-expanded="false" aria-controls="#p{{loop.index}}">
+                  <tr class="collapsed" data-toggle="collapse" href="#p{{loop.index}}" data-target="#p{{loop.index}}" aria-expanded="false" aria-controls="#p{{loop.index}}" onclick="none()">
                     <th>{{player.skill_rank|int}}.</th>
                     <td>
                       {{player.name}}
@@ -134,7 +132,7 @@
                   <tr style="background-color:#f7f7f7;">
                     <td colspan="4">
                       <div id="p{{loop.index}}" class="collapse">
-                        <table class="table table-borderless">
+                        <table class="table table-borderless table-sm">
                           <tbody>
                             <tr class="">
                               <td>Antal turneringar</td>
@@ -159,7 +157,7 @@
                             <tr class="">
                               <td colspan=2>
 
-                                <h5>Rankinghistorik</h5>
+                                <h5 class="mt-3">Rankinghistorik</h5>
                                 <chart data-series="{{player.skill_history|tojson}}">
                                 </chart>
                               </td>
@@ -185,15 +183,13 @@
               Bouleympiaden, eller Fredhälls Bouleympiska spel, är en oftast vänskaplig turnering i den ädla sporten boule. Spelens far och arrangör är Gabriel Nordenankar.
             </p>
 
-            <h5>Hur funkar den här räknaren?</h5>
+            <h5>Hur funkar den här räknaren och rankingen?</h5>
             <p>
-              Den här räknaren bygger på en statistisk modell som simulerar matchutfall utgående från historiska resultat.
+              Den bygger på algoritmen Trueskill som ursprungligen utvecklats av Microsoft för att ranka spelare i multiplayerspel.
+              Varje ny spelare startar på 100 rankingpoäng. Poängen justeras för varje match. Vinner du en motståndare med hög ranking belönar algoritmen dig med många poäng. Förlorar du mot en spelare med låg ranking kostar det desto mer.
             </p>
             <p>
-              Steg ett är att försöka uppskatta varje spelares nivå. Baserat på hur stor andel av matchpoängen varje spelare fått, samt nivån på motspelarna räknar vi ut en förväntad "skill". Ju fler år en spelare varit med, desto säkrare blir modellen på om spelaren är bra eller dålig. En ny spelare antas vara medelbra, men modellen öppnar också för att det finns en liten chans att hen är väldigt bra eller dålig.
-            </p>
-            <p>
-              <a href="https://github.com/jensfinnas/bouleompiaden/blob/master/Boule%20prediction.ipynb">Läs mer om hur modellen fungerar här.</a>
+              Ju fler matcher en spelare gjort desto "säkrare" blir algoritmen på spelarens nivå.
             </p>
 
             <h5>Vem har gjort den här sajten?</h5>
@@ -201,6 +197,9 @@
           </div>
         </div>
       </div>
+
+    </main>
+
 
       <script type="text/javascript">
         var $player1 = $("#player1");
@@ -302,6 +301,8 @@
             }]
           });
         })
+        // hack for making table rows clickable in safari
+        function none() {}
       </script>
   </body>
 </html>

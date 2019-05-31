@@ -7,7 +7,7 @@ import io
 
 from modules.simulate import game
 from modules import  players
-from settings import STAGE
+from settings import STAGE, TRUE_SKILL_BASE
 
 app = Flask(__name__)
 jsglue = JSGlue(app)
@@ -28,6 +28,7 @@ def site_index():
 
     context = {
         "players": all_players,
+        "base_skill": TRUE_SKILL_BASE,
     }
     # number of players etc.
     context.update(players.metadata)
@@ -37,9 +38,8 @@ def site_index():
 def get_context(player1, player2):
     """Sets up data context for a simulated game between two players.
     """
-    n_games = 1000
     player1, player2 = unquote(player1), unquote(player2)
-    resp = game(player1, player2, n_games=n_games)
+    resp = game(player1, player2)
     context = {
         "player1": {
             "name": player1,
@@ -56,7 +56,6 @@ def get_context(player1, player2):
         },
         "player2": {
             "name": player2,
-            #"wins": resp["p2_wins"],
             "win_prob": resp["p2_win_prob"],
             "skill": resp["p2"]["rating"].mu,
             "skill_rank": resp["p2"]["skill_rank"],
@@ -67,11 +66,6 @@ def get_context(player1, player2):
             "historical_win_rate": resp["p2"]["win_rate"],
             "historical_score_share": resp["p2"]["score_share"],
         },
-        #"n_games": n_games,
-        #"diff_counts": resp["diff_counts"],
-        #"most_likely_diff": resp["most_likely_diff"],
-        # most common results
-        #"results": resp["result_counts"].head(10).reset_index().values.tolist()
     }
     context["previous_games"] = players.previous_mutual_games(player1, player2)
 

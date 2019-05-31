@@ -139,8 +139,6 @@ with open(BY_PLAYER_FILE, 'w') as f:
     json.dump(players_json, f, indent=2, default=default)
 print("Updated {}".format(BY_PLAYER_FILE))
 
-#df_players.to_csv(OUTFILE, encoding="utf-8")
-#print("Updated {}".format(OUTFILE))
 
 ###
 # Prepare game data
@@ -176,54 +174,9 @@ print("Updated {}".format(GAMES_BY_PLAYER_FILE))
 metadata = {
     "n_players": len(df_players.index),
     "years": df["year"].sort_values().unique().tolist(),
+    "highest_skill": df_players["skill"].max(),
+    "lowest_skill": df_players["skill"].min()
 }
 with open(META_DATA_FILE, 'w') as f:
     json.dump(metadata, f, indent=2)
 print("Updated {}".format(META_DATA_FILE))
-
-
-"""
-###
-# Compute skill
-###
-
-ss = df_players["score_share"]
-df = df.merge(ss.rename("p1_hist_score_share").to_frame(), how="left", left_on="p1_name", right_index=True)
-df = df.merge(ss.rename("p2_hist_score_share").to_frame(), how="left", left_on="p2_name", right_index=True)
-
-oss = df_players["opponent_score_share"]
-df = df.merge(oss.rename("p1_opponent_hist_score_share").to_frame(), how="left", left_on="p1_name", right_index=True)
-df = df.merge(oss.rename("p2_opponent_hist_score_share").to_frame(), how="left", left_on="p2_name", right_index=True)
-
-best_score_share =  df_players["score_share"].max()
-
-df["p1_opponent_skill"] = df["p1_opponent_hist_score_share"] /  best_score_share
-df["p2_opponent_skill"] = df["p2_opponent_hist_score_share"] / best_score_share
-
-
-df["p1_skill"] = df["p1_hist_score_share"] /  best_score_share * (df["p1_opponent_skill"] / 0.5)
-df["p2_skill"] = df["p2_hist_score_share"] / best_score_share * (df["p2_opponent_skill"] / 0.5)
-
-best_skill = df[["p1_skill","p2_skill"]].max().max()
-
-df["p1_skill"] = df["p1_skill"] / best_skill
-df["p2_skill"] = df["p2_skill"] / best_skill
-
-df.loc[df["p1_skill"].isna(), "p1_skill"] = 0.5
-df.loc[df["p2_skill"].isna(), "p2_skill"] = 0.5
-
-import pdb; pdb.set_trace()
-
-n_games = df_players["n_games"]
-df = df.merge(n_games.rename("p1_n_games").to_frame(), how="left", left_on="p1_name", right_index=True)
-df = df.merge(n_games.rename("p2_n_games").to_frame(), how="left", left_on="p2_name", right_index=True)
-MIN_STD = 0.05 # alla antas ha minst denna osäkerhet
-MAX_STD = 0.15 # högsta osäkerhet
-N_GAME_CAP = 10.0 # Har spelaren gjort så här många matcher får den max osäkerhet
-df["p1_skill_uncertainty"] = MIN_STD + N_GAME_CAP / df["p1_n_games"].clip_upper(N_GAME_CAP) * (MAX_STD - MIN_STD)
-df["p2_skill_uncertainty"] = MIN_STD + N_GAME_CAP / df["p2_n_games"].clip_upper(N_GAME_CAP) * (MAX_STD - MIN_STD)
-
-df.loc[df["p1_skill_uncertainty"].isna(), "p1_skill_uncertainty"] = MAX_STD
-df.loc[df["p2_skill_uncertainty"].isna(), "p2_skill_uncertainty"] = MAX_STD
-
-"""

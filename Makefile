@@ -24,3 +24,6 @@ serve:
 
 deploy:
 	sls deploy --aws-profile jensfinnas
+
+logs:
+	sls logs -f app --aws-profile jensfinnas
