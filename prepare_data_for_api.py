@@ -11,7 +11,7 @@ from settings import BY_PLAYER_FILE, GAMES_BY_PLAYER_FILE, META_DATA_FILE, TRUE_
 ###
 # Prepare raw data
 ###
-df = pd.read_csv("data/Bouleompiaden _ Statistikdatabasen - Data_ Matcher.csv", encoding="utf-8")\
+df = pd.read_csv("data/Bouleompiaden Statistikdatabasen - Data Matcher.csv", encoding="utf-8")\
 .rename(columns={
     u"Spelare 1": "p1_name",
     u"Spelare 2": "p2_name",
