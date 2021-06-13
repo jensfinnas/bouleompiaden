@@ -15,12 +15,12 @@ def all():
     """Get a list of all players."""
     return players.values()
 
-def get(player_slug):
-    player = players[player_slug]
-    player["rating"] = Rating(mu=player["skill"],
-                                sigma=player["skill_sigma"])
-    """
-        except KeyError:
+def get(player_name):
+    try:
+        player = players[player_name]
+        player["rating"] = Rating(mu=player["skill"],
+                                  sigma=player["skill_sigma"])
+    except KeyError:
         # New/unrecognized player
         player = {
             "n_games": 0,
@@ -33,10 +33,7 @@ def get(player_slug):
             "skill_rank": None,
             "skill_rank_pct": None,
             "years": []
-        }       
-    """
-
- 
+        }        
     return player
 
 def previous_mutual_games(player1, player2):
