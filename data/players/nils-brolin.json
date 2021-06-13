@@ -48,6 +48,7 @@
       "year": 2019,
       "last_game": {
         "opponent_name": "Estrid",
+        "opponent_slug": "estrid",
         "score": 3,
         "opponent_score": 8,
         "is_winner": false,

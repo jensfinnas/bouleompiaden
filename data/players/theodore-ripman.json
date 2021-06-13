@@ -53,6 +53,7 @@
       "year": 2011,
       "last_game": {
         "opponent_name": "Olof Sabelstr\u00f6m",
+        "opponent_slug": "olof-sabelstrom",
         "score": 5,
         "opponent_score": 7,
         "is_winner": false,
@@ -65,6 +66,7 @@
       "year": 2012,
       "last_game": {
         "opponent_name": "Jakob Lien",
+        "opponent_slug": "jakob-lien",
         "score": 5,
         "opponent_score": 7,
         "is_winner": false,
@@ -77,6 +79,7 @@
       "year": 2017,
       "last_game": {
         "opponent_name": "Lovisa Birgersson",
+        "opponent_slug": "lovisa-birgersson",
         "score": 8,
         "opponent_score": 5,
         "is_winner": true,
@@ -89,6 +92,7 @@
       "year": 2018,
       "last_game": {
         "opponent_name": "Johan Kjell",
+        "opponent_slug": "johan-kjell",
         "score": 3,
         "opponent_score": 10,
         "is_winner": false,
@@ -101,6 +105,7 @@
       "year": 2019,
       "last_game": {
         "opponent_name": "Benjamin Ger. Hed.",
+        "opponent_slug": "benjamin-ger-hed",
         "score": 13,
         "opponent_score": 5,
         "is_winner": true,
@@ -113,6 +118,7 @@
       "year": 2020,
       "last_game": {
         "opponent_name": "Niklas Solberg",
+        "opponent_slug": "niklas-solberg",
         "score": 4,
         "opponent_score": 11,
         "is_winner": false,

@@ -49,6 +49,7 @@
         "year": 2020,
         "last_game": {
           "opponent_name": "Alexander Starfelt",
+          "opponent_slug": "alexander-starfelt",
           "score": 6,
           "opponent_score": 11,
           "is_winner": false,
@@ -113,6 +114,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Julius Jorborg",
+          "opponent_slug": "julius-jorborg",
           "score": 3,
           "opponent_score": 8,
           "is_winner": false,
@@ -178,6 +180,7 @@
         "year": 2012,
         "last_game": {
           "opponent_name": "Johan Ekman",
+          "opponent_slug": "johan-ekman",
           "score": 0,
           "opponent_score": 7,
           "is_winner": false,
@@ -243,6 +246,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Jesper Kronholm",
+          "opponent_slug": "jesper-kronholm",
           "score": 1,
           "opponent_score": 10,
           "is_winner": false,
@@ -310,6 +314,7 @@
         "year": 2017,
         "last_game": {
           "opponent_name": "Robin Linderborg",
+          "opponent_slug": "robin-linderborg",
           "score": 2,
           "opponent_score": 7,
           "is_winner": false,
@@ -322,6 +327,7 @@
         "year": 2018,
         "last_game": {
           "opponent_name": "Charlotte Johansson",
+          "opponent_slug": "charlotte-johansson",
           "score": 2,
           "opponent_score": 9,
           "is_winner": false,
@@ -334,6 +340,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Jens Hultkrans",
+          "opponent_slug": "jens-hultkrans",
           "score": 8,
           "opponent_score": 10,
           "is_winner": false,
@@ -346,6 +353,7 @@
         "year": 2020,
         "last_game": {
           "opponent_name": "Pelle Dovborg",
+          "opponent_slug": "pelle-dovborg",
           "score": 5,
           "opponent_score": 11,
           "is_winner": false,
@@ -411,6 +419,7 @@
         "year": 2011,
         "last_game": {
           "opponent_name": "Erik Nordenankar",
+          "opponent_slug": "erik-nordenankar",
           "score": 0,
           "opponent_score": 8,
           "is_winner": false,
@@ -423,6 +432,7 @@
         "year": 2012,
         "last_game": {
           "opponent_name": "Richard Ekman",
+          "opponent_slug": "richard-ekman",
           "score": 8,
           "opponent_score": 6,
           "is_winner": true,
@@ -487,6 +497,7 @@
         "year": 2020,
         "last_game": {
           "opponent_name": "Frida \u00d6hrn",
+          "opponent_slug": "frida-ohrn",
           "score": 1,
           "opponent_score": 9,
           "is_winner": false,
@@ -555,6 +566,7 @@
         "year": 2017,
         "last_game": {
           "opponent_name": "Gabriel Nordenankar",
+          "opponent_slug": "gabriel-nordenankar",
           "score": 6,
           "opponent_score": 9,
           "is_winner": false,
@@ -567,6 +579,7 @@
         "year": 2018,
         "last_game": {
           "opponent_name": "Estrid",
+          "opponent_slug": "estrid",
           "score": 1,
           "opponent_score": 9,
           "is_winner": false,
@@ -579,6 +592,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Theodore Ripman",
+          "opponent_slug": "theodore-ripman",
           "score": 5,
           "opponent_score": 13,
           "is_winner": false,
@@ -591,6 +605,7 @@
         "year": 2020,
         "last_game": {
           "opponent_name": "Robeson",
+          "opponent_slug": "robeson",
           "score": 3,
           "opponent_score": 11,
           "is_winner": false,
@@ -657,6 +672,7 @@
         "year": 2018,
         "last_game": {
           "opponent_name": "Sussie R\u00e5dis",
+          "opponent_slug": "sussie-radis",
           "score": 6,
           "opponent_score": 7,
           "is_winner": false,
@@ -669,6 +685,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Alexander Bjerner",
+          "opponent_slug": "alexander-bjerner",
           "score": 4,
           "opponent_score": 8,
           "is_winner": false,
@@ -681,6 +698,7 @@
         "year": 2020,
         "last_game": {
           "opponent_name": "Wille Laska",
+          "opponent_slug": "wille-laska",
           "score": 6,
           "opponent_score": 11,
           "is_winner": false,
@@ -745,6 +763,7 @@
         "year": 2016,
         "last_game": {
           "opponent_name": "Linn Enhage",
+          "opponent_slug": "linn-enhage",
           "score": 7,
           "opponent_score": 4,
           "is_winner": true,
@@ -811,6 +830,7 @@
         "year": 2011,
         "last_game": {
           "opponent_name": "Theodore Ripman",
+          "opponent_slug": "theodore-ripman",
           "score": 4,
           "opponent_score": 7,
           "is_winner": false,
@@ -823,6 +843,7 @@
         "year": 2020,
         "last_game": {
           "opponent_name": "Edvin Lindsten",
+          "opponent_slug": "edvin-lindsten",
           "score": 4,
           "opponent_score": 9,
           "is_winner": false,
@@ -889,6 +910,7 @@
         "year": 2020,
         "last_game": {
           "opponent_name": "Fredrik Berg",
+          "opponent_slug": "fredrik-berg",
           "score": 6,
           "opponent_score": 9,
           "is_winner": false,
@@ -954,6 +976,7 @@
         "year": 2020,
         "last_game": {
           "opponent_name": "Tim Samuelsson",
+          "opponent_slug": "tim-samuelsson",
           "score": 5,
           "opponent_score": 11,
           "is_winner": false,
@@ -1018,6 +1041,7 @@
         "year": 2020,
         "last_game": {
           "opponent_name": "Charlotte Breitholtz",
+          "opponent_slug": "charlotte-breitholtz",
           "score": 0,
           "opponent_score": 9,
           "is_winner": false,
@@ -1083,6 +1107,7 @@
         "year": 2020,
         "last_game": {
           "opponent_name": "Jon Jeppson",
+          "opponent_slug": "jon-jeppson",
           "score": 6,
           "opponent_score": 11,
           "is_winner": false,
@@ -1148,6 +1173,7 @@
         "year": 2018,
         "last_game": {
           "opponent_name": "Johan Kjell",
+          "opponent_slug": "johan-kjell",
           "score": 2,
           "opponent_score": 10,
           "is_winner": false,
@@ -1160,6 +1186,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Bj\u00f6rn Berglund",
+          "opponent_slug": "bjorn-berglund",
           "score": 4,
           "opponent_score": 8,
           "is_winner": false,
@@ -1224,6 +1251,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Mina Kheirkhah",
+          "opponent_slug": "mina-kheirkhah",
           "score": 8,
           "opponent_score": 12,
           "is_winner": false,
@@ -1293,6 +1321,7 @@
         "year": 2011,
         "last_game": {
           "opponent_name": "Erik Nordenankar",
+          "opponent_slug": "erik-nordenankar",
           "score": 9,
           "opponent_score": 14,
           "is_winner": false,
@@ -1305,6 +1334,7 @@
         "year": 2012,
         "last_game": {
           "opponent_name": "Theodore Ripman",
+          "opponent_slug": "theodore-ripman",
           "score": 4,
           "opponent_score": 9,
           "is_winner": false,
@@ -1317,6 +1347,7 @@
         "year": 2016,
         "last_game": {
           "opponent_name": "Linn Debove",
+          "opponent_slug": "linn-debove",
           "score": 1,
           "opponent_score": 7,
           "is_winner": false,
@@ -1329,6 +1360,7 @@
         "year": 2017,
         "last_game": {
           "opponent_name": "Julius Jorborg",
+          "opponent_slug": "julius-jorborg",
           "score": 0,
           "opponent_score": 7,
           "is_winner": false,
@@ -1341,6 +1373,7 @@
         "year": 2018,
         "last_game": {
           "opponent_name": "Robin Fogelberg",
+          "opponent_slug": "robin-fogelberg",
           "score": 7,
           "opponent_score": 9,
           "is_winner": false,
@@ -1353,6 +1386,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Robeson",
+          "opponent_slug": "robeson",
           "score": 5,
           "opponent_score": 10,
           "is_winner": false,
@@ -1417,6 +1451,7 @@
         "year": 2012,
         "last_game": {
           "opponent_name": "Johan Alm",
+          "opponent_slug": "johan-alm",
           "score": 0,
           "opponent_score": 7,
           "is_winner": false,
@@ -1482,6 +1517,7 @@
         "year": 2016,
         "last_game": {
           "opponent_name": "Jerker Karlsson",
+          "opponent_slug": "jerker-karlsson",
           "score": 9,
           "opponent_score": 12,
           "is_winner": false,
@@ -1547,6 +1583,7 @@
         "year": 2018,
         "last_game": {
           "opponent_name": "Jens Hultkrans",
+          "opponent_slug": "jens-hultkrans",
           "score": 8,
           "opponent_score": 4,
           "is_winner": true,
@@ -1559,6 +1596,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Micke Leyi",
+          "opponent_slug": "micke-leyi",
           "score": 0,
           "opponent_score": 8,
           "is_winner": false,
@@ -1631,6 +1669,7 @@
         "year": 2017,
         "last_game": {
           "opponent_name": "Gabriel Nordenankar",
+          "opponent_slug": "gabriel-nordenankar",
           "score": 2,
           "opponent_score": 13,
           "is_winner": false,
@@ -1643,6 +1682,7 @@
         "year": 2018,
         "last_game": {
           "opponent_name": "Theodore Ripman",
+          "opponent_slug": "theodore-ripman",
           "score": 2,
           "opponent_score": 9,
           "is_winner": false,
@@ -1655,6 +1695,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Robin Fogelberg",
+          "opponent_slug": "robin-fogelberg",
           "score": 7,
           "opponent_score": 10,
           "is_winner": false,
@@ -1667,6 +1708,7 @@
         "year": 2020,
         "last_game": {
           "opponent_name": "Pelle Dovborg",
+          "opponent_slug": "pelle-dovborg",
           "score": 5,
           "opponent_score": 13,
           "is_winner": false,
@@ -1731,6 +1773,7 @@
         "year": 2020,
         "last_game": {
           "opponent_name": "Martyna",
+          "opponent_slug": "martyna",
           "score": 5,
           "opponent_score": 11,
           "is_winner": false,
@@ -1795,6 +1838,7 @@
         "year": 2017,
         "last_game": {
           "opponent_name": "Sofia Ahlstr\u00f6m",
+          "opponent_slug": "sofia-ahlstrom",
           "score": 3,
           "opponent_score": 7,
           "is_winner": false,
@@ -1866,6 +1910,7 @@
         "year": 2011,
         "last_game": {
           "opponent_name": "Cissi Hellman",
+          "opponent_slug": "cissi-hellman",
           "score": 14,
           "opponent_score": 9,
           "is_winner": true,
@@ -1878,6 +1923,7 @@
         "year": 2012,
         "last_game": {
           "opponent_name": "Johan Alm",
+          "opponent_slug": "johan-alm",
           "score": 6,
           "opponent_score": 7,
           "is_winner": false,
@@ -1890,6 +1936,7 @@
         "year": 2016,
         "last_game": {
           "opponent_name": "Jakob Lien",
+          "opponent_slug": "jakob-lien",
           "score": 8,
           "opponent_score": 9,
           "is_winner": false,
@@ -1902,6 +1949,7 @@
         "year": 2017,
         "last_game": {
           "opponent_name": "Jerker Karlsson",
+          "opponent_slug": "jerker-karlsson",
           "score": 13,
           "opponent_score": 7,
           "is_winner": true,
@@ -1914,6 +1962,7 @@
         "year": 2018,
         "last_game": {
           "opponent_name": "Robin Fogelberg",
+          "opponent_slug": "robin-fogelberg",
           "score": 14,
           "opponent_score": 7,
           "is_winner": true,
@@ -1926,6 +1975,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Theodore Ripman",
+          "opponent_slug": "theodore-ripman",
           "score": 6,
           "opponent_score": 10,
           "is_winner": false,
@@ -1938,6 +1988,7 @@
         "year": 2020,
         "last_game": {
           "opponent_name": "Robeson",
+          "opponent_slug": "robeson",
           "score": 6,
           "opponent_score": 11,
           "is_winner": false,
@@ -2002,6 +2053,7 @@
         "year": 2020,
         "last_game": {
           "opponent_name": "Jakob Gustafsson",
+          "opponent_slug": "jakob-gustafsson",
           "score": 7,
           "opponent_score": 9,
           "is_winner": false,
@@ -2067,6 +2119,7 @@
         "year": 2016,
         "last_game": {
           "opponent_name": "Daniel Mensak",
+          "opponent_slug": "daniel-mensak",
           "score": 3,
           "opponent_score": 9,
           "is_winner": false,
@@ -2132,6 +2185,7 @@
         "year": 2018,
         "last_game": {
           "opponent_name": "Robin Fogelberg",
+          "opponent_slug": "robin-fogelberg",
           "score": 8,
           "opponent_score": 9,
           "is_winner": false,
@@ -2144,6 +2198,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Robeson",
+          "opponent_slug": "robeson",
           "score": 5,
           "opponent_score": 13,
           "is_winner": false,
@@ -2209,6 +2264,7 @@
         "year": 2018,
         "last_game": {
           "opponent_name": "Estrid",
+          "opponent_slug": "estrid",
           "score": 2,
           "opponent_score": 7,
           "is_winner": false,
@@ -2221,6 +2277,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Robeson",
+          "opponent_slug": "robeson",
           "score": 3,
           "opponent_score": 9,
           "is_winner": false,
@@ -2290,6 +2347,7 @@
         "year": 2016,
         "last_game": {
           "opponent_name": "Daniel Mensak",
+          "opponent_slug": "daniel-mensak",
           "score": 3,
           "opponent_score": 7,
           "is_winner": false,
@@ -2355,6 +2413,7 @@
         "year": 2012,
         "last_game": {
           "opponent_name": "Johan Alm",
+          "opponent_slug": "johan-alm",
           "score": 13,
           "opponent_score": 3,
           "is_winner": true,
@@ -2419,6 +2478,7 @@
         "year": 2020,
         "last_game": {
           "opponent_name": "Jon Jeppson",
+          "opponent_slug": "jon-jeppson",
           "score": 1,
           "opponent_score": 9,
           "is_winner": false,
@@ -2485,6 +2545,7 @@
         "year": 2020,
         "last_game": {
           "opponent_name": "Carl Rother-Schirren",
+          "opponent_slug": "carl-rother-schirren",
           "score": 9,
           "opponent_score": 6,
           "is_winner": true,
@@ -2551,6 +2612,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Olaver",
+          "opponent_slug": "olaver",
           "score": 1,
           "opponent_score": 8,
           "is_winner": false,
@@ -2619,6 +2681,7 @@
         "year": 2012,
         "last_game": {
           "opponent_name": "Jakob Lien",
+          "opponent_slug": "jakob-lien",
           "score": 4,
           "opponent_score": 7,
           "is_winner": false,
@@ -2631,6 +2694,7 @@
         "year": 2016,
         "last_game": {
           "opponent_name": "Daniel Mensak",
+          "opponent_slug": "daniel-mensak",
           "score": 1,
           "opponent_score": 7,
           "is_winner": false,
@@ -2643,6 +2707,7 @@
         "year": 2018,
         "last_game": {
           "opponent_name": "Olle Hjort",
+          "opponent_slug": "olle-hjort",
           "score": 4,
           "opponent_score": 7,
           "is_winner": false,
@@ -2655,6 +2720,7 @@
         "year": 2020,
         "last_game": {
           "opponent_name": "Beata Harrysson",
+          "opponent_slug": "beata-harrysson",
           "score": 9,
           "opponent_score": 1,
           "is_winner": true,
@@ -2733,6 +2799,7 @@
         "year": 2011,
         "last_game": {
           "opponent_name": "Cissi Hellman",
+          "opponent_slug": "cissi-hellman",
           "score": 7,
           "opponent_score": 3,
           "is_winner": true,
@@ -2745,6 +2812,7 @@
         "year": 2012,
         "last_game": {
           "opponent_name": "Love Andr\u00e9asson",
+          "opponent_slug": "love-andreasson",
           "score": 2,
           "opponent_score": 7,
           "is_winner": false,
@@ -2757,6 +2825,7 @@
         "year": 2016,
         "last_game": {
           "opponent_name": "Jakob Lien",
+          "opponent_slug": "jakob-lien",
           "score": 12,
           "opponent_score": 6,
           "is_winner": true,
@@ -2769,6 +2838,7 @@
         "year": 2017,
         "last_game": {
           "opponent_name": "Edvin Lindsten",
+          "opponent_slug": "edvin-lindsten",
           "score": 13,
           "opponent_score": 2,
           "is_winner": true,
@@ -2781,6 +2851,7 @@
         "year": 2018,
         "last_game": {
           "opponent_name": "Jens Hultkrans",
+          "opponent_slug": "jens-hultkrans",
           "score": 4,
           "opponent_score": 9,
           "is_winner": false,
@@ -2793,6 +2864,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Estrid",
+          "opponent_slug": "estrid",
           "score": 9,
           "opponent_score": 10,
           "is_winner": false,
@@ -2805,6 +2877,7 @@
         "year": 2020,
         "last_game": {
           "opponent_name": "Pia T\u00f6rnkvist",
+          "opponent_slug": "pia-tornkvist",
           "score": 3,
           "opponent_score": 9,
           "is_winner": false,
@@ -2870,6 +2943,7 @@
         "year": 2018,
         "last_game": {
           "opponent_name": "Sussie R\u00e5dis",
+          "opponent_slug": "sussie-radis",
           "score": 3,
           "opponent_score": 7,
           "is_winner": false,
@@ -2938,6 +3012,7 @@
         "year": 2018,
         "last_game": {
           "opponent_name": "Estrid",
+          "opponent_slug": "estrid",
           "score": 2,
           "opponent_score": 9,
           "is_winner": false,
@@ -2950,6 +3025,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Micke Leyi",
+          "opponent_slug": "micke-leyi",
           "score": 4,
           "opponent_score": 8,
           "is_winner": false,
@@ -2962,6 +3038,7 @@
         "year": 2020,
         "last_game": {
           "opponent_name": "Niklas Solberg",
+          "opponent_slug": "niklas-solberg",
           "score": 5,
           "opponent_score": 11,
           "is_winner": false,
@@ -3027,6 +3104,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Olle Strandberg",
+          "opponent_slug": "olle-strandberg",
           "score": 1,
           "opponent_score": 8,
           "is_winner": false,
@@ -3092,6 +3170,7 @@
         "year": 2020,
         "last_game": {
           "opponent_name": "Emma Bergmark",
+          "opponent_slug": "emma-bergmark",
           "score": 6,
           "opponent_score": 9,
           "is_winner": false,
@@ -3157,6 +3236,7 @@
         "year": 2011,
         "last_game": {
           "opponent_name": "Erik Nordenankar",
+          "opponent_slug": "erik-nordenankar",
           "score": 3,
           "opponent_score": 7,
           "is_winner": false,
@@ -3222,6 +3302,7 @@
         "year": 2017,
         "last_game": {
           "opponent_name": "Sofia Ahlstr\u00f6m",
+          "opponent_slug": "sofia-ahlstrom",
           "score": 6,
           "opponent_score": 7,
           "is_winner": false,
@@ -3234,6 +3315,7 @@
         "year": 2018,
         "last_game": {
           "opponent_name": "Jens Hultkrans",
+          "opponent_slug": "jens-hultkrans",
           "score": 4,
           "opponent_score": 9,
           "is_winner": false,
@@ -3299,6 +3381,7 @@
         "year": 2018,
         "last_game": {
           "opponent_name": "Johan Ekman",
+          "opponent_slug": "johan-ekman",
           "score": 3,
           "opponent_score": 7,
           "is_winner": false,
@@ -3311,6 +3394,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Linnea Karlsson",
+          "opponent_slug": "linnea-karlsson",
           "score": 3,
           "opponent_score": 8,
           "is_winner": false,
@@ -3379,6 +3463,7 @@
         "year": 2017,
         "last_game": {
           "opponent_name": "Ylva Andr\u00e9asson",
+          "opponent_slug": "ylva-andreasson",
           "score": 7,
           "opponent_score": 6,
           "is_winner": true,
@@ -3391,6 +3476,7 @@
         "year": 2018,
         "last_game": {
           "opponent_name": "Hannes Jordan",
+          "opponent_slug": "hannes-jordan",
           "score": 6,
           "opponent_score": 7,
           "is_winner": false,
@@ -3460,6 +3546,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Fanny Kjellner",
+          "opponent_slug": "fanny-kjellner",
           "score": 3,
           "opponent_score": 8,
           "is_winner": false,
@@ -3472,6 +3559,7 @@
         "year": 2020,
         "last_game": {
           "opponent_name": "Benjamin Ger. Hed.",
+          "opponent_slug": "benjamin-ger-hed",
           "score": 3,
           "opponent_score": 11,
           "is_winner": false,
@@ -3541,6 +3629,7 @@
         "year": 2011,
         "last_game": {
           "opponent_name": "Cissi Hellman",
+          "opponent_slug": "cissi-hellman",
           "score": 5,
           "opponent_score": 7,
           "is_winner": false,
@@ -3553,6 +3642,7 @@
         "year": 2012,
         "last_game": {
           "opponent_name": "Theodore Ripman",
+          "opponent_slug": "theodore-ripman",
           "score": 7,
           "opponent_score": 5,
           "is_winner": true,
@@ -3565,6 +3655,7 @@
         "year": 2016,
         "last_game": {
           "opponent_name": "Gabriel Nordenankar",
+          "opponent_slug": "gabriel-nordenankar",
           "score": 6,
           "opponent_score": 12,
           "is_winner": false,
@@ -3577,6 +3668,7 @@
         "year": 2017,
         "last_game": {
           "opponent_name": "Edvin Lindsten",
+          "opponent_slug": "edvin-lindsten",
           "score": 1,
           "opponent_score": 7,
           "is_winner": false,
@@ -3589,6 +3681,7 @@
         "year": 2018,
         "last_game": {
           "opponent_name": "Lovisa Birgersson",
+          "opponent_slug": "lovisa-birgersson",
           "score": 5,
           "opponent_score": 9,
           "is_winner": false,
@@ -3601,6 +3694,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Pelle Dovborg",
+          "opponent_slug": "pelle-dovborg",
           "score": 0,
           "opponent_score": 10,
           "is_winner": false,
@@ -3665,6 +3759,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Olle Nyr\u00e9n",
+          "opponent_slug": "olle-nyren",
           "score": 3,
           "opponent_score": 9,
           "is_winner": false,
@@ -3732,6 +3827,7 @@
         "year": 2016,
         "last_game": {
           "opponent_name": "Lotta Harder",
+          "opponent_slug": "lotta-harder",
           "score": 2,
           "opponent_score": 8,
           "is_winner": false,
@@ -3744,6 +3840,7 @@
         "year": 2018,
         "last_game": {
           "opponent_name": "Love Andr\u00e9asson",
+          "opponent_slug": "love-andreasson",
           "score": 2,
           "opponent_score": 9,
           "is_winner": false,
@@ -3756,6 +3853,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Erik Nordenankar",
+          "opponent_slug": "erik-nordenankar",
           "score": 2,
           "opponent_score": 11,
           "is_winner": false,
@@ -3823,6 +3921,7 @@
         "year": 2018,
         "last_game": {
           "opponent_name": "Johan Kjell",
+          "opponent_slug": "johan-kjell",
           "score": 5,
           "opponent_score": 13,
           "is_winner": false,
@@ -3835,6 +3934,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Benjamin Ger. Hed.",
+          "opponent_slug": "benjamin-ger-hed",
           "score": 6,
           "opponent_score": 10,
           "is_winner": false,
@@ -3847,6 +3947,7 @@
         "year": 2020,
         "last_game": {
           "opponent_name": "Robeson",
+          "opponent_slug": "robeson",
           "score": 10,
           "opponent_score": 11,
           "is_winner": false,
@@ -3911,6 +4012,7 @@
         "year": 2011,
         "last_game": {
           "opponent_name": "Olof Sabelstr\u00f6m",
+          "opponent_slug": "olof-sabelstrom",
           "score": 5,
           "opponent_score": 7,
           "is_winner": false,
@@ -3980,6 +4082,7 @@
         "year": 2012,
         "last_game": {
           "opponent_name": "Theodore Ripman",
+          "opponent_slug": "theodore-ripman",
           "score": 6,
           "opponent_score": 7,
           "is_winner": false,
@@ -3992,6 +4095,7 @@
         "year": 2016,
         "last_game": {
           "opponent_name": "Daniel Mensak",
+          "opponent_slug": "daniel-mensak",
           "score": 12,
           "opponent_score": 9,
           "is_winner": true,
@@ -4004,6 +4108,7 @@
         "year": 2017,
         "last_game": {
           "opponent_name": "Erik Nordenankar",
+          "opponent_slug": "erik-nordenankar",
           "score": 7,
           "opponent_score": 13,
           "is_winner": false,
@@ -4016,6 +4121,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Gabriel Nordenankar",
+          "opponent_slug": "gabriel-nordenankar",
           "score": 6,
           "opponent_score": 10,
           "is_winner": false,
@@ -4028,6 +4134,7 @@
         "year": 2020,
         "last_game": {
           "opponent_name": "Pia T\u00f6rnkvist",
+          "opponent_slug": "pia-tornkvist",
           "score": 7,
           "opponent_score": 11,
           "is_winner": false,
@@ -4095,6 +4202,7 @@
         "year": 2017,
         "last_game": {
           "opponent_name": "Ville Nordenankar",
+          "opponent_slug": "ville-nordenankar",
           "score": 6,
           "opponent_score": 9,
           "is_winner": false,
@@ -4107,6 +4215,7 @@
         "year": 2018,
         "last_game": {
           "opponent_name": "Cissi Hellman",
+          "opponent_slug": "cissi-hellman",
           "score": 5,
           "opponent_score": 10,
           "is_winner": false,
@@ -4119,6 +4228,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Pelle Dovborg",
+          "opponent_slug": "pelle-dovborg",
           "score": 6,
           "opponent_score": 10,
           "is_winner": false,
@@ -4185,6 +4295,7 @@
         "year": 2018,
         "last_game": {
           "opponent_name": "Jens Finn\u00e4s",
+          "opponent_slug": "jens-finnas",
           "score": 4,
           "opponent_score": 7,
           "is_winner": false,
@@ -4197,6 +4308,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Edith S\u00f6derstr\u00f6m",
+          "opponent_slug": "edith-soderstrom",
           "score": 7,
           "opponent_score": 8,
           "is_winner": false,
@@ -4264,6 +4376,7 @@
         "year": 2012,
         "last_game": {
           "opponent_name": "Klara Gustin",
+          "opponent_slug": "klara-gustin",
           "score": 7,
           "opponent_score": 3,
           "is_winner": true,
@@ -4329,6 +4442,7 @@
         "year": 2012,
         "last_game": {
           "opponent_name": "Filip Tyd\u00e9n",
+          "opponent_slug": "filip-tyden",
           "score": 3,
           "opponent_score": 13,
           "is_winner": false,
@@ -4393,6 +4507,7 @@
         "year": 2017,
         "last_game": {
           "opponent_name": "Johan Ekman",
+          "opponent_slug": "johan-ekman",
           "score": 5,
           "opponent_score": 7,
           "is_winner": false,
@@ -4462,6 +4577,7 @@
         "year": 2012,
         "last_game": {
           "opponent_name": "Agnes Lind",
+          "opponent_slug": "agnes-lind",
           "score": 7,
           "opponent_score": 0,
           "is_winner": true,
@@ -4474,6 +4590,7 @@
         "year": 2016,
         "last_game": {
           "opponent_name": "Pelle Dovborg",
+          "opponent_slug": "pelle-dovborg",
           "score": 7,
           "opponent_score": 1,
           "is_winner": true,
@@ -4486,6 +4603,7 @@
         "year": 2017,
         "last_game": {
           "opponent_name": "Johannes Birgersson",
+          "opponent_slug": "johannes-birgersson",
           "score": 4,
           "opponent_score": 8,
           "is_winner": false,
@@ -4498,6 +4616,7 @@
         "year": 2018,
         "last_game": {
           "opponent_name": "Erik Nordenankar",
+          "opponent_slug": "erik-nordenankar",
           "score": 3,
           "opponent_score": 10,
           "is_winner": false,
@@ -4510,6 +4629,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Gabriel Nordenankar",
+          "opponent_slug": "gabriel-nordenankar",
           "score": 6,
           "opponent_score": 10,
           "is_winner": false,
@@ -4575,6 +4695,7 @@
         "year": 2020,
         "last_game": {
           "opponent_name": "Pelle Dovborg",
+          "opponent_slug": "pelle-dovborg",
           "score": 2,
           "opponent_score": 13,
           "is_winner": false,
@@ -4641,6 +4762,7 @@
         "year": 2012,
         "last_game": {
           "opponent_name": "Jerker Karlsson",
+          "opponent_slug": "jerker-karlsson",
           "score": 7,
           "opponent_score": 6,
           "is_winner": true,
@@ -4653,6 +4775,7 @@
         "year": 2017,
         "last_game": {
           "opponent_name": "Sandra Starfelt",
+          "opponent_slug": "sandra-starfelt",
           "score": 6,
           "opponent_score": 7,
           "is_winner": false,
@@ -4665,6 +4788,7 @@
         "year": 2018,
         "last_game": {
           "opponent_name": "Jens Hultkrans",
+          "opponent_slug": "jens-hultkrans",
           "score": 13,
           "opponent_score": 5,
           "is_winner": true,
@@ -4734,6 +4858,7 @@
         "year": 2012,
         "last_game": {
           "opponent_name": "Johan Alm",
+          "opponent_slug": "johan-alm",
           "score": 1,
           "opponent_score": 7,
           "is_winner": false,
@@ -4746,6 +4871,7 @@
         "year": 2016,
         "last_game": {
           "opponent_name": "Richard Ekman",
+          "opponent_slug": "richard-ekman",
           "score": 2,
           "opponent_score": 7,
           "is_winner": false,
@@ -4758,6 +4884,7 @@
         "year": 2017,
         "last_game": {
           "opponent_name": "Love Elfvelin",
+          "opponent_slug": "love-elfvelin",
           "score": 3,
           "opponent_score": 8,
           "is_winner": false,
@@ -4770,6 +4897,7 @@
         "year": 2018,
         "last_game": {
           "opponent_name": "Robeson",
+          "opponent_slug": "robeson",
           "score": 4,
           "opponent_score": 7,
           "is_winner": false,
@@ -4782,6 +4910,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Robin Fogelberg",
+          "opponent_slug": "robin-fogelberg",
           "score": 3,
           "opponent_score": 8,
           "is_winner": false,
@@ -4794,6 +4923,7 @@
         "year": 2020,
         "last_game": {
           "opponent_name": "Jon Jeppson",
+          "opponent_slug": "jon-jeppson",
           "score": 0,
           "opponent_score": 9,
           "is_winner": false,
@@ -4870,6 +5000,7 @@
         "year": 2017,
         "last_game": {
           "opponent_name": "Petter Hammarb\u00e4ck",
+          "opponent_slug": "petter-hammarback",
           "score": 7,
           "opponent_score": 4,
           "is_winner": true,
@@ -4882,6 +5013,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Robeson",
+          "opponent_slug": "robeson",
           "score": 4,
           "opponent_score": 8,
           "is_winner": false,
@@ -4950,6 +5082,7 @@
         "year": 2011,
         "last_game": {
           "opponent_name": "Henrik Blomkvist",
+          "opponent_slug": "henrik-blomkvist",
           "score": 5,
           "opponent_score": 7,
           "is_winner": false,
@@ -5016,6 +5149,7 @@
         "year": 2016,
         "last_game": {
           "opponent_name": "Lotta Harder",
+          "opponent_slug": "lotta-harder",
           "score": 1,
           "opponent_score": 8,
           "is_winner": false,
@@ -5028,6 +5162,7 @@
         "year": 2018,
         "last_game": {
           "opponent_name": "Gustaf Ekenstein",
+          "opponent_slug": "gustaf-ekenstein",
           "score": 4,
           "opponent_score": 8,
           "is_winner": false,
@@ -5040,6 +5175,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Jakob Gustafsson",
+          "opponent_slug": "jakob-gustafsson",
           "score": 4,
           "opponent_score": 8,
           "is_winner": false,
@@ -5109,6 +5245,7 @@
         "year": 2020,
         "last_game": {
           "opponent_name": "Alexander Starfelt",
+          "opponent_slug": "alexander-starfelt",
           "score": 4,
           "opponent_score": 11,
           "is_winner": false,
@@ -5174,6 +5311,7 @@
         "year": 2017,
         "last_game": {
           "opponent_name": "Jerker Karlsson",
+          "opponent_slug": "jerker-karlsson",
           "score": 5,
           "opponent_score": 9,
           "is_winner": false,
@@ -5186,6 +5324,7 @@
         "year": 2018,
         "last_game": {
           "opponent_name": "Lovisa Birgersson",
+          "opponent_slug": "lovisa-birgersson",
           "score": 7,
           "opponent_score": 5,
           "is_winner": true,
@@ -5252,6 +5391,7 @@
         "year": 2017,
         "last_game": {
           "opponent_name": "Josefin Asplund",
+          "opponent_slug": "josefin-asplund",
           "score": 0,
           "opponent_score": 7,
           "is_winner": false,
@@ -5264,6 +5404,7 @@
         "year": 2018,
         "last_game": {
           "opponent_name": "Kevin Carlsson",
+          "opponent_slug": "kevin-carlsson",
           "score": 8,
           "opponent_score": 3,
           "is_winner": true,
@@ -5276,6 +5417,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Robin Fogelberg",
+          "opponent_slug": "robin-fogelberg",
           "score": 8,
           "opponent_score": 10,
           "is_winner": false,
@@ -5343,6 +5485,7 @@
         "year": 2017,
         "last_game": {
           "opponent_name": "Maria Adel\u00f6f",
+          "opponent_slug": "maria-adelof",
           "score": 6,
           "opponent_score": 7,
           "is_winner": false,
@@ -5355,6 +5498,7 @@
         "year": 2018,
         "last_game": {
           "opponent_name": "Fanny Kjellner",
+          "opponent_slug": "fanny-kjellner",
           "score": 1,
           "opponent_score": 7,
           "is_winner": false,
@@ -5367,6 +5511,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Kusha Bahrami",
+          "opponent_slug": "kusha-bahrami",
           "score": 2,
           "opponent_score": 9,
           "is_winner": false,
@@ -5379,6 +5524,7 @@
         "year": 2020,
         "last_game": {
           "opponent_name": "Sandra Sundin",
+          "opponent_slug": "sandra-sundin",
           "score": 2,
           "opponent_score": 9,
           "is_winner": false,
@@ -5450,6 +5596,7 @@
         "year": 2017,
         "last_game": {
           "opponent_name": "Edvin Lindsten",
+          "opponent_slug": "edvin-lindsten",
           "score": 2,
           "opponent_score": 7,
           "is_winner": false,
@@ -5515,6 +5662,7 @@
         "year": 2018,
         "last_game": {
           "opponent_name": "Julius Jorborg",
+          "opponent_slug": "julius-jorborg",
           "score": 3,
           "opponent_score": 8,
           "is_winner": false,
@@ -5580,6 +5728,7 @@
         "year": 2020,
         "last_game": {
           "opponent_name": "Olle Strandberg",
+          "opponent_slug": "olle-strandberg",
           "score": 6,
           "opponent_score": 11,
           "is_winner": false,
@@ -5644,6 +5793,7 @@
         "year": 2012,
         "last_game": {
           "opponent_name": "Joel Danell",
+          "opponent_slug": "joel-danell",
           "score": 3,
           "opponent_score": 7,
           "is_winner": false,
@@ -5710,6 +5860,7 @@
         "year": 2018,
         "last_game": {
           "opponent_name": "Theodore Ripman",
+          "opponent_slug": "theodore-ripman",
           "score": 3,
           "opponent_score": 9,
           "is_winner": false,
@@ -5722,6 +5873,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Benjamin Ger. Hed.",
+          "opponent_slug": "benjamin-ger-hed",
           "score": 1,
           "opponent_score": 10,
           "is_winner": false,
@@ -5786,6 +5938,7 @@
         "year": 2020,
         "last_game": {
           "opponent_name": "Pelle Dovborg",
+          "opponent_slug": "pelle-dovborg",
           "score": 4,
           "opponent_score": 12,
           "is_winner": false,
@@ -5851,6 +6004,7 @@
         "year": 2018,
         "last_game": {
           "opponent_name": "Lovisa Birgersson",
+          "opponent_slug": "lovisa-birgersson",
           "score": 5,
           "opponent_score": 7,
           "is_winner": false,
@@ -5863,6 +6017,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Mathilda Hansson",
+          "opponent_slug": "mathilda-hansson",
           "score": 4,
           "opponent_score": 8,
           "is_winner": false,
@@ -5931,6 +6086,7 @@
         "year": 2016,
         "last_game": {
           "opponent_name": "Cissi Hellman",
+          "opponent_slug": "cissi-hellman",
           "score": 7,
           "opponent_score": 1,
           "is_winner": true,
@@ -5943,6 +6099,7 @@
         "year": 2018,
         "last_game": {
           "opponent_name": "Mina Kheirkhah",
+          "opponent_slug": "mina-kheirkhah",
           "score": 5,
           "opponent_score": 7,
           "is_winner": false,
@@ -6012,6 +6169,7 @@
         "year": 2016,
         "last_game": {
           "opponent_name": "Bj\u00f6rn Westerfors",
+          "opponent_slug": "bjorn-westerfors",
           "score": 4,
           "opponent_score": 7,
           "is_winner": false,
@@ -6024,6 +6182,7 @@
         "year": 2018,
         "last_game": {
           "opponent_name": "Hannes Jordan",
+          "opponent_slug": "hannes-jordan",
           "score": 0,
           "opponent_score": 7,
           "is_winner": false,
@@ -6036,6 +6195,7 @@
         "year": 2020,
         "last_game": {
           "opponent_name": "Tim Samuelsson",
+          "opponent_slug": "tim-samuelsson",
           "score": 2,
           "opponent_score": 9,
           "is_winner": false,
@@ -6107,6 +6267,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Martha Brauer",
+          "opponent_slug": "martha-brauer",
           "score": 1,
           "opponent_score": 8,
           "is_winner": false,
@@ -6119,6 +6280,7 @@
         "year": 2020,
         "last_game": {
           "opponent_name": "Edvin Lindsten",
+          "opponent_slug": "edvin-lindsten",
           "score": 2,
           "opponent_score": 11,
           "is_winner": false,
@@ -6184,6 +6346,7 @@
         "year": 2016,
         "last_game": {
           "opponent_name": "Gabriel Nordenankar",
+          "opponent_slug": "gabriel-nordenankar",
           "score": 2,
           "opponent_score": 9,
           "is_winner": false,
@@ -6196,6 +6359,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Alexander Bjerner",
+          "opponent_slug": "alexander-bjerner",
           "score": 4,
           "opponent_score": 9,
           "is_winner": false,
@@ -6261,6 +6425,7 @@
         "year": 2018,
         "last_game": {
           "opponent_name": "Hannes Jordan",
+          "opponent_slug": "hannes-jordan",
           "score": 7,
           "opponent_score": 9,
           "is_winner": false,
@@ -6273,6 +6438,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Monica Harder",
+          "opponent_slug": "monica-harder",
           "score": 4,
           "opponent_score": 8,
           "is_winner": false,
@@ -6340,6 +6506,7 @@
         "year": 2012,
         "last_game": {
           "opponent_name": "Filip Tyd\u00e9n",
+          "opponent_slug": "filip-tyden",
           "score": 5,
           "opponent_score": 7,
           "is_winner": false,
@@ -6352,6 +6519,7 @@
         "year": 2017,
         "last_game": {
           "opponent_name": "Jerker Karlsson",
+          "opponent_slug": "jerker-karlsson",
           "score": 1,
           "opponent_score": 9,
           "is_winner": false,
@@ -6364,6 +6532,7 @@
         "year": 2018,
         "last_game": {
           "opponent_name": "Robin Linderborg",
+          "opponent_slug": "robin-linderborg",
           "score": 7,
           "opponent_score": 9,
           "is_winner": false,
@@ -6376,6 +6545,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Benjamin Ger. Hed.",
+          "opponent_slug": "benjamin-ger-hed",
           "score": 8,
           "opponent_score": 10,
           "is_winner": false,
@@ -6441,6 +6611,7 @@
         "year": 2017,
         "last_game": {
           "opponent_name": "Richard Ekman",
+          "opponent_slug": "richard-ekman",
           "score": 2,
           "opponent_score": 7,
           "is_winner": false,
@@ -6453,6 +6624,7 @@
         "year": 2018,
         "last_game": {
           "opponent_name": "Ville Nordenankar",
+          "opponent_slug": "ville-nordenankar",
           "score": 0,
           "opponent_score": 9,
           "is_winner": false,
@@ -6520,6 +6692,7 @@
         "year": 2017,
         "last_game": {
           "opponent_name": "Petter Hammarb\u00e4ck",
+          "opponent_slug": "petter-hammarback",
           "score": 7,
           "opponent_score": 1,
           "is_winner": true,
@@ -6532,6 +6705,7 @@
         "year": 2018,
         "last_game": {
           "opponent_name": "Erik Nordenankar",
+          "opponent_slug": "erik-nordenankar",
           "score": 4,
           "opponent_score": 9,
           "is_winner": false,
@@ -6544,6 +6718,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Jerker Karlsson",
+          "opponent_slug": "jerker-karlsson",
           "score": 8,
           "opponent_score": 10,
           "is_winner": false,
@@ -6556,6 +6731,7 @@
         "year": 2020,
         "last_game": {
           "opponent_name": "Johan Johnson",
+          "opponent_slug": "johan-johnson",
           "score": 6,
           "opponent_score": 11,
           "is_winner": false,
@@ -6620,6 +6796,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Kusha Bahrami",
+          "opponent_slug": "kusha-bahrami",
           "score": 7,
           "opponent_score": 10,
           "is_winner": false,
@@ -6685,6 +6862,7 @@
         "year": 2016,
         "last_game": {
           "opponent_name": "Sofia S\u00f6derberg",
+          "opponent_slug": "sofia-soderberg",
           "score": 7,
           "opponent_score": 3,
           "is_winner": true,
@@ -6697,6 +6875,7 @@
         "year": 2017,
         "last_game": {
           "opponent_name": "Kajsa Hallberg-Nor.",
+          "opponent_slug": "kajsa-hallberg-nor",
           "score": 7,
           "opponent_score": 6,
           "is_winner": true,
@@ -6765,6 +6944,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Edvin Lindsten",
+          "opponent_slug": "edvin-lindsten",
           "score": 1,
           "opponent_score": 11,
           "is_winner": false,
@@ -6829,6 +7009,7 @@
         "year": 2020,
         "last_game": {
           "opponent_name": "Edvin Lindsten",
+          "opponent_slug": "edvin-lindsten",
           "score": 5,
           "opponent_score": 12,
           "is_winner": false,
@@ -6894,6 +7075,7 @@
         "year": 2017,
         "last_game": {
           "opponent_name": "Benjamin Ger. Hed.",
+          "opponent_slug": "benjamin-ger-hed",
           "score": 6,
           "opponent_score": 9,
           "is_winner": false,
@@ -6906,6 +7088,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Leo Ehnborg",
+          "opponent_slug": "leo-ehnborg",
           "score": 8,
           "opponent_score": 4,
           "is_winner": true,
@@ -6971,6 +7154,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Theodore Ripman",
+          "opponent_slug": "theodore-ripman",
           "score": 8,
           "opponent_score": 10,
           "is_winner": false,
@@ -6983,6 +7167,7 @@
         "year": 2020,
         "last_game": {
           "opponent_name": "Lars T\u00f6rnkvist",
+          "opponent_slug": "lars-tornkvist",
           "score": 6,
           "opponent_score": 9,
           "is_winner": false,
@@ -7049,6 +7234,7 @@
         "year": 2018,
         "last_game": {
           "opponent_name": "Jesper Kronholm",
+          "opponent_slug": "jesper-kronholm",
           "score": 4,
           "opponent_score": 7,
           "is_winner": false,
@@ -7061,6 +7247,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Estrid",
+          "opponent_slug": "estrid",
           "score": 3,
           "opponent_score": 11,
           "is_winner": false,
@@ -7073,6 +7260,7 @@
         "year": 2020,
         "last_game": {
           "opponent_name": "Johan Johnson",
+          "opponent_slug": "johan-johnson",
           "score": 8,
           "opponent_score": 9,
           "is_winner": false,
@@ -7137,6 +7325,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Niklas Frisk",
+          "opponent_slug": "niklas-frisk",
           "score": 3,
           "opponent_score": 9,
           "is_winner": false,
@@ -7203,6 +7392,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Cissi Hellman",
+          "opponent_slug": "cissi-hellman",
           "score": 8,
           "opponent_score": 10,
           "is_winner": false,
@@ -7267,6 +7457,7 @@
         "year": 2018,
         "last_game": {
           "opponent_name": "Gabriel Nordenankar",
+          "opponent_slug": "gabriel-nordenankar",
           "score": 5,
           "opponent_score": 9,
           "is_winner": false,
@@ -7331,6 +7522,7 @@
         "year": 2020,
         "last_game": {
           "opponent_name": "Olle Strandberg",
+          "opponent_slug": "olle-strandberg",
           "score": 8,
           "opponent_score": 11,
           "is_winner": false,
@@ -7395,6 +7587,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Estrid",
+          "opponent_slug": "estrid",
           "score": 3,
           "opponent_score": 8,
           "is_winner": false,
@@ -7460,6 +7653,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Estrid",
+          "opponent_slug": "estrid",
           "score": 7,
           "opponent_score": 10,
           "is_winner": false,
@@ -7525,6 +7719,7 @@
         "year": 2018,
         "last_game": {
           "opponent_name": "Edvin Lindsten",
+          "opponent_slug": "edvin-lindsten",
           "score": 3,
           "opponent_score": 7,
           "is_winner": false,
@@ -7537,6 +7732,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Alexander Starfelt",
+          "opponent_slug": "alexander-starfelt",
           "score": 2,
           "opponent_score": 10,
           "is_winner": false,
@@ -7601,6 +7797,7 @@
         "year": 2018,
         "last_game": {
           "opponent_name": "Louise Persson",
+          "opponent_slug": "louise-persson",
           "score": 0,
           "opponent_score": 5,
           "is_winner": false,
@@ -7667,6 +7864,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Jan Bergstrand",
+          "opponent_slug": "jan-bergstrand",
           "score": 9,
           "opponent_score": 3,
           "is_winner": true,
@@ -7735,6 +7933,7 @@
         "year": 2018,
         "last_game": {
           "opponent_name": "Robin Fogelberg",
+          "opponent_slug": "robin-fogelberg",
           "score": 7,
           "opponent_score": 9,
           "is_winner": false,
@@ -7747,6 +7946,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Christian Steen",
+          "opponent_slug": "christian-steen",
           "score": 5,
           "opponent_score": 8,
           "is_winner": false,
@@ -7759,6 +7959,7 @@
         "year": 2020,
         "last_game": {
           "opponent_name": "Robeson",
+          "opponent_slug": "robeson",
           "score": 10,
           "opponent_score": 13,
           "is_winner": false,
@@ -7824,6 +8025,7 @@
         "year": 2011,
         "last_game": {
           "opponent_name": "Cissi Hellman",
+          "opponent_slug": "cissi-hellman",
           "score": 5,
           "opponent_score": 7,
           "is_winner": false,
@@ -7836,6 +8038,7 @@
         "year": 2012,
         "last_game": {
           "opponent_name": "Love Andr\u00e9asson",
+          "opponent_slug": "love-andreasson",
           "score": 5,
           "opponent_score": 7,
           "is_winner": false,
@@ -7901,6 +8104,7 @@
         "year": 2012,
         "last_game": {
           "opponent_name": "Jakob Lien",
+          "opponent_slug": "jakob-lien",
           "score": 4,
           "opponent_score": 7,
           "is_winner": false,
@@ -7913,6 +8117,7 @@
         "year": 2020,
         "last_game": {
           "opponent_name": "Jens Hultkrans",
+          "opponent_slug": "jens-hultkrans",
           "score": 7,
           "opponent_score": 11,
           "is_winner": false,
@@ -7981,6 +8186,7 @@
         "year": 2016,
         "last_game": {
           "opponent_name": "Johan Ekman",
+          "opponent_slug": "johan-ekman",
           "score": 1,
           "opponent_score": 7,
           "is_winner": false,
@@ -7993,6 +8199,7 @@
         "year": 2017,
         "last_game": {
           "opponent_name": "Gabriel Nordenankar",
+          "opponent_slug": "gabriel-nordenankar",
           "score": 3,
           "opponent_score": 10,
           "is_winner": false,
@@ -8005,6 +8212,7 @@
         "year": 2018,
         "last_game": {
           "opponent_name": "Joakim Lundin",
+          "opponent_slug": "joakim-lundin",
           "score": 8,
           "opponent_score": 4,
           "is_winner": true,
@@ -8017,6 +8225,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Robeson",
+          "opponent_slug": "robeson",
           "score": 7,
           "opponent_score": 10,
           "is_winner": false,
@@ -8029,6 +8238,7 @@
         "year": 2020,
         "last_game": {
           "opponent_name": "Edvin Lindsten",
+          "opponent_slug": "edvin-lindsten",
           "score": 13,
           "opponent_score": 5,
           "is_winner": true,
@@ -8093,6 +8303,7 @@
         "year": 2017,
         "last_game": {
           "opponent_name": "Lovisa Birgersson",
+          "opponent_slug": "lovisa-birgersson",
           "score": 1,
           "opponent_score": 7,
           "is_winner": false,
@@ -8159,6 +8370,7 @@
         "year": 2018,
         "last_game": {
           "opponent_name": "Benjamin Ger. Hed.",
+          "opponent_slug": "benjamin-ger-hed",
           "score": 6,
           "opponent_score": 7,
           "is_winner": false,
@@ -8171,6 +8383,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Olga Andersson",
+          "opponent_slug": "olga-andersson",
           "score": 2,
           "opponent_score": 10,
           "is_winner": false,
@@ -8238,6 +8451,7 @@
         "year": 2020,
         "last_game": {
           "opponent_name": "Linnea Karlsson",
+          "opponent_slug": "linnea-karlsson",
           "score": 8,
           "opponent_score": 11,
           "is_winner": false,
@@ -8306,6 +8520,7 @@
         "year": 2012,
         "last_game": {
           "opponent_name": "Filip Tyd\u00e9n",
+          "opponent_slug": "filip-tyden",
           "score": 5,
           "opponent_score": 7,
           "is_winner": false,
@@ -8318,6 +8533,7 @@
         "year": 2016,
         "last_game": {
           "opponent_name": "Jerker Karlsson",
+          "opponent_slug": "jerker-karlsson",
           "score": 3,
           "opponent_score": 9,
           "is_winner": false,
@@ -8330,6 +8546,7 @@
         "year": 2017,
         "last_game": {
           "opponent_name": "Edvin Lindsten",
+          "opponent_slug": "edvin-lindsten",
           "score": 4,
           "opponent_score": 9,
           "is_winner": false,
@@ -8342,6 +8559,7 @@
         "year": 2018,
         "last_game": {
           "opponent_name": "Jens Hultkrans",
+          "opponent_slug": "jens-hultkrans",
           "score": 6,
           "opponent_score": 9,
           "is_winner": false,
@@ -8354,6 +8572,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Olaver",
+          "opponent_slug": "olaver",
           "score": 7,
           "opponent_score": 8,
           "is_winner": false,
@@ -8421,6 +8640,7 @@
         "year": 2018,
         "last_game": {
           "opponent_name": "Sebastin Fors\u00e9n",
+          "opponent_slug": "sebastin-forsen",
           "score": 5,
           "opponent_score": 7,
           "is_winner": false,
@@ -8433,6 +8653,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Estrid",
+          "opponent_slug": "estrid",
           "score": 13,
           "opponent_score": 5,
           "is_winner": true,
@@ -8445,6 +8666,7 @@
         "year": 2020,
         "last_game": {
           "opponent_name": "Olle Strandberg",
+          "opponent_slug": "olle-strandberg",
           "score": 13,
           "opponent_score": 10,
           "is_winner": true,
@@ -8511,6 +8733,7 @@
         "year": 2018,
         "last_game": {
           "opponent_name": "Erik Nordenankar",
+          "opponent_slug": "erik-nordenankar",
           "score": 7,
           "opponent_score": 14,
           "is_winner": false,
@@ -8523,6 +8746,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Theodore Ripman",
+          "opponent_slug": "theodore-ripman",
           "score": 4,
           "opponent_score": 10,
           "is_winner": false,
@@ -8535,6 +8759,7 @@
         "year": 2020,
         "last_game": {
           "opponent_name": "Hannes Jordan",
+          "opponent_slug": "hannes-jordan",
           "score": 9,
           "opponent_score": 11,
           "is_winner": false,
@@ -8602,6 +8827,7 @@
         "year": 2017,
         "last_game": {
           "opponent_name": "Edvin Lindsten",
+          "opponent_slug": "edvin-lindsten",
           "score": 4,
           "opponent_score": 9,
           "is_winner": false,
@@ -8614,6 +8840,7 @@
         "year": 2018,
         "last_game": {
           "opponent_name": "Erik Nordenankar",
+          "opponent_slug": "erik-nordenankar",
           "score": 5,
           "opponent_score": 11,
           "is_winner": false,
@@ -8626,6 +8853,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Robeson",
+          "opponent_slug": "robeson",
           "score": 4,
           "opponent_score": 10,
           "is_winner": false,
@@ -8638,6 +8866,7 @@
         "year": 2020,
         "last_game": {
           "opponent_name": "Linnea Karlsson",
+          "opponent_slug": "linnea-karlsson",
           "score": 3,
           "opponent_score": 13,
           "is_winner": false,
@@ -8702,6 +8931,7 @@
         "year": 2017,
         "last_game": {
           "opponent_name": "Maria Adel\u00f6f",
+          "opponent_slug": "maria-adelof",
           "score": 8,
           "opponent_score": 5,
           "is_winner": true,
@@ -8768,6 +8998,7 @@
         "year": 2020,
         "last_game": {
           "opponent_name": "Wille Laska",
+          "opponent_slug": "wille-laska",
           "score": 4,
           "opponent_score": 10,
           "is_winner": false,
@@ -8834,6 +9065,7 @@
         "year": 2018,
         "last_game": {
           "opponent_name": "Johan Kjell",
+          "opponent_slug": "johan-kjell",
           "score": 8,
           "opponent_score": 9,
           "is_winner": false,
@@ -8846,6 +9078,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Linnea Karlsson",
+          "opponent_slug": "linnea-karlsson",
           "score": 8,
           "opponent_score": 0,
           "is_winner": true,
@@ -8910,6 +9143,7 @@
         "year": 2020,
         "last_game": {
           "opponent_name": "Edvin Lindsten",
+          "opponent_slug": "edvin-lindsten",
           "score": 9,
           "opponent_score": 13,
           "is_winner": false,
@@ -8974,6 +9208,7 @@
         "year": 2017,
         "last_game": {
           "opponent_name": "Karl S\u00f6derberg",
+          "opponent_slug": "karl-soderberg",
           "score": 7,
           "opponent_score": 1,
           "is_winner": true,
@@ -9040,6 +9275,7 @@
         "year": 2017,
         "last_game": {
           "opponent_name": "Josefin Asplund",
+          "opponent_slug": "josefin-asplund",
           "score": 3,
           "opponent_score": 10,
           "is_winner": false,
@@ -9104,6 +9340,7 @@
         "year": 2016,
         "last_game": {
           "opponent_name": "Tobe Welander",
+          "opponent_slug": "tobe-welander",
           "score": 7,
           "opponent_score": 6,
           "is_winner": true,
@@ -9174,6 +9411,7 @@
         "year": 2011,
         "last_game": {
           "opponent_name": "Jakob Lien",
+          "opponent_slug": "jakob-lien",
           "score": 2,
           "opponent_score": 8,
           "is_winner": false,
@@ -9186,6 +9424,7 @@
         "year": 2012,
         "last_game": {
           "opponent_name": "Frida \u00d6hrn",
+          "opponent_slug": "frida-ohrn",
           "score": 4,
           "opponent_score": 7,
           "is_winner": false,
@@ -9198,6 +9437,7 @@
         "year": 2016,
         "last_game": {
           "opponent_name": "Richard Ekman",
+          "opponent_slug": "richard-ekman",
           "score": 3,
           "opponent_score": 7,
           "is_winner": false,
@@ -9210,6 +9450,7 @@
         "year": 2017,
         "last_game": {
           "opponent_name": "Richard Ekman",
+          "opponent_slug": "richard-ekman",
           "score": 1,
           "opponent_score": 10,
           "is_winner": false,
@@ -9222,6 +9463,7 @@
         "year": 2018,
         "last_game": {
           "opponent_name": "Jens Hultkrans",
+          "opponent_slug": "jens-hultkrans",
           "score": 4,
           "opponent_score": 7,
           "is_winner": false,
@@ -9234,6 +9476,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Jens Hultkrans",
+          "opponent_slug": "jens-hultkrans",
           "score": 3,
           "opponent_score": 11,
           "is_winner": false,
@@ -9298,6 +9541,7 @@
         "year": 2016,
         "last_game": {
           "opponent_name": "Maria Adel\u00f6f",
+          "opponent_slug": "maria-adelof",
           "score": 3,
           "opponent_score": 7,
           "is_winner": false,
@@ -9366,6 +9610,7 @@
         "year": 2017,
         "last_game": {
           "opponent_name": "Alexander Starfelt",
+          "opponent_slug": "alexander-starfelt",
           "score": 2,
           "opponent_score": 7,
           "is_winner": false,
@@ -9378,6 +9623,7 @@
         "year": 2018,
         "last_game": {
           "opponent_name": "Edvin Lindsten",
+          "opponent_slug": "edvin-lindsten",
           "score": 8,
           "opponent_score": 9,
           "is_winner": false,
@@ -9390,6 +9636,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Olle Nyr\u00e9n",
+          "opponent_slug": "olle-nyren",
           "score": 9,
           "opponent_score": 5,
           "is_winner": true,
@@ -9402,6 +9649,7 @@
         "year": 2020,
         "last_game": {
           "opponent_name": "Charlotte Almgren",
+          "opponent_slug": "charlotte-almgren",
           "score": 9,
           "opponent_score": 5,
           "is_winner": true,
@@ -9467,6 +9715,7 @@
         "year": 2018,
         "last_game": {
           "opponent_name": "Robin Linderborg",
+          "opponent_slug": "robin-linderborg",
           "score": 6,
           "opponent_score": 9,
           "is_winner": false,
@@ -9479,6 +9728,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Jens Hultkrans",
+          "opponent_slug": "jens-hultkrans",
           "score": 4,
           "opponent_score": 8,
           "is_winner": false,
@@ -9548,6 +9798,7 @@
         "year": 2011,
         "last_game": {
           "opponent_name": "Olof Sabelstr\u00f6m",
+          "opponent_slug": "olof-sabelstrom",
           "score": 5,
           "opponent_score": 7,
           "is_winner": false,
@@ -9560,6 +9811,7 @@
         "year": 2012,
         "last_game": {
           "opponent_name": "Jakob Lien",
+          "opponent_slug": "jakob-lien",
           "score": 5,
           "opponent_score": 7,
           "is_winner": false,
@@ -9572,6 +9824,7 @@
         "year": 2017,
         "last_game": {
           "opponent_name": "Lovisa Birgersson",
+          "opponent_slug": "lovisa-birgersson",
           "score": 8,
           "opponent_score": 5,
           "is_winner": true,
@@ -9584,6 +9837,7 @@
         "year": 2018,
         "last_game": {
           "opponent_name": "Johan Kjell",
+          "opponent_slug": "johan-kjell",
           "score": 3,
           "opponent_score": 10,
           "is_winner": false,
@@ -9596,6 +9850,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Benjamin Ger. Hed.",
+          "opponent_slug": "benjamin-ger-hed",
           "score": 13,
           "opponent_score": 5,
           "is_winner": true,
@@ -9608,6 +9863,7 @@
         "year": 2020,
         "last_game": {
           "opponent_name": "Niklas Solberg",
+          "opponent_slug": "niklas-solberg",
           "score": 4,
           "opponent_score": 11,
           "is_winner": false,
@@ -9672,6 +9928,7 @@
         "year": 2020,
         "last_game": {
           "opponent_name": "Jens Hultkrans",
+          "opponent_slug": "jens-hultkrans",
           "score": 5,
           "opponent_score": 11,
           "is_winner": false,
@@ -9737,6 +9994,7 @@
         "year": 2016,
         "last_game": {
           "opponent_name": "Erik Sunninger",
+          "opponent_slug": "erik-sunninger",
           "score": 5,
           "opponent_score": 7,
           "is_winner": false,
@@ -9749,6 +10007,7 @@
         "year": 2017,
         "last_game": {
           "opponent_name": "Erik Nordenankar",
+          "opponent_slug": "erik-nordenankar",
           "score": 8,
           "opponent_score": 9,
           "is_winner": false,
@@ -9813,6 +10072,7 @@
         "year": 2017,
         "last_game": {
           "opponent_name": "Ylva Andr\u00e9asson",
+          "opponent_slug": "ylva-andreasson",
           "score": 6,
           "opponent_score": 7,
           "is_winner": false,
@@ -9878,6 +10138,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Jens Hultkrans",
+          "opponent_slug": "jens-hultkrans",
           "score": 4,
           "opponent_score": 8,
           "is_winner": false,
@@ -9947,6 +10208,7 @@
         "year": 2017,
         "last_game": {
           "opponent_name": "Erik Nordenankar",
+          "opponent_slug": "erik-nordenankar",
           "score": 1,
           "opponent_score": 9,
           "is_winner": false,
@@ -9959,6 +10221,7 @@
         "year": 2018,
         "last_game": {
           "opponent_name": "Gabriel Nordenankar",
+          "opponent_slug": "gabriel-nordenankar",
           "score": 1,
           "opponent_score": 9,
           "is_winner": false,
@@ -9971,6 +10234,7 @@
         "year": 2019,
         "last_game": {
           "opponent_name": "Niklas Frisk",
+          "opponent_slug": "niklas-frisk",
           "score": 2,
           "opponent_score": 8,
           "is_winner": false,
@@ -9983,6 +10247,7 @@
         "year": 2020,
         "last_game": {
           "opponent_name": "Pia T\u00f6rnkvist",
+          "opponent_slug": "pia-tornkvist",
           "score": 3,
           "opponent_score": 9,
           "is_winner": false,
@@ -10047,6 +10312,7 @@
         "year": 2020,
         "last_game": {
           "opponent_name": "Olle Strandberg",
+          "opponent_slug": "olle-strandberg",
           "score": 6,
           "opponent_score": 11,
           "is_winner": false,
@@ -10112,6 +10378,7 @@
         "year": 2017,
         "last_game": {
           "opponent_name": "Tove Papp Lindkvist",
+          "opponent_slug": "tove-papp-lindkvist",
           "score": 7,
           "opponent_score": 6,
           "is_winner": true,
@@ -10124,6 +10391,7 @@
         "year": 2018,
         "last_game": {
           "opponent_name": "Ida Wimmerman",
+          "opponent_slug": "ida-wimmerman",
           "score": 8,
           "opponent_score": 9,
           "is_winner": false,

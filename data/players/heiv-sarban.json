@@ -48,6 +48,7 @@
       "year": 2020,
       "last_game": {
         "opponent_name": "Emma Bergmark",
+        "opponent_slug": "emma-bergmark",
         "score": 6,
         "opponent_score": 9,
         "is_winner": false,

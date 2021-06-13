@@ -52,6 +52,7 @@
       "year": 2012,
       "last_game": {
         "opponent_name": "Agnes Lind",
+        "opponent_slug": "agnes-lind",
         "score": 7,
         "opponent_score": 0,
         "is_winner": true,
@@ -64,6 +65,7 @@
       "year": 2016,
       "last_game": {
         "opponent_name": "Pelle Dovborg",
+        "opponent_slug": "pelle-dovborg",
         "score": 7,
         "opponent_score": 1,
         "is_winner": true,
@@ -76,6 +78,7 @@
       "year": 2017,
       "last_game": {
         "opponent_name": "Johannes Birgersson",
+        "opponent_slug": "johannes-birgersson",
         "score": 4,
         "opponent_score": 8,
         "is_winner": false,
@@ -88,6 +91,7 @@
       "year": 2018,
       "last_game": {
         "opponent_name": "Erik Nordenankar",
+        "opponent_slug": "erik-nordenankar",
         "score": 3,
         "opponent_score": 10,
         "is_winner": false,
@@ -100,6 +104,7 @@
       "year": 2019,
       "last_game": {
         "opponent_name": "Gabriel Nordenankar",
+        "opponent_slug": "gabriel-nordenankar",
         "score": 6,
         "opponent_score": 10,
         "is_winner": false,

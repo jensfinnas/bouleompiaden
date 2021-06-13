@@ -49,6 +49,7 @@
       "year": 2018,
       "last_game": {
         "opponent_name": "Robin Fogelberg",
+        "opponent_slug": "robin-fogelberg",
         "score": 8,
         "opponent_score": 9,
         "is_winner": false,
@@ -61,6 +62,7 @@
       "year": 2019,
       "last_game": {
         "opponent_name": "Robeson",
+        "opponent_slug": "robeson",
         "score": 5,
         "opponent_score": 13,
         "is_winner": false,

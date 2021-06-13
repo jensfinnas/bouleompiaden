@@ -48,6 +48,7 @@
       "year": 2016,
       "last_game": {
         "opponent_name": "Jerker Karlsson",
+        "opponent_slug": "jerker-karlsson",
         "score": 9,
         "opponent_score": 12,
         "is_winner": false,

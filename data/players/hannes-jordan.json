@@ -50,6 +50,7 @@
       "year": 2018,
       "last_game": {
         "opponent_name": "Estrid",
+        "opponent_slug": "estrid",
         "score": 2,
         "opponent_score": 9,
         "is_winner": false,
@@ -62,6 +63,7 @@
       "year": 2019,
       "last_game": {
         "opponent_name": "Micke Leyi",
+        "opponent_slug": "micke-leyi",
         "score": 4,
         "opponent_score": 8,
         "is_winner": false,
@@ -74,6 +76,7 @@
       "year": 2020,
       "last_game": {
         "opponent_name": "Niklas Solberg",
+        "opponent_slug": "niklas-solberg",
         "score": 5,
         "opponent_score": 11,
         "is_winner": false,

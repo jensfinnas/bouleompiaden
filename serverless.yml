@@ -2,7 +2,7 @@ service: buoleompiaden
 
 provider:
   name: aws
-  runtime: python3.6
+  runtime: python3
   stage: dev
   region: eu-north-1
   timeout: 30
@@ -34,7 +34,7 @@ package:
 
 functions:
   app:
-    handler: wsgi.handler
+    handler: wsgi_handler
     events:
       - http: ANY /
       - http: 'ANY {proxy+}'

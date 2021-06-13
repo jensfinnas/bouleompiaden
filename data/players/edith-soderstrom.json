@@ -49,6 +49,7 @@
       "year": 2018,
       "last_game": {
         "opponent_name": "Jens Hultkrans",
+        "opponent_slug": "jens-hultkrans",
         "score": 8,
         "opponent_score": 4,
         "is_winner": true,
@@ -61,6 +62,7 @@
       "year": 2019,
       "last_game": {
         "opponent_name": "Micke Leyi",
+        "opponent_slug": "micke-leyi",
         "score": 0,
         "opponent_score": 8,
         "is_winner": false,

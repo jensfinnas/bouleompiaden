@@ -48,6 +48,7 @@
       "year": 2017,
       "last_game": {
         "opponent_name": "Lovisa Birgersson",
+        "opponent_slug": "lovisa-birgersson",
         "score": 1,
         "opponent_score": 7,
         "is_winner": false,

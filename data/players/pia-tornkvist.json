@@ -48,6 +48,7 @@
       "year": 2020,
       "last_game": {
         "opponent_name": "Linnea Karlsson",
+        "opponent_slug": "linnea-karlsson",
         "score": 8,
         "opponent_score": 11,
         "is_winner": false,

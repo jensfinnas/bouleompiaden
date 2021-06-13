@@ -51,6 +51,7 @@
       "year": 2017,
       "last_game": {
         "opponent_name": "Gabriel Nordenankar",
+        "opponent_slug": "gabriel-nordenankar",
         "score": 6,
         "opponent_score": 9,
         "is_winner": false,
@@ -63,6 +64,7 @@
       "year": 2018,
       "last_game": {
         "opponent_name": "Estrid",
+        "opponent_slug": "estrid",
         "score": 1,
         "opponent_score": 9,
         "is_winner": false,
@@ -75,6 +77,7 @@
       "year": 2019,
       "last_game": {
         "opponent_name": "Theodore Ripman",
+        "opponent_slug": "theodore-ripman",
         "score": 5,
         "opponent_score": 13,
         "is_winner": false,
@@ -87,6 +90,7 @@
       "year": 2020,
       "last_game": {
         "opponent_name": "Robeson",
+        "opponent_slug": "robeson",
         "score": 3,
         "opponent_score": 11,
         "is_winner": false,

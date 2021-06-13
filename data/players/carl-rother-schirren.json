@@ -48,6 +48,7 @@
       "year": 2020,
       "last_game": {
         "opponent_name": "Fredrik Berg",
+        "opponent_slug": "fredrik-berg",
         "score": 6,
         "opponent_score": 9,
         "is_winner": false,

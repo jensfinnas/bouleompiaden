@@ -1,13 +1,15 @@
-from flask import Flask, jsonify, Response, make_response, render_template, url_for
+from flask import Flask, jsonify, Response, make_response, render_template, abort
 from flask_jsglue import JSGlue
 from dicttoxml import dicttoxml
 from urllib.parse import unquote
 import csv
+import json
 import io
+import os
 
 from modules.simulate import game
 from modules import  players
-from settings import STAGE, TRUE_SKILL_BASE
+from settings import STAGE, TRUE_SKILL_BASE, PLAYER_DATA_DIR
 
 app = Flask(__name__)
 jsglue = JSGlue(app)
@@ -35,7 +37,22 @@ def site_index():
 
     return render_template('index.html', **context)
 
-def get_context(player1, player2):
+@app.route("/spelare/<player_slug>", methods=["GET"])
+def player_index(player_slug):
+    file_path = os.path.join(PLAYER_DATA_DIR, player_slug + ".json")
+    if not os.path.exists(file_path):
+        abort(404)
+    
+    context = {}
+    with open(file_path, 'r') as f:
+        context["player"] = json.load(f)
+    
+    context.update(players.metadata)
+
+    return render_template('player.html', **context)
+
+
+def get_simulation_data(player1, player2):
     """Sets up data context for a simulated game between two players.
     """
     player1, player2 = unquote(player1), unquote(player2)
@@ -81,7 +98,7 @@ def get_context(player1, player2):
 
 @app.route("/<fmt>/<player1>/vs/<player2>", methods=["GET"])
 def simulate(fmt, player1, player2):
-    context = get_context(player1, player2)
+    context = get_simulation_data(player1, player2)
 
     if fmt == "json":
         return jsonify(context)

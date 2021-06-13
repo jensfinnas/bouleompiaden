@@ -48,6 +48,7 @@
       "year": 2019,
       "last_game": {
         "opponent_name": "Jan Bergstrand",
+        "opponent_slug": "jan-bergstrand",
         "score": 9,
         "opponent_score": 3,
         "is_winner": true,

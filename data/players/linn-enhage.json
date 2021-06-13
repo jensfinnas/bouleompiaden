@@ -50,6 +50,7 @@
       "year": 2016,
       "last_game": {
         "opponent_name": "Bj\u00f6rn Westerfors",
+        "opponent_slug": "bjorn-westerfors",
         "score": 4,
         "opponent_score": 7,
         "is_winner": false,
@@ -62,6 +63,7 @@
       "year": 2018,
       "last_game": {
         "opponent_name": "Hannes Jordan",
+        "opponent_slug": "hannes-jordan",
         "score": 0,
         "opponent_score": 7,
         "is_winner": false,
@@ -74,6 +76,7 @@
       "year": 2020,
       "last_game": {
         "opponent_name": "Tim Samuelsson",
+        "opponent_slug": "tim-samuelsson",
         "score": 2,
         "opponent_score": 9,
         "is_winner": false,

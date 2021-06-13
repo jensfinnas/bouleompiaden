@@ -48,6 +48,7 @@
       "year": 2017,
       "last_game": {
         "opponent_name": "Maria Adel\u00f6f",
+        "opponent_slug": "maria-adelof",
         "score": 8,
         "opponent_score": 5,
         "is_winner": true,

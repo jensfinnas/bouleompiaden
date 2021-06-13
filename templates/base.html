@@ -1,0 +1,177 @@
+<!doctype html>
+<html lang="sv" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>
+      {% block title %}{% endblock %}
+    </title>
+    <script
+    src="https://code.jquery.com/jquery-3.4.1.min.js"
+    integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+    crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.bundle.min.js" integrity="sha384-xrRywqdh3PHs8keKZN+8zzc5TX0GRTLCcmivcbNJWm2rs5C8PRhcEn3czEjhAO9o" crossorigin="anonymous"></script>
+
+    {{ JSGlue.include() }}
+    <link href="https://stackpath.bootstrapcdn.com/bootswatch/4.3.1/journal/bootstrap.min.css" rel="stylesheet" integrity="sha384-ciphE0NCAlD2/N6NUApXAN2dAs/vcSAOTzyE202jJx3oS8n4tAQezRgnlHqcJ59C" crossorigin="anonymous">
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+
+    <style>
+    chart {
+      display: block;
+    }
+      /*
+      .jumbotron {
+        background-image: url("{{ url_for('static', filename='img/bouleballs.jpg') }}");
+        background-size: cover;
+        color: white;
+        text-shadow:
+          -1px -1px 1px #424141,
+           1px -1px 1px #424141,
+          -1px  1px 1px #424141,
+           1px  1px 1px #424141;
+      }*/
+    .collapsed-icon {
+      display: none;
+    }
+    .uncollapsed-icon {
+      display: inherit;
+    }
+    .collapsed .collapsed-icon {
+      display: inherit;
+    }
+    .collapsed .uncollapsed-icon {
+      display: none;
+    }
+
+    </style>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+
+    <script src="https://code.highcharts.com/highcharts.src.js"></script>
+    <script src="https://code.highcharts.com/modules/histogram-bellcurve.js"></script>
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="{{url_for('site_index')}}">Bouleympiaden</a>
+        </div>
+    </nav>
+    <main role="main" class="">
+      {% block content %}{% endblock %}
+    </main>
+
+
+      <script type="text/javascript">
+        var $player1 = $("#player1");
+        var $player2 = $("#player2");
+        var $result = $("#result");
+        var $resultContainer = $("#result-container");
+        var $loading = $("#loading");
+
+        function initChart($elem) {
+            var data = $elem.data("series");
+            var values = data.map(function(d) { return d[1]} )
+            Highcharts.chart($elem[0], {
+              title: null,
+              chart: {
+                height: 170,
+                backgroundColor:'transparent'
+              },
+              legend: {
+                  enabled: false
+              },
+              xAxis: {
+                  categories: data.map(function(d) { return d[0]; }),
+                  title: null
+              },
+              yAxis: {
+                max: 300, //Math.max(values.max(), 100),
+                min: -50, //Math.min(values.min(), 100),
+                title: null,
+                tickPositions: [-50, 0, 100, 200, 300],
+                plotLines: [{
+                  color: 'grey', // Color value
+                  value: 100, // Value of where the line will appear
+                  width: 3 // Width of the line
+                }]
+              },
+              series: [{
+                  data: values,
+                  //step: 'left',
+                  connectNulls: true,
+                  name: 'Rankingpoäng',
+                  zones: [{
+                      value: 50,
+                      color: '#0571b0'
+                  },
+                  {
+                      value: 100,
+                      color: '#92c5de'
+                  },
+                  {
+                      value: 150,
+                      color: '#f4a582'
+                  },
+                  {
+                    color: '#ca0020'
+                  }]
+              }]
+            });
+        }
+
+        $("#player1,#player2").change(function() {
+          var p1 = $player1.val();
+          var p2 = $player2.val();
+          window.location.hash = p1 + "-vs-" + p2;
+        })
+
+        $(window).bind('hashchange', function(e) {
+          var players = decodeURIComponent(window.location.hash.replace("#","")).split("-vs-");
+          var p1 = players[0];
+          var p2 = players[1];
+          $player1.val(p1);
+          $player2.val(p2);
+          if (p1 != "" && p2 != "") {
+            simulate(p1, p2, function(err, resp) {
+              $resultContainer.show();
+              $result.html(resp);
+            })
+          }
+        });
+
+        if (window.location.hash) {
+          $(window).trigger('hashchange')
+        }
+
+        function simulate(p1, p2, callback) {
+          $loading.show()
+          $resultContainer.hide()
+
+          var url = Flask.url_for("simulate", { //"/dev" + Flask.url_for("simulate", {
+            "fmt": "html",
+            "player1": p1,
+            "player2": p2,
+          })
+          $.get(url, function(resp) {
+            $loading.hide()
+            callback(null, resp)
+          })
+          .fail(function(err) {
+            $loading.hide()
+            callback(err)
+          })
+        }
+        $('.collapse').on("show.bs.collapse", function() {
+          var $elem = $(this).find("chart")
+          initChart($elem)
+
+        })
+        // hack for making table rows clickable in safari
+        function none() {}
+      </script>
+
+      {% block js %}
+      {% endblock %}
+
+  </body>
+</html>

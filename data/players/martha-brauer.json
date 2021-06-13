@@ -48,6 +48,7 @@
       "year": 2019,
       "last_game": {
         "opponent_name": "Edvin Lindsten",
+        "opponent_slug": "edvin-lindsten",
         "score": 1,
         "opponent_score": 11,
         "is_winner": false,

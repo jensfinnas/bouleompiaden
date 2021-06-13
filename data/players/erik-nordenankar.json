@@ -54,6 +54,7 @@
       "year": 2011,
       "last_game": {
         "opponent_name": "Cissi Hellman",
+        "opponent_slug": "cissi-hellman",
         "score": 14,
         "opponent_score": 9,
         "is_winner": true,
@@ -66,6 +67,7 @@
       "year": 2012,
       "last_game": {
         "opponent_name": "Johan Alm",
+        "opponent_slug": "johan-alm",
         "score": 6,
         "opponent_score": 7,
         "is_winner": false,
@@ -78,6 +80,7 @@
       "year": 2016,
       "last_game": {
         "opponent_name": "Jakob Lien",
+        "opponent_slug": "jakob-lien",
         "score": 8,
         "opponent_score": 9,
         "is_winner": false,
@@ -90,6 +93,7 @@
       "year": 2017,
       "last_game": {
         "opponent_name": "Jerker Karlsson",
+        "opponent_slug": "jerker-karlsson",
         "score": 13,
         "opponent_score": 7,
         "is_winner": true,
@@ -102,6 +106,7 @@
       "year": 2018,
       "last_game": {
         "opponent_name": "Robin Fogelberg",
+        "opponent_slug": "robin-fogelberg",
         "score": 14,
         "opponent_score": 7,
         "is_winner": true,
@@ -114,6 +119,7 @@
       "year": 2019,
       "last_game": {
         "opponent_name": "Theodore Ripman",
+        "opponent_slug": "theodore-ripman",
         "score": 6,
         "opponent_score": 10,
         "is_winner": false,
@@ -126,6 +132,7 @@
       "year": 2020,
       "last_game": {
         "opponent_name": "Robeson",
+        "opponent_slug": "robeson",
         "score": 6,
         "opponent_score": 11,
         "is_winner": false,

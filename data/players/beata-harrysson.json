@@ -48,6 +48,7 @@
       "year": 2020,
       "last_game": {
         "opponent_name": "Frida \u00d6hrn",
+        "opponent_slug": "frida-ohrn",
         "score": 1,
         "opponent_score": 9,
         "is_winner": false,

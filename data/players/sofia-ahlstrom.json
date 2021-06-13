@@ -48,6 +48,7 @@
       "year": 2017,
       "last_game": {
         "opponent_name": "Josefin Asplund",
+        "opponent_slug": "josefin-asplund",
         "score": 3,
         "opponent_score": 10,
         "is_winner": false,

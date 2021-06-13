@@ -48,6 +48,7 @@
       "year": 2018,
       "last_game": {
         "opponent_name": "Louise Persson",
+        "opponent_slug": "louise-persson",
         "score": 0,
         "opponent_score": 5,
         "is_winner": false,

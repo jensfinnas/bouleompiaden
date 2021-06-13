@@ -48,6 +48,7 @@
       "year": 2019,
       "last_game": {
         "opponent_name": "Mina Kheirkhah",
+        "opponent_slug": "mina-kheirkhah",
         "score": 8,
         "opponent_score": 12,
         "is_winner": false,

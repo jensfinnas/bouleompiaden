@@ -50,6 +50,7 @@
       "year": 2017,
       "last_game": {
         "opponent_name": "Ville Nordenankar",
+        "opponent_slug": "ville-nordenankar",
         "score": 6,
         "opponent_score": 9,
         "is_winner": false,
@@ -62,6 +63,7 @@
       "year": 2018,
       "last_game": {
         "opponent_name": "Cissi Hellman",
+        "opponent_slug": "cissi-hellman",
         "score": 5,
         "opponent_score": 10,
         "is_winner": false,
@@ -74,6 +76,7 @@
       "year": 2019,
       "last_game": {
         "opponent_name": "Pelle Dovborg",
+        "opponent_slug": "pelle-dovborg",
         "score": 6,
         "opponent_score": 10,
         "is_winner": false,

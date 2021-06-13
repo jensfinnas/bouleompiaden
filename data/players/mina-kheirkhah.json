@@ -50,6 +50,7 @@
       "year": 2018,
       "last_game": {
         "opponent_name": "Jesper Kronholm",
+        "opponent_slug": "jesper-kronholm",
         "score": 4,
         "opponent_score": 7,
         "is_winner": false,
@@ -62,6 +63,7 @@
       "year": 2019,
       "last_game": {
         "opponent_name": "Estrid",
+        "opponent_slug": "estrid",
         "score": 3,
         "opponent_score": 11,
         "is_winner": false,
@@ -74,6 +76,7 @@
       "year": 2020,
       "last_game": {
         "opponent_name": "Johan Johnson",
+        "opponent_slug": "johan-johnson",
         "score": 8,
         "opponent_score": 9,
         "is_winner": false,

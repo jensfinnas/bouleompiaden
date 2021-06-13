@@ -48,6 +48,7 @@
       "year": 2017,
       "last_game": {
         "opponent_name": "Ylva Andr\u00e9asson",
+        "opponent_slug": "ylva-andreasson",
         "score": 6,
         "opponent_score": 7,
         "is_winner": false,

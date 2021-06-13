@@ -49,6 +49,7 @@
       "year": 2017,
       "last_game": {
         "opponent_name": "Ylva Andr\u00e9asson",
+        "opponent_slug": "ylva-andreasson",
         "score": 7,
         "opponent_score": 6,
         "is_winner": true,
@@ -61,6 +62,7 @@
       "year": 2018,
       "last_game": {
         "opponent_name": "Hannes Jordan",
+        "opponent_slug": "hannes-jordan",
         "score": 6,
         "opponent_score": 7,
         "is_winner": false,

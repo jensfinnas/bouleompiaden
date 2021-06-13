@@ -48,6 +48,7 @@
       "year": 2012,
       "last_game": {
         "opponent_name": "Johan Ekman",
+        "opponent_slug": "johan-ekman",
         "score": 0,
         "opponent_score": 7,
         "is_winner": false,

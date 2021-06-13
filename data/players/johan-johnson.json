@@ -48,6 +48,7 @@
       "year": 2020,
       "last_game": {
         "opponent_name": "Pelle Dovborg",
+        "opponent_slug": "pelle-dovborg",
         "score": 2,
         "opponent_score": 13,
         "is_winner": false,

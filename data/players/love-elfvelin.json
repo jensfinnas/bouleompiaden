@@ -49,6 +49,7 @@
       "year": 2017,
       "last_game": {
         "opponent_name": "Richard Ekman",
+        "opponent_slug": "richard-ekman",
         "score": 2,
         "opponent_score": 7,
         "is_winner": false,
@@ -61,6 +62,7 @@
       "year": 2018,
       "last_game": {
         "opponent_name": "Ville Nordenankar",
+        "opponent_slug": "ville-nordenankar",
         "score": 0,
         "opponent_score": 9,
         "is_winner": false,

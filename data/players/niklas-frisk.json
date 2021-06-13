@@ -48,6 +48,7 @@
       "year": 2019,
       "last_game": {
         "opponent_name": "Cissi Hellman",
+        "opponent_slug": "cissi-hellman",
         "score": 8,
         "opponent_score": 10,
         "is_winner": false,

@@ -48,6 +48,7 @@
       "year": 2018,
       "last_game": {
         "opponent_name": "Gabriel Nordenankar",
+        "opponent_slug": "gabriel-nordenankar",
         "score": 5,
         "opponent_score": 9,
         "is_winner": false,

@@ -48,6 +48,7 @@
       "year": 2020,
       "last_game": {
         "opponent_name": "Carl Rother-Schirren",
+        "opponent_slug": "carl-rother-schirren",
         "score": 9,
         "opponent_score": 6,
         "is_winner": true,

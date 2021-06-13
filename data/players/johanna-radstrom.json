@@ -53,6 +53,7 @@
       "year": 2012,
       "last_game": {
         "opponent_name": "Johan Alm",
+        "opponent_slug": "johan-alm",
         "score": 1,
         "opponent_score": 7,
         "is_winner": false,
@@ -65,6 +66,7 @@
       "year": 2016,
       "last_game": {
         "opponent_name": "Richard Ekman",
+        "opponent_slug": "richard-ekman",
         "score": 2,
         "opponent_score": 7,
         "is_winner": false,
@@ -77,6 +79,7 @@
       "year": 2017,
       "last_game": {
         "opponent_name": "Love Elfvelin",
+        "opponent_slug": "love-elfvelin",
         "score": 3,
         "opponent_score": 8,
         "is_winner": false,
@@ -89,6 +92,7 @@
       "year": 2018,
       "last_game": {
         "opponent_name": "Robeson",
+        "opponent_slug": "robeson",
         "score": 4,
         "opponent_score": 7,
         "is_winner": false,
@@ -101,6 +105,7 @@
       "year": 2019,
       "last_game": {
         "opponent_name": "Robin Fogelberg",
+        "opponent_slug": "robin-fogelberg",
         "score": 3,
         "opponent_score": 8,
         "is_winner": false,
@@ -113,6 +118,7 @@
       "year": 2020,
       "last_game": {
         "opponent_name": "Jon Jeppson",
+        "opponent_slug": "jon-jeppson",
         "score": 0,
         "opponent_score": 9,
         "is_winner": false,

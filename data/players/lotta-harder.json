@@ -49,6 +49,7 @@
       "year": 2016,
       "last_game": {
         "opponent_name": "Gabriel Nordenankar",
+        "opponent_slug": "gabriel-nordenankar",
         "score": 2,
         "opponent_score": 9,
         "is_winner": false,
@@ -61,6 +62,7 @@
       "year": 2019,
       "last_game": {
         "opponent_name": "Alexander Bjerner",
+        "opponent_slug": "alexander-bjerner",
         "score": 4,
         "opponent_score": 9,
         "is_winner": false,

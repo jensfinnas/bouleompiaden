@@ -48,6 +48,7 @@
       "year": 2012,
       "last_game": {
         "opponent_name": "Filip Tyd\u00e9n",
+        "opponent_slug": "filip-tyden",
         "score": 3,
         "opponent_score": 13,
         "is_winner": false,

@@ -51,6 +51,7 @@
       "year": 2017,
       "last_game": {
         "opponent_name": "Robin Linderborg",
+        "opponent_slug": "robin-linderborg",
         "score": 2,
         "opponent_score": 7,
         "is_winner": false,
@@ -63,6 +64,7 @@
       "year": 2018,
       "last_game": {
         "opponent_name": "Charlotte Johansson",
+        "opponent_slug": "charlotte-johansson",
         "score": 2,
         "opponent_score": 9,
         "is_winner": false,
@@ -75,6 +77,7 @@
       "year": 2019,
       "last_game": {
         "opponent_name": "Jens Hultkrans",
+        "opponent_slug": "jens-hultkrans",
         "score": 8,
         "opponent_score": 10,
         "is_winner": false,
@@ -87,6 +90,7 @@
       "year": 2020,
       "last_game": {
         "opponent_name": "Pelle Dovborg",
+        "opponent_slug": "pelle-dovborg",
         "score": 5,
         "opponent_score": 11,
         "is_winner": false,

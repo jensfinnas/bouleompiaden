@@ -49,6 +49,7 @@
       "year": 2018,
       "last_game": {
         "opponent_name": "Theodore Ripman",
+        "opponent_slug": "theodore-ripman",
         "score": 3,
         "opponent_score": 9,
         "is_winner": false,
@@ -61,6 +62,7 @@
       "year": 2019,
       "last_game": {
         "opponent_name": "Benjamin Ger. Hed.",
+        "opponent_slug": "benjamin-ger-hed",
         "score": 1,
         "opponent_score": 10,
         "is_winner": false,

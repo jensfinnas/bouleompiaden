@@ -48,6 +48,7 @@
       "year": 2020,
       "last_game": {
         "opponent_name": "Alexander Starfelt",
+        "opponent_slug": "alexander-starfelt",
         "score": 6,
         "opponent_score": 11,
         "is_winner": false,

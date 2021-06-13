@@ -1,0 +1,32 @@
+<table class="table table-borderless table-sm">
+    <tbody>
+        {% for tournament in player.tournaments%}
+            <tr class="">
+                <th>{{tournament.year}}</th>
+                <td class="">
+                    {{tournament.last_game.stage|capitalize}}<br>
+                    
+                    {% if tournament.last_game.stage != "gruppspel" %}
+
+                        {% if tournament.last_game.is_winner %}
+                            <small>Efter final mot 
+                                <a href="{{url_for('player_index', player_slug=tournament.last_game.opponent_slug)}}">
+                                    {{tournament.last_game.opponent_name}}
+                                </a>
+                            </small>    
+
+                        {% else %}
+                            <small>Ut mot 
+                                <a href="{{url_for('player_index', player_slug=tournament.last_game.opponent_slug)}}">
+                                    {{tournament.last_game.opponent_name}}
+                                </a>
+                            </small>    
+                        {% endif %}
+
+                    {% endif %}
+                </td>
+            </tr>
+
+        {% endfor %}
+    </tbody>
+</table>

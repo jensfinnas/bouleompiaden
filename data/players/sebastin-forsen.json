@@ -49,6 +49,7 @@
       "year": 2018,
       "last_game": {
         "opponent_name": "Johan Kjell",
+        "opponent_slug": "johan-kjell",
         "score": 8,
         "opponent_score": 9,
         "is_winner": false,
@@ -61,6 +62,7 @@
       "year": 2019,
       "last_game": {
         "opponent_name": "Linnea Karlsson",
+        "opponent_slug": "linnea-karlsson",
         "score": 8,
         "opponent_score": 0,
         "is_winner": true,

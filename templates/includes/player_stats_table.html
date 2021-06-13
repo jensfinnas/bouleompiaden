@@ -1,0 +1,29 @@
+<table class="table table-borderless table-sm">
+    <tbody>
+      <tr class="">
+        <td>Antal turneringar</td>
+        <td class="text-right">{{player.years|length}}<small>/{{years|length}}</small></td>
+      </tr>
+      <tr class="">
+        <td>Bästa resultat</td>
+        <td class="text-right">{{player.best_stage|capitalize}} <small>({{player.best_stage_years|join(", ")}})</small></td>
+      </tr>
+
+      <tr class="">
+        <td>Antal matcher</td>
+        <td class="text-right">{{player.n_games|int}}</td>
+      </tr>
+      <tr class="">
+        <td>Antal vinster</td>
+        <td class="text-right">{{player.n_wins|int}}</td>
+      </tr>
+      <tr class="">
+        <td>Vinstprocent</td>
+        <td class="text-right">{{'%0.f'| format(player.win_rate * 100|float)}} %</td>
+      </tr>
+      <tr class="">
+        <td>Poängandel i snitt per match</td>
+        <td class="text-right">{{'%0.f'| format(player.score_share * 100|float)}} %</td>
+      </tr>
+    </tbody>
+  </table>

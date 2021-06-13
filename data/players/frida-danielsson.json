@@ -48,6 +48,7 @@
       "year": 2019,
       "last_game": {
         "opponent_name": "Olaver",
+        "opponent_slug": "olaver",
         "score": 1,
         "opponent_score": 8,
         "is_winner": false,

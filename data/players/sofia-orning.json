@@ -51,6 +51,7 @@
       "year": 2017,
       "last_game": {
         "opponent_name": "Alexander Starfelt",
+        "opponent_slug": "alexander-starfelt",
         "score": 2,
         "opponent_score": 7,
         "is_winner": false,
@@ -63,6 +64,7 @@
       "year": 2018,
       "last_game": {
         "opponent_name": "Edvin Lindsten",
+        "opponent_slug": "edvin-lindsten",
         "score": 8,
         "opponent_score": 9,
         "is_winner": false,
@@ -75,6 +77,7 @@
       "year": 2019,
       "last_game": {
         "opponent_name": "Olle Nyr\u00e9n",
+        "opponent_slug": "olle-nyren",
         "score": 9,
         "opponent_score": 5,
         "is_winner": true,
@@ -87,6 +90,7 @@
       "year": 2020,
       "last_game": {
         "opponent_name": "Charlotte Almgren",
+        "opponent_slug": "charlotte-almgren",
         "score": 9,
         "opponent_score": 5,
         "is_winner": true,

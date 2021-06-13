@@ -48,6 +48,7 @@
       "year": 2020,
       "last_game": {
         "opponent_name": "Martyna",
+        "opponent_slug": "martyna",
         "score": 5,
         "opponent_score": 11,
         "is_winner": false,

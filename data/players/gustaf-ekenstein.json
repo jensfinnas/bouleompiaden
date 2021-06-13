@@ -48,6 +48,7 @@
       "year": 2018,
       "last_game": {
         "opponent_name": "Sussie R\u00e5dis",
+        "opponent_slug": "sussie-radis",
         "score": 3,
         "opponent_score": 7,
         "is_winner": false,

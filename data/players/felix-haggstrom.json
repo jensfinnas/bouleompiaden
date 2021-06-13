@@ -48,6 +48,7 @@
       "year": 2016,
       "last_game": {
         "opponent_name": "Daniel Mensak",
+        "opponent_slug": "daniel-mensak",
         "score": 3,
         "opponent_score": 7,
         "is_winner": false,

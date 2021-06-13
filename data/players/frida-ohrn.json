@@ -51,6 +51,7 @@
       "year": 2012,
       "last_game": {
         "opponent_name": "Jakob Lien",
+        "opponent_slug": "jakob-lien",
         "score": 4,
         "opponent_score": 7,
         "is_winner": false,
@@ -63,6 +64,7 @@
       "year": 2016,
       "last_game": {
         "opponent_name": "Daniel Mensak",
+        "opponent_slug": "daniel-mensak",
         "score": 1,
         "opponent_score": 7,
         "is_winner": false,
@@ -75,6 +77,7 @@
       "year": 2018,
       "last_game": {
         "opponent_name": "Olle Hjort",
+        "opponent_slug": "olle-hjort",
         "score": 4,
         "opponent_score": 7,
         "is_winner": false,
@@ -87,6 +90,7 @@
       "year": 2020,
       "last_game": {
         "opponent_name": "Beata Harrysson",
+        "opponent_slug": "beata-harrysson",
         "score": 9,
         "opponent_score": 1,
         "is_winner": true,

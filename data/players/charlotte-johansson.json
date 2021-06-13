@@ -49,6 +49,7 @@
       "year": 2018,
       "last_game": {
         "opponent_name": "Johan Kjell",
+        "opponent_slug": "johan-kjell",
         "score": 2,
         "opponent_score": 10,
         "is_winner": false,
@@ -61,6 +62,7 @@
       "year": 2019,
       "last_game": {
         "opponent_name": "Bj\u00f6rn Berglund",
+        "opponent_slug": "bjorn-berglund",
         "score": 4,
         "opponent_score": 8,
         "is_winner": false,

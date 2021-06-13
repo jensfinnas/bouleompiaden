@@ -48,6 +48,7 @@
       "year": 2020,
       "last_game": {
         "opponent_name": "Jon Jeppson",
+        "opponent_slug": "jon-jeppson",
         "score": 6,
         "opponent_score": 11,
         "is_winner": false,

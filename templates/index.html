@@ -1,308 +1,133 @@
-<!doctype html>
-<!DOCTYPE html>
-<html lang="sv" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Bouleympiaden: Matchsimulator</title>
-    <script
-    src="https://code.jquery.com/jquery-3.4.1.min.js"
-    integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
-    crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.bundle.min.js" integrity="sha384-xrRywqdh3PHs8keKZN+8zzc5TX0GRTLCcmivcbNJWm2rs5C8PRhcEn3czEjhAO9o" crossorigin="anonymous"></script>
+{% extends 'base.html' %}
 
-    {{ JSGlue.include() }}
-    <link href="https://stackpath.bootstrapcdn.com/bootswatch/4.3.1/journal/bootstrap.min.css" rel="stylesheet" integrity="sha384-ciphE0NCAlD2/N6NUApXAN2dAs/vcSAOTzyE202jJx3oS8n4tAQezRgnlHqcJ59C" crossorigin="anonymous">
-    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+{% block title %}
+  Bouleympiaden
+{% endblock %}
 
-    <style>
-    chart {
-      display: block;
-    }
-      /*
-      .jumbotron {
-        background-image: url("{{ url_for('static', filename='img/bouleballs.jpg') }}");
-        background-size: cover;
-        color: white;
-        text-shadow:
-          -1px -1px 1px #424141,
-           1px -1px 1px #424141,
-          -1px  1px 1px #424141,
-           1px  1px 1px #424141;
-      }*/
-    .collapsed-icon {
-      display: none;
-    }
-    .uncollapsed-icon {
-      display: inherit;
-    }
-    .collapsed .collapsed-icon {
-      display: inherit;
-    }
-    .collapsed .uncollapsed-icon {
-      display: none;
-    }
+{% block content %}
 
-    </style>
-    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+  <div class="jumbotron">
+    <h1>Bouleympiaden</h1>
+    <p class="lead">Matchsimulator och spelarranking</p>
+  </div>
 
-    <script src="https://code.highcharts.com/highcharts.src.js"></script>
-    <script src="https://code.highcharts.com/modules/histogram-bellcurve.js"></script>
-  </head>
-  <body>
-    <main role="main" class="">
+  <div class="card text-white bg-primary mb-3">
+    <div class="card-header">Simulera en match</div>
+    <div class="card-body">
+      <h4 class="card-title">Vem vinner om...</h4>
+      <p class="card-text">
+        <select class="player form-control" id="player1">
+          <option value="">Spelare 1</option>
+          {% for player in players  %}
+          <option value="{{player.name}}">{{player.name}}</option>
+          {% endfor %}
+        </select>
 
-      <div class="jumbotron">
-        <h1>Bouleympiaden</h1>
-        <p class="lead">Matchsimulator och spelarranking</p>
+        <p>spelar mot</p>
+
+        <select class="player form-control" id="player2">
+          <option value="">Spelare 2</option>
+          {% for player in players  %}
+          <option value="{{player.name}}">{{player.name}}</option>
+          {% endfor %}
+          <option value="">...</option>
+          <option value="Ny spelare">Ny spelare</option>
+        </select>
+      </p>
+    </div>
+  </div>
+
+
+  <div id="loading" class="text-center" style="display:none;">
+      <div class="spinner-border text-primary" role="status">
+        <span class="sr-only">Loading...</span>
       </div>
+      <h5>Simulerar matcher...</h5>
+  </div>
 
-      <div class="card text-white bg-primary mb-3">
-        <div class="card-header">Simulera en match</div>
-        <div class="card-body">
-          <h4 class="card-title">Vem vinner om...</h4>
-          <p class="card-text">
-            <select class="player form-control" id="player1">
-              <option value="">Spelare 1</option>
-              {% for player in players  %}
-              <option value="{{player.name}}">{{player.name}}</option>
-              {% endfor %}
-            </select>
-
-            <p>spelar mot</p>
-
-            <select class="player form-control" id="player2">
-              <option value="">Spelare 2</option>
-              {% for player in players  %}
-              <option value="{{player.name}}">{{player.name}}</option>
-              {% endfor %}
-              <option value="">...</option>
-              <option value="Ny spelare">Ny spelare</option>
-            </select>
-          </p>
+  <div id="result-container" class="card border-light mb-3" style="display:none;">
+    <div class="card-body">
+      <h4 class="card-title">Resultat</h4>
+      <p class="card-text">
+        <div id="result">
         </div>
+      </p>
+    </div>
+  </div>
+  <div class="card border-light mb-3">
+    <div class="card-body">
+      <h4 class="card-title mb-2">Spelarranking</h4>
+      <div class="card-text">
+        <table class="table">
+          <thead>
+            <tr>
+              <th></th>
+              <th>Spelare</th>
+              <th>Rankingpoäng</th>
+              <th></th>
+            </tr>
+          </thead>
+          <tbody>
+            {% for player in players|sort(attribute='skill', reverse = True)  %}
+
+              <tr class="collapsed" data-toggle="collapse" href="#p{{loop.index}}" data-target="#p{{loop.index}}" aria-expanded="false" aria-controls="#p{{loop.index}}" onclick="none()">
+                <th>{{player.skill_rank|int}}.</th>
+                <td>
+                  {{player.name}}
+                </td>
+                <td class="text-right">
+                  {{player.skill|int}} p
+                </td>
+                <td>
+                  <i class="fa fa-chevron-right collapsed-icon" style="padding-top: 4px;"></i>
+                  <i class="fa fa-chevron-down uncollapsed-icon" style="padding-top: 4px;"></i>
+                </td>
+              </tr>
+              <tr style="background-color:#f7f7f7;">
+                <td colspan="4">
+                  <div id="p{{loop.index}}" class="collapse">
+                    {% include 'includes/player_stats_table.html' %}
+                    
+                    <a href="{{url_for('player_index', player_slug=player.slug)}}" type="button" class="btn btn-outline-primary">
+                      Mer statistik 
+                      <i class="fa fa-chevron-right" style="margin-left: 8px; padding-top: 4px;"></i>
+                    </a>
+
+                    <h5 class="mt-3">Rankinghistorik</h5>
+                    <chart data-series="{{player.skill_history|tojson}}">
+                    </chart>
+
+                  </div>
+                </td>
+              </tr>
+            {% endfor %}
+          </tbody>
+        </table>
+
       </div>
+    </div>
+  </div>
+  <div class="card border-light mb-3">
+    <div class="card-body">
+      <h4 class="card-title">FAQ</h4>
+      <div class="card-text">
+        <h5>Vad är Bouleympiaden</h5>
+        <p>
+          Bouleympiaden, eller Fredhälls Bouleympiska spel, är en oftast vänskaplig turnering i den ädla sporten boule. Spelens far och arrangör är Gabriel Nordenankar.
+        </p>
 
+        <h5>Hur funkar den här räknaren och rankingen?</h5>
+        <p>
+          Den bygger på algoritmen Trueskill som ursprungligen utvecklats av Microsoft för att ranka spelare i multiplayerspel.
+          Varje ny spelare startar på 100 rankingpoäng. Poängen justeras för varje match. Vinner du en motståndare med hög ranking belönar algoritmen dig med många poäng. Förlorar du mot en spelare med låg ranking kostar det desto mer.
+        </p>
+        <p>
+          Ju fler matcher en spelare gjort desto "säkrare" blir algoritmen på spelarens nivå.
+        </p>
 
-      <div id="loading" class="text-center" style="display:none;">
-          <div class="spinner-border text-primary" role="status">
-            <span class="sr-only">Loading...</span>
-          </div>
-          <h5>Simulerar matcher...</h5>
+        <h5>Vem har gjort den här sajten?</h5>
+        <p>Jens Finnäs, som är bättre på att koda statistiska modeller än att spela boule.</p>
       </div>
-
-      <div id="result-container" class="card border-light mb-3" style="display:none;">
-        <div class="card-body">
-          <h4 class="card-title">Resultat</h4>
-          <p class="card-text">
-            <div id="result">
-            </div>
-          </p>
-        </div>
-      </div>
-      <div class="card border-light mb-3">
-        <div class="card-body">
-          <h4 class="card-title mb-2">Spelarranking</h4>
-          <div class="card-text">
-            <table class="table">
-              <thead>
-                <tr>
-                  <th></th>
-                  <th>Spelare</th>
-                  <th>Rankingpoäng</th>
-                  <th></th>
-                </tr>
-              </thead>
-              <tbody>
-                {% for player in players|sort(attribute='skill', reverse = True)  %}
-
-                  <tr class="collapsed" data-toggle="collapse" href="#p{{loop.index}}" data-target="#p{{loop.index}}" aria-expanded="false" aria-controls="#p{{loop.index}}" onclick="none()">
-                    <th>{{player.skill_rank|int}}.</th>
-                    <td>
-                      {{player.name}}
-                    </td>
-                    <td class="text-right">
-                      {{player.skill|int}} p
-                    </td>
-                    <td>
-                      <i class="fa fa-chevron-right collapsed-icon" style="padding-top: 4px;"></i>
-                      <i class="fa fa-chevron-down uncollapsed-icon" style="padding-top: 4px;"></i>
-                    </td>
-                  </tr>
-                  <tr style="background-color:#f7f7f7;">
-                    <td colspan="4">
-                      <div id="p{{loop.index}}" class="collapse">
-                        <table class="table table-borderless table-sm">
-                          <tbody>
-                            <tr class="">
-                              <td>Antal turneringar</td>
-                              <td class="text-right">{{player.years|length}}<small>/{{years|length}}</small></td>
-                            </tr>
-                            <tr class="">
-                              <td>Antal matcher</td>
-                              <td class="text-right">{{player.n_games|int}}</td>
-                            </tr>
-                            <tr class="">
-                              <td>Antal vinster</td>
-                              <td class="text-right">{{player.n_wins|int}}</td>
-                            </tr>
-                            <tr class="">
-                              <td>Vinstprocent</td>
-                              <td class="text-right">{{'%0.f'| format(player.win_rate * 100|float)}} %</td>
-                            </tr>
-                            <tr class="">
-                              <td>Poängandel i snitt per match</td>
-                              <td class="text-right">{{'%0.f'| format(player.score_share * 100|float)}} %</td>
-                            </tr>
-                            <tr class="">
-                              <td colspan=2>
-
-                                <h5 class="mt-3">Rankinghistorik</h5>
-                                <chart data-series="{{player.skill_history|tojson}}">
-                                </chart>
-                              </td>
-                            </tr>
-                          </tbody>
-                        </table>
-                      </div>
-                    </td>
-                  </tr>
-                {% endfor %}
-              </tbody>
-            </table>
-
-          </div>
-        </div>
-      </div>
-      <div class="card border-light mb-3">
-        <div class="card-body">
-          <h4 class="card-title">FAQ</h4>
-          <div class="card-text">
-            <h5>Vad är Bouleympiaden</h5>
-            <p>
-              Bouleympiaden, eller Fredhälls Bouleympiska spel, är en oftast vänskaplig turnering i den ädla sporten boule. Spelens far och arrangör är Gabriel Nordenankar.
-            </p>
-
-            <h5>Hur funkar den här räknaren och rankingen?</h5>
-            <p>
-              Den bygger på algoritmen Trueskill som ursprungligen utvecklats av Microsoft för att ranka spelare i multiplayerspel.
-              Varje ny spelare startar på 100 rankingpoäng. Poängen justeras för varje match. Vinner du en motståndare med hög ranking belönar algoritmen dig med många poäng. Förlorar du mot en spelare med låg ranking kostar det desto mer.
-            </p>
-            <p>
-              Ju fler matcher en spelare gjort desto "säkrare" blir algoritmen på spelarens nivå.
-            </p>
-
-            <h5>Vem har gjort den här sajten?</h5>
-            <p>Jens Finnäs, som är bättre på att koda statistiska modeller än att spela boule.</p>
-          </div>
-        </div>
-      </div>
-
-    </main>
-
-
-      <script type="text/javascript">
-        var $player1 = $("#player1");
-        var $player2 = $("#player2");
-        var $result = $("#result");
-        var $resultContainer = $("#result-container");
-        var $loading = $("#loading");
-
-        $("#player1,#player2").change(function() {
-          var p1 = $player1.val();
-          var p2 = $player2.val();
-          window.location.hash = p1 + "-vs-" + p2;
-        })
-
-        $(window).bind('hashchange', function(e) {
-          var players = decodeURIComponent(window.location.hash.replace("#","")).split("-vs-");
-          var p1 = players[0];
-          var p2 = players[1];
-          $player1.val(p1);
-          $player2.val(p2);
-          if (p1 != "" && p2 != "") {
-            simulate(p1, p2, function(err, resp) {
-              $resultContainer.show();
-              $result.html(resp);
-            })
-          }
-        });
-
-        if (window.location.hash) {
-          $(window).trigger('hashchange')
-        }
-
-        function simulate(p1, p2, callback) {
-          $loading.show()
-          $resultContainer.hide()
-
-          var url = Flask.url_for("simulate", { //"/dev" + Flask.url_for("simulate", {
-            "fmt": "html",
-            "player1": p1,
-            "player2": p2,
-          })
-          $.get(url, function(resp) {
-            $loading.hide()
-            callback(null, resp)
-          })
-          .fail(function(err) {
-            $loading.hide()
-            callback(err)
-          })
-        }
-        $('.collapse').on("show.bs.collapse", function() {
-          var $chart = $(this).find("chart")
-          var data = $chart.data("series");
-          var values = data.map(function(d) { return d[1]} )
-          Highcharts.chart($chart[0], {
-            title: null,
-            chart: {
-              height: 170,
-              backgroundColor:'transparent'
-            },
-            legend: {
-                enabled: false
-            },
-            xAxis: {
-                categories: data.map(function(d) { return d[0]; }),
-                title: null
-            },
-            yAxis: {
-              max: 300, //Math.max(values.max(), 100),
-              min: -50, //Math.min(values.min(), 100),
-              title: null,
-              tickPositions: [-50, 0, 100, 200, 300],
-              plotLines: [{
-                color: 'grey', // Color value
-                value: 100, // Value of where the line will appear
-                width: 3 // Width of the line
-              }]
-            },
-            series: [{
-                data: values,
-                //step: 'left',
-                connectNulls: true,
-                name: 'Rankingpoäng',
-                zones: [{
-                    value: 50,
-                    color: '#0571b0'
-                },
-                {
-                    value: 100,
-                    color: '#92c5de'
-                },
-                {
-                    value: 150,
-                    color: '#f4a582'
-                },
-                {
-                  color: '#ca0020'
-                }]
-            }]
-          });
-        })
-        // hack for making table rows clickable in safari
-        function none() {}
-      </script>
-  </body>
-</html>
+    </div>
+  </div>
+{% endblock %}

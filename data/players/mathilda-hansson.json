@@ -49,6 +49,7 @@
       "year": 2017,
       "last_game": {
         "opponent_name": "Benjamin Ger. Hed.",
+        "opponent_slug": "benjamin-ger-hed",
         "score": 6,
         "opponent_score": 9,
         "is_winner": false,
@@ -61,6 +62,7 @@
       "year": 2019,
       "last_game": {
         "opponent_name": "Leo Ehnborg",
+        "opponent_slug": "leo-ehnborg",
         "score": 8,
         "opponent_score": 4,
         "is_winner": true,

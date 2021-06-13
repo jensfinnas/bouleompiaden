@@ -48,6 +48,7 @@
       "year": 2020,
       "last_game": {
         "opponent_name": "Wille Laska",
+        "opponent_slug": "wille-laska",
         "score": 4,
         "opponent_score": 10,
         "is_winner": false,

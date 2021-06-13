@@ -50,6 +50,7 @@
       "year": 2018,
       "last_game": {
         "opponent_name": "Sussie R\u00e5dis",
+        "opponent_slug": "sussie-radis",
         "score": 6,
         "opponent_score": 7,
         "is_winner": false,
@@ -62,6 +63,7 @@
       "year": 2019,
       "last_game": {
         "opponent_name": "Alexander Bjerner",
+        "opponent_slug": "alexander-bjerner",
         "score": 4,
         "opponent_score": 8,
         "is_winner": false,
@@ -74,6 +76,7 @@
       "year": 2020,
       "last_game": {
         "opponent_name": "Wille Laska",
+        "opponent_slug": "wille-laska",
         "score": 6,
         "opponent_score": 11,
         "is_winner": false,

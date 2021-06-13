@@ -48,6 +48,7 @@
       "year": 2017,
       "last_game": {
         "opponent_name": "Sofia Ahlstr\u00f6m",
+        "opponent_slug": "sofia-ahlstrom",
         "score": 3,
         "opponent_score": 7,
         "is_winner": false,

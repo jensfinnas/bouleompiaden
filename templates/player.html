@@ -1,0 +1,45 @@
+{% extends 'base.html' %}
+
+{% block title %}
+  Bouleympiaden: {{player.name}}
+{% endblock %}
+
+{% block content %}
+
+<div class="jumbotron">
+    <h1>{{player.name}}</h1>
+    <p class="lead">
+        Rankad {{player.skill_rank|int}} av {{n_players}} spelare
+    </p>
+  </div>
+
+  <div class="card bg-light mb-3">
+    <div class="card-body">
+        <h4 class="card-title mb-2">Basfakta</h4>
+        {% include 'includes/player_stats_table.html' %}
+    </div>
+  </div>
+
+  <div class="card bg-light mb-3">
+    <div class="card-body">
+        <h4 class="card-title mb-2">Rankinghistorik</h4>
+        {% include 'includes/player_rank_history_chart.html' %}
+    </div>
+  </div>
+
+  <div class="card bg-light mb-3">
+    <div class="card-body">
+        <h4 class="card-title mb-2">Turneringar</h4>
+        {% include 'includes/player_tournaments.html' %}
+    </div>
+  </div>
+
+
+{% endblock %}
+
+{% block js %}
+<script>
+    var $chart = $("chart")
+    initChart($chart)    
+</script>
+{% endblock %}

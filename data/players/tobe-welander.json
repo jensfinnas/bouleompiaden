@@ -49,6 +49,7 @@
       "year": 2016,
       "last_game": {
         "opponent_name": "Erik Sunninger",
+        "opponent_slug": "erik-sunninger",
         "score": 5,
         "opponent_score": 7,
         "is_winner": false,
@@ -61,6 +62,7 @@
       "year": 2017,
       "last_game": {
         "opponent_name": "Erik Nordenankar",
+        "opponent_slug": "erik-nordenankar",
         "score": 8,
         "opponent_score": 9,
         "is_winner": false,

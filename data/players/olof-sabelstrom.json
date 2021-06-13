@@ -49,6 +49,7 @@
       "year": 2011,
       "last_game": {
         "opponent_name": "Cissi Hellman",
+        "opponent_slug": "cissi-hellman",
         "score": 5,
         "opponent_score": 7,
         "is_winner": false,
@@ -61,6 +62,7 @@
       "year": 2012,
       "last_game": {
         "opponent_name": "Love Andr\u00e9asson",
+        "opponent_slug": "love-andreasson",
         "score": 5,
         "opponent_score": 7,
         "is_winner": false,

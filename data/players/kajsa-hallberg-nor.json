@@ -51,6 +51,7 @@
       "year": 2017,
       "last_game": {
         "opponent_name": "Maria Adel\u00f6f",
+        "opponent_slug": "maria-adelof",
         "score": 6,
         "opponent_score": 7,
         "is_winner": false,
@@ -63,6 +64,7 @@
       "year": 2018,
       "last_game": {
         "opponent_name": "Fanny Kjellner",
+        "opponent_slug": "fanny-kjellner",
         "score": 1,
         "opponent_score": 7,
         "is_winner": false,
@@ -75,6 +77,7 @@
       "year": 2019,
       "last_game": {
         "opponent_name": "Kusha Bahrami",
+        "opponent_slug": "kusha-bahrami",
         "score": 2,
         "opponent_score": 9,
         "is_winner": false,
@@ -87,6 +90,7 @@
       "year": 2020,
       "last_game": {
         "opponent_name": "Sandra Sundin",
+        "opponent_slug": "sandra-sundin",
         "score": 2,
         "opponent_score": 9,
         "is_winner": false,
