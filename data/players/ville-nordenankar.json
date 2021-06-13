@@ -1,0 +1,103 @@
+{
+  "n_games": 12,
+  "score_share": 0.4518518518518518,
+  "n_wins": 6,
+  "years": [
+    2017,
+    2018,
+    2019,
+    2020
+  ],
+  "win_rate": 0.5,
+  "opponent_score_share": 0.5628482530143141,
+  "skill": 126.36201757139473,
+  "skill_sigma": 34.228704097953525,
+  "name": "Ville Nordenankar",
+  "slug": "ville-nordenankar",
+  "skill_rank": 47.0,
+  "skill_rank_pct": 47.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      null
+    ],
+    [
+      2016,
+      null
+    ],
+    [
+      2017,
+      196.0
+    ],
+    [
+      2018,
+      202.0
+    ],
+    [
+      2019,
+      158.0
+    ],
+    [
+      2020,
+      126.0
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2017,
+      "last_game": {
+        "opponent_name": "Erik Nordenankar",
+        "score": 1,
+        "opponent_score": 9,
+        "is_winner": false,
+        "stage": "kvartsfinal"
+      },
+      "n_games": 4,
+      "n_wins": 3
+    },
+    {
+      "year": 2018,
+      "last_game": {
+        "opponent_name": "Gabriel Nordenankar",
+        "score": 1,
+        "opponent_score": 9,
+        "is_winner": false,
+        "stage": "\u00e5ttondelsfinal"
+      },
+      "n_games": 4,
+      "n_wins": 3
+    },
+    {
+      "year": 2019,
+      "last_game": {
+        "opponent_name": "Niklas Frisk",
+        "score": 2,
+        "opponent_score": 8,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "n_games": 2,
+      "n_wins": 0
+    },
+    {
+      "year": 2020,
+      "last_game": {
+        "opponent_name": "Pia T\u00f6rnkvist",
+        "score": 3,
+        "opponent_score": 9,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "n_games": 2,
+      "n_wins": 0
+    }
+  ],
+  "best_stage": "kvartsfinal",
+  "best_stage_years": [
+    2017
+  ]
+}

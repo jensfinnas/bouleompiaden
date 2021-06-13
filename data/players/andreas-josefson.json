@@ -1,0 +1,77 @@
+{
+  "n_games": 5,
+  "score_share": 0.4181929181929182,
+  "n_wins": 2,
+  "years": [
+    2011,
+    2012
+  ],
+  "win_rate": 0.4,
+  "opponent_score_share": 0.6081321533569526,
+  "skill": 89.1156356730219,
+  "skill_sigma": 55.22890987180973,
+  "name": "Andreas Josefson",
+  "slug": "andreas-josefson",
+  "skill_rank": 66.0,
+  "skill_rank_pct": 66.0,
+  "skill_history": [
+    [
+      2011,
+      85.0
+    ],
+    [
+      2012,
+      89.0
+    ],
+    [
+      2016,
+      null
+    ],
+    [
+      2017,
+      null
+    ],
+    [
+      2018,
+      null
+    ],
+    [
+      2019,
+      null
+    ],
+    [
+      2020,
+      null
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2011,
+      "last_game": {
+        "opponent_name": "Erik Nordenankar",
+        "score": 0,
+        "opponent_score": 8,
+        "is_winner": false,
+        "stage": "kvartsfinal"
+      },
+      "n_games": 3,
+      "n_wins": 1
+    },
+    {
+      "year": 2012,
+      "last_game": {
+        "opponent_name": "Richard Ekman",
+        "score": 8,
+        "opponent_score": 6,
+        "is_winner": true,
+        "stage": "gruppspel"
+      },
+      "n_games": 2,
+      "n_wins": 1
+    }
+  ],
+  "best_stage": "kvartsfinal",
+  "best_stage_years": [
+    2011
+  ]
+}

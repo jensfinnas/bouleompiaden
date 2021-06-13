@@ -1,0 +1,117 @@
+{
+  "n_games": 23,
+  "score_share": 0.510565581761234,
+  "n_wins": 13,
+  "years": [
+    2012,
+    2016,
+    2017,
+    2019,
+    2020
+  ],
+  "win_rate": 0.5652173913043478,
+  "opponent_score_share": 0.5302879209219588,
+  "skill": 168.6410617798886,
+  "skill_sigma": 26.881251526070937,
+  "name": "Jerker Karlsson",
+  "slug": "jerker-karlsson",
+  "skill_rank": 19.0,
+  "skill_rank_pct": 19.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      12.0
+    ],
+    [
+      2016,
+      134.0
+    ],
+    [
+      2017,
+      162.0
+    ],
+    [
+      2018,
+      null
+    ],
+    [
+      2019,
+      168.0
+    ],
+    [
+      2020,
+      169.0
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2012,
+      "last_game": {
+        "opponent_name": "Theodore Ripman",
+        "score": 6,
+        "opponent_score": 7,
+        "is_winner": false,
+        "stage": "kvartsfinal"
+      },
+      "n_games": 3,
+      "n_wins": 0
+    },
+    {
+      "year": 2016,
+      "last_game": {
+        "opponent_name": "Daniel Mensak",
+        "score": 12,
+        "opponent_score": 9,
+        "is_winner": true,
+        "stage": "bronsmatch"
+      },
+      "n_games": 5,
+      "n_wins": 4
+    },
+    {
+      "year": 2017,
+      "last_game": {
+        "opponent_name": "Erik Nordenankar",
+        "score": 7,
+        "opponent_score": 13,
+        "is_winner": false,
+        "stage": "bronsmatch"
+      },
+      "n_games": 7,
+      "n_wins": 4
+    },
+    {
+      "year": 2019,
+      "last_game": {
+        "opponent_name": "Gabriel Nordenankar",
+        "score": 6,
+        "opponent_score": 10,
+        "is_winner": false,
+        "stage": "\u00e5ttondelsfinal"
+      },
+      "n_games": 5,
+      "n_wins": 3
+    },
+    {
+      "year": 2020,
+      "last_game": {
+        "opponent_name": "Pia T\u00f6rnkvist",
+        "score": 7,
+        "opponent_score": 11,
+        "is_winner": false,
+        "stage": "sextondelsfinal"
+      },
+      "n_games": 3,
+      "n_wins": 2
+    }
+  ],
+  "best_stage": "bronsmatch",
+  "best_stage_years": [
+    2017,
+    2016
+  ]
+}

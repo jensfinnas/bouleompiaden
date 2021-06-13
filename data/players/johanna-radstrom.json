@@ -1,0 +1,140 @@
+{
+  "n_games": 12,
+  "score_share": 0.3230751138839374,
+  "n_wins": 2,
+  "years": [
+    2012,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020
+  ],
+  "win_rate": 0.16666666666666666,
+  "opponent_score_share": 0.5091467672966891,
+  "skill": -19.569760043527587,
+  "skill_sigma": 43.13347924330733,
+  "name": "Johanna R\u00e5dstr\u00f6m",
+  "slug": "johanna-radstrom",
+  "skill_rank": 124.0,
+  "skill_rank_pct": 124.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      94.0
+    ],
+    [
+      2016,
+      61.0
+    ],
+    [
+      2017,
+      10.0
+    ],
+    [
+      2018,
+      -9.0
+    ],
+    [
+      2019,
+      -13.0
+    ],
+    [
+      2020,
+      -20.0
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2012,
+      "last_game": {
+        "opponent_name": "Johan Alm",
+        "score": 1,
+        "opponent_score": 7,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "n_games": 2,
+      "n_wins": 1
+    },
+    {
+      "year": 2016,
+      "last_game": {
+        "opponent_name": "Richard Ekman",
+        "score": 2,
+        "opponent_score": 7,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "n_games": 2,
+      "n_wins": 1
+    },
+    {
+      "year": 2017,
+      "last_game": {
+        "opponent_name": "Love Elfvelin",
+        "score": 3,
+        "opponent_score": 8,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "n_games": 2,
+      "n_wins": 0
+    },
+    {
+      "year": 2018,
+      "last_game": {
+        "opponent_name": "Robeson",
+        "score": 4,
+        "opponent_score": 7,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "n_games": 2,
+      "n_wins": 0
+    },
+    {
+      "year": 2019,
+      "last_game": {
+        "opponent_name": "Robin Fogelberg",
+        "score": 3,
+        "opponent_score": 8,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "n_games": 2,
+      "n_wins": 0
+    },
+    {
+      "year": 2020,
+      "last_game": {
+        "opponent_name": "Jon Jeppson",
+        "score": 0,
+        "opponent_score": 9,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "n_games": 2,
+      "n_wins": 0
+    }
+  ],
+  "best_stage": "gruppspel",
+  "best_stage_years": [
+    2016,
+    2012,
+    2012,
+    2016,
+    2017,
+    2017,
+    2019,
+    2018,
+    2019,
+    2020,
+    2018,
+    2020
+  ]
+}

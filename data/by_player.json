@@ -2,7 +2,7 @@
   "Adriana Lilja": {
     "n_games": 4,
     "score_share": 0.44533756684491976,
-    "n_wins": 1.0,
+    "n_wins": 1,
     "years": [
       2020
     ],
@@ -11,6 +11,7 @@
     "skill": 35.78905236101366,
     "skill_sigma": 58.50951506789129,
     "name": "Adriana Lilja",
+    "slug": "adriana-lilja",
     "skill_rank": 97.0,
     "skill_rank_pct": 97.0,
     "skill_history": [
@@ -42,12 +43,30 @@
         2020,
         36.0
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2020,
+        "last_game": {
+          "opponent_name": "Alexander Starfelt",
+          "score": 6,
+          "opponent_score": 11,
+          "is_winner": false,
+          "stage": "sextondelsfinal"
+        },
+        "n_games": 4,
+        "n_wins": 1
+      }
+    ],
+    "best_stage": "sextondelsfinal",
+    "best_stage_years": [
+      2020
     ]
   },
   "Agnes Hannervall": {
     "n_games": 2,
     "score_share": 0.1919191919191919,
-    "n_wins": 0.0,
+    "n_wins": 0,
     "years": [
       2019
     ],
@@ -56,6 +75,7 @@
     "skill": 6.402404806036442,
     "skill_sigma": 67.33727244871369,
     "name": "Agnes Hannervall",
+    "slug": "agnes-hannervall",
     "skill_rank": 113.0,
     "skill_rank_pct": 113.0,
     "skill_history": [
@@ -87,12 +107,31 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Julius Jorborg",
+          "score": 3,
+          "opponent_score": 8,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      }
+    ],
+    "best_stage": "gruppspel",
+    "best_stage_years": [
+      2019,
+      2019
     ]
   },
   "Agnes Lind": {
     "n_games": 2,
     "score_share": 0.0,
-    "n_wins": 0.0,
+    "n_wins": 0,
     "years": [
       2012
     ],
@@ -101,6 +140,7 @@
     "skill": 36.32092366530901,
     "skill_sigma": 79.47743006265962,
     "name": "Agnes Lind",
+    "slug": "agnes-lind",
     "skill_rank": 96.0,
     "skill_rank_pct": 96.0,
     "skill_history": [
@@ -132,12 +172,31 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2012,
+        "last_game": {
+          "opponent_name": "Johan Ekman",
+          "score": 0,
+          "opponent_score": 7,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      }
+    ],
+    "best_stage": "gruppspel",
+    "best_stage_years": [
+      2012,
+      2012
     ]
   },
   "Alexander Bjerner": {
     "n_games": 3,
     "score_share": 0.48329448329448327,
-    "n_wins": 2.0,
+    "n_wins": 2,
     "years": [
       2019
     ],
@@ -146,6 +205,7 @@
     "skill": 137.98382676526975,
     "skill_sigma": 58.48142083789554,
     "name": "Alexander Bjerner",
+    "slug": "alexander-bjerner",
     "skill_rank": 38.0,
     "skill_rank_pct": 38.0,
     "skill_history": [
@@ -177,12 +237,30 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Jesper Kronholm",
+          "score": 1,
+          "opponent_score": 10,
+          "is_winner": false,
+          "stage": "sextondelsfinal"
+        },
+        "n_games": 3,
+        "n_wins": 2
+      }
+    ],
+    "best_stage": "sextondelsfinal",
+    "best_stage_years": [
+      2019
     ]
   },
   "Alexander Starfelt": {
     "n_games": 16,
     "score_share": 0.5816823138054755,
-    "n_wins": 10.0,
+    "n_wins": 10,
     "years": [
       2017,
       2018,
@@ -194,6 +272,7 @@
     "skill": 164.73054578101446,
     "skill_sigma": 31.82956459152204,
     "name": "Alexander Starfelt",
+    "slug": "alexander-starfelt",
     "skill_rank": 22.0,
     "skill_rank_pct": 22.0,
     "skill_history": [
@@ -225,12 +304,66 @@
         2020,
         165.0
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2017,
+        "last_game": {
+          "opponent_name": "Robin Linderborg",
+          "score": 2,
+          "opponent_score": 7,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 3,
+        "n_wins": 1
+      },
+      {
+        "year": 2018,
+        "last_game": {
+          "opponent_name": "Charlotte Johansson",
+          "score": 2,
+          "opponent_score": 9,
+          "is_winner": false,
+          "stage": "sextondelsfinal"
+        },
+        "n_games": 4,
+        "n_wins": 2
+      },
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Jens Hultkrans",
+          "score": 8,
+          "opponent_score": 10,
+          "is_winner": false,
+          "stage": "\u00e5ttondelsfinal"
+        },
+        "n_games": 4,
+        "n_wins": 3
+      },
+      {
+        "year": 2020,
+        "last_game": {
+          "opponent_name": "Pelle Dovborg",
+          "score": 5,
+          "opponent_score": 11,
+          "is_winner": false,
+          "stage": "kvartsfinal"
+        },
+        "n_games": 5,
+        "n_wins": 4
+      }
+    ],
+    "best_stage": "kvartsfinal",
+    "best_stage_years": [
+      2020
     ]
   },
   "Andreas Josefson": {
     "n_games": 5,
     "score_share": 0.4181929181929182,
-    "n_wins": 2.0,
+    "n_wins": 2,
     "years": [
       2011,
       2012
@@ -240,6 +373,7 @@
     "skill": 89.1156356730219,
     "skill_sigma": 55.22890987180973,
     "name": "Andreas Josefson",
+    "slug": "andreas-josefson",
     "skill_rank": 66.0,
     "skill_rank_pct": 66.0,
     "skill_history": [
@@ -271,12 +405,42 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2011,
+        "last_game": {
+          "opponent_name": "Erik Nordenankar",
+          "score": 0,
+          "opponent_score": 8,
+          "is_winner": false,
+          "stage": "kvartsfinal"
+        },
+        "n_games": 3,
+        "n_wins": 1
+      },
+      {
+        "year": 2012,
+        "last_game": {
+          "opponent_name": "Richard Ekman",
+          "score": 8,
+          "opponent_score": 6,
+          "is_winner": true,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 1
+      }
+    ],
+    "best_stage": "kvartsfinal",
+    "best_stage_years": [
+      2011
     ]
   },
   "Beata Harrysson": {
     "n_games": 2,
     "score_share": 0.175,
-    "n_wins": 0.0,
+    "n_wins": 0,
     "years": [
       2020
     ],
@@ -285,6 +449,7 @@
     "skill": -14.999440459427603,
     "skill_sigma": 67.33605152621539,
     "name": "Beata Harrysson",
+    "slug": "beata-harrysson",
     "skill_rank": 122.0,
     "skill_rank_pct": 122.0,
     "skill_history": [
@@ -316,12 +481,31 @@
         2020,
         -15.0
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2020,
+        "last_game": {
+          "opponent_name": "Frida \u00d6hrn",
+          "score": 1,
+          "opponent_score": 9,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      }
+    ],
+    "best_stage": "gruppspel",
+    "best_stage_years": [
+      2020,
+      2020
     ]
   },
   "Benjamin Ger. Hed.": {
     "n_games": 20,
     "score_share": 0.5641894910644909,
-    "n_wins": 14.0,
+    "n_wins": 14,
     "years": [
       2017,
       2018,
@@ -333,6 +517,7 @@
     "skill": 196.6005194353808,
     "skill_sigma": 26.754497136241632,
     "name": "Benjamin Ger. Hed.",
+    "slug": "benjamin-ger-hed",
     "skill_rank": 10.0,
     "skill_rank_pct": 10.0,
     "skill_history": [
@@ -364,12 +549,66 @@
         2020,
         197.0
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2017,
+        "last_game": {
+          "opponent_name": "Gabriel Nordenankar",
+          "score": 6,
+          "opponent_score": 9,
+          "is_winner": false,
+          "stage": "kvartsfinal"
+        },
+        "n_games": 4,
+        "n_wins": 3
+      },
+      {
+        "year": 2018,
+        "last_game": {
+          "opponent_name": "Estrid",
+          "score": 1,
+          "opponent_score": 9,
+          "is_winner": false,
+          "stage": "sextondelsfinal"
+        },
+        "n_games": 4,
+        "n_wins": 2
+      },
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Theodore Ripman",
+          "score": 5,
+          "opponent_score": 13,
+          "is_winner": false,
+          "stage": "final"
+        },
+        "n_games": 8,
+        "n_wins": 6
+      },
+      {
+        "year": 2020,
+        "last_game": {
+          "opponent_name": "Robeson",
+          "score": 3,
+          "opponent_score": 11,
+          "is_winner": false,
+          "stage": "\u00e5ttondelsfinal"
+        },
+        "n_games": 4,
+        "n_wins": 3
+      }
+    ],
+    "best_stage": "final",
+    "best_stage_years": [
+      2019
     ]
   },
   "Bj\u00f6rn Berglund": {
     "n_games": 9,
     "score_share": 0.49594645550527905,
-    "n_wins": 3.0,
+    "n_wins": 3,
     "years": [
       2018,
       2019,
@@ -380,6 +619,7 @@
     "skill": 79.5039625720265,
     "skill_sigma": 42.40850863816587,
     "name": "Bj\u00f6rn Berglund",
+    "slug": "bjorn-berglund",
     "skill_rank": 75.0,
     "skill_rank_pct": 75.0,
     "skill_history": [
@@ -411,12 +651,54 @@
         2020,
         80.0
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2018,
+        "last_game": {
+          "opponent_name": "Sussie R\u00e5dis",
+          "score": 6,
+          "opponent_score": 7,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      },
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Alexander Bjerner",
+          "score": 4,
+          "opponent_score": 8,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 3,
+        "n_wins": 1
+      },
+      {
+        "year": 2020,
+        "last_game": {
+          "opponent_name": "Wille Laska",
+          "score": 6,
+          "opponent_score": 11,
+          "is_winner": false,
+          "stage": "sextondelsfinal"
+        },
+        "n_games": 4,
+        "n_wins": 2
+      }
+    ],
+    "best_stage": "sextondelsfinal",
+    "best_stage_years": [
+      2020
     ]
   },
   "Bj\u00f6rn Westerfors": {
     "n_games": 2,
     "score_share": 0.5,
-    "n_wins": 1.0,
+    "n_wins": 1,
     "years": [
       2016
     ],
@@ -425,6 +707,7 @@
     "skill": 62.84158999000879,
     "skill_sigma": 70.05781483205419,
     "name": "Bj\u00f6rn Westerfors",
+    "slug": "bjorn-westerfors",
     "skill_rank": 83.0,
     "skill_rank_pct": 83.0,
     "skill_history": [
@@ -456,12 +739,31 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2016,
+        "last_game": {
+          "opponent_name": "Linn Enhage",
+          "score": 7,
+          "opponent_score": 4,
+          "is_winner": true,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 1
+      }
+    ],
+    "best_stage": "gruppspel",
+    "best_stage_years": [
+      2016,
+      2016
     ]
   },
   "Calle Sandin": {
     "n_games": 3,
     "score_share": 0.37762237762237766,
-    "n_wins": 0.0,
+    "n_wins": 0,
     "years": [
       2011,
       2020
@@ -471,6 +773,7 @@
     "skill": 5.294396824267511,
     "skill_sigma": 72.65379263927423,
     "name": "Calle Sandin",
+    "slug": "calle-sandin",
     "skill_rank": 114.0,
     "skill_rank_pct": 114.0,
     "skill_history": [
@@ -502,12 +805,44 @@
         2020,
         5.0
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2011,
+        "last_game": {
+          "opponent_name": "Theodore Ripman",
+          "score": 4,
+          "opponent_score": 7,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      },
+      {
+        "year": 2020,
+        "last_game": {
+          "opponent_name": "Edvin Lindsten",
+          "score": 4,
+          "opponent_score": 9,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 1,
+        "n_wins": 0
+      }
+    ],
+    "best_stage": "gruppspel",
+    "best_stage_years": [
+      2011,
+      2011,
+      2020
     ]
   },
   "Carl Rother-Schirren": {
     "n_games": 2,
     "score_share": 0.24545454545454548,
-    "n_wins": 0.0,
+    "n_wins": 0,
     "years": [
       2020
     ],
@@ -516,6 +851,7 @@
     "skill": 12.793444323203667,
     "skill_sigma": 71.64875025614924,
     "name": "Carl Rother-Schirren",
+    "slug": "carl-rother-schirren",
     "skill_rank": 108.0,
     "skill_rank_pct": 108.0,
     "skill_history": [
@@ -547,12 +883,31 @@
         2020,
         13.0
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2020,
+        "last_game": {
+          "opponent_name": "Fredrik Berg",
+          "score": 6,
+          "opponent_score": 9,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      }
+    ],
+    "best_stage": "gruppspel",
+    "best_stage_years": [
+      2020,
+      2020
     ]
   },
   "Caroline Edholm": {
     "n_games": 3,
     "score_share": 0.46428571428571425,
-    "n_wins": 1.0,
+    "n_wins": 1,
     "years": [
       2020
     ],
@@ -561,6 +916,7 @@
     "skill": 118.68245665497726,
     "skill_sigma": 55.66465863436521,
     "name": "Caroline Edholm",
+    "slug": "caroline-edholm",
     "skill_rank": 52.0,
     "skill_rank_pct": 52.0,
     "skill_history": [
@@ -592,12 +948,30 @@
         2020,
         119.0
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2020,
+        "last_game": {
+          "opponent_name": "Tim Samuelsson",
+          "score": 5,
+          "opponent_score": 11,
+          "is_winner": false,
+          "stage": "sextondelsfinal"
+        },
+        "n_games": 3,
+        "n_wins": 1
+      }
+    ],
+    "best_stage": "sextondelsfinal",
+    "best_stage_years": [
+      2020
     ]
   },
   "Charlotte Almgren": {
     "n_games": 2,
     "score_share": 0.17857142857142858,
-    "n_wins": 0.0,
+    "n_wins": 0,
     "years": [
       2020
     ],
@@ -606,6 +980,7 @@
     "skill": -9.59141084916483,
     "skill_sigma": 68.83911009685247,
     "name": "Charlotte Almgren",
+    "slug": "charlotte-almgren",
     "skill_rank": 119.0,
     "skill_rank_pct": 119.0,
     "skill_history": [
@@ -637,12 +1012,31 @@
         2020,
         -10.0
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2020,
+        "last_game": {
+          "opponent_name": "Charlotte Breitholtz",
+          "score": 0,
+          "opponent_score": 9,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      }
+    ],
+    "best_stage": "gruppspel",
+    "best_stage_years": [
+      2020,
+      2020
     ]
   },
   "Charlotte Breitholtz": {
     "n_games": 4,
     "score_share": 0.5758726567550098,
-    "n_wins": 2.0,
+    "n_wins": 2,
     "years": [
       2020
     ],
@@ -651,6 +1045,7 @@
     "skill": 103.40347136063902,
     "skill_sigma": 58.24948264973883,
     "name": "Charlotte Breitholtz",
+    "slug": "charlotte-breitholtz",
     "skill_rank": 61.0,
     "skill_rank_pct": 61.0,
     "skill_history": [
@@ -682,12 +1077,30 @@
         2020,
         103.0
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2020,
+        "last_game": {
+          "opponent_name": "Jon Jeppson",
+          "score": 6,
+          "opponent_score": 11,
+          "is_winner": false,
+          "stage": "sextondelsfinal"
+        },
+        "n_games": 4,
+        "n_wins": 2
+      }
+    ],
+    "best_stage": "sextondelsfinal",
+    "best_stage_years": [
+      2020
     ]
   },
   "Charlotte Johansson": {
     "n_games": 6,
     "score_share": 0.5206228956228955,
-    "n_wins": 3.0,
+    "n_wins": 3,
     "years": [
       2018,
       2019
@@ -697,6 +1110,7 @@
     "skill": 108.82771618591043,
     "skill_sigma": 43.484028971553144,
     "name": "Charlotte Johansson",
+    "slug": "charlotte-johansson",
     "skill_rank": 56.0,
     "skill_rank_pct": 56.0,
     "skill_history": [
@@ -728,12 +1142,42 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2018,
+        "last_game": {
+          "opponent_name": "Johan Kjell",
+          "score": 2,
+          "opponent_score": 10,
+          "is_winner": false,
+          "stage": "\u00e5ttondelsfinal"
+        },
+        "n_games": 4,
+        "n_wins": 3
+      },
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Bj\u00f6rn Berglund",
+          "score": 4,
+          "opponent_score": 8,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      }
+    ],
+    "best_stage": "\u00e5ttondelsfinal",
+    "best_stage_years": [
+      2018
     ]
   },
   "Christian Steen": {
     "n_games": 4,
     "score_share": 0.5038461538461538,
-    "n_wins": 2.0,
+    "n_wins": 2,
     "years": [
       2019
     ],
@@ -742,6 +1186,7 @@
     "skill": 131.44451219069174,
     "skill_sigma": 49.192924780909365,
     "name": "Christian Steen",
+    "slug": "christian-steen",
     "skill_rank": 44.0,
     "skill_rank_pct": 44.0,
     "skill_history": [
@@ -773,12 +1218,30 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Mina Kheirkhah",
+          "score": 8,
+          "opponent_score": 12,
+          "is_winner": false,
+          "stage": "sextondelsfinal"
+        },
+        "n_games": 4,
+        "n_wins": 2
+      }
+    ],
+    "best_stage": "sextondelsfinal",
+    "best_stage_years": [
+      2019
     ]
   },
   "Cissi Hellman": {
     "n_games": 20,
     "score_share": 0.48071302791411474,
-    "n_wins": 11.0,
+    "n_wins": 11,
     "years": [
       2011,
       2012,
@@ -792,6 +1255,7 @@
     "skill": 149.25388905616194,
     "skill_sigma": 26.515541310620893,
     "name": "Cissi Hellman",
+    "slug": "cissi-hellman",
     "skill_rank": 30.0,
     "skill_rank_pct": 30.0,
     "skill_history": [
@@ -823,12 +1287,90 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2011,
+        "last_game": {
+          "opponent_name": "Erik Nordenankar",
+          "score": 9,
+          "opponent_score": 14,
+          "is_winner": false,
+          "stage": "final"
+        },
+        "n_games": 5,
+        "n_wins": 3
+      },
+      {
+        "year": 2012,
+        "last_game": {
+          "opponent_name": "Theodore Ripman",
+          "score": 4,
+          "opponent_score": 9,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 1
+      },
+      {
+        "year": 2016,
+        "last_game": {
+          "opponent_name": "Linn Debove",
+          "score": 1,
+          "opponent_score": 7,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 1
+      },
+      {
+        "year": 2017,
+        "last_game": {
+          "opponent_name": "Julius Jorborg",
+          "score": 0,
+          "opponent_score": 7,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 1,
+        "n_wins": 0
+      },
+      {
+        "year": 2018,
+        "last_game": {
+          "opponent_name": "Robin Fogelberg",
+          "score": 7,
+          "opponent_score": 9,
+          "is_winner": false,
+          "stage": "\u00e5ttondelsfinal"
+        },
+        "n_games": 5,
+        "n_wins": 3
+      },
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Robeson",
+          "score": 5,
+          "opponent_score": 10,
+          "is_winner": false,
+          "stage": "\u00e5ttondelsfinal"
+        },
+        "n_games": 5,
+        "n_wins": 3
+      }
+    ],
+    "best_stage": "final",
+    "best_stage_years": [
+      2011
     ]
   },
   "Conny \u00c5berg": {
     "n_games": 2,
     "score_share": 0.15,
-    "n_wins": 0.0,
+    "n_wins": 0,
     "years": [
       2012
     ],
@@ -837,6 +1379,7 @@
     "skill": 15.145942025378263,
     "skill_sigma": 75.31316150277124,
     "name": "Conny \u00c5berg",
+    "slug": "conny-aberg",
     "skill_rank": 104.0,
     "skill_rank_pct": 104.0,
     "skill_history": [
@@ -868,12 +1411,31 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2012,
+        "last_game": {
+          "opponent_name": "Johan Alm",
+          "score": 0,
+          "opponent_score": 7,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      }
+    ],
+    "best_stage": "gruppspel",
+    "best_stage_years": [
+      2012,
+      2012
     ]
   },
   "Daniel Mensak": {
     "n_games": 5,
     "score_share": 0.6307142857142857,
-    "n_wins": 3.0,
+    "n_wins": 3,
     "years": [
       2016
     ],
@@ -882,6 +1444,7 @@
     "skill": 139.23734241206387,
     "skill_sigma": 49.174830854538946,
     "name": "Daniel Mensak",
+    "slug": "daniel-mensak",
     "skill_rank": 35.0,
     "skill_rank_pct": 35.0,
     "skill_history": [
@@ -913,12 +1476,30 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2016,
+        "last_game": {
+          "opponent_name": "Jerker Karlsson",
+          "score": 9,
+          "opponent_score": 12,
+          "is_winner": false,
+          "stage": "bronsmatch"
+        },
+        "n_games": 5,
+        "n_wins": 3
+      }
+    ],
+    "best_stage": "bronsmatch",
+    "best_stage_years": [
+      2016
     ]
   },
   "Edith S\u00f6derstr\u00f6m": {
     "n_games": 6,
     "score_share": 0.2698005698005698,
-    "n_wins": 2.0,
+    "n_wins": 2,
     "years": [
       2018,
       2019
@@ -928,6 +1509,7 @@
     "skill": 62.586481033570266,
     "skill_sigma": 51.75056965584141,
     "name": "Edith S\u00f6derstr\u00f6m",
+    "slug": "edith-soderstrom",
     "skill_rank": 86.0,
     "skill_rank_pct": 86.0,
     "skill_history": [
@@ -959,12 +1541,47 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2018,
+        "last_game": {
+          "opponent_name": "Jens Hultkrans",
+          "score": 8,
+          "opponent_score": 4,
+          "is_winner": true,
+          "stage": "gruppspel"
+        },
+        "n_games": 3,
+        "n_wins": 1
+      },
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Micke Leyi",
+          "score": 0,
+          "opponent_score": 8,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 3,
+        "n_wins": 1
+      }
+    ],
+    "best_stage": "gruppspel",
+    "best_stage_years": [
+      2019,
+      2018,
+      2018,
+      2018,
+      2019,
+      2019
     ]
   },
   "Edvin Lindsten": {
     "n_games": 22,
     "score_share": 0.5834785535320296,
-    "n_wins": 15.0,
+    "n_wins": 15,
     "years": [
       2017,
       2018,
@@ -976,6 +1593,7 @@
     "skill": 180.73945217174244,
     "skill_sigma": 26.07516694783905,
     "name": "Edvin Lindsten",
+    "slug": "edvin-lindsten",
     "skill_rank": 12.0,
     "skill_rank_pct": 12.0,
     "skill_history": [
@@ -1007,12 +1625,66 @@
         2020,
         181.0
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2017,
+        "last_game": {
+          "opponent_name": "Gabriel Nordenankar",
+          "score": 2,
+          "opponent_score": 13,
+          "is_winner": false,
+          "stage": "final"
+        },
+        "n_games": 6,
+        "n_wins": 5
+      },
+      {
+        "year": 2018,
+        "last_game": {
+          "opponent_name": "Theodore Ripman",
+          "score": 2,
+          "opponent_score": 9,
+          "is_winner": false,
+          "stage": "\u00e5ttondelsfinal"
+        },
+        "n_games": 4,
+        "n_wins": 3
+      },
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Robin Fogelberg",
+          "score": 7,
+          "opponent_score": 10,
+          "is_winner": false,
+          "stage": "\u00e5ttondelsfinal"
+        },
+        "n_games": 4,
+        "n_wins": 3
+      },
+      {
+        "year": 2020,
+        "last_game": {
+          "opponent_name": "Pelle Dovborg",
+          "score": 5,
+          "opponent_score": 13,
+          "is_winner": false,
+          "stage": "bronsmatch"
+        },
+        "n_games": 8,
+        "n_wins": 4
+      }
+    ],
+    "best_stage": "final",
+    "best_stage_years": [
+      2017
     ]
   },
   "Emma Bergmark": {
     "n_games": 3,
     "score_share": 0.4916666666666667,
-    "n_wins": 2.0,
+    "n_wins": 2,
     "years": [
       2020
     ],
@@ -1021,6 +1693,7 @@
     "skill": 188.51803976327434,
     "skill_sigma": 55.91051610697386,
     "name": "Emma Bergmark",
+    "slug": "emma-bergmark",
     "skill_rank": 11.0,
     "skill_rank_pct": 11.0,
     "skill_history": [
@@ -1052,12 +1725,30 @@
         2020,
         189.0
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2020,
+        "last_game": {
+          "opponent_name": "Martyna",
+          "score": 5,
+          "opponent_score": 11,
+          "is_winner": false,
+          "stage": "sextondelsfinal"
+        },
+        "n_games": 3,
+        "n_wins": 2
+      }
+    ],
+    "best_stage": "sextondelsfinal",
+    "best_stage_years": [
+      2020
     ]
   },
   "Emma Pettersson": {
     "n_games": 2,
     "score_share": 0.35833333333333334,
-    "n_wins": 0.0,
+    "n_wins": 0,
     "years": [
       2017
     ],
@@ -1066,6 +1757,7 @@
     "skill": -30.09126027630779,
     "skill_sigma": 68.67476674269147,
     "name": "Emma Pettersson",
+    "slug": "emma-pettersson",
     "skill_rank": 125.0,
     "skill_rank_pct": 125.0,
     "skill_history": [
@@ -1097,12 +1789,31 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2017,
+        "last_game": {
+          "opponent_name": "Sofia Ahlstr\u00f6m",
+          "score": 3,
+          "opponent_score": 7,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      }
+    ],
+    "best_stage": "gruppspel",
+    "best_stage_years": [
+      2017,
+      2017
     ]
   },
   "Erik Nordenankar": {
     "n_games": 31,
     "score_share": 0.6961647782361833,
-    "n_wins": 23.0,
+    "n_wins": 23,
     "years": [
       2011,
       2012,
@@ -1117,6 +1828,7 @@
     "skill": 206.42940745328718,
     "skill_sigma": 22.439027219536808,
     "name": "Erik Nordenankar",
+    "slug": "erik-nordenankar",
     "skill_rank": 6.0,
     "skill_rank_pct": 6.0,
     "skill_history": [
@@ -1148,12 +1860,102 @@
         2020,
         206.0
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2011,
+        "last_game": {
+          "opponent_name": "Cissi Hellman",
+          "score": 14,
+          "opponent_score": 9,
+          "is_winner": true,
+          "stage": "vinnare"
+        },
+        "n_games": 5,
+        "n_wins": 4
+      },
+      {
+        "year": 2012,
+        "last_game": {
+          "opponent_name": "Johan Alm",
+          "score": 6,
+          "opponent_score": 7,
+          "is_winner": false,
+          "stage": "kvartsfinal"
+        },
+        "n_games": 3,
+        "n_wins": 2
+      },
+      {
+        "year": 2016,
+        "last_game": {
+          "opponent_name": "Jakob Lien",
+          "score": 8,
+          "opponent_score": 9,
+          "is_winner": false,
+          "stage": "kvartsfinal"
+        },
+        "n_games": 3,
+        "n_wins": 1
+      },
+      {
+        "year": 2017,
+        "last_game": {
+          "opponent_name": "Jerker Karlsson",
+          "score": 13,
+          "opponent_score": 7,
+          "is_winner": true,
+          "stage": "bronsmatch"
+        },
+        "n_games": 6,
+        "n_wins": 5
+      },
+      {
+        "year": 2018,
+        "last_game": {
+          "opponent_name": "Robin Fogelberg",
+          "score": 14,
+          "opponent_score": 7,
+          "is_winner": true,
+          "stage": "bronsmatch"
+        },
+        "n_games": 7,
+        "n_wins": 6
+      },
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Theodore Ripman",
+          "score": 6,
+          "opponent_score": 10,
+          "is_winner": false,
+          "stage": "\u00e5ttondelsfinal"
+        },
+        "n_games": 4,
+        "n_wins": 3
+      },
+      {
+        "year": 2020,
+        "last_game": {
+          "opponent_name": "Robeson",
+          "score": 6,
+          "opponent_score": 11,
+          "is_winner": false,
+          "stage": "sextondelsfinal"
+        },
+        "n_games": 3,
+        "n_wins": 2
+      }
+    ],
+    "best_stage": "vinnare",
+    "best_stage_years": [
+      2011
     ]
   },
   "Erik Numan": {
     "n_games": 2,
     "score_share": 0.3973214285714286,
-    "n_wins": 0.0,
+    "n_wins": 0,
     "years": [
       2020
     ],
@@ -1162,6 +1964,7 @@
     "skill": 15.132647497698173,
     "skill_sigma": 75.00891930663389,
     "name": "Erik Numan",
+    "slug": "erik-numan",
     "skill_rank": 105.0,
     "skill_rank_pct": 105.0,
     "skill_history": [
@@ -1193,12 +1996,31 @@
         2020,
         15.0
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2020,
+        "last_game": {
+          "opponent_name": "Jakob Gustafsson",
+          "score": 7,
+          "opponent_score": 9,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      }
+    ],
+    "best_stage": "gruppspel",
+    "best_stage_years": [
+      2020,
+      2020
     ]
   },
   "Erik Sunninger": {
     "n_games": 3,
     "score_share": 0.47222222222222227,
-    "n_wins": 2.0,
+    "n_wins": 2,
     "years": [
       2016
     ],
@@ -1207,6 +2029,7 @@
     "skill": 143.53061316562594,
     "skill_sigma": 66.47656039941576,
     "name": "Erik Sunninger",
+    "slug": "erik-sunninger",
     "skill_rank": 32.0,
     "skill_rank_pct": 32.0,
     "skill_history": [
@@ -1238,12 +2061,30 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2016,
+        "last_game": {
+          "opponent_name": "Daniel Mensak",
+          "score": 3,
+          "opponent_score": 9,
+          "is_winner": false,
+          "stage": "kvartsfinal"
+        },
+        "n_games": 3,
+        "n_wins": 2
+      }
+    ],
+    "best_stage": "kvartsfinal",
+    "best_stage_years": [
+      2016
     ]
   },
   "Estrid": {
     "n_games": 12,
     "score_share": 0.6307361168816277,
-    "n_wins": 9.0,
+    "n_wins": 9,
     "years": [
       2018,
       2019
@@ -1253,6 +2094,7 @@
     "skill": 212.41833338920398,
     "skill_sigma": 32.900214983908874,
     "name": "Estrid",
+    "slug": "estrid",
     "skill_rank": 4.0,
     "skill_rank_pct": 4.0,
     "skill_history": [
@@ -1284,12 +2126,42 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2018,
+        "last_game": {
+          "opponent_name": "Robin Fogelberg",
+          "score": 8,
+          "opponent_score": 9,
+          "is_winner": false,
+          "stage": "kvartsfinal"
+        },
+        "n_games": 5,
+        "n_wins": 4
+      },
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Robeson",
+          "score": 5,
+          "opponent_score": 13,
+          "is_winner": false,
+          "stage": "bronsmatch"
+        },
+        "n_games": 7,
+        "n_wins": 5
+      }
+    ],
+    "best_stage": "bronsmatch",
+    "best_stage_years": [
+      2019
     ]
   },
   "Fanny Kjellner": {
     "n_games": 6,
     "score_share": 0.4707491582491583,
-    "n_wins": 2.0,
+    "n_wins": 2,
     "years": [
       2018,
       2019
@@ -1299,6 +2171,7 @@
     "skill": 49.72175753064418,
     "skill_sigma": 50.665836304677114,
     "name": "Fanny Kjellner",
+    "slug": "fanny-kjellner",
     "skill_rank": 93.0,
     "skill_rank_pct": 93.0,
     "skill_history": [
@@ -1330,12 +2203,47 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2018,
+        "last_game": {
+          "opponent_name": "Estrid",
+          "score": 2,
+          "opponent_score": 7,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 3,
+        "n_wins": 1
+      },
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Robeson",
+          "score": 3,
+          "opponent_score": 9,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 3,
+        "n_wins": 1
+      }
+    ],
+    "best_stage": "gruppspel",
+    "best_stage_years": [
+      2019,
+      2018,
+      2018,
+      2018,
+      2019,
+      2019
     ]
   },
   "Felix H\u00e4ggstr\u00f6m": {
     "n_games": 2,
     "score_share": 0.4192307692307692,
-    "n_wins": 1.0,
+    "n_wins": 1,
     "years": [
       2016
     ],
@@ -1344,6 +2252,7 @@
     "skill": 88.71090118347175,
     "skill_sigma": 69.38499574726352,
     "name": "Felix H\u00e4ggstr\u00f6m",
+    "slug": "felix-haggstrom",
     "skill_rank": 68.0,
     "skill_rank_pct": 68.0,
     "skill_history": [
@@ -1375,12 +2284,31 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2016,
+        "last_game": {
+          "opponent_name": "Daniel Mensak",
+          "score": 3,
+          "opponent_score": 7,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 1
+      }
+    ],
+    "best_stage": "gruppspel",
+    "best_stage_years": [
+      2016,
+      2016
     ]
   },
   "Filip Tyd\u00e9n": {
     "n_games": 5,
     "score_share": 0.6461829836829838,
-    "n_wins": 5.0,
+    "n_wins": 5,
     "years": [
       2012
     ],
@@ -1389,6 +2317,7 @@
     "skill": 271.0261300539191,
     "skill_sigma": 52.79508455006538,
     "name": "Filip Tyd\u00e9n",
+    "slug": "filip-tyden",
     "skill_rank": 1.0,
     "skill_rank_pct": 1.0,
     "skill_history": [
@@ -1420,12 +2349,30 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2012,
+        "last_game": {
+          "opponent_name": "Johan Alm",
+          "score": 13,
+          "opponent_score": 3,
+          "is_winner": true,
+          "stage": "vinnare"
+        },
+        "n_games": 5,
+        "n_wins": 5
+      }
+    ],
+    "best_stage": "vinnare",
+    "best_stage_years": [
+      2012
     ]
   },
   "Filippa Berencreutz": {
     "n_games": 3,
     "score_share": 0.4166666666666667,
-    "n_wins": 1.0,
+    "n_wins": 1,
     "years": [
       2020
     ],
@@ -1434,6 +2381,7 @@
     "skill": 109.02909317158702,
     "skill_sigma": 59.65345249044226,
     "name": "Filippa Berencreutz",
+    "slug": "filippa-berencreutz",
     "skill_rank": 55.0,
     "skill_rank_pct": 55.0,
     "skill_history": [
@@ -1465,12 +2413,32 @@
         2020,
         109.0
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2020,
+        "last_game": {
+          "opponent_name": "Jon Jeppson",
+          "score": 1,
+          "opponent_score": 9,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 3,
+        "n_wins": 1
+      }
+    ],
+    "best_stage": "gruppspel",
+    "best_stage_years": [
+      2020,
+      2020,
+      2020
     ]
   },
   "Fredrik Berg": {
     "n_games": 3,
     "score_share": 0.4357142857142857,
-    "n_wins": 1.0,
+    "n_wins": 1,
     "years": [
       2020
     ],
@@ -1479,6 +2447,7 @@
     "skill": 37.61246249413298,
     "skill_sigma": 60.57250951222389,
     "name": "Fredrik Berg",
+    "slug": "fredrik-berg",
     "skill_rank": 95.0,
     "skill_rank_pct": 95.0,
     "skill_history": [
@@ -1510,12 +2479,32 @@
         2020,
         38.0
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2020,
+        "last_game": {
+          "opponent_name": "Carl Rother-Schirren",
+          "score": 9,
+          "opponent_score": 6,
+          "is_winner": true,
+          "stage": "gruppspel"
+        },
+        "n_games": 3,
+        "n_wins": 1
+      }
+    ],
+    "best_stage": "gruppspel",
+    "best_stage_years": [
+      2020,
+      2020,
+      2020
     ]
   },
   "Frida Danielsson": {
     "n_games": 2,
     "score_share": 0.10555555555555556,
-    "n_wins": 0.0,
+    "n_wins": 0,
     "years": [
       2019
     ],
@@ -1524,6 +2513,7 @@
     "skill": 12.171755924354164,
     "skill_sigma": 70.96224863449702,
     "name": "Frida Danielsson",
+    "slug": "frida-danielsson",
     "skill_rank": 109.0,
     "skill_rank_pct": 109.0,
     "skill_history": [
@@ -1555,12 +2545,31 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Olaver",
+          "score": 1,
+          "opponent_score": 8,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      }
+    ],
+    "best_stage": "gruppspel",
+    "best_stage_years": [
+      2019,
+      2019
     ]
   },
   "Frida \u00d6hrn": {
     "n_games": 9,
     "score_share": 0.40685703185703187,
-    "n_wins": 2.0,
+    "n_wins": 2,
     "years": [
       2012,
       2016,
@@ -1572,6 +2581,7 @@
     "skill": 9.828850953331084,
     "skill_sigma": 46.80360599137976,
     "name": "Frida \u00d6hrn",
+    "slug": "frida-ohrn",
     "skill_rank": 111.0,
     "skill_rank_pct": 111.0,
     "skill_history": [
@@ -1603,12 +2613,74 @@
         2020,
         10.0
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2012,
+        "last_game": {
+          "opponent_name": "Jakob Lien",
+          "score": 4,
+          "opponent_score": 7,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 1
+      },
+      {
+        "year": 2016,
+        "last_game": {
+          "opponent_name": "Daniel Mensak",
+          "score": 1,
+          "opponent_score": 7,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      },
+      {
+        "year": 2018,
+        "last_game": {
+          "opponent_name": "Olle Hjort",
+          "score": 4,
+          "opponent_score": 7,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      },
+      {
+        "year": 2020,
+        "last_game": {
+          "opponent_name": "Beata Harrysson",
+          "score": 9,
+          "opponent_score": 1,
+          "is_winner": true,
+          "stage": "gruppspel"
+        },
+        "n_games": 3,
+        "n_wins": 1
+      }
+    ],
+    "best_stage": "gruppspel",
+    "best_stage_years": [
+      2012,
+      2012,
+      2016,
+      2016,
+      2018,
+      2018,
+      2020,
+      2020,
+      2020
     ]
   },
   "Gabriel Nordenankar": {
     "n_games": 28,
     "score_share": 0.6143911487426524,
-    "n_wins": 22.0,
+    "n_wins": 22,
     "years": [
       2011,
       2012,
@@ -1623,6 +2695,7 @@
     "skill": 223.35825731937956,
     "skill_sigma": 25.195379317269655,
     "name": "Gabriel Nordenankar",
+    "slug": "gabriel-nordenankar",
     "skill_rank": 2.0,
     "skill_rank_pct": 2.0,
     "skill_history": [
@@ -1654,12 +2727,103 @@
         2020,
         223.0
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2011,
+        "last_game": {
+          "opponent_name": "Cissi Hellman",
+          "score": 7,
+          "opponent_score": 3,
+          "is_winner": true,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 1
+      },
+      {
+        "year": 2012,
+        "last_game": {
+          "opponent_name": "Love Andr\u00e9asson",
+          "score": 2,
+          "opponent_score": 7,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 1
+      },
+      {
+        "year": 2016,
+        "last_game": {
+          "opponent_name": "Jakob Lien",
+          "score": 12,
+          "opponent_score": 6,
+          "is_winner": true,
+          "stage": "vinnare"
+        },
+        "n_games": 5,
+        "n_wins": 5
+      },
+      {
+        "year": 2017,
+        "last_game": {
+          "opponent_name": "Edvin Lindsten",
+          "score": 13,
+          "opponent_score": 2,
+          "is_winner": true,
+          "stage": "vinnare"
+        },
+        "n_games": 6,
+        "n_wins": 6
+      },
+      {
+        "year": 2018,
+        "last_game": {
+          "opponent_name": "Jens Hultkrans",
+          "score": 4,
+          "opponent_score": 9,
+          "is_winner": false,
+          "stage": "kvartsfinal"
+        },
+        "n_games": 5,
+        "n_wins": 4
+      },
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Estrid",
+          "score": 9,
+          "opponent_score": 10,
+          "is_winner": false,
+          "stage": "kvartsfinal"
+        },
+        "n_games": 5,
+        "n_wins": 4
+      },
+      {
+        "year": 2020,
+        "last_game": {
+          "opponent_name": "Pia T\u00f6rnkvist",
+          "score": 3,
+          "opponent_score": 9,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 3,
+        "n_wins": 1
+      }
+    ],
+    "best_stage": "vinnare",
+    "best_stage_years": [
+      2016,
+      2017
     ]
   },
   "Gustaf Ekenstein": {
     "n_games": 3,
     "score_share": 0.4611111111111111,
-    "n_wins": 1.0,
+    "n_wins": 1,
     "years": [
       2018
     ],
@@ -1668,6 +2832,7 @@
     "skill": 71.28682370713798,
     "skill_sigma": 67.77237869843846,
     "name": "Gustaf Ekenstein",
+    "slug": "gustaf-ekenstein",
     "skill_rank": 80.0,
     "skill_rank_pct": 80.0,
     "skill_history": [
@@ -1699,12 +2864,32 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2018,
+        "last_game": {
+          "opponent_name": "Sussie R\u00e5dis",
+          "score": 3,
+          "opponent_score": 7,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 3,
+        "n_wins": 1
+      }
+    ],
+    "best_stage": "gruppspel",
+    "best_stage_years": [
+      2018,
+      2018,
+      2018
     ]
   },
   "Hannes Jordan": {
     "n_games": 12,
     "score_share": 0.5192720473970474,
-    "n_wins": 6.0,
+    "n_wins": 6,
     "years": [
       2018,
       2019,
@@ -1715,6 +2900,7 @@
     "skill": 138.34011204501275,
     "skill_sigma": 35.571641010891184,
     "name": "Hannes Jordan",
+    "slug": "hannes-jordan",
     "skill_rank": 37.0,
     "skill_rank_pct": 37.0,
     "skill_history": [
@@ -1746,12 +2932,55 @@
         2020,
         138.0
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2018,
+        "last_game": {
+          "opponent_name": "Estrid",
+          "score": 2,
+          "opponent_score": 9,
+          "is_winner": false,
+          "stage": "\u00e5ttondelsfinal"
+        },
+        "n_games": 4,
+        "n_wins": 3
+      },
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Micke Leyi",
+          "score": 4,
+          "opponent_score": 8,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 3,
+        "n_wins": 1
+      },
+      {
+        "year": 2020,
+        "last_game": {
+          "opponent_name": "Niklas Solberg",
+          "score": 5,
+          "opponent_score": 11,
+          "is_winner": false,
+          "stage": "\u00e5ttondelsfinal"
+        },
+        "n_games": 5,
+        "n_wins": 2
+      }
+    ],
+    "best_stage": "\u00e5ttondelsfinal",
+    "best_stage_years": [
+      2018,
+      2020
     ]
   },
   "Hasse Hallgren": {
     "n_games": 2,
     "score_share": 0.15555555555555556,
-    "n_wins": 0.0,
+    "n_wins": 0,
     "years": [
       2019
     ],
@@ -1760,6 +2989,7 @@
     "skill": 26.061829272957933,
     "skill_sigma": 71.89092941077323,
     "name": "Hasse Hallgren",
+    "slug": "hasse-hallgren",
     "skill_rank": 98.0,
     "skill_rank_pct": 98.0,
     "skill_history": [
@@ -1791,12 +3021,31 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Olle Strandberg",
+          "score": 1,
+          "opponent_score": 8,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      }
+    ],
+    "best_stage": "gruppspel",
+    "best_stage_years": [
+      2019,
+      2019
     ]
   },
   "Heiv Sarban": {
     "n_games": 2,
     "score_share": 0.325,
-    "n_wins": 0.0,
+    "n_wins": 0,
     "years": [
       2020
     ],
@@ -1805,6 +3054,7 @@
     "skill": 3.800754598879967,
     "skill_sigma": 71.78335546632218,
     "name": "Heiv Sarban",
+    "slug": "heiv-sarban",
     "skill_rank": 115.0,
     "skill_rank_pct": 115.0,
     "skill_history": [
@@ -1836,12 +3086,31 @@
         2020,
         4.0
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2020,
+        "last_game": {
+          "opponent_name": "Emma Bergmark",
+          "score": 6,
+          "opponent_score": 9,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      }
+    ],
+    "best_stage": "gruppspel",
+    "best_stage_years": [
+      2020,
+      2020
     ]
   },
   "Henrik Blomkvist": {
     "n_games": 4,
     "score_share": 0.44635780885780885,
-    "n_wins": 2.0,
+    "n_wins": 2,
     "years": [
       2011
     ],
@@ -1850,6 +3119,7 @@
     "skill": 124.7189196809611,
     "skill_sigma": 57.75703053348684,
     "name": "Henrik Blomkvist",
+    "slug": "henrik-blomkvist",
     "skill_rank": 48.0,
     "skill_rank_pct": 48.0,
     "skill_history": [
@@ -1881,12 +3151,30 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2011,
+        "last_game": {
+          "opponent_name": "Erik Nordenankar",
+          "score": 3,
+          "opponent_score": 7,
+          "is_winner": false,
+          "stage": "semifinal"
+        },
+        "n_games": 4,
+        "n_wins": 2
+      }
+    ],
+    "best_stage": "semifinal",
+    "best_stage_years": [
+      2011
     ]
   },
   "Ida Wimmerman": {
     "n_games": 6,
     "score_share": 0.5017578826402356,
-    "n_wins": 3.0,
+    "n_wins": 3,
     "years": [
       2017,
       2018
@@ -1896,6 +3184,7 @@
     "skill": 122.86336950456626,
     "skill_sigma": 47.161066411553726,
     "name": "Ida Wimmerman",
+    "slug": "ida-wimmerman",
     "skill_rank": 50.0,
     "skill_rank_pct": 50.0,
     "skill_history": [
@@ -1927,12 +3216,42 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2017,
+        "last_game": {
+          "opponent_name": "Sofia Ahlstr\u00f6m",
+          "score": 6,
+          "opponent_score": 7,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      },
+      {
+        "year": 2018,
+        "last_game": {
+          "opponent_name": "Jens Hultkrans",
+          "score": 4,
+          "opponent_score": 9,
+          "is_winner": false,
+          "stage": "\u00e5ttondelsfinal"
+        },
+        "n_games": 4,
+        "n_wins": 3
+      }
+    ],
+    "best_stage": "\u00e5ttondelsfinal",
+    "best_stage_years": [
+      2018
     ]
   },
   "Isabell Dillstr\u00f6m": {
     "n_games": 4,
     "score_share": 0.3574675324675325,
-    "n_wins": 0.0,
+    "n_wins": 0,
     "years": [
       2018,
       2019
@@ -1942,6 +3261,7 @@
     "skill": -9.23000721990779,
     "skill_sigma": 60.756473001342925,
     "name": "Isabell Dillstr\u00f6m",
+    "slug": "isabell-dillstrom",
     "skill_rank": 118.0,
     "skill_rank_pct": 118.0,
     "skill_history": [
@@ -1973,12 +3293,45 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2018,
+        "last_game": {
+          "opponent_name": "Johan Ekman",
+          "score": 3,
+          "opponent_score": 7,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      },
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Linnea Karlsson",
+          "score": 3,
+          "opponent_score": 8,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      }
+    ],
+    "best_stage": "gruppspel",
+    "best_stage_years": [
+      2018,
+      2019,
+      2018,
+      2019
     ]
   },
   "Jacob Stenman": {
     "n_games": 5,
     "score_share": 0.3577272727272728,
-    "n_wins": 1.0,
+    "n_wins": 1,
     "years": [
       2017,
       2018
@@ -1988,6 +3341,7 @@
     "skill": 17.684941852913386,
     "skill_sigma": 55.16979187575277,
     "name": "Jacob Stenman",
+    "slug": "jacob-stenman",
     "skill_rank": 102.0,
     "skill_rank_pct": 102.0,
     "skill_history": [
@@ -2019,12 +3373,46 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2017,
+        "last_game": {
+          "opponent_name": "Ylva Andr\u00e9asson",
+          "score": 7,
+          "opponent_score": 6,
+          "is_winner": true,
+          "stage": "gruppspel"
+        },
+        "n_games": 3,
+        "n_wins": 1
+      },
+      {
+        "year": 2018,
+        "last_game": {
+          "opponent_name": "Hannes Jordan",
+          "score": 6,
+          "opponent_score": 7,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      }
+    ],
+    "best_stage": "gruppspel",
+    "best_stage_years": [
+      2018,
+      2017,
+      2017,
+      2017,
+      2018
     ]
   },
   "Jakob Gustafsson": {
     "n_games": 7,
     "score_share": 0.39195031159316873,
-    "n_wins": 3.0,
+    "n_wins": 3,
     "years": [
       2019,
       2020
@@ -2034,6 +3422,7 @@
     "skill": 83.70933703690105,
     "skill_sigma": 49.24433128904709,
     "name": "Jakob Gustafsson",
+    "slug": "jakob-gustafsson",
     "skill_rank": 71.0,
     "skill_rank_pct": 71.0,
     "skill_history": [
@@ -2065,12 +3454,42 @@
         2020,
         84.0
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Fanny Kjellner",
+          "score": 3,
+          "opponent_score": 8,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 3,
+        "n_wins": 1
+      },
+      {
+        "year": 2020,
+        "last_game": {
+          "opponent_name": "Benjamin Ger. Hed.",
+          "score": 3,
+          "opponent_score": 11,
+          "is_winner": false,
+          "stage": "sextondelsfinal"
+        },
+        "n_games": 4,
+        "n_wins": 2
+      }
+    ],
+    "best_stage": "sextondelsfinal",
+    "best_stage_years": [
+      2020
     ]
   },
   "Jakob Lien": {
     "n_games": 23,
     "score_share": 0.5680243456458289,
-    "n_wins": 16.0,
+    "n_wins": 16,
     "years": [
       2011,
       2012,
@@ -2084,6 +3503,7 @@
     "skill": 159.19042579610746,
     "skill_sigma": 27.02801996168396,
     "name": "Jakob Lien",
+    "slug": "jakob-lien",
     "skill_rank": 25.0,
     "skill_rank_pct": 25.0,
     "skill_history": [
@@ -2115,12 +3535,90 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2011,
+        "last_game": {
+          "opponent_name": "Cissi Hellman",
+          "score": 5,
+          "opponent_score": 7,
+          "is_winner": false,
+          "stage": "kvartsfinal"
+        },
+        "n_games": 3,
+        "n_wins": 2
+      },
+      {
+        "year": 2012,
+        "last_game": {
+          "opponent_name": "Theodore Ripman",
+          "score": 7,
+          "opponent_score": 5,
+          "is_winner": true,
+          "stage": "bronsmatch"
+        },
+        "n_games": 5,
+        "n_wins": 4
+      },
+      {
+        "year": 2016,
+        "last_game": {
+          "opponent_name": "Gabriel Nordenankar",
+          "score": 6,
+          "opponent_score": 12,
+          "is_winner": false,
+          "stage": "final"
+        },
+        "n_games": 5,
+        "n_wins": 4
+      },
+      {
+        "year": 2017,
+        "last_game": {
+          "opponent_name": "Edvin Lindsten",
+          "score": 1,
+          "opponent_score": 7,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 3,
+        "n_wins": 2
+      },
+      {
+        "year": 2018,
+        "last_game": {
+          "opponent_name": "Lovisa Birgersson",
+          "score": 5,
+          "opponent_score": 9,
+          "is_winner": false,
+          "stage": "sextondelsfinal"
+        },
+        "n_games": 4,
+        "n_wins": 2
+      },
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Pelle Dovborg",
+          "score": 0,
+          "opponent_score": 10,
+          "is_winner": false,
+          "stage": "sextondelsfinal"
+        },
+        "n_games": 3,
+        "n_wins": 2
+      }
+    ],
+    "best_stage": "final",
+    "best_stage_years": [
+      2016
     ]
   },
   "Jan Bergstrand": {
     "n_games": 2,
     "score_share": 0.18055555555555555,
-    "n_wins": 0.0,
+    "n_wins": 0,
     "years": [
       2019
     ],
@@ -2129,6 +3627,7 @@
     "skill": 15.066833982421542,
     "skill_sigma": 72.73373000750361,
     "name": "Jan Bergstrand",
+    "slug": "jan-bergstrand",
     "skill_rank": 106.0,
     "skill_rank_pct": 106.0,
     "skill_history": [
@@ -2160,12 +3659,31 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Olle Nyr\u00e9n",
+          "score": 3,
+          "opponent_score": 9,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      }
+    ],
+    "best_stage": "gruppspel",
+    "best_stage_years": [
+      2019,
+      2019
     ]
   },
   "Jens Finn\u00e4s": {
     "n_games": 9,
     "score_share": 0.4545750545750546,
-    "n_wins": 5.0,
+    "n_wins": 5,
     "years": [
       2016,
       2018,
@@ -2176,6 +3694,7 @@
     "skill": 150.07839635366042,
     "skill_sigma": 41.052139966874726,
     "name": "Jens Finn\u00e4s",
+    "slug": "jens-finnas",
     "skill_rank": 29.0,
     "skill_rank_pct": 29.0,
     "skill_history": [
@@ -2207,12 +3726,55 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2016,
+        "last_game": {
+          "opponent_name": "Lotta Harder",
+          "score": 2,
+          "opponent_score": 8,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 1
+      },
+      {
+        "year": 2018,
+        "last_game": {
+          "opponent_name": "Love Andr\u00e9asson",
+          "score": 2,
+          "opponent_score": 9,
+          "is_winner": false,
+          "stage": "sextondelsfinal"
+        },
+        "n_games": 3,
+        "n_wins": 2
+      },
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Erik Nordenankar",
+          "score": 2,
+          "opponent_score": 11,
+          "is_winner": false,
+          "stage": "sextondelsfinal"
+        },
+        "n_games": 4,
+        "n_wins": 2
+      }
+    ],
+    "best_stage": "sextondelsfinal",
+    "best_stage_years": [
+      2019,
+      2018
     ]
   },
   "Jens Hultkrans": {
     "n_games": 20,
     "score_share": 0.5317175838867015,
-    "n_wins": 12.0,
+    "n_wins": 12,
     "years": [
       2018,
       2019,
@@ -2223,6 +3785,7 @@
     "skill": 167.64317757314467,
     "skill_sigma": 25.374759224114253,
     "name": "Jens Hultkrans",
+    "slug": "jens-hultkrans",
     "skill_rank": 20.0,
     "skill_rank_pct": 20.0,
     "skill_history": [
@@ -2254,12 +3817,54 @@
         2020,
         168.0
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2018,
+        "last_game": {
+          "opponent_name": "Johan Kjell",
+          "score": 5,
+          "opponent_score": 13,
+          "is_winner": false,
+          "stage": "final"
+        },
+        "n_games": 8,
+        "n_wins": 5
+      },
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Benjamin Ger. Hed.",
+          "score": 6,
+          "opponent_score": 10,
+          "is_winner": false,
+          "stage": "kvartsfinal"
+        },
+        "n_games": 6,
+        "n_wins": 4
+      },
+      {
+        "year": 2020,
+        "last_game": {
+          "opponent_name": "Robeson",
+          "score": 10,
+          "opponent_score": 11,
+          "is_winner": false,
+          "stage": "kvartsfinal"
+        },
+        "n_games": 6,
+        "n_wins": 3
+      }
+    ],
+    "best_stage": "final",
+    "best_stage_years": [
+      2018
     ]
   },
   "Jens West": {
     "n_games": 2,
     "score_share": 0.27083333333333337,
-    "n_wins": 0.0,
+    "n_wins": 0,
     "years": [
       2011
     ],
@@ -2268,6 +3873,7 @@
     "skill": 19.86260339585362,
     "skill_sigma": 77.94776656249569,
     "name": "Jens West",
+    "slug": "jens-west",
     "skill_rank": 101.0,
     "skill_rank_pct": 101.0,
     "skill_history": [
@@ -2299,12 +3905,31 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2011,
+        "last_game": {
+          "opponent_name": "Olof Sabelstr\u00f6m",
+          "score": 5,
+          "opponent_score": 7,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      }
+    ],
+    "best_stage": "gruppspel",
+    "best_stage_years": [
+      2011,
+      2011
     ]
   },
   "Jerker Karlsson": {
     "n_games": 23,
     "score_share": 0.510565581761234,
-    "n_wins": 13.0,
+    "n_wins": 13,
     "years": [
       2012,
       2016,
@@ -2317,6 +3942,7 @@
     "skill": 168.6410617798886,
     "skill_sigma": 26.881251526070937,
     "name": "Jerker Karlsson",
+    "slug": "jerker-karlsson",
     "skill_rank": 19.0,
     "skill_rank_pct": 19.0,
     "skill_history": [
@@ -2348,12 +3974,79 @@
         2020,
         169.0
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2012,
+        "last_game": {
+          "opponent_name": "Theodore Ripman",
+          "score": 6,
+          "opponent_score": 7,
+          "is_winner": false,
+          "stage": "kvartsfinal"
+        },
+        "n_games": 3,
+        "n_wins": 0
+      },
+      {
+        "year": 2016,
+        "last_game": {
+          "opponent_name": "Daniel Mensak",
+          "score": 12,
+          "opponent_score": 9,
+          "is_winner": true,
+          "stage": "bronsmatch"
+        },
+        "n_games": 5,
+        "n_wins": 4
+      },
+      {
+        "year": 2017,
+        "last_game": {
+          "opponent_name": "Erik Nordenankar",
+          "score": 7,
+          "opponent_score": 13,
+          "is_winner": false,
+          "stage": "bronsmatch"
+        },
+        "n_games": 7,
+        "n_wins": 4
+      },
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Gabriel Nordenankar",
+          "score": 6,
+          "opponent_score": 10,
+          "is_winner": false,
+          "stage": "\u00e5ttondelsfinal"
+        },
+        "n_games": 5,
+        "n_wins": 3
+      },
+      {
+        "year": 2020,
+        "last_game": {
+          "opponent_name": "Pia T\u00f6rnkvist",
+          "score": 7,
+          "opponent_score": 11,
+          "is_winner": false,
+          "stage": "sextondelsfinal"
+        },
+        "n_games": 3,
+        "n_wins": 2
+      }
+    ],
+    "best_stage": "bronsmatch",
+    "best_stage_years": [
+      2017,
+      2016
     ]
   },
   "Jesper Kronholm": {
     "n_games": 12,
     "score_share": 0.5947270322270323,
-    "n_wins": 7.0,
+    "n_wins": 7,
     "years": [
       2017,
       2018,
@@ -2364,6 +4057,7 @@
     "skill": 136.42253683239952,
     "skill_sigma": 34.8602039419428,
     "name": "Jesper Kronholm",
+    "slug": "jesper-kronholm",
     "skill_rank": 39.0,
     "skill_rank_pct": 39.0,
     "skill_history": [
@@ -2395,12 +4089,55 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2017,
+        "last_game": {
+          "opponent_name": "Ville Nordenankar",
+          "score": 6,
+          "opponent_score": 9,
+          "is_winner": false,
+          "stage": "\u00e5ttondelsfinal"
+        },
+        "n_games": 3,
+        "n_wins": 2
+      },
+      {
+        "year": 2018,
+        "last_game": {
+          "opponent_name": "Cissi Hellman",
+          "score": 5,
+          "opponent_score": 10,
+          "is_winner": false,
+          "stage": "sextondelsfinal"
+        },
+        "n_games": 4,
+        "n_wins": 2
+      },
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Pelle Dovborg",
+          "score": 6,
+          "opponent_score": 10,
+          "is_winner": false,
+          "stage": "\u00e5ttondelsfinal"
+        },
+        "n_games": 5,
+        "n_wins": 3
+      }
+    ],
+    "best_stage": "\u00e5ttondelsfinal",
+    "best_stage_years": [
+      2019,
+      2017
     ]
   },
   "Joakim Lundin": {
     "n_games": 4,
     "score_share": 0.39805194805194805,
-    "n_wins": 0.0,
+    "n_wins": 0,
     "years": [
       2018,
       2019
@@ -2410,6 +4147,7 @@
     "skill": -15.1169883792109,
     "skill_sigma": 62.978256945265564,
     "name": "Joakim Lundin",
+    "slug": "joakim-lundin",
     "skill_rank": 123.0,
     "skill_rank_pct": 123.0,
     "skill_history": [
@@ -2441,12 +4179,45 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2018,
+        "last_game": {
+          "opponent_name": "Jens Finn\u00e4s",
+          "score": 4,
+          "opponent_score": 7,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      },
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Edith S\u00f6derstr\u00f6m",
+          "score": 7,
+          "opponent_score": 8,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      }
+    ],
+    "best_stage": "gruppspel",
+    "best_stage_years": [
+      2019,
+      2018,
+      2018,
+      2019
     ]
   },
   "Joel Danell": {
     "n_games": 2,
     "score_share": 0.4125,
-    "n_wins": 1.0,
+    "n_wins": 1,
     "years": [
       2012
     ],
@@ -2455,6 +4226,7 @@
     "skill": 100.46829528188017,
     "skill_sigma": 75.58258811250447,
     "name": "Joel Danell",
+    "slug": "joel-danell",
     "skill_rank": 63.0,
     "skill_rank_pct": 63.0,
     "skill_history": [
@@ -2486,12 +4258,31 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2012,
+        "last_game": {
+          "opponent_name": "Klara Gustin",
+          "score": 7,
+          "opponent_score": 3,
+          "is_winner": true,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 1
+      }
+    ],
+    "best_stage": "gruppspel",
+    "best_stage_years": [
+      2012,
+      2012
     ]
   },
   "Johan Alm": {
     "n_games": 5,
     "score_share": 0.6757478632478632,
-    "n_wins": 4.0,
+    "n_wins": 4,
     "years": [
       2012
     ],
@@ -2500,6 +4291,7 @@
     "skill": 220.9505233889524,
     "skill_sigma": 53.40811638215878,
     "name": "Johan Alm",
+    "slug": "johan-alm",
     "skill_rank": 3.0,
     "skill_rank_pct": 3.0,
     "skill_history": [
@@ -2531,12 +4323,30 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2012,
+        "last_game": {
+          "opponent_name": "Filip Tyd\u00e9n",
+          "score": 3,
+          "opponent_score": 13,
+          "is_winner": false,
+          "stage": "final"
+        },
+        "n_games": 5,
+        "n_wins": 4
+      }
+    ],
+    "best_stage": "final",
+    "best_stage_years": [
+      2012
     ]
   },
   "Johan Berg": {
     "n_games": 2,
     "score_share": 0.375,
-    "n_wins": 0.0,
+    "n_wins": 0,
     "years": [
       2017
     ],
@@ -2545,6 +4355,7 @@
     "skill": 16.665228329257488,
     "skill_sigma": 70.76458443740681,
     "name": "Johan Berg",
+    "slug": "johan-berg",
     "skill_rank": 103.0,
     "skill_rank_pct": 103.0,
     "skill_history": [
@@ -2576,12 +4387,31 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2017,
+        "last_game": {
+          "opponent_name": "Johan Ekman",
+          "score": 5,
+          "opponent_score": 7,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      }
+    ],
+    "best_stage": "gruppspel",
+    "best_stage_years": [
+      2017,
+      2017
     ]
   },
   "Johan Ekman": {
     "n_games": 15,
     "score_share": 0.4952590002590003,
-    "n_wins": 6.0,
+    "n_wins": 6,
     "years": [
       2012,
       2016,
@@ -2594,6 +4424,7 @@
     "skill": 95.18445740631918,
     "skill_sigma": 35.138966340014576,
     "name": "Johan Ekman",
+    "slug": "johan-ekman",
     "skill_rank": 64.0,
     "skill_rank_pct": 64.0,
     "skill_history": [
@@ -2625,12 +4456,79 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2012,
+        "last_game": {
+          "opponent_name": "Agnes Lind",
+          "score": 7,
+          "opponent_score": 0,
+          "is_winner": true,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 1
+      },
+      {
+        "year": 2016,
+        "last_game": {
+          "opponent_name": "Pelle Dovborg",
+          "score": 7,
+          "opponent_score": 1,
+          "is_winner": true,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 1
+      },
+      {
+        "year": 2017,
+        "last_game": {
+          "opponent_name": "Johannes Birgersson",
+          "score": 4,
+          "opponent_score": 8,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 3,
+        "n_wins": 1
+      },
+      {
+        "year": 2018,
+        "last_game": {
+          "opponent_name": "Erik Nordenankar",
+          "score": 3,
+          "opponent_score": 10,
+          "is_winner": false,
+          "stage": "sextondelsfinal"
+        },
+        "n_games": 4,
+        "n_wins": 1
+      },
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Gabriel Nordenankar",
+          "score": 6,
+          "opponent_score": 10,
+          "is_winner": false,
+          "stage": "sextondelsfinal"
+        },
+        "n_games": 4,
+        "n_wins": 2
+      }
+    ],
+    "best_stage": "sextondelsfinal",
+    "best_stage_years": [
+      2018,
+      2019
     ]
   },
   "Johan Johnson": {
     "n_games": 5,
     "score_share": 0.4655322128851541,
-    "n_wins": 3.0,
+    "n_wins": 3,
     "years": [
       2020
     ],
@@ -2639,6 +4537,7 @@
     "skill": 161.16095179206127,
     "skill_sigma": 46.14991179748804,
     "name": "Johan Johnson",
+    "slug": "johan-johnson",
     "skill_rank": 24.0,
     "skill_rank_pct": 24.0,
     "skill_history": [
@@ -2670,12 +4569,30 @@
         2020,
         161.0
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2020,
+        "last_game": {
+          "opponent_name": "Pelle Dovborg",
+          "score": 2,
+          "opponent_score": 13,
+          "is_winner": false,
+          "stage": "\u00e5ttondelsfinal"
+        },
+        "n_games": 5,
+        "n_wins": 3
+      }
+    ],
+    "best_stage": "\u00e5ttondelsfinal",
+    "best_stage_years": [
+      2020
     ]
   },
   "Johan Kjell": {
     "n_games": 12,
     "score_share": 0.558712502094855,
-    "n_wins": 9.0,
+    "n_wins": 9,
     "years": [
       2012,
       2017,
@@ -2686,6 +4603,7 @@
     "skill": 200.2133840916437,
     "skill_sigma": 32.93751551715808,
     "name": "Johan Kjell",
+    "slug": "johan-kjell",
     "skill_rank": 9.0,
     "skill_rank_pct": 9.0,
     "skill_history": [
@@ -2717,12 +4635,54 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2012,
+        "last_game": {
+          "opponent_name": "Jerker Karlsson",
+          "score": 7,
+          "opponent_score": 6,
+          "is_winner": true,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 2
+      },
+      {
+        "year": 2017,
+        "last_game": {
+          "opponent_name": "Sandra Starfelt",
+          "score": 6,
+          "opponent_score": 7,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      },
+      {
+        "year": 2018,
+        "last_game": {
+          "opponent_name": "Jens Hultkrans",
+          "score": 13,
+          "opponent_score": 5,
+          "is_winner": true,
+          "stage": "vinnare"
+        },
+        "n_games": 8,
+        "n_wins": 7
+      }
+    ],
+    "best_stage": "vinnare",
+    "best_stage_years": [
+      2018
     ]
   },
   "Johanna R\u00e5dstr\u00f6m": {
     "n_games": 12,
     "score_share": 0.3230751138839374,
-    "n_wins": 2.0,
+    "n_wins": 2,
     "years": [
       2012,
       2016,
@@ -2736,6 +4696,7 @@
     "skill": -19.569760043527587,
     "skill_sigma": 43.13347924330733,
     "name": "Johanna R\u00e5dstr\u00f6m",
+    "slug": "johanna-radstrom",
     "skill_rank": 124.0,
     "skill_rank_pct": 124.0,
     "skill_history": [
@@ -2767,12 +4728,101 @@
         2020,
         -20.0
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2012,
+        "last_game": {
+          "opponent_name": "Johan Alm",
+          "score": 1,
+          "opponent_score": 7,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 1
+      },
+      {
+        "year": 2016,
+        "last_game": {
+          "opponent_name": "Richard Ekman",
+          "score": 2,
+          "opponent_score": 7,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 1
+      },
+      {
+        "year": 2017,
+        "last_game": {
+          "opponent_name": "Love Elfvelin",
+          "score": 3,
+          "opponent_score": 8,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      },
+      {
+        "year": 2018,
+        "last_game": {
+          "opponent_name": "Robeson",
+          "score": 4,
+          "opponent_score": 7,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      },
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Robin Fogelberg",
+          "score": 3,
+          "opponent_score": 8,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      },
+      {
+        "year": 2020,
+        "last_game": {
+          "opponent_name": "Jon Jeppson",
+          "score": 0,
+          "opponent_score": 9,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      }
+    ],
+    "best_stage": "gruppspel",
+    "best_stage_years": [
+      2016,
+      2012,
+      2012,
+      2016,
+      2017,
+      2017,
+      2019,
+      2018,
+      2019,
+      2020,
+      2018,
+      2020
     ]
   },
   "Johannes Birgersson": {
     "n_games": 5,
     "score_share": 0.44282828282828285,
-    "n_wins": 2.0,
+    "n_wins": 2,
     "years": [
       2017,
       2019
@@ -2782,6 +4832,7 @@
     "skill": 75.48929270466625,
     "skill_sigma": 49.13253019658764,
     "name": "Johannes Birgersson",
+    "slug": "johannes-birgersson",
     "skill_rank": 78.0,
     "skill_rank_pct": 78.0,
     "skill_history": [
@@ -2813,12 +4864,46 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2017,
+        "last_game": {
+          "opponent_name": "Petter Hammarb\u00e4ck",
+          "score": 7,
+          "opponent_score": 4,
+          "is_winner": true,
+          "stage": "gruppspel"
+        },
+        "n_games": 3,
+        "n_wins": 2
+      },
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Robeson",
+          "score": 4,
+          "opponent_score": 8,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      }
+    ],
+    "best_stage": "gruppspel",
+    "best_stage_years": [
+      2017,
+      2017,
+      2019,
+      2017,
+      2019
     ]
   },
   "John Kjellkvist": {
     "n_games": 3,
     "score_share": 0.763888888888889,
-    "n_wins": 2.0,
+    "n_wins": 2,
     "years": [
       2011
     ],
@@ -2827,6 +4912,7 @@
     "skill": 132.4697423125666,
     "skill_sigma": 64.90629454304414,
     "name": "John Kjellkvist",
+    "slug": "john-kjellkvist",
     "skill_rank": 42.0,
     "skill_rank_pct": 42.0,
     "skill_history": [
@@ -2858,12 +4944,30 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2011,
+        "last_game": {
+          "opponent_name": "Henrik Blomkvist",
+          "score": 5,
+          "opponent_score": 7,
+          "is_winner": false,
+          "stage": "kvartsfinal"
+        },
+        "n_games": 3,
+        "n_wins": 2
+      }
+    ],
+    "best_stage": "kvartsfinal",
+    "best_stage_years": [
+      2011
     ]
   },
   "John Qvale": {
     "n_games": 6,
     "score_share": 0.3312613312613313,
-    "n_wins": 0.0,
+    "n_wins": 0,
     "years": [
       2016,
       2018,
@@ -2874,6 +4978,7 @@
     "skill": -41.09038771714925,
     "skill_sigma": 58.433805614474686,
     "name": "John Qvale",
+    "slug": "john-qvale",
     "skill_rank": 127.0,
     "skill_rank_pct": 127.0,
     "skill_history": [
@@ -2905,12 +5010,59 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2016,
+        "last_game": {
+          "opponent_name": "Lotta Harder",
+          "score": 1,
+          "opponent_score": 8,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      },
+      {
+        "year": 2018,
+        "last_game": {
+          "opponent_name": "Gustaf Ekenstein",
+          "score": 4,
+          "opponent_score": 8,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      },
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Jakob Gustafsson",
+          "score": 4,
+          "opponent_score": 8,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      }
+    ],
+    "best_stage": "gruppspel",
+    "best_stage_years": [
+      2016,
+      2016,
+      2018,
+      2019,
+      2018,
+      2019
     ]
   },
   "Jon Jeppson": {
     "n_games": 5,
     "score_share": 0.6127450980392156,
-    "n_wins": 3.0,
+    "n_wins": 3,
     "years": [
       2020
     ],
@@ -2919,6 +5071,7 @@
     "skill": 144.1827800158701,
     "skill_sigma": 51.682894232073544,
     "name": "Jon Jeppson",
+    "slug": "jon-jeppson",
     "skill_rank": 31.0,
     "skill_rank_pct": 31.0,
     "skill_history": [
@@ -2950,12 +5103,30 @@
         2020,
         144.0
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2020,
+        "last_game": {
+          "opponent_name": "Alexander Starfelt",
+          "score": 4,
+          "opponent_score": 11,
+          "is_winner": false,
+          "stage": "\u00e5ttondelsfinal"
+        },
+        "n_games": 5,
+        "n_wins": 3
+      }
+    ],
+    "best_stage": "\u00e5ttondelsfinal",
+    "best_stage_years": [
+      2020
     ]
   },
   "Josefin Asplund": {
     "n_games": 7,
     "score_share": 0.5672184957899244,
-    "n_wins": 4.0,
+    "n_wins": 4,
     "years": [
       2017,
       2018
@@ -2965,6 +5136,7 @@
     "skill": 129.10117675240986,
     "skill_sigma": 43.652678330858585,
     "name": "Josefin Asplund",
+    "slug": "josefin-asplund",
     "skill_rank": 45.0,
     "skill_rank_pct": 45.0,
     "skill_history": [
@@ -2996,12 +5168,42 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2017,
+        "last_game": {
+          "opponent_name": "Jerker Karlsson",
+          "score": 5,
+          "opponent_score": 9,
+          "is_winner": false,
+          "stage": "kvartsfinal"
+        },
+        "n_games": 4,
+        "n_wins": 3
+      },
+      {
+        "year": 2018,
+        "last_game": {
+          "opponent_name": "Lovisa Birgersson",
+          "score": 7,
+          "opponent_score": 5,
+          "is_winner": true,
+          "stage": "gruppspel"
+        },
+        "n_games": 3,
+        "n_wins": 1
+      }
+    ],
+    "best_stage": "kvartsfinal",
+    "best_stage_years": [
+      2017
     ]
   },
   "Julius Jorborg": {
     "n_games": 10,
     "score_share": 0.44462121212121214,
-    "n_wins": 4.0,
+    "n_wins": 4,
     "years": [
       2017,
       2018,
@@ -3012,6 +5214,7 @@
     "skill": 86.49640261004357,
     "skill_sigma": 37.12983062714173,
     "name": "Julius Jorborg",
+    "slug": "julius-jorborg",
     "skill_rank": 70.0,
     "skill_rank_pct": 70.0,
     "skill_history": [
@@ -3043,12 +5246,54 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2017,
+        "last_game": {
+          "opponent_name": "Josefin Asplund",
+          "score": 0,
+          "opponent_score": 7,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 3,
+        "n_wins": 1
+      },
+      {
+        "year": 2018,
+        "last_game": {
+          "opponent_name": "Kevin Carlsson",
+          "score": 8,
+          "opponent_score": 3,
+          "is_winner": true,
+          "stage": "gruppspel"
+        },
+        "n_games": 3,
+        "n_wins": 1
+      },
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Robin Fogelberg",
+          "score": 8,
+          "opponent_score": 10,
+          "is_winner": false,
+          "stage": "sextondelsfinal"
+        },
+        "n_games": 4,
+        "n_wins": 2
+      }
+    ],
+    "best_stage": "sextondelsfinal",
+    "best_stage_years": [
+      2019
     ]
   },
   "Kajsa Hallberg-Nor.": {
     "n_games": 8,
     "score_share": 0.1928880147630148,
-    "n_wins": 0.0,
+    "n_wins": 0,
     "years": [
       2017,
       2018,
@@ -3060,6 +5305,7 @@
     "skill": -42.309553351753706,
     "skill_sigma": 54.38920117932993,
     "name": "Kajsa Hallberg-Nor.",
+    "slug": "kajsa-hallberg-nor",
     "skill_rank": 128.0,
     "skill_rank_pct": 128.0,
     "skill_history": [
@@ -3091,12 +5337,73 @@
         2020,
         -42.0
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2017,
+        "last_game": {
+          "opponent_name": "Maria Adel\u00f6f",
+          "score": 6,
+          "opponent_score": 7,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      },
+      {
+        "year": 2018,
+        "last_game": {
+          "opponent_name": "Fanny Kjellner",
+          "score": 1,
+          "opponent_score": 7,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      },
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Kusha Bahrami",
+          "score": 2,
+          "opponent_score": 9,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      },
+      {
+        "year": 2020,
+        "last_game": {
+          "opponent_name": "Sandra Sundin",
+          "score": 2,
+          "opponent_score": 9,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      }
+    ],
+    "best_stage": "gruppspel",
+    "best_stage_years": [
+      2020,
+      2019,
+      2018,
+      2017,
+      2017,
+      2018,
+      2019,
+      2020
     ]
   },
   "Karl S\u00f6derberg": {
     "n_games": 2,
     "score_share": 0.1736111111111111,
-    "n_wins": 0.0,
+    "n_wins": 0,
     "years": [
       2017
     ],
@@ -3105,6 +5412,7 @@
     "skill": 11.955722334895187,
     "skill_sigma": 75.85733345455203,
     "name": "Karl S\u00f6derberg",
+    "slug": "karl-soderberg",
     "skill_rank": 110.0,
     "skill_rank_pct": 110.0,
     "skill_history": [
@@ -3136,12 +5444,31 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2017,
+        "last_game": {
+          "opponent_name": "Edvin Lindsten",
+          "score": 2,
+          "opponent_score": 7,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      }
+    ],
+    "best_stage": "gruppspel",
+    "best_stage_years": [
+      2017,
+      2017
     ]
   },
   "Kevin Carlsson": {
     "n_games": 2,
     "score_share": 0.36713286713286714,
-    "n_wins": 0.0,
+    "n_wins": 0,
     "years": [
       2018
     ],
@@ -3150,6 +5477,7 @@
     "skill": 0.7895343692247996,
     "skill_sigma": 70.98176389807362,
     "name": "Kevin Carlsson",
+    "slug": "kevin-carlsson",
     "skill_rank": 117.0,
     "skill_rank_pct": 117.0,
     "skill_history": [
@@ -3181,12 +5509,31 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2018,
+        "last_game": {
+          "opponent_name": "Julius Jorborg",
+          "score": 3,
+          "opponent_score": 8,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      }
+    ],
+    "best_stage": "gruppspel",
+    "best_stage_years": [
+      2018,
+      2018
     ]
   },
   "Kicki Berg": {
     "n_games": 3,
     "score_share": 0.3200280112044818,
-    "n_wins": 0.0,
+    "n_wins": 0,
     "years": [
       2020
     ],
@@ -3195,6 +5542,7 @@
     "skill": 1.3993560592152121,
     "skill_sigma": 65.36515123527,
     "name": "Kicki Berg",
+    "slug": "kicki-berg",
     "skill_rank": 116.0,
     "skill_rank_pct": 116.0,
     "skill_history": [
@@ -3226,12 +5574,30 @@
         2020,
         1.0
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2020,
+        "last_game": {
+          "opponent_name": "Olle Strandberg",
+          "score": 6,
+          "opponent_score": 11,
+          "is_winner": false,
+          "stage": "sextondelsfinal"
+        },
+        "n_games": 3,
+        "n_wins": 0
+      }
+    ],
+    "best_stage": "sextondelsfinal",
+    "best_stage_years": [
+      2020
     ]
   },
   "Klara Gustin": {
     "n_games": 2,
     "score_share": 0.26111111111111107,
-    "n_wins": 0.0,
+    "n_wins": 0,
     "years": [
       2012
     ],
@@ -3240,6 +5606,7 @@
     "skill": 14.647975907270029,
     "skill_sigma": 76.53896202607312,
     "name": "Klara Gustin",
+    "slug": "klara-gustin",
     "skill_rank": 107.0,
     "skill_rank_pct": 107.0,
     "skill_history": [
@@ -3271,12 +5638,31 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2012,
+        "last_game": {
+          "opponent_name": "Joel Danell",
+          "score": 3,
+          "opponent_score": 7,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      }
+    ],
+    "best_stage": "gruppspel",
+    "best_stage_years": [
+      2012,
+      2012
     ]
   },
   "Kusha Bahrami": {
     "n_games": 9,
     "score_share": 0.48356534533005124,
-    "n_wins": 5.0,
+    "n_wins": 5,
     "years": [
       2018,
       2019
@@ -3286,6 +5672,7 @@
     "skill": 132.87963397146555,
     "skill_sigma": 38.114356581371844,
     "name": "Kusha Bahrami",
+    "slug": "kusha-bahrami",
     "skill_rank": 41.0,
     "skill_rank_pct": 41.0,
     "skill_history": [
@@ -3317,12 +5704,42 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2018,
+        "last_game": {
+          "opponent_name": "Theodore Ripman",
+          "score": 3,
+          "opponent_score": 9,
+          "is_winner": false,
+          "stage": "sextondelsfinal"
+        },
+        "n_games": 4,
+        "n_wins": 2
+      },
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Benjamin Ger. Hed.",
+          "score": 1,
+          "opponent_score": 10,
+          "is_winner": false,
+          "stage": "\u00e5ttondelsfinal"
+        },
+        "n_games": 5,
+        "n_wins": 3
+      }
+    ],
+    "best_stage": "\u00e5ttondelsfinal",
+    "best_stage_years": [
+      2019
     ]
   },
   "Lars T\u00f6rnkvist": {
     "n_games": 4,
     "score_share": 0.390307486631016,
-    "n_wins": 2.0,
+    "n_wins": 2,
     "years": [
       2020
     ],
@@ -3331,6 +5748,7 @@
     "skill": 150.3793402184042,
     "skill_sigma": 49.07582564549711,
     "name": "Lars T\u00f6rnkvist",
+    "slug": "lars-tornkvist",
     "skill_rank": 28.0,
     "skill_rank_pct": 28.0,
     "skill_history": [
@@ -3362,12 +5780,30 @@
         2020,
         150.0
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2020,
+        "last_game": {
+          "opponent_name": "Pelle Dovborg",
+          "score": 4,
+          "opponent_score": 12,
+          "is_winner": false,
+          "stage": "sextondelsfinal"
+        },
+        "n_games": 4,
+        "n_wins": 2
+      }
+    ],
+    "best_stage": "sextondelsfinal",
+    "best_stage_years": [
+      2020
     ]
   },
   "Leo Ehnborg": {
     "n_games": 4,
     "score_share": 0.3125,
-    "n_wins": 0.0,
+    "n_wins": 0,
     "years": [
       2018,
       2019
@@ -3377,6 +5813,7 @@
     "skill": -37.695886047685185,
     "skill_sigma": 59.642320407004874,
     "name": "Leo Ehnborg",
+    "slug": "leo-ehnborg",
     "skill_rank": 126.0,
     "skill_rank_pct": 126.0,
     "skill_history": [
@@ -3408,12 +5845,45 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2018,
+        "last_game": {
+          "opponent_name": "Lovisa Birgersson",
+          "score": 5,
+          "opponent_score": 7,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      },
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Mathilda Hansson",
+          "score": 4,
+          "opponent_score": 8,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      }
+    ],
+    "best_stage": "gruppspel",
+    "best_stage_years": [
+      2019,
+      2019,
+      2018,
+      2018
     ]
   },
   "Linn Debove": {
     "n_games": 4,
     "score_share": 0.40625,
-    "n_wins": 1.0,
+    "n_wins": 1,
     "years": [
       2016,
       2018
@@ -3423,6 +5893,7 @@
     "skill": 62.815164428280305,
     "skill_sigma": 51.6960067399774,
     "name": "Linn Debove",
+    "slug": "linn-debove",
     "skill_rank": 84.0,
     "skill_rank_pct": 84.0,
     "skill_history": [
@@ -3454,12 +5925,45 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2016,
+        "last_game": {
+          "opponent_name": "Cissi Hellman",
+          "score": 7,
+          "opponent_score": 1,
+          "is_winner": true,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 1
+      },
+      {
+        "year": 2018,
+        "last_game": {
+          "opponent_name": "Mina Kheirkhah",
+          "score": 5,
+          "opponent_score": 7,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      }
+    ],
+    "best_stage": "gruppspel",
+    "best_stage_years": [
+      2016,
+      2016,
+      2018,
+      2018
     ]
   },
   "Linn Enhage": {
     "n_games": 7,
     "score_share": 0.23064435564435565,
-    "n_wins": 1.0,
+    "n_wins": 1,
     "years": [
       2016,
       2018,
@@ -3470,6 +5974,7 @@
     "skill": 49.779861185475156,
     "skill_sigma": 43.07973838734687,
     "name": "Linn Enhage",
+    "slug": "linn-enhage",
     "skill_rank": 92.0,
     "skill_rank_pct": 92.0,
     "skill_history": [
@@ -3501,12 +6006,60 @@
         2020,
         50.0
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2016,
+        "last_game": {
+          "opponent_name": "Bj\u00f6rn Westerfors",
+          "score": 4,
+          "opponent_score": 7,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      },
+      {
+        "year": 2018,
+        "last_game": {
+          "opponent_name": "Hannes Jordan",
+          "score": 0,
+          "opponent_score": 7,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 3,
+        "n_wins": 1
+      },
+      {
+        "year": 2020,
+        "last_game": {
+          "opponent_name": "Tim Samuelsson",
+          "score": 2,
+          "opponent_score": 9,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      }
+    ],
+    "best_stage": "gruppspel",
+    "best_stage_years": [
+      2018,
+      2016,
+      2018,
+      2020,
+      2018,
+      2020,
+      2016
     ]
   },
   "Linnea Karlsson": {
     "n_games": 9,
     "score_share": 0.4164403416596399,
-    "n_wins": 4.0,
+    "n_wins": 4,
     "years": [
       2019,
       2020
@@ -3516,6 +6069,7 @@
     "skill": 132.04800808742073,
     "skill_sigma": 38.12032913283749,
     "name": "Linnea Karlsson",
+    "slug": "linnea-karlsson",
     "skill_rank": 43.0,
     "skill_rank_pct": 43.0,
     "skill_history": [
@@ -3547,12 +6101,42 @@
         2020,
         132.0
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Martha Brauer",
+          "score": 1,
+          "opponent_score": 8,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 3,
+        "n_wins": 1
+      },
+      {
+        "year": 2020,
+        "last_game": {
+          "opponent_name": "Edvin Lindsten",
+          "score": 2,
+          "opponent_score": 11,
+          "is_winner": false,
+          "stage": "kvartsfinal"
+        },
+        "n_games": 6,
+        "n_wins": 3
+      }
+    ],
+    "best_stage": "kvartsfinal",
+    "best_stage_years": [
+      2020
     ]
   },
   "Lotta Harder": {
     "n_games": 6,
     "score_share": 0.5641247641247641,
-    "n_wins": 3.0,
+    "n_wins": 3,
     "years": [
       2016,
       2019
@@ -3562,6 +6146,7 @@
     "skill": 107.76818085736672,
     "skill_sigma": 45.831823490205295,
     "name": "Lotta Harder",
+    "slug": "lotta-harder",
     "skill_rank": 58.0,
     "skill_rank_pct": 58.0,
     "skill_history": [
@@ -3593,12 +6178,42 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2016,
+        "last_game": {
+          "opponent_name": "Gabriel Nordenankar",
+          "score": 2,
+          "opponent_score": 9,
+          "is_winner": false,
+          "stage": "kvartsfinal"
+        },
+        "n_games": 3,
+        "n_wins": 2
+      },
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Alexander Bjerner",
+          "score": 4,
+          "opponent_score": 9,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 3,
+        "n_wins": 1
+      }
+    ],
+    "best_stage": "kvartsfinal",
+    "best_stage_years": [
+      2016
     ]
   },
   "Louise Persson": {
     "n_games": 7,
     "score_share": 0.5705586080586081,
-    "n_wins": 3.0,
+    "n_wins": 3,
     "years": [
       2018,
       2019
@@ -3608,6 +6223,7 @@
     "skill": 118.06421381238414,
     "skill_sigma": 44.20405997221034,
     "name": "Louise Persson",
+    "slug": "louise-persson",
     "skill_rank": 53.0,
     "skill_rank_pct": 53.0,
     "skill_history": [
@@ -3639,12 +6255,42 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2018,
+        "last_game": {
+          "opponent_name": "Hannes Jordan",
+          "score": 7,
+          "opponent_score": 9,
+          "is_winner": false,
+          "stage": "sextondelsfinal"
+        },
+        "n_games": 4,
+        "n_wins": 2
+      },
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Monica Harder",
+          "score": 4,
+          "opponent_score": 8,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 3,
+        "n_wins": 1
+      }
+    ],
+    "best_stage": "sextondelsfinal",
+    "best_stage_years": [
+      2018
     ]
   },
   "Love Andr\u00e9asson": {
     "n_games": 14,
     "score_share": 0.5925543702329417,
-    "n_wins": 9.0,
+    "n_wins": 9,
     "years": [
       2012,
       2017,
@@ -3656,6 +6302,7 @@
     "skill": 162.49216893538738,
     "skill_sigma": 32.578888729699194,
     "name": "Love Andr\u00e9asson",
+    "slug": "love-andreasson",
     "skill_rank": 23.0,
     "skill_rank_pct": 23.0,
     "skill_history": [
@@ -3687,12 +6334,66 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2012,
+        "last_game": {
+          "opponent_name": "Filip Tyd\u00e9n",
+          "score": 5,
+          "opponent_score": 7,
+          "is_winner": false,
+          "stage": "kvartsfinal"
+        },
+        "n_games": 3,
+        "n_wins": 2
+      },
+      {
+        "year": 2017,
+        "last_game": {
+          "opponent_name": "Jerker Karlsson",
+          "score": 1,
+          "opponent_score": 9,
+          "is_winner": false,
+          "stage": "\u00e5ttondelsfinal"
+        },
+        "n_games": 3,
+        "n_wins": 2
+      },
+      {
+        "year": 2018,
+        "last_game": {
+          "opponent_name": "Robin Linderborg",
+          "score": 7,
+          "opponent_score": 9,
+          "is_winner": false,
+          "stage": "\u00e5ttondelsfinal"
+        },
+        "n_games": 5,
+        "n_wins": 3
+      },
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Benjamin Ger. Hed.",
+          "score": 8,
+          "opponent_score": 10,
+          "is_winner": false,
+          "stage": "sextondelsfinal"
+        },
+        "n_games": 3,
+        "n_wins": 2
+      }
+    ],
+    "best_stage": "kvartsfinal",
+    "best_stage_years": [
+      2012
     ]
   },
   "Love Elfvelin": {
     "n_games": 7,
     "score_share": 0.4349618635332921,
-    "n_wins": 3.0,
+    "n_wins": 3,
     "years": [
       2017,
       2018
@@ -3702,6 +6403,7 @@
     "skill": 83.23915158295911,
     "skill_sigma": 44.060859547860005,
     "name": "Love Elfvelin",
+    "slug": "love-elfvelin",
     "skill_rank": 72.0,
     "skill_rank_pct": 72.0,
     "skill_history": [
@@ -3733,12 +6435,42 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2017,
+        "last_game": {
+          "opponent_name": "Richard Ekman",
+          "score": 2,
+          "opponent_score": 7,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 3,
+        "n_wins": 1
+      },
+      {
+        "year": 2018,
+        "last_game": {
+          "opponent_name": "Ville Nordenankar",
+          "score": 0,
+          "opponent_score": 9,
+          "is_winner": false,
+          "stage": "sextondelsfinal"
+        },
+        "n_games": 4,
+        "n_wins": 2
+      }
+    ],
+    "best_stage": "sextondelsfinal",
+    "best_stage_years": [
+      2018
     ]
   },
   "Lovisa Birgersson": {
     "n_games": 14,
     "score_share": 0.5718152645673654,
-    "n_wins": 8.0,
+    "n_wins": 8,
     "years": [
       2017,
       2018,
@@ -3750,6 +6482,7 @@
     "skill": 155.62769400777688,
     "skill_sigma": 30.434553389550675,
     "name": "Lovisa Birgersson",
+    "slug": "lovisa-birgersson",
     "skill_rank": 27.0,
     "skill_rank_pct": 27.0,
     "skill_history": [
@@ -3781,12 +6514,66 @@
         2020,
         156.0
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2017,
+        "last_game": {
+          "opponent_name": "Petter Hammarb\u00e4ck",
+          "score": 7,
+          "opponent_score": 1,
+          "is_winner": true,
+          "stage": "gruppspel"
+        },
+        "n_games": 3,
+        "n_wins": 1
+      },
+      {
+        "year": 2018,
+        "last_game": {
+          "opponent_name": "Erik Nordenankar",
+          "score": 4,
+          "opponent_score": 9,
+          "is_winner": false,
+          "stage": "\u00e5ttondelsfinal"
+        },
+        "n_games": 5,
+        "n_wins": 3
+      },
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Jerker Karlsson",
+          "score": 8,
+          "opponent_score": 10,
+          "is_winner": false,
+          "stage": "sextondelsfinal"
+        },
+        "n_games": 3,
+        "n_wins": 2
+      },
+      {
+        "year": 2020,
+        "last_game": {
+          "opponent_name": "Johan Johnson",
+          "score": 6,
+          "opponent_score": 11,
+          "is_winner": false,
+          "stage": "sextondelsfinal"
+        },
+        "n_games": 3,
+        "n_wins": 2
+      }
+    ],
+    "best_stage": "\u00e5ttondelsfinal",
+    "best_stage_years": [
+      2018
     ]
   },
   "Magnus Enlund": {
     "n_games": 3,
     "score_share": 0.6019013666072489,
-    "n_wins": 2.0,
+    "n_wins": 2,
     "years": [
       2019
     ],
@@ -3795,6 +6582,7 @@
     "skill": 141.20520477416474,
     "skill_sigma": 55.362905142331165,
     "name": "Magnus Enlund",
+    "slug": "magnus-enlund",
     "skill_rank": 34.0,
     "skill_rank_pct": 34.0,
     "skill_history": [
@@ -3826,12 +6614,30 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Kusha Bahrami",
+          "score": 7,
+          "opponent_score": 10,
+          "is_winner": false,
+          "stage": "sextondelsfinal"
+        },
+        "n_games": 3,
+        "n_wins": 2
+      }
+    ],
+    "best_stage": "sextondelsfinal",
+    "best_stage_years": [
+      2019
     ]
   },
   "Maria Adel\u00f6f": {
     "n_games": 5,
     "score_share": 0.4079487179487179,
-    "n_wins": 2.0,
+    "n_wins": 2,
     "years": [
       2016,
       2017
@@ -3841,6 +6647,7 @@
     "skill": 77.22341359822497,
     "skill_sigma": 56.52126223985177,
     "name": "Maria Adel\u00f6f",
+    "slug": "maria-adelof",
     "skill_rank": 76.0,
     "skill_rank_pct": 76.0,
     "skill_history": [
@@ -3872,12 +6679,46 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2016,
+        "last_game": {
+          "opponent_name": "Sofia S\u00f6derberg",
+          "score": 7,
+          "opponent_score": 3,
+          "is_winner": true,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 1
+      },
+      {
+        "year": 2017,
+        "last_game": {
+          "opponent_name": "Kajsa Hallberg-Nor.",
+          "score": 7,
+          "opponent_score": 6,
+          "is_winner": true,
+          "stage": "gruppspel"
+        },
+        "n_games": 3,
+        "n_wins": 1
+      }
+    ],
+    "best_stage": "gruppspel",
+    "best_stage_years": [
+      2016,
+      2016,
+      2017,
+      2017,
+      2017
     ]
   },
   "Martha Brauer": {
     "n_games": 4,
     "score_share": 0.5112373737373738,
-    "n_wins": 2.0,
+    "n_wins": 2,
     "years": [
       2019
     ],
@@ -3886,6 +6727,7 @@
     "skill": 133.00888671908686,
     "skill_sigma": 57.222004545037784,
     "name": "Martha Brauer",
+    "slug": "martha-brauer",
     "skill_rank": 40.0,
     "skill_rank_pct": 40.0,
     "skill_history": [
@@ -3917,12 +6759,30 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Edvin Lindsten",
+          "score": 1,
+          "opponent_score": 11,
+          "is_winner": false,
+          "stage": "sextondelsfinal"
+        },
+        "n_games": 4,
+        "n_wins": 2
+      }
+    ],
+    "best_stage": "sextondelsfinal",
+    "best_stage_years": [
+      2019
     ]
   },
   "Martyna": {
     "n_games": 5,
     "score_share": 0.5338235294117647,
-    "n_wins": 3.0,
+    "n_wins": 3,
     "years": [
       2020
     ],
@@ -3931,6 +6791,7 @@
     "skill": 165.1321624707319,
     "skill_sigma": 47.81762417713584,
     "name": "Martyna",
+    "slug": "martyna",
     "skill_rank": 21.0,
     "skill_rank_pct": 21.0,
     "skill_history": [
@@ -3962,12 +6823,30 @@
         2020,
         165.0
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2020,
+        "last_game": {
+          "opponent_name": "Edvin Lindsten",
+          "score": 5,
+          "opponent_score": 12,
+          "is_winner": false,
+          "stage": "\u00e5ttondelsfinal"
+        },
+        "n_games": 5,
+        "n_wins": 3
+      }
+    ],
+    "best_stage": "\u00e5ttondelsfinal",
+    "best_stage_years": [
+      2020
     ]
   },
   "Mathilda Hansson": {
     "n_games": 7,
     "score_share": 0.44249639249639244,
-    "n_wins": 3.0,
+    "n_wins": 3,
     "years": [
       2017,
       2019
@@ -3977,6 +6856,7 @@
     "skill": 52.48596758383922,
     "skill_sigma": 44.90545461982148,
     "name": "Mathilda Hansson",
+    "slug": "mathilda-hansson",
     "skill_rank": 90.0,
     "skill_rank_pct": 90.0,
     "skill_history": [
@@ -4008,12 +6888,42 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2017,
+        "last_game": {
+          "opponent_name": "Benjamin Ger. Hed.",
+          "score": 6,
+          "opponent_score": 9,
+          "is_winner": false,
+          "stage": "\u00e5ttondelsfinal"
+        },
+        "n_games": 4,
+        "n_wins": 2
+      },
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Leo Ehnborg",
+          "score": 8,
+          "opponent_score": 4,
+          "is_winner": true,
+          "stage": "gruppspel"
+        },
+        "n_games": 3,
+        "n_wins": 1
+      }
+    ],
+    "best_stage": "\u00e5ttondelsfinal",
+    "best_stage_years": [
+      2017
     ]
   },
   "Micke Leyi": {
     "n_games": 6,
     "score_share": 0.4914351851851852,
-    "n_wins": 2.0,
+    "n_wins": 2,
     "years": [
       2019,
       2020
@@ -4023,6 +6933,7 @@
     "skill": 91.8320065042285,
     "skill_sigma": 45.52534954717289,
     "name": "Micke Leyi",
+    "slug": "micke-leyi",
     "skill_rank": 65.0,
     "skill_rank_pct": 65.0,
     "skill_history": [
@@ -4054,12 +6965,42 @@
         2020,
         92.0
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Theodore Ripman",
+          "score": 8,
+          "opponent_score": 10,
+          "is_winner": false,
+          "stage": "sextondelsfinal"
+        },
+        "n_games": 4,
+        "n_wins": 2
+      },
+      {
+        "year": 2020,
+        "last_game": {
+          "opponent_name": "Lars T\u00f6rnkvist",
+          "score": 6,
+          "opponent_score": 9,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      }
+    ],
+    "best_stage": "sextondelsfinal",
+    "best_stage_years": [
+      2019
     ]
   },
   "Mina Kheirkhah": {
     "n_games": 9,
     "score_share": 0.43858091799268273,
-    "n_wins": 4.0,
+    "n_wins": 4,
     "years": [
       2018,
       2019,
@@ -4070,6 +7011,7 @@
     "skill": 124.44887521519725,
     "skill_sigma": 38.38604272685846,
     "name": "Mina Kheirkhah",
+    "slug": "mina-kheirkhah",
     "skill_rank": 49.0,
     "skill_rank_pct": 49.0,
     "skill_history": [
@@ -4101,12 +7043,54 @@
         2020,
         124.0
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2018,
+        "last_game": {
+          "opponent_name": "Jesper Kronholm",
+          "score": 4,
+          "opponent_score": 7,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 3,
+        "n_wins": 1
+      },
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Estrid",
+          "score": 3,
+          "opponent_score": 11,
+          "is_winner": false,
+          "stage": "\u00e5ttondelsfinal"
+        },
+        "n_games": 4,
+        "n_wins": 3
+      },
+      {
+        "year": 2020,
+        "last_game": {
+          "opponent_name": "Johan Johnson",
+          "score": 8,
+          "opponent_score": 9,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      }
+    ],
+    "best_stage": "\u00e5ttondelsfinal",
+    "best_stage_years": [
+      2019
     ]
   },
   "Monica Harder": {
     "n_games": 3,
     "score_share": 0.4484126984126984,
-    "n_wins": 1.0,
+    "n_wins": 1,
     "years": [
       2019
     ],
@@ -4115,6 +7099,7 @@
     "skill": 88.01279919224734,
     "skill_sigma": 60.06305844734327,
     "name": "Monica Harder",
+    "slug": "monica-harder",
     "skill_rank": 69.0,
     "skill_rank_pct": 69.0,
     "skill_history": [
@@ -4146,12 +7131,32 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Niklas Frisk",
+          "score": 3,
+          "opponent_score": 9,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 3,
+        "n_wins": 1
+      }
+    ],
+    "best_stage": "gruppspel",
+    "best_stage_years": [
+      2019,
+      2019,
+      2019
     ]
   },
   "Niklas Frisk": {
     "n_games": 3,
     "score_share": 0.6648148148148149,
-    "n_wins": 2.0,
+    "n_wins": 2,
     "years": [
       2019
     ],
@@ -4160,6 +7165,7 @@
     "skill": 169.30230457900387,
     "skill_sigma": 54.19541215107114,
     "name": "Niklas Frisk",
+    "slug": "niklas-frisk",
     "skill_rank": 18.0,
     "skill_rank_pct": 18.0,
     "skill_history": [
@@ -4191,12 +7197,30 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Cissi Hellman",
+          "score": 8,
+          "opponent_score": 10,
+          "is_winner": false,
+          "stage": "sextondelsfinal"
+        },
+        "n_games": 3,
+        "n_wins": 2
+      }
+    ],
+    "best_stage": "sextondelsfinal",
+    "best_stage_years": [
+      2019
     ]
   },
   "Niklas Larsson": {
     "n_games": 4,
     "score_share": 0.5385912698412698,
-    "n_wins": 2.0,
+    "n_wins": 2,
     "years": [
       2018
     ],
@@ -4205,6 +7229,7 @@
     "skill": 109.31082030197226,
     "skill_sigma": 60.93786060465312,
     "name": "Niklas Larsson",
+    "slug": "niklas-larsson",
     "skill_rank": 54.0,
     "skill_rank_pct": 54.0,
     "skill_history": [
@@ -4236,12 +7261,30 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2018,
+        "last_game": {
+          "opponent_name": "Gabriel Nordenankar",
+          "score": 5,
+          "opponent_score": 9,
+          "is_winner": false,
+          "stage": "sextondelsfinal"
+        },
+        "n_games": 4,
+        "n_wins": 2
+      }
+    ],
+    "best_stage": "sextondelsfinal",
+    "best_stage_years": [
+      2018
     ]
   },
   "Niklas Solberg": {
     "n_games": 5,
     "score_share": 0.6308771929824561,
-    "n_wins": 4.0,
+    "n_wins": 4,
     "years": [
       2020
     ],
@@ -4250,6 +7293,7 @@
     "skill": 206.19579370243187,
     "skill_sigma": 46.677400140395676,
     "name": "Niklas Solberg",
+    "slug": "niklas-solberg",
     "skill_rank": 7.0,
     "skill_rank_pct": 7.0,
     "skill_history": [
@@ -4281,12 +7325,30 @@
         2020,
         206.0
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2020,
+        "last_game": {
+          "opponent_name": "Olle Strandberg",
+          "score": 8,
+          "opponent_score": 11,
+          "is_winner": false,
+          "stage": "kvartsfinal"
+        },
+        "n_games": 5,
+        "n_wins": 4
+      }
+    ],
+    "best_stage": "kvartsfinal",
+    "best_stage_years": [
+      2020
     ]
   },
   "Nils Brolin": {
     "n_games": 2,
     "score_share": 0.2727272727272727,
-    "n_wins": 0.0,
+    "n_wins": 0,
     "years": [
       2019
     ],
@@ -4295,6 +7357,7 @@
     "skill": 23.214111726721562,
     "skill_sigma": 71.21807908752382,
     "name": "Nils Brolin",
+    "slug": "nils-brolin",
     "skill_rank": 100.0,
     "skill_rank_pct": 100.0,
     "skill_history": [
@@ -4326,12 +7389,31 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Estrid",
+          "score": 3,
+          "opponent_score": 8,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      }
+    ],
+    "best_stage": "gruppspel",
+    "best_stage_years": [
+      2019,
+      2019
     ]
   },
   "Olaver": {
     "n_games": 4,
     "score_share": 0.5354198089492207,
-    "n_wins": 2.0,
+    "n_wins": 2,
     "years": [
       2019
     ],
@@ -4340,6 +7422,7 @@
     "skill": 105.74134355799195,
     "skill_sigma": 53.96018851560789,
     "name": "Olaver",
+    "slug": "olaver",
     "skill_rank": 60.0,
     "skill_rank_pct": 60.0,
     "skill_history": [
@@ -4371,12 +7454,30 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Estrid",
+          "score": 7,
+          "opponent_score": 10,
+          "is_winner": false,
+          "stage": "sextondelsfinal"
+        },
+        "n_games": 4,
+        "n_wins": 2
+      }
+    ],
+    "best_stage": "sextondelsfinal",
+    "best_stage_years": [
+      2019
     ]
   },
   "Olga Andersson": {
     "n_games": 6,
     "score_share": 0.3452380952380953,
-    "n_wins": 2.0,
+    "n_wins": 2,
     "years": [
       2018,
       2019
@@ -4386,6 +7487,7 @@
     "skill": 59.1119452956166,
     "skill_sigma": 48.76455937780867,
     "name": "Olga Andersson",
+    "slug": "olga-andersson",
     "skill_rank": 88.0,
     "skill_rank_pct": 88.0,
     "skill_history": [
@@ -4417,12 +7519,42 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2018,
+        "last_game": {
+          "opponent_name": "Edvin Lindsten",
+          "score": 3,
+          "opponent_score": 7,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      },
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Alexander Starfelt",
+          "score": 2,
+          "opponent_score": 10,
+          "is_winner": false,
+          "stage": "sextondelsfinal"
+        },
+        "n_games": 4,
+        "n_wins": 2
+      }
+    ],
+    "best_stage": "sextondelsfinal",
+    "best_stage_years": [
+      2019
     ]
   },
   "Olle Hjort": {
     "n_games": 3,
     "score_share": 0.28619528619528617,
-    "n_wins": 1.0,
+    "n_wins": 1,
     "years": [
       2018
     ],
@@ -4431,6 +7563,7 @@
     "skill": 62.70539121299896,
     "skill_sigma": 63.9634474212986,
     "name": "Olle Hjort",
+    "slug": "olle-hjort",
     "skill_rank": 85.0,
     "skill_rank_pct": 85.0,
     "skill_history": [
@@ -4462,12 +7595,32 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2018,
+        "last_game": {
+          "opponent_name": "Louise Persson",
+          "score": 0,
+          "opponent_score": 5,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 3,
+        "n_wins": 1
+      }
+    ],
+    "best_stage": "gruppspel",
+    "best_stage_years": [
+      2018,
+      2018,
+      2018
     ]
   },
   "Olle Nyr\u00e9n": {
     "n_games": 3,
     "score_share": 0.5246031746031746,
-    "n_wins": 1.0,
+    "n_wins": 1,
     "years": [
       2019
     ],
@@ -4476,6 +7629,7 @@
     "skill": 45.79323898691637,
     "skill_sigma": 60.62141253256992,
     "name": "Olle Nyr\u00e9n",
+    "slug": "olle-nyren",
     "skill_rank": 94.0,
     "skill_rank_pct": 94.0,
     "skill_history": [
@@ -4507,12 +7661,32 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Jan Bergstrand",
+          "score": 9,
+          "opponent_score": 3,
+          "is_winner": true,
+          "stage": "gruppspel"
+        },
+        "n_games": 3,
+        "n_wins": 1
+      }
+    ],
+    "best_stage": "gruppspel",
+    "best_stage_years": [
+      2019,
+      2019,
+      2019
     ]
   },
   "Olle Strandberg": {
     "n_games": 12,
     "score_share": 0.62720230460463,
-    "n_wins": 8.0,
+    "n_wins": 8,
     "years": [
       2018,
       2019,
@@ -4523,6 +7697,7 @@
     "skill": 170.85953119123917,
     "skill_sigma": 34.036561577886175,
     "name": "Olle Strandberg",
+    "slug": "olle-strandberg",
     "skill_rank": 16.0,
     "skill_rank_pct": 16.0,
     "skill_history": [
@@ -4554,12 +7729,54 @@
         2020,
         171.0
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2018,
+        "last_game": {
+          "opponent_name": "Robin Fogelberg",
+          "score": 7,
+          "opponent_score": 9,
+          "is_winner": false,
+          "stage": "sextondelsfinal"
+        },
+        "n_games": 3,
+        "n_wins": 2
+      },
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Christian Steen",
+          "score": 5,
+          "opponent_score": 8,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 3,
+        "n_wins": 1
+      },
+      {
+        "year": 2020,
+        "last_game": {
+          "opponent_name": "Robeson",
+          "score": 10,
+          "opponent_score": 13,
+          "is_winner": false,
+          "stage": "final"
+        },
+        "n_games": 6,
+        "n_wins": 5
+      }
+    ],
+    "best_stage": "final",
+    "best_stage_years": [
+      2020
     ]
   },
   "Olof Sabelstr\u00f6m": {
     "n_games": 6,
     "score_share": 0.35000000000000003,
-    "n_wins": 2.0,
+    "n_wins": 2,
     "years": [
       2011,
       2012
@@ -4569,6 +7786,7 @@
     "skill": 80.37213828818417,
     "skill_sigma": 50.47077673902454,
     "name": "Olof Sabelstr\u00f6m",
+    "slug": "olof-sabelstrom",
     "skill_rank": 74.0,
     "skill_rank_pct": 74.0,
     "skill_history": [
@@ -4600,12 +7818,42 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2011,
+        "last_game": {
+          "opponent_name": "Cissi Hellman",
+          "score": 5,
+          "opponent_score": 7,
+          "is_winner": false,
+          "stage": "semifinal"
+        },
+        "n_games": 4,
+        "n_wins": 2
+      },
+      {
+        "year": 2012,
+        "last_game": {
+          "opponent_name": "Love Andr\u00e9asson",
+          "score": 5,
+          "opponent_score": 7,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      }
+    ],
+    "best_stage": "semifinal",
+    "best_stage_years": [
+      2011
     ]
   },
   "Patrik J\u00e4rg\u00e5rden": {
     "n_games": 6,
     "score_share": 0.67739898989899,
-    "n_wins": 4.0,
+    "n_wins": 4,
     "years": [
       2012,
       2020
@@ -4615,6 +7863,7 @@
     "skill": 138.67734030551526,
     "skill_sigma": 50.31245782258222,
     "name": "Patrik J\u00e4rg\u00e5rden",
+    "slug": "patrik-jargarden",
     "skill_rank": 36.0,
     "skill_rank_pct": 36.0,
     "skill_history": [
@@ -4646,12 +7895,42 @@
         2020,
         139.0
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2012,
+        "last_game": {
+          "opponent_name": "Jakob Lien",
+          "score": 4,
+          "opponent_score": 7,
+          "is_winner": false,
+          "stage": "kvartsfinal"
+        },
+        "n_games": 3,
+        "n_wins": 2
+      },
+      {
+        "year": 2020,
+        "last_game": {
+          "opponent_name": "Jens Hultkrans",
+          "score": 7,
+          "opponent_score": 11,
+          "is_winner": false,
+          "stage": "sextondelsfinal"
+        },
+        "n_games": 3,
+        "n_wins": 2
+      }
+    ],
+    "best_stage": "kvartsfinal",
+    "best_stage_years": [
+      2012
     ]
   },
   "Pelle Dovborg": {
     "n_games": 21,
     "score_share": 0.5710034713185974,
-    "n_wins": 13.0,
+    "n_wins": 13,
     "years": [
       2016,
       2017,
@@ -4664,6 +7943,7 @@
     "skill": 180.68138563382328,
     "skill_sigma": 24.867623401110325,
     "name": "Pelle Dovborg",
+    "slug": "pelle-dovborg",
     "skill_rank": 13.0,
     "skill_rank_pct": 13.0,
     "skill_history": [
@@ -4695,12 +7975,78 @@
         2020,
         181.0
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2016,
+        "last_game": {
+          "opponent_name": "Johan Ekman",
+          "score": 1,
+          "opponent_score": 7,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      },
+      {
+        "year": 2017,
+        "last_game": {
+          "opponent_name": "Gabriel Nordenankar",
+          "score": 3,
+          "opponent_score": 10,
+          "is_winner": false,
+          "stage": "\u00e5ttondelsfinal"
+        },
+        "n_games": 3,
+        "n_wins": 2
+      },
+      {
+        "year": 2018,
+        "last_game": {
+          "opponent_name": "Joakim Lundin",
+          "score": 8,
+          "opponent_score": 4,
+          "is_winner": true,
+          "stage": "gruppspel"
+        },
+        "n_games": 3,
+        "n_wins": 1
+      },
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Robeson",
+          "score": 7,
+          "opponent_score": 10,
+          "is_winner": false,
+          "stage": "kvartsfinal"
+        },
+        "n_games": 6,
+        "n_wins": 4
+      },
+      {
+        "year": 2020,
+        "last_game": {
+          "opponent_name": "Edvin Lindsten",
+          "score": 13,
+          "opponent_score": 5,
+          "is_winner": true,
+          "stage": "bronsmatch"
+        },
+        "n_games": 7,
+        "n_wins": 6
+      }
+    ],
+    "best_stage": "bronsmatch",
+    "best_stage_years": [
+      2020
     ]
   },
   "Petter Hammarb\u00e4ck": {
     "n_games": 2,
     "score_share": 0.24431818181818182,
-    "n_wins": 0.0,
+    "n_wins": 0,
     "years": [
       2017
     ],
@@ -4709,6 +8055,7 @@
     "skill": 9.586094062494066,
     "skill_sigma": 75.3608417601058,
     "name": "Petter Hammarb\u00e4ck",
+    "slug": "petter-hammarback",
     "skill_rank": 112.0,
     "skill_rank_pct": 112.0,
     "skill_history": [
@@ -4740,12 +8087,31 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2017,
+        "last_game": {
+          "opponent_name": "Lovisa Birgersson",
+          "score": 1,
+          "opponent_score": 7,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      }
+    ],
+    "best_stage": "gruppspel",
+    "best_stage_years": [
+      2017,
+      2017
     ]
   },
   "Philip Little": {
     "n_games": 4,
     "score_share": 0.32133699633699636,
-    "n_wins": 0.0,
+    "n_wins": 0,
     "years": [
       2018,
       2019
@@ -4755,6 +8121,7 @@
     "skill": -11.766890864268452,
     "skill_sigma": 59.75803111505356,
     "name": "Philip Little",
+    "slug": "philip-little",
     "skill_rank": 121.0,
     "skill_rank_pct": 121.0,
     "skill_history": [
@@ -4786,12 +8153,45 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2018,
+        "last_game": {
+          "opponent_name": "Benjamin Ger. Hed.",
+          "score": 6,
+          "opponent_score": 7,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      },
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Olga Andersson",
+          "score": 2,
+          "opponent_score": 10,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      }
+    ],
+    "best_stage": "gruppspel",
+    "best_stage_years": [
+      2018,
+      2019,
+      2018,
+      2019
     ]
   },
   "Pia T\u00f6rnkvist": {
     "n_games": 5,
     "score_share": 0.5230994152046784,
-    "n_wins": 3.0,
+    "n_wins": 3,
     "years": [
       2020
     ],
@@ -4800,6 +8200,7 @@
     "skill": 176.54301181249636,
     "skill_sigma": 41.76956412986672,
     "name": "Pia T\u00f6rnkvist",
+    "slug": "pia-tornkvist",
     "skill_rank": 14.0,
     "skill_rank_pct": 14.0,
     "skill_history": [
@@ -4831,12 +8232,30 @@
         2020,
         177.0
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2020,
+        "last_game": {
+          "opponent_name": "Linnea Karlsson",
+          "score": 8,
+          "opponent_score": 11,
+          "is_winner": false,
+          "stage": "\u00e5ttondelsfinal"
+        },
+        "n_games": 5,
+        "n_wins": 3
+      }
+    ],
+    "best_stage": "\u00e5ttondelsfinal",
+    "best_stage_years": [
+      2020
     ]
   },
   "Richard Ekman": {
     "n_games": 15,
     "score_share": 0.6032088282088284,
-    "n_wins": 8.0,
+    "n_wins": 8,
     "years": [
       2012,
       2016,
@@ -4849,6 +8268,7 @@
     "skill": 82.85579750439959,
     "skill_sigma": 32.23354272422082,
     "name": "Richard Ekman",
+    "slug": "richard-ekman",
     "skill_rank": 73.0,
     "skill_rank_pct": 73.0,
     "skill_history": [
@@ -4880,12 +8300,79 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2012,
+        "last_game": {
+          "opponent_name": "Filip Tyd\u00e9n",
+          "score": 5,
+          "opponent_score": 7,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      },
+      {
+        "year": 2016,
+        "last_game": {
+          "opponent_name": "Jerker Karlsson",
+          "score": 3,
+          "opponent_score": 9,
+          "is_winner": false,
+          "stage": "kvartsfinal"
+        },
+        "n_games": 3,
+        "n_wins": 2
+      },
+      {
+        "year": 2017,
+        "last_game": {
+          "opponent_name": "Edvin Lindsten",
+          "score": 4,
+          "opponent_score": 9,
+          "is_winner": false,
+          "stage": "kvartsfinal"
+        },
+        "n_games": 4,
+        "n_wins": 3
+      },
+      {
+        "year": 2018,
+        "last_game": {
+          "opponent_name": "Jens Hultkrans",
+          "score": 6,
+          "opponent_score": 9,
+          "is_winner": false,
+          "stage": "sextondelsfinal"
+        },
+        "n_games": 3,
+        "n_wins": 2
+      },
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Olaver",
+          "score": 7,
+          "opponent_score": 8,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 3,
+        "n_wins": 1
+      }
+    ],
+    "best_stage": "kvartsfinal",
+    "best_stage_years": [
+      2016,
+      2017
     ]
   },
   "Robeson": {
     "n_games": 19,
     "score_share": 0.5872750046737478,
-    "n_wins": 14.0,
+    "n_wins": 14,
     "years": [
       2018,
       2019,
@@ -4896,6 +8383,7 @@
     "skill": 211.9288195685234,
     "skill_sigma": 25.091397949316285,
     "name": "Robeson",
+    "slug": "robeson",
     "skill_rank": 5.0,
     "skill_rank_pct": 5.0,
     "skill_history": [
@@ -4927,12 +8415,54 @@
         2020,
         212.0
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2018,
+        "last_game": {
+          "opponent_name": "Sebastin Fors\u00e9n",
+          "score": 5,
+          "opponent_score": 7,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 3,
+        "n_wins": 1
+      },
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Estrid",
+          "score": 13,
+          "opponent_score": 5,
+          "is_winner": true,
+          "stage": "bronsmatch"
+        },
+        "n_games": 8,
+        "n_wins": 6
+      },
+      {
+        "year": 2020,
+        "last_game": {
+          "opponent_name": "Olle Strandberg",
+          "score": 13,
+          "opponent_score": 10,
+          "is_winner": true,
+          "stage": "vinnare"
+        },
+        "n_games": 8,
+        "n_wins": 7
+      }
+    ],
+    "best_stage": "vinnare",
+    "best_stage_years": [
+      2020
     ]
   },
   "Robin Fogelberg": {
     "n_games": 16,
     "score_share": 0.560044785688168,
-    "n_wins": 10.0,
+    "n_wins": 10,
     "years": [
       2018,
       2019,
@@ -4943,6 +8473,7 @@
     "skill": 170.51567652934446,
     "skill_sigma": 28.468918749915748,
     "name": "Robin Fogelberg",
+    "slug": "robin-fogelberg",
     "skill_rank": 17.0,
     "skill_rank_pct": 17.0,
     "skill_history": [
@@ -4974,12 +8505,54 @@
         2020,
         171.0
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2018,
+        "last_game": {
+          "opponent_name": "Erik Nordenankar",
+          "score": 7,
+          "opponent_score": 14,
+          "is_winner": false,
+          "stage": "bronsmatch"
+        },
+        "n_games": 8,
+        "n_wins": 4
+      },
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Theodore Ripman",
+          "score": 4,
+          "opponent_score": 10,
+          "is_winner": false,
+          "stage": "kvartsfinal"
+        },
+        "n_games": 5,
+        "n_wins": 4
+      },
+      {
+        "year": 2020,
+        "last_game": {
+          "opponent_name": "Hannes Jordan",
+          "score": 9,
+          "opponent_score": 11,
+          "is_winner": false,
+          "stage": "sextondelsfinal"
+        },
+        "n_games": 3,
+        "n_wins": 2
+      }
+    ],
+    "best_stage": "bronsmatch",
+    "best_stage_years": [
+      2018
     ]
   },
   "Robin Linderborg": {
     "n_games": 15,
     "score_share": 0.5589074814074814,
-    "n_wins": 10.0,
+    "n_wins": 10,
     "years": [
       2017,
       2018,
@@ -4991,6 +8564,7 @@
     "skill": 158.8004243253734,
     "skill_sigma": 32.2600889745595,
     "name": "Robin Linderborg",
+    "slug": "robin-linderborg",
     "skill_rank": 26.0,
     "skill_rank_pct": 26.0,
     "skill_history": [
@@ -5022,12 +8596,66 @@
         2020,
         159.0
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2017,
+        "last_game": {
+          "opponent_name": "Edvin Lindsten",
+          "score": 4,
+          "opponent_score": 9,
+          "is_winner": false,
+          "stage": "\u00e5ttondelsfinal"
+        },
+        "n_games": 4,
+        "n_wins": 2
+      },
+      {
+        "year": 2018,
+        "last_game": {
+          "opponent_name": "Erik Nordenankar",
+          "score": 5,
+          "opponent_score": 11,
+          "is_winner": false,
+          "stage": "kvartsfinal"
+        },
+        "n_games": 5,
+        "n_wins": 4
+      },
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Robeson",
+          "score": 4,
+          "opponent_score": 10,
+          "is_winner": false,
+          "stage": "sextondelsfinal"
+        },
+        "n_games": 3,
+        "n_wins": 2
+      },
+      {
+        "year": 2020,
+        "last_game": {
+          "opponent_name": "Linnea Karlsson",
+          "score": 3,
+          "opponent_score": 13,
+          "is_winner": false,
+          "stage": "sextondelsfinal"
+        },
+        "n_games": 3,
+        "n_wins": 2
+      }
+    ],
+    "best_stage": "kvartsfinal",
+    "best_stage_years": [
+      2018
     ]
   },
   "Sandra Starfelt": {
     "n_games": 3,
     "score_share": 0.5058275058275058,
-    "n_wins": 2.0,
+    "n_wins": 2,
     "years": [
       2017
     ],
@@ -5036,6 +8664,7 @@
     "skill": 141.9440609483832,
     "skill_sigma": 60.52465144177799,
     "name": "Sandra Starfelt",
+    "slug": "sandra-starfelt",
     "skill_rank": 33.0,
     "skill_rank_pct": 33.0,
     "skill_history": [
@@ -5067,12 +8696,32 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2017,
+        "last_game": {
+          "opponent_name": "Maria Adel\u00f6f",
+          "score": 8,
+          "opponent_score": 5,
+          "is_winner": true,
+          "stage": "gruppspel"
+        },
+        "n_games": 3,
+        "n_wins": 2
+      }
+    ],
+    "best_stage": "gruppspel",
+    "best_stage_years": [
+      2017,
+      2017,
+      2017
     ]
   },
   "Sandra Sundin": {
     "n_games": 2,
     "score_share": 0.551948051948052,
-    "n_wins": 1.0,
+    "n_wins": 1,
     "years": [
       2020
     ],
@@ -5081,6 +8730,7 @@
     "skill": 59.902732026171726,
     "skill_sigma": 75.30494101936482,
     "name": "Sandra Sundin",
+    "slug": "sandra-sundin",
     "skill_rank": 87.0,
     "skill_rank_pct": 87.0,
     "skill_history": [
@@ -5112,12 +8762,31 @@
         2020,
         60.0
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2020,
+        "last_game": {
+          "opponent_name": "Wille Laska",
+          "score": 4,
+          "opponent_score": 10,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 1
+      }
+    ],
+    "best_stage": "gruppspel",
+    "best_stage_years": [
+      2020,
+      2020
     ]
   },
   "Sebastin Fors\u00e9n": {
     "n_games": 6,
     "score_share": 0.5314737005913477,
-    "n_wins": 3.0,
+    "n_wins": 3,
     "years": [
       2018,
       2019
@@ -5127,6 +8796,7 @@
     "skill": 88.73498089421172,
     "skill_sigma": 46.283094482429824,
     "name": "Sebastin Fors\u00e9n",
+    "slug": "sebastin-forsen",
     "skill_rank": 67.0,
     "skill_rank_pct": 67.0,
     "skill_history": [
@@ -5158,12 +8828,42 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2018,
+        "last_game": {
+          "opponent_name": "Johan Kjell",
+          "score": 8,
+          "opponent_score": 9,
+          "is_winner": false,
+          "stage": "sextondelsfinal"
+        },
+        "n_games": 3,
+        "n_wins": 2
+      },
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Linnea Karlsson",
+          "score": 8,
+          "opponent_score": 0,
+          "is_winner": true,
+          "stage": "gruppspel"
+        },
+        "n_games": 3,
+        "n_wins": 1
+      }
+    ],
+    "best_stage": "sextondelsfinal",
+    "best_stage_years": [
+      2018
     ]
   },
   "Simon B\u00f6hm": {
     "n_games": 3,
     "score_share": 0.683982683982684,
-    "n_wins": 2.0,
+    "n_wins": 2,
     "years": [
       2020
     ],
@@ -5172,6 +8872,7 @@
     "skill": 174.51206592201615,
     "skill_sigma": 55.1428832796544,
     "name": "Simon B\u00f6hm",
+    "slug": "simon-bohm",
     "skill_rank": 15.0,
     "skill_rank_pct": 15.0,
     "skill_history": [
@@ -5203,12 +8904,30 @@
         2020,
         175.0
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2020,
+        "last_game": {
+          "opponent_name": "Edvin Lindsten",
+          "score": 9,
+          "opponent_score": 13,
+          "is_winner": false,
+          "stage": "sextondelsfinal"
+        },
+        "n_games": 3,
+        "n_wins": 2
+      }
+    ],
+    "best_stage": "sextondelsfinal",
+    "best_stage_years": [
+      2020
     ]
   },
   "Simon Rosendahl": {
     "n_games": 3,
     "score_share": 0.4657407407407408,
-    "n_wins": 1.0,
+    "n_wins": 1,
     "years": [
       2017
     ],
@@ -5217,6 +8936,7 @@
     "skill": 72.07864218910694,
     "skill_sigma": 66.446425381796,
     "name": "Simon Rosendahl",
+    "slug": "simon-rosendahl",
     "skill_rank": 79.0,
     "skill_rank_pct": 79.0,
     "skill_history": [
@@ -5248,12 +8968,32 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2017,
+        "last_game": {
+          "opponent_name": "Karl S\u00f6derberg",
+          "score": 7,
+          "opponent_score": 1,
+          "is_winner": true,
+          "stage": "gruppspel"
+        },
+        "n_games": 3,
+        "n_wins": 1
+      }
+    ],
+    "best_stage": "gruppspel",
+    "best_stage_years": [
+      2017,
+      2017,
+      2017
     ]
   },
   "Sofia Ahlstr\u00f6m": {
     "n_games": 4,
     "score_share": 0.471474358974359,
-    "n_wins": 2.0,
+    "n_wins": 2,
     "years": [
       2017
     ],
@@ -5262,6 +9002,7 @@
     "skill": 120.29714872294652,
     "skill_sigma": 62.23099547046753,
     "name": "Sofia Ahlstr\u00f6m",
+    "slug": "sofia-ahlstrom",
     "skill_rank": 51.0,
     "skill_rank_pct": 51.0,
     "skill_history": [
@@ -5293,12 +9034,30 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2017,
+        "last_game": {
+          "opponent_name": "Josefin Asplund",
+          "score": 3,
+          "opponent_score": 10,
+          "is_winner": false,
+          "stage": "\u00e5ttondelsfinal"
+        },
+        "n_games": 4,
+        "n_wins": 2
+      }
+    ],
+    "best_stage": "\u00e5ttondelsfinal",
+    "best_stage_years": [
+      2017
     ]
   },
   "Sofia Bard": {
     "n_games": 2,
     "score_share": 0.47756410256410253,
-    "n_wins": 1.0,
+    "n_wins": 1,
     "years": [
       2016
     ],
@@ -5307,6 +9066,7 @@
     "skill": 105.82072892731081,
     "skill_sigma": 75.0868957164604,
     "name": "Sofia Bard",
+    "slug": "sofia-bard",
     "skill_rank": 59.0,
     "skill_rank_pct": 59.0,
     "skill_history": [
@@ -5338,12 +9098,31 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2016,
+        "last_game": {
+          "opponent_name": "Tobe Welander",
+          "score": 7,
+          "opponent_score": 6,
+          "is_winner": true,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 1
+      }
+    ],
+    "best_stage": "gruppspel",
+    "best_stage_years": [
+      2016,
+      2016
     ]
   },
   "Sofia R\u00e5dstr\u00f6m": {
     "n_games": 15,
     "score_share": 0.3556132756132756,
-    "n_wins": 4.0,
+    "n_wins": 4,
     "years": [
       2011,
       2012,
@@ -5357,6 +9136,7 @@
     "skill": 56.16954114268848,
     "skill_sigma": 34.67461494623513,
     "name": "Sofia R\u00e5dstr\u00f6m",
+    "slug": "sofia-radstrom",
     "skill_rank": 89.0,
     "skill_rank_pct": 89.0,
     "skill_history": [
@@ -5388,12 +9168,90 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2011,
+        "last_game": {
+          "opponent_name": "Jakob Lien",
+          "score": 2,
+          "opponent_score": 8,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      },
+      {
+        "year": 2012,
+        "last_game": {
+          "opponent_name": "Frida \u00d6hrn",
+          "score": 4,
+          "opponent_score": 7,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      },
+      {
+        "year": 2016,
+        "last_game": {
+          "opponent_name": "Richard Ekman",
+          "score": 3,
+          "opponent_score": 7,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      },
+      {
+        "year": 2017,
+        "last_game": {
+          "opponent_name": "Richard Ekman",
+          "score": 1,
+          "opponent_score": 10,
+          "is_winner": false,
+          "stage": "\u00e5ttondelsfinal"
+        },
+        "n_games": 4,
+        "n_wins": 2
+      },
+      {
+        "year": 2018,
+        "last_game": {
+          "opponent_name": "Jens Hultkrans",
+          "score": 4,
+          "opponent_score": 7,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      },
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Jens Hultkrans",
+          "score": 3,
+          "opponent_score": 11,
+          "is_winner": false,
+          "stage": "sextondelsfinal"
+        },
+        "n_games": 3,
+        "n_wins": 2
+      }
+    ],
+    "best_stage": "\u00e5ttondelsfinal",
+    "best_stage_years": [
+      2017
     ]
   },
   "Sofia S\u00f6derberg": {
     "n_games": 2,
     "score_share": 0.15,
-    "n_wins": 0.0,
+    "n_wins": 0,
     "years": [
       2016
     ],
@@ -5402,6 +9260,7 @@
     "skill": 25.23396074100435,
     "skill_sigma": 77.13335364641657,
     "name": "Sofia S\u00f6derberg",
+    "slug": "sofia-soderberg",
     "skill_rank": 99.0,
     "skill_rank_pct": 99.0,
     "skill_history": [
@@ -5433,12 +9292,31 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2016,
+        "last_game": {
+          "opponent_name": "Maria Adel\u00f6f",
+          "score": 3,
+          "opponent_score": 7,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      }
+    ],
+    "best_stage": "gruppspel",
+    "best_stage_years": [
+      2016,
+      2016
     ]
   },
   "Sofia \u00d6rning": {
     "n_games": 12,
     "score_share": 0.39242555510937865,
-    "n_wins": 3.0,
+    "n_wins": 3,
     "years": [
       2017,
       2018,
@@ -5450,6 +9328,7 @@
     "skill": 51.23535818071866,
     "skill_sigma": 40.76475080947959,
     "name": "Sofia \u00d6rning",
+    "slug": "sofia-orning",
     "skill_rank": 91.0,
     "skill_rank_pct": 91.0,
     "skill_history": [
@@ -5481,12 +9360,66 @@
         2020,
         51.0
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2017,
+        "last_game": {
+          "opponent_name": "Alexander Starfelt",
+          "score": 2,
+          "opponent_score": 7,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      },
+      {
+        "year": 2018,
+        "last_game": {
+          "opponent_name": "Edvin Lindsten",
+          "score": 8,
+          "opponent_score": 9,
+          "is_winner": false,
+          "stage": "sextondelsfinal"
+        },
+        "n_games": 4,
+        "n_wins": 1
+      },
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Olle Nyr\u00e9n",
+          "score": 9,
+          "opponent_score": 5,
+          "is_winner": true,
+          "stage": "gruppspel"
+        },
+        "n_games": 3,
+        "n_wins": 1
+      },
+      {
+        "year": 2020,
+        "last_game": {
+          "opponent_name": "Charlotte Almgren",
+          "score": 9,
+          "opponent_score": 5,
+          "is_winner": true,
+          "stage": "gruppspel"
+        },
+        "n_games": 3,
+        "n_wins": 1
+      }
+    ],
+    "best_stage": "sextondelsfinal",
+    "best_stage_years": [
+      2018
     ]
   },
   "Sussie R\u00e5dis": {
     "n_games": 6,
     "score_share": 0.3926055426055426,
-    "n_wins": 2.0,
+    "n_wins": 2,
     "years": [
       2018,
       2019
@@ -5496,6 +9429,7 @@
     "skill": 68.84114998140613,
     "skill_sigma": 49.45112043337495,
     "name": "Sussie R\u00e5dis",
+    "slug": "sussie-radis",
     "skill_rank": 81.0,
     "skill_rank_pct": 81.0,
     "skill_history": [
@@ -5527,12 +9461,42 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2018,
+        "last_game": {
+          "opponent_name": "Robin Linderborg",
+          "score": 6,
+          "opponent_score": 9,
+          "is_winner": false,
+          "stage": "sextondelsfinal"
+        },
+        "n_games": 4,
+        "n_wins": 2
+      },
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Jens Hultkrans",
+          "score": 4,
+          "opponent_score": 8,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      }
+    ],
+    "best_stage": "sextondelsfinal",
+    "best_stage_years": [
+      2018
     ]
   },
   "Theodore Ripman": {
     "n_games": 27,
     "score_share": 0.544792415187152,
-    "n_wins": 19.0,
+    "n_wins": 19,
     "years": [
       2011,
       2012,
@@ -5546,6 +9510,7 @@
     "skill": 201.63784239938423,
     "skill_sigma": 23.730298273026808,
     "name": "Theodore Ripman",
+    "slug": "theodore-ripman",
     "skill_rank": 8.0,
     "skill_rank_pct": 8.0,
     "skill_history": [
@@ -5577,12 +9542,90 @@
         2020,
         202.0
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2011,
+        "last_game": {
+          "opponent_name": "Olof Sabelstr\u00f6m",
+          "score": 5,
+          "opponent_score": 7,
+          "is_winner": false,
+          "stage": "kvartsfinal"
+        },
+        "n_games": 3,
+        "n_wins": 2
+      },
+      {
+        "year": 2012,
+        "last_game": {
+          "opponent_name": "Jakob Lien",
+          "score": 5,
+          "opponent_score": 7,
+          "is_winner": false,
+          "stage": "bronsmatch"
+        },
+        "n_games": 5,
+        "n_wins": 2
+      },
+      {
+        "year": 2017,
+        "last_game": {
+          "opponent_name": "Lovisa Birgersson",
+          "score": 8,
+          "opponent_score": 5,
+          "is_winner": true,
+          "stage": "gruppspel"
+        },
+        "n_games": 3,
+        "n_wins": 2
+      },
+      {
+        "year": 2018,
+        "last_game": {
+          "opponent_name": "Johan Kjell",
+          "score": 3,
+          "opponent_score": 10,
+          "is_winner": false,
+          "stage": "kvartsfinal"
+        },
+        "n_games": 5,
+        "n_wins": 4
+      },
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Benjamin Ger. Hed.",
+          "score": 13,
+          "opponent_score": 5,
+          "is_winner": true,
+          "stage": "vinnare"
+        },
+        "n_games": 7,
+        "n_wins": 7
+      },
+      {
+        "year": 2020,
+        "last_game": {
+          "opponent_name": "Niklas Solberg",
+          "score": 4,
+          "opponent_score": 11,
+          "is_winner": false,
+          "stage": "sextondelsfinal"
+        },
+        "n_games": 4,
+        "n_wins": 2
+      }
+    ],
+    "best_stage": "vinnare",
+    "best_stage_years": [
+      2019
     ]
   },
   "Tim Samuelsson": {
     "n_games": 4,
     "score_share": 0.5314685314685315,
-    "n_wins": 2.0,
+    "n_wins": 2,
     "years": [
       2020
     ],
@@ -5591,6 +9634,7 @@
     "skill": 127.56329269958013,
     "skill_sigma": 52.54865134672043,
     "name": "Tim Samuelsson",
+    "slug": "tim-samuelsson",
     "skill_rank": 46.0,
     "skill_rank_pct": 46.0,
     "skill_history": [
@@ -5622,12 +9666,30 @@
         2020,
         128.0
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2020,
+        "last_game": {
+          "opponent_name": "Jens Hultkrans",
+          "score": 5,
+          "opponent_score": 11,
+          "is_winner": false,
+          "stage": "\u00e5ttondelsfinal"
+        },
+        "n_games": 4,
+        "n_wins": 2
+      }
+    ],
+    "best_stage": "\u00e5ttondelsfinal",
+    "best_stage_years": [
+      2020
     ]
   },
   "Tobe Welander": {
     "n_games": 6,
     "score_share": 0.48502616664381376,
-    "n_wins": 2.0,
+    "n_wins": 2,
     "years": [
       2016,
       2017
@@ -5637,6 +9699,7 @@
     "skill": 64.7891342010066,
     "skill_sigma": 49.71407626898299,
     "name": "Tobe Welander",
+    "slug": "tobe-welander",
     "skill_rank": 82.0,
     "skill_rank_pct": 82.0,
     "skill_history": [
@@ -5668,12 +9731,42 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2016,
+        "last_game": {
+          "opponent_name": "Erik Sunninger",
+          "score": 5,
+          "opponent_score": 7,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      },
+      {
+        "year": 2017,
+        "last_game": {
+          "opponent_name": "Erik Nordenankar",
+          "score": 8,
+          "opponent_score": 9,
+          "is_winner": false,
+          "stage": "\u00e5ttondelsfinal"
+        },
+        "n_games": 4,
+        "n_wins": 2
+      }
+    ],
+    "best_stage": "\u00e5ttondelsfinal",
+    "best_stage_years": [
+      2017
     ]
   },
   "Tove Papp Lindkvist": {
     "n_games": 2,
     "score_share": 0.3418803418803419,
-    "n_wins": 0.0,
+    "n_wins": 0,
     "years": [
       2017
     ],
@@ -5682,6 +9775,7 @@
     "skill": -11.154393807653689,
     "skill_sigma": 71.74620212161844,
     "name": "Tove Papp Lindkvist",
+    "slug": "tove-papp-lindkvist",
     "skill_rank": 120.0,
     "skill_rank_pct": 120.0,
     "skill_history": [
@@ -5713,12 +9807,31 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2017,
+        "last_game": {
+          "opponent_name": "Ylva Andr\u00e9asson",
+          "score": 6,
+          "opponent_score": 7,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      }
+    ],
+    "best_stage": "gruppspel",
+    "best_stage_years": [
+      2017,
+      2017
     ]
   },
   "Viktor G\u00e4rde": {
     "n_games": 3,
     "score_share": 0.4444444444444445,
-    "n_wins": 1.0,
+    "n_wins": 1,
     "years": [
       2019
     ],
@@ -5727,6 +9840,7 @@
     "skill": 101.65456481380942,
     "skill_sigma": 60.06546481491012,
     "name": "Viktor G\u00e4rde",
+    "slug": "viktor-garde",
     "skill_rank": 62.0,
     "skill_rank_pct": 62.0,
     "skill_history": [
@@ -5758,12 +9872,32 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Jens Hultkrans",
+          "score": 4,
+          "opponent_score": 8,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 3,
+        "n_wins": 1
+      }
+    ],
+    "best_stage": "gruppspel",
+    "best_stage_years": [
+      2019,
+      2019,
+      2019
     ]
   },
   "Ville Nordenankar": {
     "n_games": 12,
     "score_share": 0.4518518518518518,
-    "n_wins": 6.0,
+    "n_wins": 6,
     "years": [
       2017,
       2018,
@@ -5775,6 +9909,7 @@
     "skill": 126.36201757139473,
     "skill_sigma": 34.228704097953525,
     "name": "Ville Nordenankar",
+    "slug": "ville-nordenankar",
     "skill_rank": 47.0,
     "skill_rank_pct": 47.0,
     "skill_history": [
@@ -5806,12 +9941,66 @@
         2020,
         126.0
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2017,
+        "last_game": {
+          "opponent_name": "Erik Nordenankar",
+          "score": 1,
+          "opponent_score": 9,
+          "is_winner": false,
+          "stage": "kvartsfinal"
+        },
+        "n_games": 4,
+        "n_wins": 3
+      },
+      {
+        "year": 2018,
+        "last_game": {
+          "opponent_name": "Gabriel Nordenankar",
+          "score": 1,
+          "opponent_score": 9,
+          "is_winner": false,
+          "stage": "\u00e5ttondelsfinal"
+        },
+        "n_games": 4,
+        "n_wins": 3
+      },
+      {
+        "year": 2019,
+        "last_game": {
+          "opponent_name": "Niklas Frisk",
+          "score": 2,
+          "opponent_score": 8,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      },
+      {
+        "year": 2020,
+        "last_game": {
+          "opponent_name": "Pia T\u00f6rnkvist",
+          "score": 3,
+          "opponent_score": 9,
+          "is_winner": false,
+          "stage": "gruppspel"
+        },
+        "n_games": 2,
+        "n_wins": 0
+      }
+    ],
+    "best_stage": "kvartsfinal",
+    "best_stage_years": [
+      2017
     ]
   },
   "Wille Laska": {
     "n_games": 4,
     "score_share": 0.5285714285714286,
-    "n_wins": 2.0,
+    "n_wins": 2,
     "years": [
       2020
     ],
@@ -5820,6 +10009,7 @@
     "skill": 108.54666157404843,
     "skill_sigma": 53.920549157092395,
     "name": "Wille Laska",
+    "slug": "wille-laska",
     "skill_rank": 57.0,
     "skill_rank_pct": 57.0,
     "skill_history": [
@@ -5851,12 +10041,30 @@
         2020,
         109.0
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2020,
+        "last_game": {
+          "opponent_name": "Olle Strandberg",
+          "score": 6,
+          "opponent_score": 11,
+          "is_winner": false,
+          "stage": "\u00e5ttondelsfinal"
+        },
+        "n_games": 4,
+        "n_wins": 2
+      }
+    ],
+    "best_stage": "\u00e5ttondelsfinal",
+    "best_stage_years": [
+      2020
     ]
   },
   "Ylva Andr\u00e9asson": {
     "n_games": 7,
     "score_share": 0.5159032144326262,
-    "n_wins": 3.0,
+    "n_wins": 3,
     "years": [
       2017,
       2018
@@ -5866,6 +10074,7 @@
     "skill": 76.689103762065,
     "skill_sigma": 46.61569476253359,
     "name": "Ylva Andr\u00e9asson",
+    "slug": "ylva-andreasson",
     "skill_rank": 77.0,
     "skill_rank_pct": 77.0,
     "skill_history": [
@@ -5897,6 +10106,36 @@
         2020,
         null
       ]
+    ],
+    "tournaments": [
+      {
+        "year": 2017,
+        "last_game": {
+          "opponent_name": "Tove Papp Lindkvist",
+          "score": 7,
+          "opponent_score": 6,
+          "is_winner": true,
+          "stage": "gruppspel"
+        },
+        "n_games": 3,
+        "n_wins": 1
+      },
+      {
+        "year": 2018,
+        "last_game": {
+          "opponent_name": "Ida Wimmerman",
+          "score": 8,
+          "opponent_score": 9,
+          "is_winner": false,
+          "stage": "sextondelsfinal"
+        },
+        "n_games": 4,
+        "n_wins": 2
+      }
+    ],
+    "best_stage": "sextondelsfinal",
+    "best_stage_years": [
+      2018
     ]
   }
 }

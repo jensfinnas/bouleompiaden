@@ -1,0 +1,117 @@
+{
+  "n_games": 15,
+  "score_share": 0.4952590002590003,
+  "n_wins": 6,
+  "years": [
+    2012,
+    2016,
+    2017,
+    2018,
+    2019
+  ],
+  "win_rate": 0.4,
+  "opponent_score_share": 0.5109717941998744,
+  "skill": 95.18445740631918,
+  "skill_sigma": 35.138966340014576,
+  "name": "Johan Ekman",
+  "slug": "johan-ekman",
+  "skill_rank": 64.0,
+  "skill_rank_pct": 64.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      117.0
+    ],
+    [
+      2016,
+      105.0
+    ],
+    [
+      2017,
+      90.0
+    ],
+    [
+      2018,
+      80.0
+    ],
+    [
+      2019,
+      95.0
+    ],
+    [
+      2020,
+      null
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2012,
+      "last_game": {
+        "opponent_name": "Agnes Lind",
+        "score": 7,
+        "opponent_score": 0,
+        "is_winner": true,
+        "stage": "gruppspel"
+      },
+      "n_games": 2,
+      "n_wins": 1
+    },
+    {
+      "year": 2016,
+      "last_game": {
+        "opponent_name": "Pelle Dovborg",
+        "score": 7,
+        "opponent_score": 1,
+        "is_winner": true,
+        "stage": "gruppspel"
+      },
+      "n_games": 2,
+      "n_wins": 1
+    },
+    {
+      "year": 2017,
+      "last_game": {
+        "opponent_name": "Johannes Birgersson",
+        "score": 4,
+        "opponent_score": 8,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "n_games": 3,
+      "n_wins": 1
+    },
+    {
+      "year": 2018,
+      "last_game": {
+        "opponent_name": "Erik Nordenankar",
+        "score": 3,
+        "opponent_score": 10,
+        "is_winner": false,
+        "stage": "sextondelsfinal"
+      },
+      "n_games": 4,
+      "n_wins": 1
+    },
+    {
+      "year": 2019,
+      "last_game": {
+        "opponent_name": "Gabriel Nordenankar",
+        "score": 6,
+        "opponent_score": 10,
+        "is_winner": false,
+        "stage": "sextondelsfinal"
+      },
+      "n_games": 4,
+      "n_wins": 2
+    }
+  ],
+  "best_stage": "sextondelsfinal",
+  "best_stage_years": [
+    2018,
+    2019
+  ]
+}

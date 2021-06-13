@@ -1,0 +1,64 @@
+{
+  "n_games": 3,
+  "score_share": 0.47222222222222227,
+  "n_wins": 2,
+  "years": [
+    2016
+  ],
+  "win_rate": 0.6666666666666666,
+  "opponent_score_share": 0.5311015183074007,
+  "skill": 143.53061316562594,
+  "skill_sigma": 66.47656039941576,
+  "name": "Erik Sunninger",
+  "slug": "erik-sunninger",
+  "skill_rank": 32.0,
+  "skill_rank_pct": 32.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      null
+    ],
+    [
+      2016,
+      144.0
+    ],
+    [
+      2017,
+      null
+    ],
+    [
+      2018,
+      null
+    ],
+    [
+      2019,
+      null
+    ],
+    [
+      2020,
+      null
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2016,
+      "last_game": {
+        "opponent_name": "Daniel Mensak",
+        "score": 3,
+        "opponent_score": 9,
+        "is_winner": false,
+        "stage": "kvartsfinal"
+      },
+      "n_games": 3,
+      "n_wins": 2
+    }
+  ],
+  "best_stage": "kvartsfinal",
+  "best_stage_years": [
+    2016
+  ]
+}

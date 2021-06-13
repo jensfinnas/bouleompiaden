@@ -1,0 +1,79 @@
+{
+  "n_games": 3,
+  "score_share": 0.37762237762237766,
+  "n_wins": 0,
+  "years": [
+    2011,
+    2020
+  ],
+  "win_rate": 0.0,
+  "opponent_score_share": 0.5248762591923302,
+  "skill": 5.294396824267511,
+  "skill_sigma": 72.65379263927423,
+  "name": "Calle Sandin",
+  "slug": "calle-sandin",
+  "skill_rank": 114.0,
+  "skill_rank_pct": 114.0,
+  "skill_history": [
+    [
+      2011,
+      10.0
+    ],
+    [
+      2012,
+      null
+    ],
+    [
+      2016,
+      null
+    ],
+    [
+      2017,
+      null
+    ],
+    [
+      2018,
+      null
+    ],
+    [
+      2019,
+      null
+    ],
+    [
+      2020,
+      5.0
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2011,
+      "last_game": {
+        "opponent_name": "Theodore Ripman",
+        "score": 4,
+        "opponent_score": 7,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "n_games": 2,
+      "n_wins": 0
+    },
+    {
+      "year": 2020,
+      "last_game": {
+        "opponent_name": "Edvin Lindsten",
+        "score": 4,
+        "opponent_score": 9,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "n_games": 1,
+      "n_wins": 0
+    }
+  ],
+  "best_stage": "gruppspel",
+  "best_stage_years": [
+    2011,
+    2011,
+    2020
+  ]
+}

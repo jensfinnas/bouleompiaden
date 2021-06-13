@@ -1,0 +1,65 @@
+{
+  "n_games": 2,
+  "score_share": 0.175,
+  "n_wins": 0,
+  "years": [
+    2020
+  ],
+  "win_rate": 0.0,
+  "opponent_score_share": 0.5421280108780109,
+  "skill": -14.999440459427603,
+  "skill_sigma": 67.33605152621539,
+  "name": "Beata Harrysson",
+  "slug": "beata-harrysson",
+  "skill_rank": 122.0,
+  "skill_rank_pct": 122.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      null
+    ],
+    [
+      2016,
+      null
+    ],
+    [
+      2017,
+      null
+    ],
+    [
+      2018,
+      null
+    ],
+    [
+      2019,
+      null
+    ],
+    [
+      2020,
+      -15.0
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2020,
+      "last_game": {
+        "opponent_name": "Frida \u00d6hrn",
+        "score": 1,
+        "opponent_score": 9,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "n_games": 2,
+      "n_wins": 0
+    }
+  ],
+  "best_stage": "gruppspel",
+  "best_stage_years": [
+    2020,
+    2020
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "n_games": 12,
+  "score_share": 0.558712502094855,
+  "n_wins": 9,
+  "years": [
+    2012,
+    2017,
+    2018
+  ],
+  "win_rate": 0.75,
+  "opponent_score_share": 0.5107100458122772,
+  "skill": 200.2133840916437,
+  "skill_sigma": 32.93751551715808,
+  "name": "Johan Kjell",
+  "slug": "johan-kjell",
+  "skill_rank": 9.0,
+  "skill_rank_pct": 9.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      172.0
+    ],
+    [
+      2016,
+      null
+    ],
+    [
+      2017,
+      78.0
+    ],
+    [
+      2018,
+      200.0
+    ],
+    [
+      2019,
+      null
+    ],
+    [
+      2020,
+      null
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2012,
+      "last_game": {
+        "opponent_name": "Jerker Karlsson",
+        "score": 7,
+        "opponent_score": 6,
+        "is_winner": true,
+        "stage": "gruppspel"
+      },
+      "n_games": 2,
+      "n_wins": 2
+    },
+    {
+      "year": 2017,
+      "last_game": {
+        "opponent_name": "Sandra Starfelt",
+        "score": 6,
+        "opponent_score": 7,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "n_games": 2,
+      "n_wins": 0
+    },
+    {
+      "year": 2018,
+      "last_game": {
+        "opponent_name": "Jens Hultkrans",
+        "score": 13,
+        "opponent_score": 5,
+        "is_winner": true,
+        "stage": "vinnare"
+      },
+      "n_games": 8,
+      "n_wins": 7
+    }
+  ],
+  "best_stage": "vinnare",
+  "best_stage_years": [
+    2018
+  ]
+}

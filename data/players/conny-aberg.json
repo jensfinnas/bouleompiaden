@@ -1,0 +1,65 @@
+{
+  "n_games": 2,
+  "score_share": 0.15,
+  "n_wins": 0,
+  "years": [
+    2012
+  ],
+  "win_rate": 0.0,
+  "opponent_score_share": 0.4994114885659003,
+  "skill": 15.145942025378263,
+  "skill_sigma": 75.31316150277124,
+  "name": "Conny \u00c5berg",
+  "slug": "conny-aberg",
+  "skill_rank": 104.0,
+  "skill_rank_pct": 104.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      15.0
+    ],
+    [
+      2016,
+      null
+    ],
+    [
+      2017,
+      null
+    ],
+    [
+      2018,
+      null
+    ],
+    [
+      2019,
+      null
+    ],
+    [
+      2020,
+      null
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2012,
+      "last_game": {
+        "opponent_name": "Johan Alm",
+        "score": 0,
+        "opponent_score": 7,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "n_games": 2,
+      "n_wins": 0
+    }
+  ],
+  "best_stage": "gruppspel",
+  "best_stage_years": [
+    2012,
+    2012
+  ]
+}

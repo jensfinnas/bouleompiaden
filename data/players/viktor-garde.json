@@ -1,0 +1,66 @@
+{
+  "n_games": 3,
+  "score_share": 0.4444444444444445,
+  "n_wins": 1,
+  "years": [
+    2019
+  ],
+  "win_rate": 0.3333333333333333,
+  "opponent_score_share": 0.5726091232996043,
+  "skill": 101.65456481380942,
+  "skill_sigma": 60.06546481491012,
+  "name": "Viktor G\u00e4rde",
+  "slug": "viktor-garde",
+  "skill_rank": 62.0,
+  "skill_rank_pct": 62.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      null
+    ],
+    [
+      2016,
+      null
+    ],
+    [
+      2017,
+      null
+    ],
+    [
+      2018,
+      null
+    ],
+    [
+      2019,
+      102.0
+    ],
+    [
+      2020,
+      null
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2019,
+      "last_game": {
+        "opponent_name": "Jens Hultkrans",
+        "score": 4,
+        "opponent_score": 8,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "n_games": 3,
+      "n_wins": 1
+    }
+  ],
+  "best_stage": "gruppspel",
+  "best_stage_years": [
+    2019,
+    2019,
+    2019
+  ]
+}

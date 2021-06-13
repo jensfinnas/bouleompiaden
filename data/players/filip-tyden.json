@@ -1,0 +1,64 @@
+{
+  "n_games": 5,
+  "score_share": 0.6461829836829838,
+  "n_wins": 5,
+  "years": [
+    2012
+  ],
+  "win_rate": 1.0,
+  "opponent_score_share": 0.5715456651056761,
+  "skill": 271.0261300539191,
+  "skill_sigma": 52.79508455006538,
+  "name": "Filip Tyd\u00e9n",
+  "slug": "filip-tyden",
+  "skill_rank": 1.0,
+  "skill_rank_pct": 1.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      271.0
+    ],
+    [
+      2016,
+      null
+    ],
+    [
+      2017,
+      null
+    ],
+    [
+      2018,
+      null
+    ],
+    [
+      2019,
+      null
+    ],
+    [
+      2020,
+      null
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2012,
+      "last_game": {
+        "opponent_name": "Johan Alm",
+        "score": 13,
+        "opponent_score": 3,
+        "is_winner": true,
+        "stage": "vinnare"
+      },
+      "n_games": 5,
+      "n_wins": 5
+    }
+  ],
+  "best_stage": "vinnare",
+  "best_stage_years": [
+    2012
+  ]
+}

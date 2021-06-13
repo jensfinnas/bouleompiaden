@@ -1,0 +1,77 @@
+{
+  "n_games": 6,
+  "score_share": 0.5314737005913477,
+  "n_wins": 3,
+  "years": [
+    2018,
+    2019
+  ],
+  "win_rate": 0.5,
+  "opponent_score_share": 0.5440961599701754,
+  "skill": 88.73498089421172,
+  "skill_sigma": 46.283094482429824,
+  "name": "Sebastin Fors\u00e9n",
+  "slug": "sebastin-forsen",
+  "skill_rank": 67.0,
+  "skill_rank_pct": 67.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      null
+    ],
+    [
+      2016,
+      null
+    ],
+    [
+      2017,
+      null
+    ],
+    [
+      2018,
+      116.0
+    ],
+    [
+      2019,
+      89.0
+    ],
+    [
+      2020,
+      null
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2018,
+      "last_game": {
+        "opponent_name": "Johan Kjell",
+        "score": 8,
+        "opponent_score": 9,
+        "is_winner": false,
+        "stage": "sextondelsfinal"
+      },
+      "n_games": 3,
+      "n_wins": 2
+    },
+    {
+      "year": 2019,
+      "last_game": {
+        "opponent_name": "Linnea Karlsson",
+        "score": 8,
+        "opponent_score": 0,
+        "is_winner": true,
+        "stage": "gruppspel"
+      },
+      "n_games": 3,
+      "n_wins": 1
+    }
+  ],
+  "best_stage": "sextondelsfinal",
+  "best_stage_years": [
+    2018
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "n_games": 5,
+  "score_share": 0.5338235294117647,
+  "n_wins": 3,
+  "years": [
+    2020
+  ],
+  "win_rate": 0.6,
+  "opponent_score_share": 0.5075253856610809,
+  "skill": 165.1321624707319,
+  "skill_sigma": 47.81762417713584,
+  "name": "Martyna",
+  "slug": "martyna",
+  "skill_rank": 21.0,
+  "skill_rank_pct": 21.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      null
+    ],
+    [
+      2016,
+      null
+    ],
+    [
+      2017,
+      null
+    ],
+    [
+      2018,
+      null
+    ],
+    [
+      2019,
+      null
+    ],
+    [
+      2020,
+      165.0
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2020,
+      "last_game": {
+        "opponent_name": "Edvin Lindsten",
+        "score": 5,
+        "opponent_score": 12,
+        "is_winner": false,
+        "stage": "\u00e5ttondelsfinal"
+      },
+      "n_games": 5,
+      "n_wins": 3
+    }
+  ],
+  "best_stage": "\u00e5ttondelsfinal",
+  "best_stage_years": [
+    2020
+  ]
+}

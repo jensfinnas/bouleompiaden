@@ -1,0 +1,64 @@
+{
+  "n_games": 3,
+  "score_share": 0.46428571428571425,
+  "n_wins": 1,
+  "years": [
+    2020
+  ],
+  "win_rate": 0.3333333333333333,
+  "opponent_score_share": 0.5245838990388224,
+  "skill": 118.68245665497726,
+  "skill_sigma": 55.66465863436521,
+  "name": "Caroline Edholm",
+  "slug": "caroline-edholm",
+  "skill_rank": 52.0,
+  "skill_rank_pct": 52.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      null
+    ],
+    [
+      2016,
+      null
+    ],
+    [
+      2017,
+      null
+    ],
+    [
+      2018,
+      null
+    ],
+    [
+      2019,
+      null
+    ],
+    [
+      2020,
+      119.0
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2020,
+      "last_game": {
+        "opponent_name": "Tim Samuelsson",
+        "score": 5,
+        "opponent_score": 11,
+        "is_winner": false,
+        "stage": "sextondelsfinal"
+      },
+      "n_games": 3,
+      "n_wins": 1
+    }
+  ],
+  "best_stage": "sextondelsfinal",
+  "best_stage_years": [
+    2020
+  ]
+}

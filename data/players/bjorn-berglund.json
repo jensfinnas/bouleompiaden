@@ -1,0 +1,90 @@
+{
+  "n_games": 9,
+  "score_share": 0.49594645550527905,
+  "n_wins": 3,
+  "years": [
+    2018,
+    2019,
+    2020
+  ],
+  "win_rate": 0.3333333333333333,
+  "opponent_score_share": 0.4909783302148406,
+  "skill": 79.5039625720265,
+  "skill_sigma": 42.40850863816587,
+  "name": "Bj\u00f6rn Berglund",
+  "slug": "bjorn-berglund",
+  "skill_rank": 75.0,
+  "skill_rank_pct": 75.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      null
+    ],
+    [
+      2016,
+      null
+    ],
+    [
+      2017,
+      null
+    ],
+    [
+      2018,
+      12.0
+    ],
+    [
+      2019,
+      60.0
+    ],
+    [
+      2020,
+      80.0
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2018,
+      "last_game": {
+        "opponent_name": "Sussie R\u00e5dis",
+        "score": 6,
+        "opponent_score": 7,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "n_games": 2,
+      "n_wins": 0
+    },
+    {
+      "year": 2019,
+      "last_game": {
+        "opponent_name": "Alexander Bjerner",
+        "score": 4,
+        "opponent_score": 8,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "n_games": 3,
+      "n_wins": 1
+    },
+    {
+      "year": 2020,
+      "last_game": {
+        "opponent_name": "Wille Laska",
+        "score": 6,
+        "opponent_score": 11,
+        "is_winner": false,
+        "stage": "sextondelsfinal"
+      },
+      "n_games": 4,
+      "n_wins": 2
+    }
+  ],
+  "best_stage": "sextondelsfinal",
+  "best_stage_years": [
+    2020
+  ]
+}

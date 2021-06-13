@@ -1,0 +1,129 @@
+{
+  "n_games": 23,
+  "score_share": 0.5680243456458289,
+  "n_wins": 16,
+  "years": [
+    2011,
+    2012,
+    2016,
+    2017,
+    2018,
+    2019
+  ],
+  "win_rate": 0.6956521739130435,
+  "opponent_score_share": 0.4951208913644169,
+  "skill": 159.19042579610746,
+  "skill_sigma": 27.02801996168396,
+  "name": "Jakob Lien",
+  "slug": "jakob-lien",
+  "skill_rank": 25.0,
+  "skill_rank_pct": 25.0,
+  "skill_history": [
+    [
+      2011,
+      122.0
+    ],
+    [
+      2012,
+      183.0
+    ],
+    [
+      2016,
+      197.0
+    ],
+    [
+      2017,
+      193.0
+    ],
+    [
+      2018,
+      164.0
+    ],
+    [
+      2019,
+      159.0
+    ],
+    [
+      2020,
+      null
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2011,
+      "last_game": {
+        "opponent_name": "Cissi Hellman",
+        "score": 5,
+        "opponent_score": 7,
+        "is_winner": false,
+        "stage": "kvartsfinal"
+      },
+      "n_games": 3,
+      "n_wins": 2
+    },
+    {
+      "year": 2012,
+      "last_game": {
+        "opponent_name": "Theodore Ripman",
+        "score": 7,
+        "opponent_score": 5,
+        "is_winner": true,
+        "stage": "bronsmatch"
+      },
+      "n_games": 5,
+      "n_wins": 4
+    },
+    {
+      "year": 2016,
+      "last_game": {
+        "opponent_name": "Gabriel Nordenankar",
+        "score": 6,
+        "opponent_score": 12,
+        "is_winner": false,
+        "stage": "final"
+      },
+      "n_games": 5,
+      "n_wins": 4
+    },
+    {
+      "year": 2017,
+      "last_game": {
+        "opponent_name": "Edvin Lindsten",
+        "score": 1,
+        "opponent_score": 7,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "n_games": 3,
+      "n_wins": 2
+    },
+    {
+      "year": 2018,
+      "last_game": {
+        "opponent_name": "Lovisa Birgersson",
+        "score": 5,
+        "opponent_score": 9,
+        "is_winner": false,
+        "stage": "sextondelsfinal"
+      },
+      "n_games": 4,
+      "n_wins": 2
+    },
+    {
+      "year": 2019,
+      "last_game": {
+        "opponent_name": "Pelle Dovborg",
+        "score": 0,
+        "opponent_score": 10,
+        "is_winner": false,
+        "stage": "sextondelsfinal"
+      },
+      "n_games": 3,
+      "n_wins": 2
+    }
+  ],
+  "best_stage": "final",
+  "best_stage_years": [
+    2016
+  ]
+}

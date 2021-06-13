@@ -1,0 +1,65 @@
+{
+  "n_games": 2,
+  "score_share": 0.24545454545454548,
+  "n_wins": 0,
+  "years": [
+    2020
+  ],
+  "win_rate": 0.0,
+  "opponent_score_share": 0.49731088356088354,
+  "skill": 12.793444323203667,
+  "skill_sigma": 71.64875025614924,
+  "name": "Carl Rother-Schirren",
+  "slug": "carl-rother-schirren",
+  "skill_rank": 108.0,
+  "skill_rank_pct": 108.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      null
+    ],
+    [
+      2016,
+      null
+    ],
+    [
+      2017,
+      null
+    ],
+    [
+      2018,
+      null
+    ],
+    [
+      2019,
+      null
+    ],
+    [
+      2020,
+      13.0
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2020,
+      "last_game": {
+        "opponent_name": "Fredrik Berg",
+        "score": 6,
+        "opponent_score": 9,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "n_games": 2,
+      "n_wins": 0
+    }
+  ],
+  "best_stage": "gruppspel",
+  "best_stage_years": [
+    2020,
+    2020
+  ]
+}

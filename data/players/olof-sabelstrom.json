@@ -1,0 +1,77 @@
+{
+  "n_games": 6,
+  "score_share": 0.35000000000000003,
+  "n_wins": 2,
+  "years": [
+    2011,
+    2012
+  ],
+  "win_rate": 0.3333333333333333,
+  "opponent_score_share": 0.5445288640498472,
+  "skill": 80.37213828818417,
+  "skill_sigma": 50.47077673902454,
+  "name": "Olof Sabelstr\u00f6m",
+  "slug": "olof-sabelstrom",
+  "skill_rank": 74.0,
+  "skill_rank_pct": 74.0,
+  "skill_history": [
+    [
+      2011,
+      125.0
+    ],
+    [
+      2012,
+      80.0
+    ],
+    [
+      2016,
+      null
+    ],
+    [
+      2017,
+      null
+    ],
+    [
+      2018,
+      null
+    ],
+    [
+      2019,
+      null
+    ],
+    [
+      2020,
+      null
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2011,
+      "last_game": {
+        "opponent_name": "Cissi Hellman",
+        "score": 5,
+        "opponent_score": 7,
+        "is_winner": false,
+        "stage": "semifinal"
+      },
+      "n_games": 4,
+      "n_wins": 2
+    },
+    {
+      "year": 2012,
+      "last_game": {
+        "opponent_name": "Love Andr\u00e9asson",
+        "score": 5,
+        "opponent_score": 7,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "n_games": 2,
+      "n_wins": 0
+    }
+  ],
+  "best_stage": "semifinal",
+  "best_stage_years": [
+    2011
+  ]
+}

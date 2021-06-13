@@ -1,0 +1,65 @@
+{
+  "n_games": 2,
+  "score_share": 0.36713286713286714,
+  "n_wins": 0,
+  "years": [
+    2018
+  ],
+  "win_rate": 0.0,
+  "opponent_score_share": 0.5075899100899102,
+  "skill": 0.7895343692247996,
+  "skill_sigma": 70.98176389807362,
+  "name": "Kevin Carlsson",
+  "slug": "kevin-carlsson",
+  "skill_rank": 117.0,
+  "skill_rank_pct": 117.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      null
+    ],
+    [
+      2016,
+      null
+    ],
+    [
+      2017,
+      null
+    ],
+    [
+      2018,
+      1.0
+    ],
+    [
+      2019,
+      null
+    ],
+    [
+      2020,
+      null
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2018,
+      "last_game": {
+        "opponent_name": "Julius Jorborg",
+        "score": 3,
+        "opponent_score": 8,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "n_games": 2,
+      "n_wins": 0
+    }
+  ],
+  "best_stage": "gruppspel",
+  "best_stage_years": [
+    2018,
+    2018
+  ]
+}

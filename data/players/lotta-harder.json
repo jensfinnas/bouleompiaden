@@ -1,0 +1,77 @@
+{
+  "n_games": 6,
+  "score_share": 0.5641247641247641,
+  "n_wins": 3,
+  "years": [
+    2016,
+    2019
+  ],
+  "win_rate": 0.5,
+  "opponent_score_share": 0.4747943542696049,
+  "skill": 107.76818085736672,
+  "skill_sigma": 45.831823490205295,
+  "name": "Lotta Harder",
+  "slug": "lotta-harder",
+  "skill_rank": 58.0,
+  "skill_rank_pct": 58.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      null
+    ],
+    [
+      2016,
+      130.0
+    ],
+    [
+      2017,
+      null
+    ],
+    [
+      2018,
+      null
+    ],
+    [
+      2019,
+      108.0
+    ],
+    [
+      2020,
+      null
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2016,
+      "last_game": {
+        "opponent_name": "Gabriel Nordenankar",
+        "score": 2,
+        "opponent_score": 9,
+        "is_winner": false,
+        "stage": "kvartsfinal"
+      },
+      "n_games": 3,
+      "n_wins": 2
+    },
+    {
+      "year": 2019,
+      "last_game": {
+        "opponent_name": "Alexander Bjerner",
+        "score": 4,
+        "opponent_score": 9,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "n_games": 3,
+      "n_wins": 1
+    }
+  ],
+  "best_stage": "kvartsfinal",
+  "best_stage_years": [
+    2016
+  ]
+}

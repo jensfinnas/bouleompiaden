@@ -1,0 +1,129 @@
+{
+  "n_games": 15,
+  "score_share": 0.3556132756132756,
+  "n_wins": 4,
+  "years": [
+    2011,
+    2012,
+    2016,
+    2017,
+    2018,
+    2019
+  ],
+  "win_rate": 0.26666666666666666,
+  "opponent_score_share": 0.5281501105977945,
+  "skill": 56.16954114268848,
+  "skill_sigma": 34.67461494623513,
+  "name": "Sofia R\u00e5dstr\u00f6m",
+  "slug": "sofia-radstrom",
+  "skill_rank": 89.0,
+  "skill_rank_pct": 89.0,
+  "skill_history": [
+    [
+      2011,
+      15.0
+    ],
+    [
+      2012,
+      -14.0
+    ],
+    [
+      2016,
+      -45.0
+    ],
+    [
+      2017,
+      24.0
+    ],
+    [
+      2018,
+      7.0
+    ],
+    [
+      2019,
+      56.0
+    ],
+    [
+      2020,
+      null
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2011,
+      "last_game": {
+        "opponent_name": "Jakob Lien",
+        "score": 2,
+        "opponent_score": 8,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "n_games": 2,
+      "n_wins": 0
+    },
+    {
+      "year": 2012,
+      "last_game": {
+        "opponent_name": "Frida \u00d6hrn",
+        "score": 4,
+        "opponent_score": 7,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "n_games": 2,
+      "n_wins": 0
+    },
+    {
+      "year": 2016,
+      "last_game": {
+        "opponent_name": "Richard Ekman",
+        "score": 3,
+        "opponent_score": 7,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "n_games": 2,
+      "n_wins": 0
+    },
+    {
+      "year": 2017,
+      "last_game": {
+        "opponent_name": "Richard Ekman",
+        "score": 1,
+        "opponent_score": 10,
+        "is_winner": false,
+        "stage": "\u00e5ttondelsfinal"
+      },
+      "n_games": 4,
+      "n_wins": 2
+    },
+    {
+      "year": 2018,
+      "last_game": {
+        "opponent_name": "Jens Hultkrans",
+        "score": 4,
+        "opponent_score": 7,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "n_games": 2,
+      "n_wins": 0
+    },
+    {
+      "year": 2019,
+      "last_game": {
+        "opponent_name": "Jens Hultkrans",
+        "score": 3,
+        "opponent_score": 11,
+        "is_winner": false,
+        "stage": "sextondelsfinal"
+      },
+      "n_games": 3,
+      "n_wins": 2
+    }
+  ],
+  "best_stage": "\u00e5ttondelsfinal",
+  "best_stage_years": [
+    2017
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "n_games": 2,
+  "score_share": 0.10555555555555556,
+  "n_wins": 0,
+  "years": [
+    2019
+  ],
+  "win_rate": 0.0,
+  "opponent_score_share": 0.5401061120681864,
+  "skill": 12.171755924354164,
+  "skill_sigma": 70.96224863449702,
+  "name": "Frida Danielsson",
+  "slug": "frida-danielsson",
+  "skill_rank": 109.0,
+  "skill_rank_pct": 109.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      null
+    ],
+    [
+      2016,
+      null
+    ],
+    [
+      2017,
+      null
+    ],
+    [
+      2018,
+      null
+    ],
+    [
+      2019,
+      12.0
+    ],
+    [
+      2020,
+      null
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2019,
+      "last_game": {
+        "opponent_name": "Olaver",
+        "score": 1,
+        "opponent_score": 8,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "n_games": 2,
+      "n_wins": 0
+    }
+  ],
+  "best_stage": "gruppspel",
+  "best_stage_years": [
+    2019,
+    2019
+  ]
+}

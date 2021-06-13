@@ -1,0 +1,64 @@
+{
+  "n_games": 4,
+  "score_share": 0.44533756684491976,
+  "n_wins": 1,
+  "years": [
+    2020
+  ],
+  "win_rate": 0.25,
+  "opponent_score_share": 0.5404711977666941,
+  "skill": 35.78905236101366,
+  "skill_sigma": 58.50951506789129,
+  "name": "Adriana Lilja",
+  "slug": "adriana-lilja",
+  "skill_rank": 97.0,
+  "skill_rank_pct": 97.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      null
+    ],
+    [
+      2016,
+      null
+    ],
+    [
+      2017,
+      null
+    ],
+    [
+      2018,
+      null
+    ],
+    [
+      2019,
+      null
+    ],
+    [
+      2020,
+      36.0
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2020,
+      "last_game": {
+        "opponent_name": "Alexander Starfelt",
+        "score": 6,
+        "opponent_score": 11,
+        "is_winner": false,
+        "stage": "sextondelsfinal"
+      },
+      "n_games": 4,
+      "n_wins": 1
+    }
+  ],
+  "best_stage": "sextondelsfinal",
+  "best_stage_years": [
+    2020
+  ]
+}

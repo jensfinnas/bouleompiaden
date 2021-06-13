@@ -1,0 +1,90 @@
+{
+  "n_games": 20,
+  "score_share": 0.5317175838867015,
+  "n_wins": 12,
+  "years": [
+    2018,
+    2019,
+    2020
+  ],
+  "win_rate": 0.6,
+  "opponent_score_share": 0.5075167639222482,
+  "skill": 167.64317757314467,
+  "skill_sigma": 25.374759224114253,
+  "name": "Jens Hultkrans",
+  "slug": "jens-hultkrans",
+  "skill_rank": 20.0,
+  "skill_rank_pct": 20.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      null
+    ],
+    [
+      2016,
+      null
+    ],
+    [
+      2017,
+      null
+    ],
+    [
+      2018,
+      185.0
+    ],
+    [
+      2019,
+      180.0
+    ],
+    [
+      2020,
+      168.0
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2018,
+      "last_game": {
+        "opponent_name": "Johan Kjell",
+        "score": 5,
+        "opponent_score": 13,
+        "is_winner": false,
+        "stage": "final"
+      },
+      "n_games": 8,
+      "n_wins": 5
+    },
+    {
+      "year": 2019,
+      "last_game": {
+        "opponent_name": "Benjamin Ger. Hed.",
+        "score": 6,
+        "opponent_score": 10,
+        "is_winner": false,
+        "stage": "kvartsfinal"
+      },
+      "n_games": 6,
+      "n_wins": 4
+    },
+    {
+      "year": 2020,
+      "last_game": {
+        "opponent_name": "Robeson",
+        "score": 10,
+        "opponent_score": 11,
+        "is_winner": false,
+        "stage": "kvartsfinal"
+      },
+      "n_games": 6,
+      "n_wins": 3
+    }
+  ],
+  "best_stage": "final",
+  "best_stage_years": [
+    2018
+  ]
+}

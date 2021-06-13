@@ -1,0 +1,143 @@
+{
+  "n_games": 28,
+  "score_share": 0.6143911487426524,
+  "n_wins": 22,
+  "years": [
+    2011,
+    2012,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020
+  ],
+  "win_rate": 0.7857142857142857,
+  "opponent_score_share": 0.5104201887524406,
+  "skill": 223.35825731937956,
+  "skill_sigma": 25.195379317269655,
+  "name": "Gabriel Nordenankar",
+  "slug": "gabriel-nordenankar",
+  "skill_rank": 2.0,
+  "skill_rank_pct": 2.0,
+  "skill_history": [
+    [
+      2011,
+      99.0
+    ],
+    [
+      2012,
+      115.0
+    ],
+    [
+      2016,
+      210.0
+    ],
+    [
+      2017,
+      250.0
+    ],
+    [
+      2018,
+      243.0
+    ],
+    [
+      2019,
+      242.0
+    ],
+    [
+      2020,
+      223.0
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2011,
+      "last_game": {
+        "opponent_name": "Cissi Hellman",
+        "score": 7,
+        "opponent_score": 3,
+        "is_winner": true,
+        "stage": "gruppspel"
+      },
+      "n_games": 2,
+      "n_wins": 1
+    },
+    {
+      "year": 2012,
+      "last_game": {
+        "opponent_name": "Love Andr\u00e9asson",
+        "score": 2,
+        "opponent_score": 7,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "n_games": 2,
+      "n_wins": 1
+    },
+    {
+      "year": 2016,
+      "last_game": {
+        "opponent_name": "Jakob Lien",
+        "score": 12,
+        "opponent_score": 6,
+        "is_winner": true,
+        "stage": "vinnare"
+      },
+      "n_games": 5,
+      "n_wins": 5
+    },
+    {
+      "year": 2017,
+      "last_game": {
+        "opponent_name": "Edvin Lindsten",
+        "score": 13,
+        "opponent_score": 2,
+        "is_winner": true,
+        "stage": "vinnare"
+      },
+      "n_games": 6,
+      "n_wins": 6
+    },
+    {
+      "year": 2018,
+      "last_game": {
+        "opponent_name": "Jens Hultkrans",
+        "score": 4,
+        "opponent_score": 9,
+        "is_winner": false,
+        "stage": "kvartsfinal"
+      },
+      "n_games": 5,
+      "n_wins": 4
+    },
+    {
+      "year": 2019,
+      "last_game": {
+        "opponent_name": "Estrid",
+        "score": 9,
+        "opponent_score": 10,
+        "is_winner": false,
+        "stage": "kvartsfinal"
+      },
+      "n_games": 5,
+      "n_wins": 4
+    },
+    {
+      "year": 2020,
+      "last_game": {
+        "opponent_name": "Pia T\u00f6rnkvist",
+        "score": 3,
+        "opponent_score": 9,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "n_games": 3,
+      "n_wins": 1
+    }
+  ],
+  "best_stage": "vinnare",
+  "best_stage_years": [
+    2016,
+    2017
+  ]
+}

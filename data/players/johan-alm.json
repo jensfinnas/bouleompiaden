@@ -1,0 +1,64 @@
+{
+  "n_games": 5,
+  "score_share": 0.6757478632478632,
+  "n_wins": 4,
+  "years": [
+    2012
+  ],
+  "win_rate": 0.8,
+  "opponent_score_share": 0.4720430581980513,
+  "skill": 220.9505233889524,
+  "skill_sigma": 53.40811638215878,
+  "name": "Johan Alm",
+  "slug": "johan-alm",
+  "skill_rank": 3.0,
+  "skill_rank_pct": 3.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      221.0
+    ],
+    [
+      2016,
+      null
+    ],
+    [
+      2017,
+      null
+    ],
+    [
+      2018,
+      null
+    ],
+    [
+      2019,
+      null
+    ],
+    [
+      2020,
+      null
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2012,
+      "last_game": {
+        "opponent_name": "Filip Tyd\u00e9n",
+        "score": 3,
+        "opponent_score": 13,
+        "is_winner": false,
+        "stage": "final"
+      },
+      "n_games": 5,
+      "n_wins": 4
+    }
+  ],
+  "best_stage": "final",
+  "best_stage_years": [
+    2012
+  ]
+}

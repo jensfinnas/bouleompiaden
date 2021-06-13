@@ -1,0 +1,77 @@
+{
+  "n_games": 7,
+  "score_share": 0.4349618635332921,
+  "n_wins": 3,
+  "years": [
+    2017,
+    2018
+  ],
+  "win_rate": 0.42857142857142855,
+  "opponent_score_share": 0.4812727660234054,
+  "skill": 83.23915158295911,
+  "skill_sigma": 44.060859547860005,
+  "name": "Love Elfvelin",
+  "slug": "love-elfvelin",
+  "skill_rank": 72.0,
+  "skill_rank_pct": 72.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      null
+    ],
+    [
+      2016,
+      null
+    ],
+    [
+      2017,
+      49.0
+    ],
+    [
+      2018,
+      83.0
+    ],
+    [
+      2019,
+      null
+    ],
+    [
+      2020,
+      null
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2017,
+      "last_game": {
+        "opponent_name": "Richard Ekman",
+        "score": 2,
+        "opponent_score": 7,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "n_games": 3,
+      "n_wins": 1
+    },
+    {
+      "year": 2018,
+      "last_game": {
+        "opponent_name": "Ville Nordenankar",
+        "score": 0,
+        "opponent_score": 9,
+        "is_winner": false,
+        "stage": "sextondelsfinal"
+      },
+      "n_games": 4,
+      "n_wins": 2
+    }
+  ],
+  "best_stage": "sextondelsfinal",
+  "best_stage_years": [
+    2018
+  ]
+}

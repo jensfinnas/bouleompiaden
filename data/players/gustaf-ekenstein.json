@@ -1,0 +1,66 @@
+{
+  "n_games": 3,
+  "score_share": 0.4611111111111111,
+  "n_wins": 1,
+  "years": [
+    2018
+  ],
+  "win_rate": 0.3333333333333333,
+  "opponent_score_share": 0.4460860075365088,
+  "skill": 71.28682370713798,
+  "skill_sigma": 67.77237869843846,
+  "name": "Gustaf Ekenstein",
+  "slug": "gustaf-ekenstein",
+  "skill_rank": 80.0,
+  "skill_rank_pct": 80.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      null
+    ],
+    [
+      2016,
+      null
+    ],
+    [
+      2017,
+      null
+    ],
+    [
+      2018,
+      71.0
+    ],
+    [
+      2019,
+      null
+    ],
+    [
+      2020,
+      null
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2018,
+      "last_game": {
+        "opponent_name": "Sussie R\u00e5dis",
+        "score": 3,
+        "opponent_score": 7,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "n_games": 3,
+      "n_wins": 1
+    }
+  ],
+  "best_stage": "gruppspel",
+  "best_stage_years": [
+    2018,
+    2018,
+    2018
+  ]
+}

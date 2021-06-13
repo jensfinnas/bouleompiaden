@@ -1,0 +1,77 @@
+{
+  "n_games": 12,
+  "score_share": 0.6307361168816277,
+  "n_wins": 9,
+  "years": [
+    2018,
+    2019
+  ],
+  "win_rate": 0.75,
+  "opponent_score_share": 0.5194002943761115,
+  "skill": 212.41833338920398,
+  "skill_sigma": 32.900214983908874,
+  "name": "Estrid",
+  "slug": "estrid",
+  "skill_rank": 4.0,
+  "skill_rank_pct": 4.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      null
+    ],
+    [
+      2016,
+      null
+    ],
+    [
+      2017,
+      null
+    ],
+    [
+      2018,
+      207.0
+    ],
+    [
+      2019,
+      212.0
+    ],
+    [
+      2020,
+      null
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2018,
+      "last_game": {
+        "opponent_name": "Robin Fogelberg",
+        "score": 8,
+        "opponent_score": 9,
+        "is_winner": false,
+        "stage": "kvartsfinal"
+      },
+      "n_games": 5,
+      "n_wins": 4
+    },
+    {
+      "year": 2019,
+      "last_game": {
+        "opponent_name": "Robeson",
+        "score": 5,
+        "opponent_score": 13,
+        "is_winner": false,
+        "stage": "bronsmatch"
+      },
+      "n_games": 7,
+      "n_wins": 5
+    }
+  ],
+  "best_stage": "bronsmatch",
+  "best_stage_years": [
+    2019
+  ]
+}

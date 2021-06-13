@@ -1,0 +1,77 @@
+{
+  "n_games": 6,
+  "score_share": 0.5017578826402356,
+  "n_wins": 3,
+  "years": [
+    2017,
+    2018
+  ],
+  "win_rate": 0.5,
+  "opponent_score_share": 0.4943386914789227,
+  "skill": 122.86336950456626,
+  "skill_sigma": 47.161066411553726,
+  "name": "Ida Wimmerman",
+  "slug": "ida-wimmerman",
+  "skill_rank": 50.0,
+  "skill_rank_pct": 50.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      null
+    ],
+    [
+      2016,
+      null
+    ],
+    [
+      2017,
+      22.0
+    ],
+    [
+      2018,
+      123.0
+    ],
+    [
+      2019,
+      null
+    ],
+    [
+      2020,
+      null
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2017,
+      "last_game": {
+        "opponent_name": "Sofia Ahlstr\u00f6m",
+        "score": 6,
+        "opponent_score": 7,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "n_games": 2,
+      "n_wins": 0
+    },
+    {
+      "year": 2018,
+      "last_game": {
+        "opponent_name": "Jens Hultkrans",
+        "score": 4,
+        "opponent_score": 9,
+        "is_winner": false,
+        "stage": "\u00e5ttondelsfinal"
+      },
+      "n_games": 4,
+      "n_wins": 3
+    }
+  ],
+  "best_stage": "\u00e5ttondelsfinal",
+  "best_stage_years": [
+    2018
+  ]
+}

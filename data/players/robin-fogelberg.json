@@ -1,0 +1,90 @@
+{
+  "n_games": 16,
+  "score_share": 0.560044785688168,
+  "n_wins": 10,
+  "years": [
+    2018,
+    2019,
+    2020
+  ],
+  "win_rate": 0.625,
+  "opponent_score_share": 0.5225366763932737,
+  "skill": 170.51567652934446,
+  "skill_sigma": 28.468918749915748,
+  "name": "Robin Fogelberg",
+  "slug": "robin-fogelberg",
+  "skill_rank": 17.0,
+  "skill_rank_pct": 17.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      null
+    ],
+    [
+      2016,
+      null
+    ],
+    [
+      2017,
+      null
+    ],
+    [
+      2018,
+      155.0
+    ],
+    [
+      2019,
+      179.0
+    ],
+    [
+      2020,
+      171.0
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2018,
+      "last_game": {
+        "opponent_name": "Erik Nordenankar",
+        "score": 7,
+        "opponent_score": 14,
+        "is_winner": false,
+        "stage": "bronsmatch"
+      },
+      "n_games": 8,
+      "n_wins": 4
+    },
+    {
+      "year": 2019,
+      "last_game": {
+        "opponent_name": "Theodore Ripman",
+        "score": 4,
+        "opponent_score": 10,
+        "is_winner": false,
+        "stage": "kvartsfinal"
+      },
+      "n_games": 5,
+      "n_wins": 4
+    },
+    {
+      "year": 2020,
+      "last_game": {
+        "opponent_name": "Hannes Jordan",
+        "score": 9,
+        "opponent_score": 11,
+        "is_winner": false,
+        "stage": "sextondelsfinal"
+      },
+      "n_games": 3,
+      "n_wins": 2
+    }
+  ],
+  "best_stage": "bronsmatch",
+  "best_stage_years": [
+    2018
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "n_games": 9,
+  "score_share": 0.4545750545750546,
+  "n_wins": 5,
+  "years": [
+    2016,
+    2018,
+    2019
+  ],
+  "win_rate": 0.5555555555555556,
+  "opponent_score_share": 0.49657625590860976,
+  "skill": 150.07839635366042,
+  "skill_sigma": 41.052139966874726,
+  "name": "Jens Finn\u00e4s",
+  "slug": "jens-finnas",
+  "skill_rank": 29.0,
+  "skill_rank_pct": 29.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      null
+    ],
+    [
+      2016,
+      94.0
+    ],
+    [
+      2017,
+      null
+    ],
+    [
+      2018,
+      134.0
+    ],
+    [
+      2019,
+      150.0
+    ],
+    [
+      2020,
+      null
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2016,
+      "last_game": {
+        "opponent_name": "Lotta Harder",
+        "score": 2,
+        "opponent_score": 8,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "n_games": 2,
+      "n_wins": 1
+    },
+    {
+      "year": 2018,
+      "last_game": {
+        "opponent_name": "Love Andr\u00e9asson",
+        "score": 2,
+        "opponent_score": 9,
+        "is_winner": false,
+        "stage": "sextondelsfinal"
+      },
+      "n_games": 3,
+      "n_wins": 2
+    },
+    {
+      "year": 2019,
+      "last_game": {
+        "opponent_name": "Erik Nordenankar",
+        "score": 2,
+        "opponent_score": 11,
+        "is_winner": false,
+        "stage": "sextondelsfinal"
+      },
+      "n_games": 4,
+      "n_wins": 2
+    }
+  ],
+  "best_stage": "sextondelsfinal",
+  "best_stage_years": [
+    2019,
+    2018
+  ]
+}
