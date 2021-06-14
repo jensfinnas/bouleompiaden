@@ -1,6 +1,4 @@
-import pandas as pd
 import json
-from ast import literal_eval
 from trueskill import  Rating
 
 from settings import BY_PLAYER_FILE, META_DATA_FILE, GAMES_BY_PLAYER_FILE, TRUE_SKILL_BASE

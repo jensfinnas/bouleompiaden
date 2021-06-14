@@ -9,7 +9,7 @@ import os
 
 from modules.simulate import game
 from modules import  players
-from settings import STAGE, TRUE_SKILL_BASE, PLAYER_DATA_DIR
+from settings import TRUE_SKILL_BASE, PLAYER_DATA_DIR
 
 app = Flask(__name__)
 jsglue = JSGlue(app)

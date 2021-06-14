@@ -1,9 +1,5 @@
-import numpy as np
-import pandas as pd
 import math
 from modules import players
-from modules.utils import truncated_norm_distribution
-from modules.common import simulate_many_games
 from settings import true_skill_env
 
 
