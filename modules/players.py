@@ -1,19 +1,33 @@
 import json
 from trueskill import  Rating
+from slugify import slugify
+import os
 
 from settings import BY_PLAYER_FILE, META_DATA_FILE, GAMES_BY_PLAYER_FILE, TRUE_SKILL_BASE
 
-with open(BY_PLAYER_FILE) as f:
-    players = json.load(f)
 
 with open(META_DATA_FILE) as f:
     metadata = json.load(f)
 
 def all():
+    with open(BY_PLAYER_FILE) as f:
+        players = json.load(f)
+
     """Get a list of all players."""
     return players.values()
 
-def get(player_name):
+def get(player_name=None, player_slug=None):
+    if player_slug is None:
+        player_slug = slugify(player_name)
+    file_path = os.path.join("data", "players", player_slug + ".json")
+    with open(file_path) as f:
+        player = json.load(f)
+
+    player["rating"] = Rating(mu=player["skill"],
+                                sigma=player["skill_sigma"])
+    return player
+    """
+
     try:
         player = players[player_name]
         player["rating"] = Rating(mu=player["skill"],
@@ -33,6 +47,7 @@ def get(player_name):
             "years": []
         }        
     return player
+    """
 
 def previous_mutual_games(player1, player2):
     """Get all historical games between two players.

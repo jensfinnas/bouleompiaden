@@ -1,0 +1,131 @@
+{
+  "year": 2012,
+  "playoff": [
+    {
+      "stage": "kvartsfinal",
+      "games": [
+        {
+          "p1_name": "Jakob Lien",
+          "p2_name": "Patrik J\u00e4rg\u00e5rden",
+          "p1_score": 7,
+          "p2_score": 4,
+          "winner": "p1"
+        },
+        {
+          "p1_name": "Filip Tyd\u00e9n",
+          "p2_name": "Love Andr\u00e9asson",
+          "p1_score": 7,
+          "p2_score": 5,
+          "winner": "p1"
+        },
+        {
+          "p1_name": "Theodore Ripman",
+          "p2_name": "Jerker Karlsson",
+          "p1_score": 7,
+          "p2_score": 6,
+          "winner": "p1"
+        },
+        {
+          "p1_name": "Erik Nordenankar",
+          "p2_name": "Johan Alm",
+          "p1_score": 6,
+          "p2_score": 7,
+          "winner": "p2"
+        }
+      ]
+    },
+    {
+      "stage": "semifinal",
+      "games": [
+        {
+          "p1_name": "Jakob Lien",
+          "p2_name": "Filip Tyd\u00e9n",
+          "p1_score": 4,
+          "p2_score": 7,
+          "winner": "p2"
+        },
+        {
+          "p1_name": "Theodore Ripman",
+          "p2_name": "Johan Alm",
+          "p1_score": 2,
+          "p2_score": 7,
+          "winner": "p2"
+        }
+      ]
+    },
+    {
+      "stage": "bronsmatch",
+      "games": [
+        {
+          "p1_name": "Jakob Lien",
+          "p2_name": "Theodore Ripman",
+          "p1_score": 7,
+          "p2_score": 5,
+          "winner": "p1"
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "games": [
+        {
+          "p1_name": "Filip Tyd\u00e9n",
+          "p2_name": "Johan Alm",
+          "p1_score": 13,
+          "p2_score": 3,
+          "winner": "p1"
+        }
+      ]
+    }
+  ],
+  "player_skill_change": [
+    {
+      "player": "Jakob Lien",
+      "skill": 183.0,
+      "player_slug": "jakob-lien",
+      "change": 61.0
+    },
+    {
+      "player": "Gabriel Nordenankar",
+      "skill": 115.0,
+      "player_slug": "gabriel-nordenankar",
+      "change": 16.0
+    },
+    {
+      "player": "Andreas Josefson",
+      "skill": 89.0,
+      "player_slug": "andreas-josefson",
+      "change": 4.0
+    },
+    {
+      "player": "Theodore Ripman",
+      "skill": 125.0,
+      "player_slug": "theodore-ripman",
+      "change": 2.0
+    },
+    {
+      "player": "Erik Nordenankar",
+      "skill": 194.0,
+      "player_slug": "erik-nordenankar",
+      "change": -4.0
+    },
+    {
+      "player": "Cissi Hellman",
+      "skill": 141.0,
+      "player_slug": "cissi-hellman",
+      "change": -15.0
+    },
+    {
+      "player": "Sofia R\u00e5dstr\u00f6m",
+      "skill": -14.0,
+      "player_slug": "sofia-radstrom",
+      "change": -29.0
+    },
+    {
+      "player": "Olof Sabelstr\u00f6m",
+      "skill": 80.0,
+      "player_slug": "olof-sabelstrom",
+      "change": -45.0
+    }
+  ]
+}

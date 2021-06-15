@@ -1,0 +1,96 @@
+{% extends 'base.html' %}
+
+{% block title %}
+  Bouleympiaden: {{tournament.year}}
+{% endblock %}
+
+{% block content %}
+
+<div class="jumbotron">
+    <h1>Bouleympiaden: {{tournament.year}}</h1>
+
+</div>
+
+<div class="card bg-light mb-3">
+  <div class="card-body">
+    <h4 class="card-title mb-2">Slutspelet</h4>
+
+    {% for stage in tournament.playoff %}
+      <h5>{{stage.stage|capitalize}}</h5>
+
+      <table class="table table-striped">
+        {% for game in stage.games %}
+          <tr>
+            <td class="text-right">
+              <a href="{{url_for('player_index', player_slug=game.p1_name|slugify)}}"
+                class="{% if game.winner == 'p1' %}underline-primary{% endif %}">
+                {{game.p1_name}}
+              </a>          
+            </td>
+            <td class="text-center">
+              {{game.p1_score}}&nbsp;&#8209;&nbsp;{{game.p2_score}}
+            </td>
+            <td>
+              <a href="{{url_for('player_index', player_slug=game.p2_name|slugify)}}"
+                 class="{% if game.winner == 'p2' %}underline-primary{% endif %}">
+                {{game.p2_name}}
+              </a>          
+
+            </td>
+          </tr>
+          
+        {% endfor %}
+  
+      </table>
+    
+    {% endfor %}
+
+  </div>
+</div>
+
+<div class="card bg-light mb-3">
+  <div class="card-body">
+    <h4 class="card-title mb-2">Överpresterande spelare</h4>
+    <p>
+      Varje vinst ger plus i rankingpoäng. Ju svårare motståndare, desto fler poäng.
+    </p>
+    <p>
+      Här är spelarna som stärkte sin ranking mest år {{year}}.
+    </p>
+
+    <table class="table table-striped">
+      <thead>
+        <th>Spelare</th>
+        <th>Rankingpoäng</th>
+      </thead> 
+      <tbody>
+        {% for player in  tournament.player_skill_change %}
+          {% if player.change > 0 %}
+            <tr>
+              <td>
+                <a href="{{url_for('player_index', player_slug=player.player|slugify)}}">
+                  {{player.player}}
+                </a>
+              </td>
+              <td class="text-right">
+                +{{player.change|int}}
+              </td>
+            </tr>
+          {% endif %}
+        {% endfor %}
+      </tbody> 
+    </table>
+  </div>
+</div>
+
+<div class="card bg-light mb-3">
+  <div class="card-body">
+    <h4 class="card-title">Resultat år för år</h4>
+    <div class="card-text">
+      {% include 'includes/year_selector.html' %}
+  </div>
+</div>
+
+  
+
+{% endblock %}

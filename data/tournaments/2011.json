@@ -1,0 +1,70 @@
+{
+  "year": 2011,
+  "playoff": [
+    {
+      "stage": "kvartsfinal",
+      "games": [
+        {
+          "p1_name": "John Kjellkvist",
+          "p2_name": "Henrik Blomkvist",
+          "p1_score": 5,
+          "p2_score": 7,
+          "winner": "p2"
+        },
+        {
+          "p1_name": "Andreas Josefson",
+          "p2_name": "Erik Nordenankar",
+          "p1_score": 0,
+          "p2_score": 8,
+          "winner": "p2"
+        },
+        {
+          "p1_name": "Theodore Ripman",
+          "p2_name": "Olof Sabelstr\u00f6m",
+          "p1_score": 5,
+          "p2_score": 7,
+          "winner": "p2"
+        },
+        {
+          "p1_name": "Jakob Lien",
+          "p2_name": "Cissi Hellman",
+          "p1_score": 5,
+          "p2_score": 7,
+          "winner": "p2"
+        }
+      ]
+    },
+    {
+      "stage": "semifinal",
+      "games": [
+        {
+          "p1_name": "Henrik Blomkvist",
+          "p2_name": "Erik Nordenankar",
+          "p1_score": 3,
+          "p2_score": 7,
+          "winner": "p2"
+        },
+        {
+          "p1_name": "Olof Sabelstr\u00f6m",
+          "p2_name": "Cissi Hellman",
+          "p1_score": 5,
+          "p2_score": 7,
+          "winner": "p2"
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "games": [
+        {
+          "p1_name": "Erik Nordenankar",
+          "p2_name": "Cissi Hellman",
+          "p1_score": 14,
+          "p2_score": 9,
+          "winner": "p1"
+        }
+      ]
+    }
+  ],
+  "player_skill_change": []
+}

@@ -1,0 +1,234 @@
+{
+  "year": 2017,
+  "playoff": [
+    {
+      "stage": "\u00e5ttondelsfinal",
+      "games": [
+        {
+          "p1_name": "Erik Nordenankar",
+          "p2_name": "Tobe Welander",
+          "p1_score": 9,
+          "p2_score": 8,
+          "winner": "p1"
+        },
+        {
+          "p1_name": "Jesper Kronholm",
+          "p2_name": "Ville Nordenankar",
+          "p1_score": 6,
+          "p2_score": 9,
+          "winner": "p2"
+        },
+        {
+          "p1_name": "Edvin Lindsten",
+          "p2_name": "Robin Linderborg",
+          "p1_score": 9,
+          "p2_score": 4,
+          "winner": "p1"
+        },
+        {
+          "p1_name": "Richard Ekman",
+          "p2_name": "Sofia R\u00e5dstr\u00f6m",
+          "p1_score": 10,
+          "p2_score": 1,
+          "winner": "p1"
+        },
+        {
+          "p1_name": "Love Andr\u00e9asson",
+          "p2_name": "Jerker Karlsson",
+          "p1_score": 1,
+          "p2_score": 9,
+          "winner": "p2"
+        },
+        {
+          "p1_name": "Josefin Asplund",
+          "p2_name": "Sofia Ahlstr\u00f6m",
+          "p1_score": 10,
+          "p2_score": 3,
+          "winner": "p1"
+        },
+        {
+          "p1_name": "Pelle Dovborg",
+          "p2_name": "Gabriel Nordenankar",
+          "p1_score": 3,
+          "p2_score": 10,
+          "winner": "p2"
+        },
+        {
+          "p1_name": "Benjamin Ger. Hed.",
+          "p2_name": "Mathilda Hansson",
+          "p1_score": 9,
+          "p2_score": 6,
+          "winner": "p1"
+        }
+      ]
+    },
+    {
+      "stage": "kvartsfinal",
+      "games": [
+        {
+          "p1_name": "Erik Nordenankar",
+          "p2_name": "Ville Nordenankar",
+          "p1_score": 9,
+          "p2_score": 1,
+          "winner": "p1"
+        },
+        {
+          "p1_name": "Richard Ekman",
+          "p2_name": "Edvin Lindsten",
+          "p1_score": 4,
+          "p2_score": 9,
+          "winner": "p2"
+        },
+        {
+          "p1_name": "Jerker Karlsson",
+          "p2_name": "Josefin Asplund",
+          "p1_score": 9,
+          "p2_score": 5,
+          "winner": "p1"
+        },
+        {
+          "p1_name": "Benjamin Ger. Hed.",
+          "p2_name": "Gabriel Nordenankar",
+          "p1_score": 6,
+          "p2_score": 9,
+          "winner": "p2"
+        }
+      ]
+    },
+    {
+      "stage": "semifinal",
+      "games": [
+        {
+          "p1_name": "Erik Nordenankar",
+          "p2_name": "Edvin Lindsten",
+          "p1_score": 6,
+          "p2_score": 9,
+          "winner": "p2"
+        },
+        {
+          "p1_name": "Jerker Karlsson",
+          "p2_name": "Gabriel Nordenankar",
+          "p1_score": 2,
+          "p2_score": 9,
+          "winner": "p2"
+        }
+      ]
+    },
+    {
+      "stage": "bronsmatch",
+      "games": [
+        {
+          "p1_name": "Jerker Karlsson",
+          "p2_name": "Erik Nordenankar",
+          "p1_score": 7,
+          "p2_score": 13,
+          "winner": "p2"
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "games": [
+        {
+          "p1_name": "Gabriel Nordenankar",
+          "p2_name": "Edvin Lindsten",
+          "p1_score": 13,
+          "p2_score": 2,
+          "winner": "p1"
+        }
+      ]
+    }
+  ],
+  "player_skill_change": [
+    {
+      "player": "Pelle Dovborg",
+      "skill": 104.0,
+      "player_slug": "pelle-dovborg",
+      "change": 77.0
+    },
+    {
+      "player": "Sofia R\u00e5dstr\u00f6m",
+      "skill": 24.0,
+      "player_slug": "sofia-radstrom",
+      "change": 69.0
+    },
+    {
+      "player": "Tobe Welander",
+      "skill": 65.0,
+      "player_slug": "tobe-welander",
+      "change": 45.0
+    },
+    {
+      "player": "Richard Ekman",
+      "skill": 104.0,
+      "player_slug": "richard-ekman",
+      "change": 42.0
+    },
+    {
+      "player": "Gabriel Nordenankar",
+      "skill": 250.0,
+      "player_slug": "gabriel-nordenankar",
+      "change": 40.0
+    },
+    {
+      "player": "Erik Nordenankar",
+      "skill": 199.0,
+      "player_slug": "erik-nordenankar",
+      "change": 32.0
+    },
+    {
+      "player": "Jerker Karlsson",
+      "skill": 162.0,
+      "player_slug": "jerker-karlsson",
+      "change": 28.0
+    },
+    {
+      "player": "Theodore Ripman",
+      "skill": 130.0,
+      "player_slug": "theodore-ripman",
+      "change": 5.0
+    },
+    {
+      "player": "Jakob Lien",
+      "skill": 193.0,
+      "player_slug": "jakob-lien",
+      "change": -4.0
+    },
+    {
+      "player": "Love Andr\u00e9asson",
+      "skill": 162.0,
+      "player_slug": "love-andreasson",
+      "change": -4.0
+    },
+    {
+      "player": "Cissi Hellman",
+      "skill": 139.0,
+      "player_slug": "cissi-hellman",
+      "change": -12.0
+    },
+    {
+      "player": "Johan Ekman",
+      "skill": 90.0,
+      "player_slug": "johan-ekman",
+      "change": -15.0
+    },
+    {
+      "player": "Maria Adel\u00f6f",
+      "skill": 77.0,
+      "player_slug": "maria-adelof",
+      "change": -35.0
+    },
+    {
+      "player": "Johanna R\u00e5dstr\u00f6m",
+      "skill": 10.0,
+      "player_slug": "johanna-radstrom",
+      "change": -51.0
+    },
+    {
+      "player": "Johan Kjell",
+      "skill": 78.0,
+      "player_slug": "johan-kjell",
+      "change": -94.0
+    }
+  ]
+}

@@ -19,7 +19,7 @@
         <select class="player form-control" id="player1">
           <option value="">Spelare 1</option>
           {% for player in players  %}
-          <option value="{{player.name}}">{{player.name}}</option>
+            <option value="{{player.name}}">{{player.name}}</option>
           {% endfor %}
         </select>
 
@@ -28,7 +28,7 @@
         <select class="player form-control" id="player2">
           <option value="">Spelare 2</option>
           {% for player in players  %}
-          <option value="{{player.name}}">{{player.name}}</option>
+            <option value="{{player.name}}">{{player.name}}</option>
           {% endfor %}
           <option value="">...</option>
           <option value="Ny spelare">Ny spelare</option>
@@ -45,7 +45,7 @@
       <h5>Simulerar matcher...</h5>
   </div>
 
-  <div id="result-container" class="card border-light mb-3" style="display:none;">
+  <div id="result-container" class="card bg-light mb-3" style="display:none;">
     <div class="card-body">
       <h4 class="card-title">Resultat</h4>
       <p class="card-text">
@@ -54,7 +54,17 @@
       </p>
     </div>
   </div>
-  <div class="card border-light mb-3">
+
+  <div class="card bg-light mb-3">
+    <div class="card-body">
+      <h4 class="card-title">Resultat år för år</h4>
+      <div class="card-text">
+        {% include 'includes/year_selector.html' %}
+    </div>
+  </div>
+
+
+  <div class="card bg-light mb-3">
     <div class="card-body">
       <h4 class="card-title mb-2">Spelarranking</h4>
       <div class="card-text">
@@ -107,7 +117,8 @@
       </div>
     </div>
   </div>
-  <div class="card border-light mb-3">
+
+  <div class="card bg-light mb-3">
     <div class="card-body">
       <h4 class="card-title">FAQ</h4>
       <div class="card-text">

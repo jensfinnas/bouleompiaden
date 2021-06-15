@@ -6,6 +6,7 @@ import csv
 import json
 import io
 import os
+from slugify import slugify
 
 from modules.simulate import game
 from modules import  players
@@ -39,17 +40,30 @@ def site_index():
 
 @app.route("/spelare/<player_slug>", methods=["GET"])
 def player_index(player_slug):
-    file_path = os.path.join(PLAYER_DATA_DIR, player_slug + ".json")
-    if not os.path.exists(file_path):
-        abort(404)
-    
     context = {}
-    with open(file_path, 'r') as f:
-        context["player"] = json.load(f)
+    try:
+        context["player"] = players.get(player_slug)
+    except:
+        abort(404)
     
     context.update(players.metadata)
 
     return render_template('player.html', **context)
+
+@app.route("/turnering/<year>", methods=["GET"])
+def tournament_index(year):
+    context = {}
+    file_path = os.path.join("data", "tournaments", f"{year}.json")
+    
+    if not os.path.exists(file_path):
+        abort(404)
+
+    with open(file_path) as f:
+        context["tournament"] = json.load(f)
+    
+    context.update(players.metadata)
+
+    return render_template('tournament.html', **context)
 
 
 def get_simulation_data(player1, player2):
@@ -160,3 +174,7 @@ def translate(key):
         }[key]
     except KeyError:
         return key
+
+@app.template_filter('slugify')
+def slugify_filter(s):
+    return slugify(s)

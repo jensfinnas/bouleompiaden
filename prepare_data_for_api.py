@@ -24,7 +24,7 @@ STAGES = [
 ###
 # Prepare raw data
 ###
-df = pd.read_csv("data/Bouleompiaden Statistikdatabasen - Data Matcher.csv", encoding="utf-8")\
+df = pd.read_csv("data/input/Bouleompiaden Statistikdatabasen - Data Matcher.csv", encoding="utf-8")\
 .rename(columns={
     u"Spelare 1": "p1_name",
     u"Spelare 2": "p2_name",
@@ -220,6 +220,48 @@ for player in df_players.index.unique():
 with open(GAMES_BY_PLAYER_FILE, 'w') as f:
     json.dump(games_json, f, indent=2)
 print("Updated {}".format(GAMES_BY_PLAYER_FILE))
+
+###
+# Prepare tournament data
+###
+df_skill_hist = pd.DataFrame(player_skills)\
+                  .T\
+                  .melt(ignore_index=False, var_name="year", value_name="skill")\
+                  .reset_index()\
+                  .rename(columns={"index": "player"})\
+                  .sort_values([ "player", "year"])
+df_skill_hist["player_slug"] = df_skill_hist["player"].apply(slugify)
+df_skill_hist = df_skill_hist[df_skill_hist["skill"].notna()]
+# räkna ut förändrad skill från år till år
+df_skill_hist["change"] = df_skill_hist.groupby("player")["skill"]\
+                                       .transform(lambda x: x - x.shift(1))
+
+for year, df_year in df.groupby("year"):
+    tournament = {
+        "year": year,
+        "playoff": [],
+    }
+    # lista slutspelts
+    for stage in STAGES:
+        if stage in df_year["stage"].unique() and stage != "gruppspel":
+            df_stage_games = df_year[df_year["stage"]==stage]
+            cols = ["p1_name","p2_name","p1_score", "p2_score","winner"]
+            tournament["playoff"].append({
+                "stage": stage,
+                "games": df_stage_games[cols].to_dict("records"),
+            })
+    # lista spelare som ökat ranking mest
+    tournament["player_skill_change"] = df_skill_hist.set_index("year")\
+                                                    .loc[year]\
+                                                    .dropna()\
+                                                    .sort_values("change", ascending=False)\
+                                                    .to_dict("records")
+    # save
+    file_path = os.path.join("data", "tournaments", f"{year}.json")
+    with open(file_path, 'w') as f:
+        json.dump(tournament, f, indent=2, default=default)
+        print(f"Updated {file_path}")
+
 
 ###
 # Prepare meta data

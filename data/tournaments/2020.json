@@ -1,0 +1,429 @@
+{
+  "year": 2020,
+  "playoff": [
+    {
+      "stage": "sextondelsfinal",
+      "games": [
+        {
+          "p1_name": "Patrik J\u00e4rg\u00e5rden",
+          "p2_name": "Jens Hultkrans",
+          "p1_score": 7,
+          "p2_score": 11,
+          "winner": "p2"
+        },
+        {
+          "p1_name": "Caroline Edholm",
+          "p2_name": "Tim Samuelsson",
+          "p1_score": 5,
+          "p2_score": 11,
+          "winner": "p2"
+        },
+        {
+          "p1_name": "Erik Nordenankar",
+          "p2_name": "Robeson",
+          "p1_score": 6,
+          "p2_score": 11,
+          "winner": "p2"
+        },
+        {
+          "p1_name": "Benjamin Ger. Hed.",
+          "p2_name": "Jakob Gustafsson",
+          "p1_score": 11,
+          "p2_score": 3,
+          "winner": "p1"
+        },
+        {
+          "p1_name": "Simon B\u00f6hm",
+          "p2_name": "Edvin Lindsten",
+          "p1_score": 9,
+          "p2_score": 13,
+          "winner": "p2"
+        },
+        {
+          "p1_name": "Emma Bergmark",
+          "p2_name": "Martyna",
+          "p1_score": 5,
+          "p2_score": 11,
+          "winner": "p2"
+        },
+        {
+          "p1_name": "Jerker Karlsson",
+          "p2_name": "Pia T\u00f6rnkvist",
+          "p1_score": 7,
+          "p2_score": 11,
+          "winner": "p2"
+        },
+        {
+          "p1_name": "Robin Linderborg",
+          "p2_name": "Linnea Karlsson",
+          "p1_score": 3,
+          "p2_score": 13,
+          "winner": "p2"
+        },
+        {
+          "p1_name": "Olle Strandberg",
+          "p2_name": "Kicki Berg",
+          "p1_score": 11,
+          "p2_score": 6,
+          "winner": "p1"
+        },
+        {
+          "p1_name": "Wille Laska",
+          "p2_name": "Bj\u00f6rn Berglund",
+          "p1_score": 11,
+          "p2_score": 6,
+          "winner": "p1"
+        },
+        {
+          "p1_name": "Niklas Solberg",
+          "p2_name": "Theodore Ripman",
+          "p1_score": 11,
+          "p2_score": 4,
+          "winner": "p1"
+        },
+        {
+          "p1_name": "Robin Fogelberg",
+          "p2_name": "Hannes Jordan",
+          "p1_score": 9,
+          "p2_score": 11,
+          "winner": "p2"
+        },
+        {
+          "p1_name": "Pelle Dovborg",
+          "p2_name": "Lars T\u00f6rnkvist",
+          "p1_score": 12,
+          "p2_score": 4,
+          "winner": "p1"
+        },
+        {
+          "p1_name": "Lovisa Birgersson",
+          "p2_name": "Johan Johnson",
+          "p1_score": 6,
+          "p2_score": 11,
+          "winner": "p2"
+        },
+        {
+          "p1_name": "Jon Jeppson",
+          "p2_name": "Charlotte Breitholtz",
+          "p1_score": 11,
+          "p2_score": 6,
+          "winner": "p1"
+        },
+        {
+          "p1_name": "Alexander Starfelt",
+          "p2_name": "Adriana Lilja",
+          "p1_score": 11,
+          "p2_score": 6,
+          "winner": "p1"
+        }
+      ]
+    },
+    {
+      "stage": "\u00e5ttondelsfinal",
+      "games": [
+        {
+          "p1_name": "Robeson",
+          "p2_name": "Benjamin Ger. Hed.",
+          "p1_score": 11,
+          "p2_score": 3,
+          "winner": "p1"
+        },
+        {
+          "p1_name": "Tim Samuelsson",
+          "p2_name": "Jens Hultkrans",
+          "p1_score": 5,
+          "p2_score": 11,
+          "winner": "p2"
+        },
+        {
+          "p1_name": "Edvin Lindsten",
+          "p2_name": "Martyna",
+          "p1_score": 12,
+          "p2_score": 5,
+          "winner": "p1"
+        },
+        {
+          "p1_name": "Pia T\u00f6rnkvist",
+          "p2_name": "Linnea Karlsson",
+          "p1_score": 8,
+          "p2_score": 11,
+          "winner": "p2"
+        },
+        {
+          "p1_name": "Olle Strandberg",
+          "p2_name": "Wille Laska",
+          "p1_score": 11,
+          "p2_score": 6,
+          "winner": "p1"
+        },
+        {
+          "p1_name": "Niklas Solberg",
+          "p2_name": "Hannes Jordan",
+          "p1_score": 11,
+          "p2_score": 5,
+          "winner": "p1"
+        },
+        {
+          "p1_name": "Pelle Dovborg",
+          "p2_name": "Johan Johnson",
+          "p1_score": 13,
+          "p2_score": 2,
+          "winner": "p1"
+        },
+        {
+          "p1_name": "Jon Jeppson",
+          "p2_name": "Alexander Starfelt",
+          "p1_score": 4,
+          "p2_score": 11,
+          "winner": "p2"
+        }
+      ]
+    },
+    {
+      "stage": "kvartsfinal",
+      "games": [
+        {
+          "p1_name": "Robeson",
+          "p2_name": "Jens Hultkrans",
+          "p1_score": 11,
+          "p2_score": 10,
+          "winner": "p1"
+        },
+        {
+          "p1_name": "Edvin Lindsten",
+          "p2_name": "Linnea Karlsson",
+          "p1_score": 11,
+          "p2_score": 2,
+          "winner": "p1"
+        },
+        {
+          "p1_name": "Olle Strandberg",
+          "p2_name": "Niklas Solberg",
+          "p1_score": 11,
+          "p2_score": 8,
+          "winner": "p1"
+        },
+        {
+          "p1_name": "Pelle Dovborg",
+          "p2_name": "Alexander Starfelt",
+          "p1_score": 11,
+          "p2_score": 5,
+          "winner": "p1"
+        }
+      ]
+    },
+    {
+      "stage": "semifinal",
+      "games": [
+        {
+          "p1_name": "Robeson",
+          "p2_name": "Edvin Lindsten",
+          "p1_score": 13,
+          "p2_score": 5,
+          "winner": "p1"
+        },
+        {
+          "p1_name": "Olle Strandberg",
+          "p2_name": "Pelle Dovborg",
+          "p1_score": 13,
+          "p2_score": 9,
+          "winner": "p1"
+        }
+      ]
+    },
+    {
+      "stage": "bronsmatch",
+      "games": [
+        {
+          "p1_name": "Pelle Dovborg",
+          "p2_name": "Edvin Lindsten",
+          "p1_score": 13,
+          "p2_score": 5,
+          "winner": "p1"
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "games": [
+        {
+          "p1_name": "Olle Strandberg",
+          "p2_name": "Robeson",
+          "p1_score": 10,
+          "p2_score": 13,
+          "winner": "p2"
+        }
+      ]
+    }
+  ],
+  "player_skill_change": [
+    {
+      "player": "Olle Strandberg",
+      "skill": 171.0,
+      "player_slug": "olle-strandberg",
+      "change": 82.0
+    },
+    {
+      "player": "Linnea Karlsson",
+      "skill": 132.0,
+      "player_slug": "linnea-karlsson",
+      "change": 75.0
+    },
+    {
+      "player": "Pelle Dovborg",
+      "skill": 181.0,
+      "player_slug": "pelle-dovborg",
+      "change": 46.0
+    },
+    {
+      "player": "Jakob Gustafsson",
+      "skill": 84.0,
+      "player_slug": "jakob-gustafsson",
+      "change": 43.0
+    },
+    {
+      "player": "Robeson",
+      "skill": 212.0,
+      "player_slug": "robeson",
+      "change": 34.0
+    },
+    {
+      "player": "Alexander Starfelt",
+      "skill": 165.0,
+      "player_slug": "alexander-starfelt",
+      "change": 27.0
+    },
+    {
+      "player": "Bj\u00f6rn Berglund",
+      "skill": 80.0,
+      "player_slug": "bjorn-berglund",
+      "change": 20.0
+    },
+    {
+      "player": "Patrik J\u00e4rg\u00e5rden",
+      "skill": 139.0,
+      "player_slug": "patrik-jargarden",
+      "change": 15.0
+    },
+    {
+      "player": "Frida \u00d6hrn",
+      "skill": 10.0,
+      "player_slug": "frida-ohrn",
+      "change": 12.0
+    },
+    {
+      "player": "Lovisa Birgersson",
+      "skill": 156.0,
+      "player_slug": "lovisa-birgersson",
+      "change": 11.0
+    },
+    {
+      "player": "Sofia \u00d6rning",
+      "skill": 51.0,
+      "player_slug": "sofia-orning",
+      "change": 10.0
+    },
+    {
+      "player": "Hannes Jordan",
+      "skill": 138.0,
+      "player_slug": "hannes-jordan",
+      "change": 9.0
+    },
+    {
+      "player": "Jerker Karlsson",
+      "skill": 169.0,
+      "player_slug": "jerker-karlsson",
+      "change": 1.0
+    },
+    {
+      "player": "Benjamin Ger. Hed.",
+      "skill": 197.0,
+      "player_slug": "benjamin-ger-hed",
+      "change": 0.0
+    },
+    {
+      "player": "Erik Nordenankar",
+      "skill": 206.0,
+      "player_slug": "erik-nordenankar",
+      "change": -3.0
+    },
+    {
+      "player": "Calle Sandin",
+      "skill": 5.0,
+      "player_slug": "calle-sandin",
+      "change": -5.0
+    },
+    {
+      "player": "Johanna R\u00e5dstr\u00f6m",
+      "skill": -20.0,
+      "player_slug": "johanna-radstrom",
+      "change": -7.0
+    },
+    {
+      "player": "Theodore Ripman",
+      "skill": 202.0,
+      "player_slug": "theodore-ripman",
+      "change": -8.0
+    },
+    {
+      "player": "Robin Fogelberg",
+      "skill": 171.0,
+      "player_slug": "robin-fogelberg",
+      "change": -8.0
+    },
+    {
+      "player": "Kajsa Hallberg-Nor.",
+      "skill": -42.0,
+      "player_slug": "kajsa-hallberg-nor",
+      "change": -10.0
+    },
+    {
+      "player": "Jens Hultkrans",
+      "skill": 168.0,
+      "player_slug": "jens-hultkrans",
+      "change": -12.0
+    },
+    {
+      "player": "Robin Linderborg",
+      "skill": 159.0,
+      "player_slug": "robin-linderborg",
+      "change": -13.0
+    },
+    {
+      "player": "Gabriel Nordenankar",
+      "skill": 223.0,
+      "player_slug": "gabriel-nordenankar",
+      "change": -19.0
+    },
+    {
+      "player": "Edvin Lindsten",
+      "skill": 181.0,
+      "player_slug": "edvin-lindsten",
+      "change": -21.0
+    },
+    {
+      "player": "Linn Enhage",
+      "skill": 50.0,
+      "player_slug": "linn-enhage",
+      "change": -23.0
+    },
+    {
+      "player": "Mina Kheirkhah",
+      "skill": 124.0,
+      "player_slug": "mina-kheirkhah",
+      "change": -31.0
+    },
+    {
+      "player": "Ville Nordenankar",
+      "skill": 126.0,
+      "player_slug": "ville-nordenankar",
+      "change": -32.0
+    },
+    {
+      "player": "Micke Leyi",
+      "skill": 92.0,
+      "player_slug": "micke-leyi",
+      "change": -38.0
+    }
+  ]
+}

@@ -3,3 +3,4 @@ Flask-JSGlue==0.3.1
 dicttoxml==1.7.4
 trueskill==0.4.5
 Werkzeug==1.0.1
+python-slugify==5.0.2

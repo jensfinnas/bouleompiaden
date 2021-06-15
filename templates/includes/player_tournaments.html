@@ -7,21 +7,27 @@
                     {{tournament.last_game.stage|capitalize}}<br>
                     
                     {% if tournament.last_game.stage != "gruppspel" %}
+                        <small>
+                            {% if tournament.last_game.stage == 'vinnare' %}
+                                Efter final mot 
 
-                        {% if tournament.last_game.is_winner %}
-                            <small>Efter final mot 
-                                <a href="{{url_for('player_index', player_slug=tournament.last_game.opponent_slug)}}">
-                                    {{tournament.last_game.opponent_name}}
-                                </a>
-                            </small>    
+                            {% elif tournament.last_game.stage == 'final' %}
+                                Förlust mot 
 
-                        {% else %}
-                            <small>Ut mot 
-                                <a href="{{url_for('player_index', player_slug=tournament.last_game.opponent_slug)}}">
-                                    {{tournament.last_game.opponent_name}}
-                                </a>
-                            </small>    
-                        {% endif %}
+                            {% elif tournament.last_game.stage == 'bronsmatch' and tournament.last_game.is_winner %}
+                                Vinst mot 
+
+                            {% elif tournament.last_game.stage == 'bronsmatch' and not tournament.last_game.is_winner %}
+                                Förlust mot 
+
+                            {% else %}
+                                Ut mot 
+                            {% endif %}
+
+                            <a href="{{url_for('player_index', player_slug=tournament.last_game.opponent_slug)}}">
+                                {{tournament.last_game.opponent_name}}
+                            </a>
+                        <small>
 
                     {% endif %}
                 </td>
