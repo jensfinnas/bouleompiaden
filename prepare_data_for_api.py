@@ -171,7 +171,7 @@ for player, player_json in players_json.items():
     # bästa resultat
     best_stage = df_player_games["stage_level"].max()
     player_json["best_stage"] = STAGES[best_stage]
-    player_json["best_stage_years"] = df_player_games[df_player_games["stage_level"]==best_stage]["year"].tolist()
+    player_json["best_stage_years"] = df_player_games[df_player_games["stage_level"]==best_stage]["year"].unique().tolist()
 
 def default(o):
     """serialize"""
