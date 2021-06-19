@@ -128,7 +128,7 @@
         "score": 13,
         "opponent_score": 5,
         "is_winner": true,
-        "stage": "bronsmatch"
+        "stage": "brons"
       },
       "games": [
         {
@@ -260,8 +260,8 @@
         {
           "game_id": 357,
           "year": 2019,
-          "stage": "bronsmatch",
-          "stage_level": 5,
+          "stage": "brons",
+          "stage_level": 6,
           "winner": "p2",
           "name": "Robeson",
           "score": 13,

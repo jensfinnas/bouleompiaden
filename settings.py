@@ -6,6 +6,17 @@ GAMES_BY_PLAYER_FILE = "data/games_by_player.json"
 BY_PLAYER_FILE = "data/by_player.json"
 META_DATA_FILE = "data/metadata.json"
 PLAYER_DATA_DIR = "data/players"
+MARATHON_FILE = "data/marathon_table.json"
+
+# poäng  
+MARATHON_SCORE_PER_STAGE = {
+    "vinnare": 8, # guld
+    "final": 5, # silver
+    "brons": 3, # brons
+    "bronsmatch": 2, # fyra
+    "kvartsfinal": 1, 
+}
+
 
 STAGE = os.environ.get("STAGE", "local")
 

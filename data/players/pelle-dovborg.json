@@ -373,7 +373,7 @@
         "score": 13,
         "opponent_score": 5,
         "is_winner": true,
-        "stage": "bronsmatch"
+        "stage": "brons"
       },
       "games": [
         {
@@ -487,8 +487,8 @@
         {
           "game_id": 449,
           "year": 2020,
-          "stage": "bronsmatch",
-          "stage_level": 5,
+          "stage": "brons",
+          "stage_level": 6,
           "winner": "p1",
           "name": "Pelle Dovborg",
           "score": 13,
@@ -612,7 +612,7 @@
       "n_wins": 3
     }
   ],
-  "best_stage": "bronsmatch",
+  "best_stage": "brons",
   "best_stage_years": [
     2020
   ]

@@ -10,7 +10,7 @@ from slugify import slugify
 
 from modules.simulate import game
 from modules import  players
-from settings import TRUE_SKILL_BASE, PLAYER_DATA_DIR
+from settings import TRUE_SKILL_BASE, MARATHON_FILE
 
 app = Flask(__name__)
 jsglue = JSGlue(app)
@@ -35,6 +35,9 @@ def site_index():
     }
     # number of players etc.
     context.update(players.metadata)
+
+    with open(MARATHON_FILE) as f:
+        context["marathon_table"] = json.load(f)
 
     return render_template('index.html', **context)
 

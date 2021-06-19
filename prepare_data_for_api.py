@@ -11,7 +11,9 @@ from collections import  defaultdict
 from trueskill import TrueSkill, Rating, rate_1vs1
 from modules.simulate import get_win_probability
 
-from settings import BY_PLAYER_FILE, GAMES_BY_PLAYER_FILE, META_DATA_FILE, TRUE_SKILL_BASE, TRUE_SKILL_BETA, TRUE_SKILL_SIGMA
+from settings import (BY_PLAYER_FILE, GAMES_BY_PLAYER_FILE, META_DATA_FILE,
+                      MARATHON_FILE, MARATHON_SCORE_PER_STAGE,
+                      TRUE_SKILL_BASE, TRUE_SKILL_BETA, TRUE_SKILL_SIGMA)
 
 STAGES = [
     "gruppspel",
@@ -20,7 +22,7 @@ STAGES = [
     "kvartsfinal",
     "semifinal",
     "bronsmatch",
-    "bronsvinnare",
+    "brons",
     "final",
     "vinnare",
 ]
@@ -119,9 +121,9 @@ df_long["is_winner"] = df_long["score"] > df_long["opponent_score"]
 is_final_winner = (df_long["stage"]=="final") & df_long["is_winner"]
 df_long.loc[is_final_winner, "stage"] = "vinnare"
 df_long.loc[is_final_winner, "stage_level"] = STAGES.index("vinnare")
-is_bronze_winner = (df_long["stage"]=="final") & df_long["is_winner"]
-df_long.loc[is_bronze_winner, "stage"] = "bronsvinnare"
-df_long.loc[is_bronze_winner, "stage_level"] = STAGES.index("bronsvinnare")
+is_bronze_winner = (df_long["stage"]=="bronsmatch") & df_long["is_winner"]
+df_long.loc[is_bronze_winner, "stage"] = "brons"
+df_long.loc[is_bronze_winner, "stage_level"] = STAGES.index("brons")
 
 df_long["opponent_slug"] = df_long["opponent_name"].apply(slugify)
 
@@ -216,6 +218,38 @@ with open(BY_PLAYER_FILE, 'w') as f:
     json.dump(players_json_slim, f, indent=2, default=default)
 print("Updated {}".format(BY_PLAYER_FILE))
 
+###
+# Prepare marathon table
+### 
+
+def get_marathon_score(df_player):
+    df_last_games = df_player.groupby("year")["stage"].last().to_frame()
+    df_last_games["stage_score"] = df_last_games["stage"]\
+                    .apply(MARATHON_SCORE_PER_STAGE.get)\
+                    .fillna(0)
+    resp = df_last_games.groupby("stage").count()
+    resp.loc["marathon_score"] = df_last_games["stage_score"].sum()
+    return resp.T.loc["stage_score"]
+
+df_marathon = df_long.sort_values(["name", "year", "stage_level"])\
+                     .groupby("name").apply(get_marathon_score)\
+                     .unstack()\
+                     .fillna(0)\
+                     .sort_values("marathon_score", ascending=False)\
+                     [STAGES + ["marathon_score"]]
+
+df_marathon["marathon_rank"] = df_marathon["marathon_score"].rank(ascending=False, method="min")
+
+export_cols = list(MARATHON_SCORE_PER_STAGE.keys()) + ["marathon_score", "marathon_rank"]
+marathon_json = df_marathon[export_cols]\
+                .query("marathon_score > 0")\
+                .reset_index()\
+                .to_dict("records")
+
+with open(MARATHON_FILE, 'w') as f:
+    json.dump(marathon_json, f, indent=2)
+print("Updated {}".format(MARATHON_FILE))
+
 
 ###
 # Prepare game data
@@ -252,37 +286,6 @@ print("Updated {}".format(GAMES_BY_PLAYER_FILE))
 ###
 # Prepare tournament data
 ###
-"""
-df_skill_hist = pd.DataFrame(player_skills)\
-                  .T\
-                  .melt(ignore_index=False, var_name="year", value_name="skill")\
-                  .reset_index()\
-                  .rename(columns={"index": "player"})\
-                  .sort_values([ "player", "year"])
-df_skill_hist["player_slug"] = df_skill_hist["player"].apply(slugify)
-
-df_skill_hist["skill_filled"] = df_skill_hist.groupby("player")["skill"].fillna(method="ffill")
-
-#df_skill_hist = df_skill_hist[df_skill_hist["skill"].notna()]
-# räkna ut förändrad skill från år till år
-df_skill_hist["change"] = df_skill_hist.groupby("player")["skill"]\
-                                       .transform(lambda x: x - x.shift(1))
-
-# Lägg till en kolumn till varje match om varje spelares skill vid INGÅNGEN till den turneringen, dvs
-# året innan
-df_skill_hist["next_year"] = df_skill_hist["year"] + 1
-df_long = df_long.merge(df_skill_hist[["player", "skill_filled", "next_year"]], 
-                    how="left", left_on=["name", "year"], right_on=["player", "next_year"])\
-             .drop(["player", "next_year"], axis=1)\
-             .rename(columns={"skill_filled": "skill"})\
-             .merge(df_skill_hist[["player", "skill_filled", "next_year"]], 
-                    how="left", left_on=["opponent_name", "year"], right_on=["player", "next_year"])\
-             .drop(["player", "next_year"], axis=1)\
-             .rename(columns={"skill_filled": "opponent_skill"})
-
-# Nya spelare har null-värde => fyll med utgångsskill
-df_long[["skill", "opponent_skill"]] = df_long[["skill", "opponent_skill"]].fillna(TRUE_SKILL_BASE)
-"""
 
 def get_performance(x):
     """Performance är ett mått hur bra varje spelare presterat år för år i förhållande till
@@ -342,8 +345,29 @@ metadata = {
     "n_players": len(df_players.index),
     "years": df["year"].sort_values().unique().tolist(),
     "highest_skill": df_players["skill"].max(),
-    "lowest_skill": df_players["skill"].min()
+    "lowest_skill": df_players["skill"].min(),
+    "marathon_score_per_stage": MARATHON_SCORE_PER_STAGE,
 }
 with open(META_DATA_FILE, 'w') as f:
     json.dump(metadata, f, indent=2)
 print("Updated {}".format(META_DATA_FILE))
+
+###
+# store csv files
+###
+OUTPUT_DIR = "data/generated-tables"
+
+# by player
+file_path = os.path.join(OUTPUT_DIR, "players.csv")
+df_players.to_csv(file_path)
+print(f"Update {file_path}")
+
+# by game
+file_path = os.path.join(OUTPUT_DIR, "games.csv")
+df_games.to_csv(file_path)
+print(f"Update {file_path}")
+
+# marathon table
+file_path = os.path.join(OUTPUT_DIR, "marathon_table.csv")
+df_marathon.to_csv(file_path)
+print(f"Update {file_path}")

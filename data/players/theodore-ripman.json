@@ -638,7 +638,7 @@
         "score": 13,
         "opponent_score": 9,
         "is_winner": true,
-        "stage": "bronsmatch"
+        "stage": "brons"
       },
       "games": [
         {
@@ -770,8 +770,8 @@
         {
           "game_id": 551,
           "year": 2021,
-          "stage": "bronsmatch",
-          "stage_level": 5,
+          "stage": "brons",
+          "stage_level": 6,
           "winner": "p1",
           "name": "Theodore Ripman",
           "score": 13,

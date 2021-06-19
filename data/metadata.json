@@ -11,5 +11,12 @@
     2021
   ],
   "highest_skill": 271.0261300539191,
-  "lowest_skill": -56.42418259369023
+  "lowest_skill": -56.42418259369023,
+  "marathon_score_per_stage": {
+    "vinnare": 8,
+    "final": 5,
+    "brons": 3,
+    "bronsmatch": 2,
+    "kvartsfinal": 1
+  }
 }

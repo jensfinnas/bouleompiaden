@@ -130,7 +130,7 @@
         "score": 7,
         "opponent_score": 5,
         "is_winner": true,
-        "stage": "bronsmatch"
+        "stage": "brons"
       },
       "games": [
         {
@@ -208,8 +208,8 @@
         {
           "game_id": 47,
           "year": 2012,
-          "stage": "bronsmatch",
-          "stage_level": 5,
+          "stage": "brons",
+          "stage_level": 6,
           "winner": "p1",
           "name": "Jakob Lien",
           "score": 7,

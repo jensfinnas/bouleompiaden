@@ -1,0 +1,51 @@
+<table class="table table-responsive table-striped">
+  <thead>
+    <tr>
+      <th>Spelare</th>
+      <th>
+          Poäng<br>
+      </th>
+
+      <th>
+          Guld<br>
+          <small>({{marathon_score_per_stage.vinnare}} p)</small>
+      </th>
+      <th>
+          Silver<br>
+          <small>({{marathon_score_per_stage.final}} p)</small>
+      </th>
+      <th>
+          Brons<br>
+          <small>({{marathon_score_per_stage.brons}} p)</small>
+      </th>
+      <th>
+          Fyra<br>
+          <small>({{marathon_score_per_stage.bronsmatch}} p)</small>
+      </th>
+
+      <th>
+          Kvart<br>
+          <small>({{marathon_score_per_stage.kvartsfinal}} p)</small>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+
+      {% for player in marathon_table %}
+        <tr>
+          <td>
+              <a href="{{url_for('player_index', player_slug=player.name|slugify)}}">
+                {{ player.name }}
+              </a>
+          </td>
+          <td class="text-right">{{player.marathon_score|int}} p</td>
+          <td class="text-right">{{player.vinnare|int}}</td>
+          <td class="text-right">{{player.final|int}}</td>
+          <td class="text-right">{{player.brons|int}}</td>
+          <td class="text-right">{{player.bronsmatch|int}}</td>
+          <td class="text-right">{{player.kvartsfinal|int}}</td>
+        </tr>          
+      {% endfor %}
+      
+  </tbody>
+</table>

@@ -130,7 +130,7 @@
         "score": 12,
         "opponent_score": 9,
         "is_winner": true,
-        "stage": "bronsmatch"
+        "stage": "brons"
       },
       "games": [
         {
@@ -208,8 +208,8 @@
         {
           "game_id": 78,
           "year": 2016,
-          "stage": "bronsmatch",
-          "stage_level": 5,
+          "stage": "brons",
+          "stage_level": 6,
           "winner": "p1",
           "name": "Jerker Karlsson",
           "score": 12,
@@ -612,9 +612,8 @@
       "n_wins": 2
     }
   ],
-  "best_stage": "bronsmatch",
+  "best_stage": "brons",
   "best_stage_years": [
-    2017,
     2016
   ]
 }
