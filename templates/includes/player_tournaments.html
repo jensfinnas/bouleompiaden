@@ -1,38 +1,63 @@
 <table class="table table-borderless table-sm">
-    <tbody>
-        {% for tournament in player.tournaments%}
-            <tr class="">
-                <th>{{tournament.year}}</th>
-                <td class="">
-                    {{tournament.last_game.stage|capitalize}}<br>
-                    
-                    {% if tournament.last_game.stage != "gruppspel" %}
-                        <small>
-                            {% if tournament.last_game.stage == 'vinnare' %}
-                                Efter final mot 
+  <tbody>
+    {% for tournament in player.tournaments%}
+      <tr class="collapsed" data-toggle="collapse" href="#games-{{tournament.year}}" data-target="#games-{{tournament.year}}" aria-expanded="false" aria-controls="#games-{{tournament.year}}" onclick="none()">
+        <th>{{tournament.year}}</th>
+        <td class="">
+          {{tournament.last_game.stage|capitalize}}<br>
+          
+          {% if tournament.last_game.stage != "gruppspel" %}
+            <small>
+              {% if tournament.last_game.stage == 'vinnare' %}
+                  Efter final mot 
 
-                            {% elif tournament.last_game.stage == 'final' %}
-                                Förlust mot 
+              {% elif tournament.last_game.stage == 'final' %}
+                  Förlust mot 
 
-                            {% elif tournament.last_game.stage == 'bronsmatch' and tournament.last_game.is_winner %}
-                                Vinst mot 
+              {% elif tournament.last_game.stage == 'bronsmatch' and tournament.last_game.is_winner %}
+                  Vinst mot 
 
-                            {% elif tournament.last_game.stage == 'bronsmatch' and not tournament.last_game.is_winner %}
-                                Förlust mot 
+              {% elif tournament.last_game.stage == 'bronsmatch' and not tournament.last_game.is_winner %}
+                  Förlust mot 
 
-                            {% else %}
-                                Ut mot 
-                            {% endif %}
+              {% else %}
+                  Ut mot 
+              {% endif %}
 
-                            <a href="{{url_for('player_index', player_slug=tournament.last_game.opponent_slug)}}">
-                                {{tournament.last_game.opponent_name}}
-                            </a>
-                        <small>
+              {{tournament.last_game.opponent_name}}
+            <small>
 
-                    {% endif %}
-                </td>
-            </tr>
+          {% endif %}
+        </td>
+        <td>
+          <i class="fa fa-chevron-right collapsed-icon" style="padding-top: 4px;"></i>
+          <i class="fa fa-chevron-down uncollapsed-icon" style="padding-top: 4px;"></i>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="3">
 
-        {% endfor %}
-    </tbody>
+          <div id="games-{{tournament.year}}" class="collapse">
+            <ul>
+              {% for game in tournament.games %}
+                <li>
+                  {{game.stage|capitalize}}: 
+                  <a href="{{url_for('player_index', player_slug=game.opponent_name|slugify)}}">
+                    {{game.opponent_name}} 
+                  </a>
+                  {{game.score}}–{{game.opponent_score}}
+                  <small>
+                    ({% if game.is_winner %}V{% else %}F{% endif %})
+                  </small>
+                  </li>
+              
+              {% endfor %}
+            </ul>
+          </div>
+
+        </td>
+      </tr>
+
+    {% endfor %}
+  </tbody>
 </table>

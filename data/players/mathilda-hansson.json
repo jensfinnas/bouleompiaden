@@ -7,13 +7,13 @@
     2019
   ],
   "win_rate": 0.42857142857142855,
-  "opponent_score_share": 0.4286489267424141,
+  "opponent_score_share": 0.43935514340180754,
   "skill": 52.48596758383922,
   "skill_sigma": 44.90545461982148,
   "name": "Mathilda Hansson",
   "slug": "mathilda-hansson",
-  "skill_rank": 90.0,
-  "skill_rank_pct": 90.0,
+  "skill_rank": 95.0,
+  "skill_rank_pct": 95.0,
   "skill_history": [
     [
       2011,
@@ -42,6 +42,10 @@
     [
       2020,
       null
+    ],
+    [
+      2021,
+      null
     ]
   ],
   "tournaments": [
@@ -55,6 +59,80 @@
         "is_winner": false,
         "stage": "\u00e5ttondelsfinal"
       },
+      "games": [
+        {
+          "game_id": 109,
+          "year": 2017,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Mathilda Hansson",
+          "score": 4,
+          "score_share": 0.3333333333333333,
+          "win_prob": 0.47458826175219904,
+          "opponent_name": "Benjamin Ger. Hed.",
+          "opponent_score": 8,
+          "opponent_score_share": 0.6666666666666666,
+          "opponent_win_prob": 0.525411738247801,
+          "is_winner": false,
+          "opponent_slug": "benjamin-ger-hed",
+          "opponent_hist_score_share": 0.5806306275423923
+        },
+        {
+          "game_id": 128,
+          "year": 2017,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Mathilda Hansson",
+          "score": 7,
+          "score_share": 0.6363636363636364,
+          "win_prob": 0.5746707313664104,
+          "opponent_name": "Ylva Andr\u00e9asson",
+          "opponent_score": 4,
+          "opponent_score_share": 0.36363636363636365,
+          "opponent_win_prob": 0.42532926863358955,
+          "is_winner": true,
+          "opponent_slug": "ylva-andreasson",
+          "opponent_hist_score_share": 0.5159032144326262
+        },
+        {
+          "game_id": 99,
+          "year": 2017,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Mathilda Hansson",
+          "score": 7,
+          "score_share": 0.7,
+          "win_prob": 0.49999998499999976,
+          "opponent_name": "Kajsa Hallberg-Nor.",
+          "opponent_score": 3,
+          "opponent_score_share": 0.3,
+          "opponent_win_prob": 0.5000000150000002,
+          "is_winner": true,
+          "opponent_slug": "kajsa-hallberg-nor",
+          "opponent_hist_score_share": 0.2762001961199822
+        },
+        {
+          "game_id": 136,
+          "year": 2017,
+          "stage": "\u00e5ttondelsfinal",
+          "stage_level": 2,
+          "winner": "p1",
+          "name": "Mathilda Hansson",
+          "score": 6,
+          "score_share": 0.4,
+          "win_prob": 0.32092964623543563,
+          "opponent_name": "Benjamin Ger. Hed.",
+          "opponent_score": 9,
+          "opponent_score_share": 0.6,
+          "opponent_win_prob": 0.6790703537645644,
+          "is_winner": false,
+          "opponent_slug": "benjamin-ger-hed",
+          "opponent_hist_score_share": 0.5806306275423923
+        }
+      ],
       "n_games": 4,
       "n_wins": 2
     },
@@ -68,6 +146,62 @@
         "is_winner": true,
         "stage": "gruppspel"
       },
+      "games": [
+        {
+          "game_id": 251,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Mathilda Hansson",
+          "score": 3,
+          "score_share": 0.25,
+          "win_prob": 0.8652484067926568,
+          "opponent_name": "Sofia R\u00e5dstr\u00f6m",
+          "opponent_score": 9,
+          "opponent_score_share": 0.75,
+          "opponent_win_prob": 0.1347515932073432,
+          "is_winner": false,
+          "opponent_slug": "sofia-radstrom",
+          "opponent_hist_score_share": 0.343188184364655
+        },
+        {
+          "game_id": 321,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Mathilda Hansson",
+          "score": 1,
+          "score_share": 0.1111111111111111,
+          "win_prob": 0.4332530297827516,
+          "opponent_name": "Johan Ekman",
+          "opponent_score": 8,
+          "opponent_score_share": 0.8888888888888888,
+          "opponent_win_prob": 0.5667469702172484,
+          "is_winner": false,
+          "opponent_slug": "johan-ekman",
+          "opponent_hist_score_share": 0.4664331538106048
+        },
+        {
+          "game_id": 297,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Mathilda Hansson",
+          "score": 8,
+          "score_share": 0.6666666666666666,
+          "win_prob": 0.7794494675063609,
+          "opponent_name": "Leo Ehnborg",
+          "opponent_score": 4,
+          "opponent_score_share": 0.3333333333333333,
+          "opponent_win_prob": 0.2205505324936391,
+          "is_winner": true,
+          "opponent_slug": "leo-ehnborg",
+          "opponent_hist_score_share": 0.3125
+        }
+      ],
       "n_games": 3,
       "n_wins": 1
     }

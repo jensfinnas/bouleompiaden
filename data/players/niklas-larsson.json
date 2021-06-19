@@ -6,13 +6,13 @@
     2018
   ],
   "win_rate": 0.5,
-  "opponent_score_share": 0.46534137958182903,
+  "opponent_score_share": 0.47690922956347204,
   "skill": 109.31082030197226,
   "skill_sigma": 60.93786060465312,
   "name": "Niklas Larsson",
   "slug": "niklas-larsson",
-  "skill_rank": 54.0,
-  "skill_rank_pct": 54.0,
+  "skill_rank": 61.0,
+  "skill_rank_pct": 61.0,
   "skill_history": [
     [
       2011,
@@ -41,6 +41,10 @@
     [
       2020,
       null
+    ],
+    [
+      2021,
+      null
     ]
   ],
   "tournaments": [
@@ -54,6 +58,80 @@
         "is_winner": false,
         "stage": "sextondelsfinal"
       },
+      "games": [
+        {
+          "game_id": 201,
+          "year": 2018,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Niklas Larsson",
+          "score": 7,
+          "score_share": 0.7,
+          "win_prob": 0.651433092721136,
+          "opponent_name": "Johanna R\u00e5dstr\u00f6m",
+          "opponent_score": 3,
+          "opponent_score_share": 0.3,
+          "opponent_win_prob": 0.34856690727886397,
+          "is_winner": true,
+          "opponent_slug": "johanna-radstrom",
+          "opponent_hist_score_share": 0.31837560781888513
+        },
+        {
+          "game_id": 208,
+          "year": 2018,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Niklas Larsson",
+          "score": 7,
+          "score_share": 0.875,
+          "win_prob": 0.5603350827895714,
+          "opponent_name": "Sofia \u00d6rning",
+          "opponent_score": 1,
+          "opponent_score_share": 0.125,
+          "opponent_win_prob": 0.4396649172104286,
+          "is_winner": true,
+          "opponent_slug": "sofia-orning",
+          "opponent_hist_score_share": 0.4190329941708618
+        },
+        {
+          "game_id": 173,
+          "year": 2018,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Niklas Larsson",
+          "score": 2,
+          "score_share": 0.2222222222222222,
+          "win_prob": 0.49999998499999976,
+          "opponent_name": "Sebastin Fors\u00e9n",
+          "opponent_score": 7,
+          "opponent_score_share": 0.7777777777777778,
+          "opponent_win_prob": 0.5000000150000002,
+          "is_winner": false,
+          "opponent_slug": "sebastin-forsen",
+          "opponent_hist_score_share": 0.5314737005913477
+        },
+        {
+          "game_id": 221,
+          "year": 2018,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p1",
+          "name": "Niklas Larsson",
+          "score": 5,
+          "score_share": 0.35714285714285715,
+          "win_prob": 0.0863343652998575,
+          "opponent_name": "Gabriel Nordenankar",
+          "opponent_score": 9,
+          "opponent_score_share": 0.6428571428571429,
+          "opponent_win_prob": 0.9136656347001425,
+          "is_winner": false,
+          "opponent_slug": "gabriel-nordenankar",
+          "opponent_hist_score_share": 0.6387546156727935
+        }
+      ],
       "n_games": 4,
       "n_wins": 2
     }

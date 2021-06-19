@@ -1,21 +1,22 @@
 {
-  "n_games": 9,
-  "score_share": 0.40685703185703187,
-  "n_wins": 2,
+  "n_games": 12,
+  "score_share": 0.39154768842268833,
+  "n_wins": 3,
   "years": [
     2012,
     2016,
     2018,
-    2020
+    2020,
+    2021
   ],
-  "win_rate": 0.2222222222222222,
-  "opponent_score_share": 0.4366491414543062,
-  "skill": 9.828850953331084,
-  "skill_sigma": 46.80360599137976,
+  "win_rate": 0.25,
+  "opponent_score_share": 0.47260560826797526,
+  "skill": 41.090497477342254,
+  "skill_sigma": 39.946588847879134,
   "name": "Frida \u00d6hrn",
   "slug": "frida-ohrn",
-  "skill_rank": 111.0,
-  "skill_rank_pct": 111.0,
+  "skill_rank": 105.0,
+  "skill_rank_pct": 105.0,
   "skill_history": [
     [
       2011,
@@ -44,6 +45,10 @@
     [
       2020,
       10.0
+    ],
+    [
+      2021,
+      41.0
     ]
   ],
   "tournaments": [
@@ -57,6 +62,44 @@
         "is_winner": false,
         "stage": "gruppspel"
       },
+      "games": [
+        {
+          "game_id": 27,
+          "year": 2012,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Frida \u00d6hrn",
+          "score": 7,
+          "score_share": 0.6363636363636364,
+          "win_prob": 0.7622531274724101,
+          "opponent_name": "Sofia R\u00e5dstr\u00f6m",
+          "opponent_score": 4,
+          "opponent_score_share": 0.36363636363636365,
+          "opponent_win_prob": 0.23774687252758983,
+          "is_winner": true,
+          "opponent_slug": "sofia-radstrom",
+          "opponent_hist_score_share": 0.343188184364655
+        },
+        {
+          "game_id": 35,
+          "year": 2012,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Frida \u00d6hrn",
+          "score": 4,
+          "score_share": 0.36363636363636365,
+          "win_prob": 0.4823738229221546,
+          "opponent_name": "Jakob Lien",
+          "opponent_score": 7,
+          "opponent_score_share": 0.6363636363636364,
+          "opponent_win_prob": 0.5176261770778454,
+          "is_winner": false,
+          "opponent_slug": "jakob-lien",
+          "opponent_hist_score_share": 0.5680243456458289
+        }
+      ],
       "n_games": 2,
       "n_wins": 1
     },
@@ -70,6 +113,44 @@
         "is_winner": false,
         "stage": "gruppspel"
       },
+      "games": [
+        {
+          "game_id": 70,
+          "year": 2016,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Frida \u00d6hrn",
+          "score": 6,
+          "score_share": 0.46153846153846156,
+          "win_prob": 0.3743229281246003,
+          "opponent_name": "Felix H\u00e4ggstr\u00f6m",
+          "opponent_score": 7,
+          "opponent_score_share": 0.5384615384615384,
+          "opponent_win_prob": 0.6256770718753997,
+          "is_winner": false,
+          "opponent_slug": "felix-haggstrom",
+          "opponent_hist_score_share": 0.4192307692307692
+        },
+        {
+          "game_id": 55,
+          "year": 2016,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Frida \u00d6hrn",
+          "score": 1,
+          "score_share": 0.125,
+          "win_prob": 0.4520949345763089,
+          "opponent_name": "Daniel Mensak",
+          "opponent_score": 7,
+          "opponent_score_share": 0.875,
+          "opponent_win_prob": 0.5479050654236911,
+          "is_winner": false,
+          "opponent_slug": "daniel-mensak",
+          "opponent_hist_score_share": 0.6307142857142857
+        }
+      ],
       "n_games": 2,
       "n_wins": 0
     },
@@ -83,6 +164,44 @@
         "is_winner": false,
         "stage": "gruppspel"
       },
+      "games": [
+        {
+          "game_id": 199,
+          "year": 2018,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Frida \u00d6hrn",
+          "score": 6,
+          "score_share": 0.46153846153846156,
+          "win_prob": 0.4370624547831621,
+          "opponent_name": "Ylva Andr\u00e9asson",
+          "opponent_score": 7,
+          "opponent_score_share": 0.5384615384615384,
+          "opponent_win_prob": 0.5629375452168379,
+          "is_winner": false,
+          "opponent_slug": "ylva-andreasson",
+          "opponent_hist_score_share": 0.5159032144326262
+        },
+        {
+          "game_id": 169,
+          "year": 2018,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Frida \u00d6hrn",
+          "score": 4,
+          "score_share": 0.36363636363636365,
+          "win_prob": 0.3194519150635189,
+          "opponent_name": "Olle Hjort",
+          "opponent_score": 7,
+          "opponent_score_share": 0.6363636363636364,
+          "opponent_win_prob": 0.6805480849364811,
+          "is_winner": false,
+          "opponent_slug": "olle-hjort",
+          "opponent_hist_score_share": 0.28619528619528617
+        }
+      ],
       "n_games": 2,
       "n_wins": 0
     },
@@ -96,15 +215,137 @@
         "is_winner": true,
         "stage": "gruppspel"
       },
+      "games": [
+        {
+          "game_id": 416,
+          "year": 2020,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Frida \u00d6hrn",
+          "score": 3,
+          "score_share": 0.25,
+          "win_prob": 0.1325437322456764,
+          "opponent_name": "Martyna",
+          "opponent_score": 9,
+          "opponent_score_share": 0.75,
+          "opponent_win_prob": 0.8674562677543236,
+          "is_winner": false,
+          "opponent_slug": "martyna",
+          "opponent_hist_score_share": 0.5338235294117647
+        },
+        {
+          "game_id": 381,
+          "year": 2020,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Frida \u00d6hrn",
+          "score": 1,
+          "score_share": 0.1,
+          "win_prob": 0.2228915943409487,
+          "opponent_name": "Adriana Lilja",
+          "opponent_score": 9,
+          "opponent_score_share": 0.9,
+          "opponent_win_prob": 0.7771084056590513,
+          "is_winner": false,
+          "opponent_slug": "adriana-lilja",
+          "opponent_hist_score_share": 0.44533756684491976
+        },
+        {
+          "game_id": 405,
+          "year": 2020,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Frida \u00d6hrn",
+          "score": 9,
+          "score_share": 0.9,
+          "win_prob": 0.3069147497551935,
+          "opponent_name": "Beata Harrysson",
+          "opponent_score": 1,
+          "opponent_score_share": 0.1,
+          "opponent_win_prob": 0.6930852502448065,
+          "is_winner": true,
+          "opponent_slug": "beata-harrysson",
+          "opponent_hist_score_share": 0.296875
+        }
+      ],
+      "n_games": 3,
+      "n_wins": 1
+    },
+    {
+      "year": 2021,
+      "last_game": {
+        "opponent_name": "Lovisa Birgersson",
+        "opponent_slug": "lovisa-birgersson",
+        "score": 4,
+        "opponent_score": 9,
+        "is_winner": false,
+        "stage": "sextondelsfinal"
+      },
+      "games": [
+        {
+          "game_id": 463,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Frida \u00d6hrn",
+          "score": 2,
+          "score_share": 0.16666666666666666,
+          "win_prob": 0.014692479254910573,
+          "opponent_name": "Theodore Ripman",
+          "opponent_score": 10,
+          "opponent_score_share": 0.8333333333333334,
+          "opponent_win_prob": 0.9853075207450894,
+          "is_winner": false,
+          "opponent_slug": "theodore-ripman",
+          "opponent_hist_score_share": 0.5584493013252412
+        },
+        {
+          "game_id": 515,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Frida \u00d6hrn",
+          "score": 9,
+          "score_share": 0.5625,
+          "win_prob": 0.16501306946808292,
+          "opponent_name": "Johan Ekman",
+          "opponent_score": 7,
+          "opponent_score_share": 0.4375,
+          "opponent_win_prob": 0.8349869305319171,
+          "is_winner": true,
+          "opponent_slug": "johan-ekman",
+          "opponent_hist_score_share": 0.4664331538106048
+        },
+        {
+          "game_id": 537,
+          "year": 2021,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p1",
+          "name": "Frida \u00d6hrn",
+          "score": 4,
+          "score_share": 0.3076923076923077,
+          "win_prob": 0.08391591520331632,
+          "opponent_name": "Lovisa Birgersson",
+          "opponent_score": 9,
+          "opponent_score_share": 0.6923076923076923,
+          "opponent_win_prob": 0.9160840847966837,
+          "is_winner": false,
+          "opponent_slug": "lovisa-birgersson",
+          "opponent_hist_score_share": 0.607092662239721
+        }
+      ],
       "n_games": 3,
       "n_wins": 1
     }
   ],
-  "best_stage": "gruppspel",
+  "best_stage": "sextondelsfinal",
   "best_stage_years": [
-    2012,
-    2016,
-    2018,
-    2020
+    2021
   ]
 }

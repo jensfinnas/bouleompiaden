@@ -11,8 +11,8 @@
   "skill_sigma": 75.0868957164604,
   "name": "Sofia Bard",
   "slug": "sofia-bard",
-  "skill_rank": 59.0,
-  "skill_rank_pct": 59.0,
+  "skill_rank": 69.0,
+  "skill_rank_pct": 69.0,
   "skill_history": [
     [
       2011,
@@ -41,6 +41,10 @@
     [
       2020,
       null
+    ],
+    [
+      2021,
+      null
     ]
   ],
   "tournaments": [
@@ -54,6 +58,44 @@
         "is_winner": true,
         "stage": "gruppspel"
       },
+      "games": [
+        {
+          "game_id": 71,
+          "year": 2016,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Sofia Bard",
+          "score": 5,
+          "score_share": 0.4166666666666667,
+          "win_prob": 0.5300335720391011,
+          "opponent_name": "Erik Sunninger",
+          "opponent_score": 7,
+          "opponent_score_share": 0.5833333333333334,
+          "opponent_win_prob": 0.46996642796089894,
+          "is_winner": false,
+          "opponent_slug": "erik-sunninger",
+          "opponent_hist_score_share": 0.47222222222222227
+        },
+        {
+          "game_id": 56,
+          "year": 2016,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Sofia Bard",
+          "score": 7,
+          "score_share": 0.5384615384615384,
+          "win_prob": 0.49999998499999976,
+          "opponent_name": "Tobe Welander",
+          "opponent_score": 6,
+          "opponent_score_share": 0.46153846153846156,
+          "opponent_win_prob": 0.5000000150000002,
+          "is_winner": true,
+          "opponent_slug": "tobe-welander",
+          "opponent_hist_score_share": 0.48502616664381376
+        }
+      ],
       "n_games": 2,
       "n_wins": 1
     }

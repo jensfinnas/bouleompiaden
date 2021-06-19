@@ -1,6 +1,6 @@
 {
-  "n_games": 12,
-  "score_share": 0.3230751138839374,
+  "n_games": 14,
+  "score_share": 0.31837560781888513,
   "n_wins": 2,
   "years": [
     2012,
@@ -8,16 +8,17 @@
     2017,
     2018,
     2019,
-    2020
+    2020,
+    2021
   ],
-  "win_rate": 0.16666666666666666,
-  "opponent_score_share": 0.5091467672966891,
-  "skill": -19.569760043527587,
-  "skill_sigma": 43.13347924330733,
+  "win_rate": 0.14285714285714285,
+  "opponent_score_share": 0.49906660796035573,
+  "skill": -27.438692070178295,
+  "skill_sigma": 41.10108564799394,
   "name": "Johanna R\u00e5dstr\u00f6m",
   "slug": "johanna-radstrom",
-  "skill_rank": 124.0,
-  "skill_rank_pct": 124.0,
+  "skill_rank": 137.0,
+  "skill_rank_pct": 137.0,
   "skill_history": [
     [
       2011,
@@ -46,6 +47,10 @@
     [
       2020,
       -20.0
+    ],
+    [
+      2021,
+      -27.0
     ]
   ],
   "tournaments": [
@@ -59,6 +64,44 @@
         "is_winner": false,
         "stage": "gruppspel"
       },
+      "games": [
+        {
+          "game_id": 40,
+          "year": 2012,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Johanna R\u00e5dstr\u00f6m",
+          "score": 7,
+          "score_share": 0.7,
+          "win_prob": 0.46996642796089894,
+          "opponent_name": "Conny \u00c5berg",
+          "opponent_score": 3,
+          "opponent_score_share": 0.3,
+          "opponent_win_prob": 0.5300335720391011,
+          "is_winner": true,
+          "opponent_slug": "conny-aberg",
+          "opponent_hist_score_share": 0.15
+        },
+        {
+          "game_id": 26,
+          "year": 2012,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Johanna R\u00e5dstr\u00f6m",
+          "score": 1,
+          "score_share": 0.125,
+          "win_prob": 0.49999998499999976,
+          "opponent_name": "Johan Alm",
+          "opponent_score": 7,
+          "opponent_score_share": 0.875,
+          "opponent_win_prob": 0.5000000150000002,
+          "is_winner": false,
+          "opponent_slug": "johan-alm",
+          "opponent_hist_score_share": 0.6757478632478632
+        }
+      ],
       "n_games": 2,
       "n_wins": 1
     },
@@ -72,6 +115,44 @@
         "is_winner": false,
         "stage": "gruppspel"
       },
+      "games": [
+        {
+          "game_id": 52,
+          "year": 2016,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Johanna R\u00e5dstr\u00f6m",
+          "score": 7,
+          "score_share": 0.7,
+          "win_prob": 0.8127407776407847,
+          "opponent_name": "Sofia R\u00e5dstr\u00f6m",
+          "opponent_score": 3,
+          "opponent_score_share": 0.3,
+          "opponent_win_prob": 0.18725922235921538,
+          "is_winner": true,
+          "opponent_slug": "sofia-radstrom",
+          "opponent_hist_score_share": 0.343188184364655
+        },
+        {
+          "game_id": 67,
+          "year": 2016,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Johanna R\u00e5dstr\u00f6m",
+          "score": 2,
+          "score_share": 0.2222222222222222,
+          "win_prob": 0.7180644371804317,
+          "opponent_name": "Richard Ekman",
+          "opponent_score": 7,
+          "opponent_score_share": 0.7777777777777778,
+          "opponent_win_prob": 0.28193556281956833,
+          "is_winner": false,
+          "opponent_slug": "richard-ekman",
+          "opponent_hist_score_share": 0.6032088282088284
+        }
+      ],
       "n_games": 2,
       "n_wins": 1
     },
@@ -85,6 +166,44 @@
         "is_winner": false,
         "stage": "gruppspel"
       },
+      "games": [
+        {
+          "game_id": 96,
+          "year": 2017,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Johanna R\u00e5dstr\u00f6m",
+          "score": 2,
+          "score_share": 0.2,
+          "win_prob": 0.6338620144857324,
+          "opponent_name": "Tobe Welander",
+          "opponent_score": 8,
+          "opponent_score_share": 0.8,
+          "opponent_win_prob": 0.36613798551426757,
+          "is_winner": false,
+          "opponent_slug": "tobe-welander",
+          "opponent_hist_score_share": 0.48502616664381376
+        },
+        {
+          "game_id": 117,
+          "year": 2017,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Johanna R\u00e5dstr\u00f6m",
+          "score": 3,
+          "score_share": 0.2727272727272727,
+          "win_prob": 0.517593825336986,
+          "opponent_name": "Love Elfvelin",
+          "opponent_score": 8,
+          "opponent_score_share": 0.7272727272727273,
+          "opponent_win_prob": 0.48240617466301405,
+          "is_winner": false,
+          "opponent_slug": "love-elfvelin",
+          "opponent_hist_score_share": 0.4349618635332921
+        }
+      ],
       "n_games": 2,
       "n_wins": 0
     },
@@ -98,6 +217,44 @@
         "is_winner": false,
         "stage": "gruppspel"
       },
+      "games": [
+        {
+          "game_id": 201,
+          "year": 2018,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Johanna R\u00e5dstr\u00f6m",
+          "score": 3,
+          "score_share": 0.3,
+          "win_prob": 0.34856690727886397,
+          "opponent_name": "Niklas Larsson",
+          "opponent_score": 7,
+          "opponent_score_share": 0.7,
+          "opponent_win_prob": 0.651433092721136,
+          "is_winner": false,
+          "opponent_slug": "niklas-larsson",
+          "opponent_hist_score_share": 0.5385912698412698
+        },
+        {
+          "game_id": 172,
+          "year": 2018,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Johanna R\u00e5dstr\u00f6m",
+          "score": 4,
+          "score_share": 0.36363636363636365,
+          "win_prob": 0.24917524350108966,
+          "opponent_name": "Robeson",
+          "opponent_score": 7,
+          "opponent_score_share": 0.6363636363636364,
+          "opponent_win_prob": 0.7508247564989103,
+          "is_winner": false,
+          "opponent_slug": "robeson",
+          "opponent_hist_score_share": 0.5907463227674689
+        }
+      ],
       "n_games": 2,
       "n_wins": 0
     },
@@ -111,6 +268,44 @@
         "is_winner": false,
         "stage": "gruppspel"
       },
+      "games": [
+        {
+          "game_id": 302,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Johanna R\u00e5dstr\u00f6m",
+          "score": 3,
+          "score_share": 0.25,
+          "win_prob": 0.053131794276357794,
+          "opponent_name": "Hannes Jordan",
+          "opponent_score": 9,
+          "opponent_score_share": 0.75,
+          "opponent_win_prob": 0.9468682057236422,
+          "is_winner": false,
+          "opponent_slug": "hannes-jordan",
+          "opponent_hist_score_share": 0.4937004662004662
+        },
+        {
+          "game_id": 260,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Johanna R\u00e5dstr\u00f6m",
+          "score": 3,
+          "score_share": 0.2727272727272727,
+          "win_prob": 0.0386286038110456,
+          "opponent_name": "Robin Fogelberg",
+          "opponent_score": 8,
+          "opponent_score_share": 0.7272727272727273,
+          "opponent_win_prob": 0.9613713961889544,
+          "is_winner": false,
+          "opponent_slug": "robin-fogelberg",
+          "opponent_hist_score_share": 0.5474311979729937
+        }
+      ],
       "n_games": 2,
       "n_wins": 0
     },
@@ -124,6 +319,95 @@
         "is_winner": false,
         "stage": "gruppspel"
       },
+      "games": [
+        {
+          "game_id": 400,
+          "year": 2020,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Johanna R\u00e5dstr\u00f6m",
+          "score": 8,
+          "score_share": 0.47058823529411764,
+          "win_prob": 0.018011549782338265,
+          "opponent_name": "Robeson",
+          "opponent_score": 9,
+          "opponent_score_share": 0.5294117647058824,
+          "opponent_win_prob": 0.9819884502176617,
+          "is_winner": false,
+          "opponent_slug": "robeson",
+          "opponent_hist_score_share": 0.5907463227674689
+        },
+        {
+          "game_id": 368,
+          "year": 2020,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Johanna R\u00e5dstr\u00f6m",
+          "score": 0,
+          "score_share": 0.0,
+          "win_prob": 0.19220853590612305,
+          "opponent_name": "Jon Jeppson",
+          "opponent_score": 9,
+          "opponent_score_share": 1.0,
+          "opponent_win_prob": 0.8077914640938769,
+          "is_winner": false,
+          "opponent_slug": "jon-jeppson",
+          "opponent_hist_score_share": 0.6127450980392156
+        }
+      ],
+      "n_games": 2,
+      "n_wins": 0
+    },
+    {
+      "year": 2021,
+      "last_game": {
+        "opponent_name": "Gustaf Berencreutz",
+        "opponent_slug": "gustaf-berencreutz",
+        "score": 2,
+        "opponent_score": 12,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "games": [
+        {
+          "game_id": 460,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Johanna R\u00e5dstr\u00f6m",
+          "score": 7,
+          "score_share": 0.4375,
+          "win_prob": 0.05124468986954778,
+          "opponent_name": "Patrik J\u00e4rg\u00e5rden",
+          "opponent_score": 9,
+          "opponent_score_share": 0.5625,
+          "opponent_win_prob": 0.9487553101304522,
+          "is_winner": false,
+          "opponent_slug": "patrik-jargarden",
+          "opponent_hist_score_share": 0.6351246421433587
+        },
+        {
+          "game_id": 500,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Johanna R\u00e5dstr\u00f6m",
+          "score": 2,
+          "score_share": 0.14285714285714285,
+          "win_prob": 0.22005037013291806,
+          "opponent_name": "Gustaf Berencreutz",
+          "opponent_score": 12,
+          "opponent_score_share": 0.8571428571428571,
+          "opponent_win_prob": 0.7799496298670819,
+          "is_winner": false,
+          "opponent_slug": "gustaf-berencreutz",
+          "opponent_hist_score_share": 0.2857142857142857
+        }
+      ],
       "n_games": 2,
       "n_wins": 0
     }
@@ -131,6 +415,7 @@
   "best_stage": "gruppspel",
   "best_stage_years": [
     2016,
+    2021,
     2012,
     2017,
     2019,

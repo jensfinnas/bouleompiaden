@@ -4,10 +4,13 @@ import pandas as pd
 import numpy as np
 import os
 import json
+from copy import deepcopy
 from pandas.api.types import is_bool_dtype
 from slugify import slugify
 from collections import  defaultdict
 from trueskill import TrueSkill, Rating, rate_1vs1
+from modules.simulate import get_win_probability
+
 from settings import BY_PLAYER_FILE, GAMES_BY_PLAYER_FILE, META_DATA_FILE, TRUE_SKILL_BASE, TRUE_SKILL_BETA, TRUE_SKILL_SIGMA
 
 STAGES = [
@@ -17,6 +20,7 @@ STAGES = [
     "kvartsfinal",
     "semifinal",
     "bronsmatch",
+    "bronsvinnare",
     "final",
     "vinnare",
 ]
@@ -48,6 +52,8 @@ df.loc[p1_won, "winner"] = "p1"
 df.loc[~p1_won, "winner"] = "p2"
 df.loc[p1_won, "winner_name"] = df.loc[p1_won, "p1_name"]
 df.loc[~p1_won, "winner_name"] = df.loc[~p1_won, "p2_name"]
+df.loc[p1_won, "loser_name"] = df.loc[p1_won, "p2_name"]
+df.loc[~p1_won, "loser_name"] = df.loc[~p1_won, "p1_name"]
 
 df["winner_points"] = df[["p1_score", "p2_score"]].max(axis=1)
 
@@ -56,6 +62,42 @@ df.loc[is_medal_game, "score_to_win"] = 12
 
 df.loc[is_medal_game, "score_to_win"] = 12
 df.loc[~is_medal_game, "score_to_win"] = 8
+
+# Compute skill
+true_skill_env = TrueSkill(draw_probability=0, mu=TRUE_SKILL_BASE,
+                           sigma=TRUE_SKILL_SIGMA, beta=TRUE_SKILL_BETA)
+true_skill_env.make_as_global()
+
+player_skills = defaultdict(list)
+
+for ix, game in df.iterrows():
+    p1 = game["p1_name"]
+    p2 = game["p2_name"]
+
+    try:
+        p1_skill = player_skills[p1][-1][1]
+        p1_skill = player_skills[p1][-1][1]
+    except (KeyError, IndexError):
+        p1_skill = Rating()
+
+    try:
+        p2_skill = player_skills[p2][-1][1]
+    except (KeyError, IndexError):
+        p2_skill = Rating()
+    
+    p1_win_prob = get_win_probability([p1_skill], [p2_skill])
+    p2_win_prob = 1 - p1_win_prob
+    df.loc[ix, "p1_win_prob"] = p1_win_prob
+    df.loc[ix, "p2_win_prob"] = p2_win_prob
+    df.loc[ix, "winner_win_prob"] =  p1_win_prob if game["winner"] == "p1" else p2_win_prob
+
+    if game[u"p1_score"] > game[u"p2_score"]:
+        p1_new_skill, p2_new_skill = rate_1vs1(p1_skill, p2_skill)
+    else:
+        p2_new_skill, p1_new_skill = rate_1vs1(p2_skill, p1_skill)
+
+    player_skills[p1].append((game["year"], p1_new_skill))
+    player_skills[p2].append((game["year"], p2_new_skill))
 
 ###
 # Prepare by player data
@@ -77,7 +119,12 @@ df_long["is_winner"] = df_long["score"] > df_long["opponent_score"]
 is_final_winner = (df_long["stage"]=="final") & df_long["is_winner"]
 df_long.loc[is_final_winner, "stage"] = "vinnare"
 df_long.loc[is_final_winner, "stage_level"] = STAGES.index("vinnare")
+is_bronze_winner = (df_long["stage"]=="final") & df_long["is_winner"]
+df_long.loc[is_bronze_winner, "stage"] = "bronsvinnare"
+df_long.loc[is_bronze_winner, "stage_level"] = STAGES.index("bronsvinnare")
+
 df_long["opponent_slug"] = df_long["opponent_name"].apply(slugify)
+
 
 by_player = df_long.groupby("name")
 df_players = pd.concat([
@@ -91,36 +138,8 @@ df_players["win_rate"] = df_players["n_wins"] / df_players["n_games"]
 # Add component score share
 df_long = df_long.merge(df_players["score_share"].rename("opponent_hist_score_share").to_frame(), left_on="opponent_name", right_index=True)
 df_players["opponent_score_share"] = df_long.groupby("name")["opponent_hist_score_share"].mean()
-df_players.sort_values("opponent_score_share")
 
-# Compute skill
-true_skill_env = TrueSkill(draw_probability=0, mu=TRUE_SKILL_BASE,
-                           sigma=TRUE_SKILL_SIGMA, beta=TRUE_SKILL_BETA)
-true_skill_env.make_as_global()
 
-player_skills = defaultdict(list)
-
-for ix, game in df.iterrows():
-    p1 = game["p1_name"]
-    p2 = game["p2_name"]
-
-    try:
-        p1_skill = player_skills[p1][-1][1]
-    except (KeyError, IndexError):
-        p1_skill = Rating()
-
-    try:
-        p2_skill = player_skills[p2][-1][1]
-    except (KeyError, IndexError):
-        p2_skill = Rating()
-
-    if game[u"p1_score"] > game[u"p2_score"]:
-        p1_new_skill, p2_new_skill = rate_1vs1(p1_skill, p2_skill)
-    else:
-        p2_new_skill, p1_new_skill = rate_1vs1(p2_skill, p1_skill)
-
-    player_skills[p1].append((game["year"], p1_new_skill))
-    player_skills[p2].append((game["year"], p2_new_skill))
 
 for player, skill_history in player_skills.items():
     df_players.loc[player, "skill"] = skill_history[-1][1].mu
@@ -163,6 +182,7 @@ for player, player_json in players_json.items():
         tournament_json = {
             "year": year,
             "last_game": df_player_year_games.iloc[-1][cols].to_dict(),
+            "games": df_player_year_games.to_dict("records"),
             "n_games": df_player_year_games.shape[0],
             "n_wins": df_player_year_games["is_winner"].sum(),
         }
@@ -188,8 +208,12 @@ for player, player_json in players_json.items():
         json.dump(player_json, f, indent=2, default=default)
         print(f"Updated {file_path}")
 
+players_json_slim = deepcopy(players_json)
+for player, player_json in players_json_slim.items():
+    del player_json["tournaments"]
+
 with open(BY_PLAYER_FILE, 'w') as f:
-    json.dump(players_json, f, indent=2, default=default)
+    json.dump(players_json_slim, f, indent=2, default=default)
 print("Updated {}".format(BY_PLAYER_FILE))
 
 
@@ -201,15 +225,19 @@ for player in df_players.index.unique():
     p1_games = (df[df["p1_name"] == player]
                 [["year", "p2_name", "p1_score", "p2_score", "winner_name"]]
                 .rename(columns={"p1_score": "player_score",
+                                 "p1_win_prob": "win_prob",
                                  "p2_score": "opponent_score",
                                  "p2_name": "opponent",
+                                 "p2_win_prob": "opponent_win_prob",
                                  "winner_name": "winner"})
                 )
     p2_games = (df[df["p2_name"] == player]
                 [["year", "p1_name", "p1_score", "p2_score", "winner_name"]]
                 .rename(columns={"p2_score": "player_score",
+                                 "p2_win_prob": "win_prob",
                                  "p1_score": "opponent_score",
                                  "p1_name": "opponent",
+                                 "p1_win_prob": "opponent_win_prob",
                                  "winner_name": "winner"})
                 )
     df_games = pd.concat([p1_games, p2_games], sort=False)
@@ -224,6 +252,7 @@ print("Updated {}".format(GAMES_BY_PLAYER_FILE))
 ###
 # Prepare tournament data
 ###
+"""
 df_skill_hist = pd.DataFrame(player_skills)\
                   .T\
                   .melt(ignore_index=False, var_name="year", value_name="skill")\
@@ -231,10 +260,39 @@ df_skill_hist = pd.DataFrame(player_skills)\
                   .rename(columns={"index": "player"})\
                   .sort_values([ "player", "year"])
 df_skill_hist["player_slug"] = df_skill_hist["player"].apply(slugify)
-df_skill_hist = df_skill_hist[df_skill_hist["skill"].notna()]
+
+df_skill_hist["skill_filled"] = df_skill_hist.groupby("player")["skill"].fillna(method="ffill")
+
+#df_skill_hist = df_skill_hist[df_skill_hist["skill"].notna()]
 # räkna ut förändrad skill från år till år
 df_skill_hist["change"] = df_skill_hist.groupby("player")["skill"]\
                                        .transform(lambda x: x - x.shift(1))
+
+# Lägg till en kolumn till varje match om varje spelares skill vid INGÅNGEN till den turneringen, dvs
+# året innan
+df_skill_hist["next_year"] = df_skill_hist["year"] + 1
+df_long = df_long.merge(df_skill_hist[["player", "skill_filled", "next_year"]], 
+                    how="left", left_on=["name", "year"], right_on=["player", "next_year"])\
+             .drop(["player", "next_year"], axis=1)\
+             .rename(columns={"skill_filled": "skill"})\
+             .merge(df_skill_hist[["player", "skill_filled", "next_year"]], 
+                    how="left", left_on=["opponent_name", "year"], right_on=["player", "next_year"])\
+             .drop(["player", "next_year"], axis=1)\
+             .rename(columns={"skill_filled": "opponent_skill"})
+
+# Nya spelare har null-värde => fyll med utgångsskill
+df_long[["skill", "opponent_skill"]] = df_long[["skill", "opponent_skill"]].fillna(TRUE_SKILL_BASE)
+"""
+
+def get_performance(x):
+    """Performance är ett mått hur bra varje spelare presterat år för år i förhållande till
+    sina odds.  
+    """
+    return ((x[x.is_winner]["opponent_win_prob"].sum() - # 1. motståndrens vinstchans i vinstmatcher
+             x[~x.is_winner]["win_prob"].sum()) / # 2. minus egen vinstchans i förlustmatcher
+            len(x.index) # 3. dividerat med antal matcher
+            )
+s_performance = df_long.groupby(["year", "name"]).apply(get_performance).rename("performance")
 
 for year, df_year in df.groupby("year"):
     tournament = {
@@ -250,12 +308,19 @@ for year, df_year in df.groupby("year"):
                 "stage": stage,
                 "games": df_stage_games[cols].to_dict("records"),
             })
-    # lista spelare som ökat ranking mest
-    tournament["player_skill_change"] = df_skill_hist.set_index("year")\
-                                                    .loc[year]\
-                                                    .dropna()\
-                                                    .sort_values("change", ascending=False)\
-                                                    .to_dict("records")
+    tournament["top_performers"] = s_performance[s_performance > 0].loc[year]\
+                                                .sort_values(ascending=False)\
+                                                .head(15)\
+                                                .reset_index()\
+                                                .to_dict("records")
+
+    df_tourn_games = df[df["year"] == year]
+    tournament["top_low_prob_winners"] = df_tourn_games.sort_values("winner_win_prob")\
+                                            [["winner_name", "loser_name", "winner_win_prob", "stage"]]\
+                                            .head(10)\
+                                            .to_dict("records")
+    
+
     # save
     file_path = os.path.join("data", "tournaments", f"{year}.json")
     with open(file_path, 'w') as f:

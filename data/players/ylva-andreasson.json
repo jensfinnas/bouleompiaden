@@ -7,13 +7,13 @@
     2018
   ],
   "win_rate": 0.42857142857142855,
-  "opponent_score_share": 0.4363210878757098,
+  "opponent_score_share": 0.434230582925811,
   "skill": 76.689103762065,
   "skill_sigma": 46.61569476253359,
   "name": "Ylva Andr\u00e9asson",
   "slug": "ylva-andreasson",
-  "skill_rank": 77.0,
-  "skill_rank_pct": 77.0,
+  "skill_rank": 83.0,
+  "skill_rank_pct": 83.0,
   "skill_history": [
     [
       2011,
@@ -42,6 +42,10 @@
     [
       2020,
       null
+    ],
+    [
+      2021,
+      null
     ]
   ],
   "tournaments": [
@@ -55,6 +59,62 @@
         "is_winner": true,
         "stage": "gruppspel"
       },
+      "games": [
+        {
+          "game_id": 89,
+          "year": 2017,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Ylva Andr\u00e9asson",
+          "score": 6,
+          "score_share": 0.46153846153846156,
+          "win_prob": 0.5000000150000002,
+          "opponent_name": "Jacob Stenman",
+          "opponent_score": 7,
+          "opponent_score_share": 0.5384615384615384,
+          "opponent_win_prob": 0.49999998499999976,
+          "is_winner": false,
+          "opponent_slug": "jacob-stenman",
+          "opponent_hist_score_share": 0.3577272727272728
+        },
+        {
+          "game_id": 128,
+          "year": 2017,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Ylva Andr\u00e9asson",
+          "score": 4,
+          "score_share": 0.36363636363636365,
+          "win_prob": 0.42532926863358955,
+          "opponent_name": "Mathilda Hansson",
+          "opponent_score": 7,
+          "opponent_score_share": 0.6363636363636364,
+          "opponent_win_prob": 0.5746707313664104,
+          "is_winner": false,
+          "opponent_slug": "mathilda-hansson",
+          "opponent_hist_score_share": 0.44249639249639244
+        },
+        {
+          "game_id": 113,
+          "year": 2017,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Ylva Andr\u00e9asson",
+          "score": 7,
+          "score_share": 0.5384615384615384,
+          "win_prob": 0.5849362941248571,
+          "opponent_name": "Tove Papp Lindkvist",
+          "opponent_score": 6,
+          "opponent_score_share": 0.46153846153846156,
+          "opponent_win_prob": 0.41506370587514285,
+          "is_winner": true,
+          "opponent_slug": "tove-papp-lindkvist",
+          "opponent_hist_score_share": 0.3418803418803419
+        }
+      ],
       "n_games": 3,
       "n_wins": 1
     },
@@ -68,6 +128,80 @@
         "is_winner": false,
         "stage": "sextondelsfinal"
       },
+      "games": [
+        {
+          "game_id": 199,
+          "year": 2018,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Ylva Andr\u00e9asson",
+          "score": 7,
+          "score_share": 0.5384615384615384,
+          "win_prob": 0.5629375452168379,
+          "opponent_name": "Frida \u00d6hrn",
+          "opponent_score": 6,
+          "opponent_score_share": 0.46153846153846156,
+          "opponent_win_prob": 0.4370624547831621,
+          "is_winner": true,
+          "opponent_slug": "frida-ohrn",
+          "opponent_hist_score_share": 0.39154768842268833
+        },
+        {
+          "game_id": 168,
+          "year": 2018,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Ylva Andr\u00e9asson",
+          "score": 4,
+          "score_share": 0.36363636363636365,
+          "win_prob": 0.26072016557643174,
+          "opponent_name": "Robin Linderborg",
+          "opponent_score": 7,
+          "opponent_score_share": 0.6363636363636364,
+          "opponent_win_prob": 0.7392798344235683,
+          "is_winner": false,
+          "opponent_slug": "robin-linderborg",
+          "opponent_hist_score_share": 0.5582165616829482
+        },
+        {
+          "game_id": 206,
+          "year": 2018,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Ylva Andr\u00e9asson",
+          "score": 7,
+          "score_share": 0.875,
+          "win_prob": 0.4175259811046541,
+          "opponent_name": "Julius Jorborg",
+          "opponent_score": 1,
+          "opponent_score_share": 0.125,
+          "opponent_win_prob": 0.5824740188953459,
+          "is_winner": true,
+          "opponent_slug": "julius-jorborg",
+          "opponent_hist_score_share": 0.44598794063079783
+        },
+        {
+          "game_id": 222,
+          "year": 2018,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p1",
+          "name": "Ylva Andr\u00e9asson",
+          "score": 8,
+          "score_share": 0.47058823529411764,
+          "win_prob": 0.3368098205730021,
+          "opponent_name": "Ida Wimmerman",
+          "opponent_score": 9,
+          "opponent_score_share": 0.5294117647058824,
+          "opponent_win_prob": 0.6631901794269979,
+          "is_winner": false,
+          "opponent_slug": "ida-wimmerman",
+          "opponent_hist_score_share": 0.5017578826402356
+        }
+      ],
       "n_games": 4,
       "n_wins": 2
     }

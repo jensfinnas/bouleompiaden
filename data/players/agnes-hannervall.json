@@ -6,13 +6,13 @@
     2019
   ],
   "win_rate": 0.0,
-  "opponent_score_share": 0.5082182383442888,
+  "opponent_score_share": 0.5265403014352594,
   "skill": 6.402404806036442,
   "skill_sigma": 67.33727244871369,
   "name": "Agnes Hannervall",
   "slug": "agnes-hannervall",
-  "skill_rank": 113.0,
-  "skill_rank_pct": 113.0,
+  "skill_rank": 124.0,
+  "skill_rank_pct": 124.0,
   "skill_history": [
     [
       2011,
@@ -41,6 +41,10 @@
     [
       2020,
       null
+    ],
+    [
+      2021,
+      null
     ]
   ],
   "tournaments": [
@@ -54,6 +58,44 @@
         "is_winner": false,
         "stage": "gruppspel"
       },
+      "games": [
+        {
+          "game_id": 275,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Agnes Hannervall",
+          "score": 1,
+          "score_share": 0.1111111111111111,
+          "win_prob": 0.4038202970875655,
+          "opponent_name": "Lovisa Birgersson",
+          "opponent_score": 8,
+          "opponent_score_share": 0.8888888888888888,
+          "opponent_win_prob": 0.5961797029124345,
+          "is_winner": false,
+          "opponent_slug": "lovisa-birgersson",
+          "opponent_hist_score_share": 0.607092662239721
+        },
+        {
+          "game_id": 309,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Agnes Hannervall",
+          "score": 3,
+          "score_share": 0.2727272727272727,
+          "win_prob": 0.4820130514760841,
+          "opponent_name": "Julius Jorborg",
+          "opponent_score": 8,
+          "opponent_score_share": 0.7272727272727273,
+          "opponent_win_prob": 0.5179869485239159,
+          "is_winner": false,
+          "opponent_slug": "julius-jorborg",
+          "opponent_hist_score_share": 0.44598794063079783
+        }
+      ],
       "n_games": 2,
       "n_wins": 0
     }

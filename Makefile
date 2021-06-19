@@ -1,11 +1,6 @@
 
 .PHONY: clean-pyc clean-build
 
-install:
-	virtualenv env
-	. env/bin/activate
-	pip install -r requirements.txt
-	cp .env.sample .env
 
 clean-pyc:
 	find . -name '*.pyc' -exec rm {} +

@@ -78,66 +78,112 @@
       ]
     }
   ],
-  "player_skill_change": [
+  "top_performers": [
     {
-      "player": "Jerker Karlsson",
-      "skill": 134.0,
-      "player_slug": "jerker-karlsson",
-      "change": 122.0
+      "name": "Gabriel Nordenankar",
+      "performance": 0.5262147445631541
     },
     {
-      "player": "Gabriel Nordenankar",
-      "skill": 210.0,
-      "player_slug": "gabriel-nordenankar",
-      "change": 95.0
+      "name": "Jerker Karlsson",
+      "performance": 0.4497385588287336
     },
     {
-      "player": "Richard Ekman",
-      "skill": 62.0,
-      "player_slug": "richard-ekman",
-      "change": 49.0
+      "name": "Richard Ekman",
+      "performance": 0.20802376738227943
     },
     {
-      "player": "Jakob Lien",
-      "skill": 197.0,
-      "player_slug": "jakob-lien",
-      "change": 14.0
+      "name": "Maria Adel\u00f6f",
+      "performance": 0.1630986111896012
     },
     {
-      "player": "Cissi Hellman",
-      "skill": 151.0,
-      "player_slug": "cissi-hellman",
-      "change": 10.0
+      "name": "Erik Sunninger",
+      "performance": 0.09879038785015348
     },
     {
-      "player": "Johan Ekman",
-      "skill": 105.0,
-      "player_slug": "johan-ekman",
-      "change": -12.0
+      "name": "Lotta Harder",
+      "performance": 0.0895918276931803
     },
     {
-      "player": "Erik Nordenankar",
-      "skill": 167.0,
-      "player_slug": "erik-nordenankar",
-      "change": -27.0
+      "name": "Jakob Lien",
+      "performance": 0.07530595001892475
     },
     {
-      "player": "Sofia R\u00e5dstr\u00f6m",
-      "skill": -45.0,
-      "player_slug": "sofia-radstrom",
-      "change": -31.0
+      "name": "Cissi Hellman",
+      "performance": 0.06997491371304593
     },
     {
-      "player": "Johanna R\u00e5dstr\u00f6m",
-      "skill": 61.0,
-      "player_slug": "johanna-radstrom",
-      "change": -33.0
+      "name": "Daniel Mensak",
+      "performance": 0.06989462329502043
     },
     {
-      "player": "Frida \u00d6hrn",
-      "skill": 35.0,
-      "player_slug": "frida-ohrn",
-      "change": -48.0
+      "name": "Linn Debove",
+      "performance": 0.04120875170283994
+    },
+    {
+      "name": "Jens Finn\u00e4s",
+      "performance": 0.015016793519550653
+    }
+  ],
+  "top_low_prob_winners": [
+    {
+      "winner_name": "Jerker Karlsson",
+      "loser_name": "Bj\u00f6rn Westerfors",
+      "winner_win_prob": 0.14868811581729935,
+      "stage": "gruppspel"
+    },
+    {
+      "winner_name": "Cissi Hellman",
+      "loser_name": "Erik Nordenankar",
+      "winner_win_prob": 0.2351895846276919,
+      "stage": "gruppspel"
+    },
+    {
+      "winner_name": "Richard Ekman",
+      "loser_name": "Johanna R\u00e5dstr\u00f6m",
+      "winner_win_prob": 0.28193556281956833,
+      "stage": "gruppspel"
+    },
+    {
+      "winner_name": "Jerker Karlsson",
+      "loser_name": "Daniel Mensak",
+      "winner_win_prob": 0.3225082548980319,
+      "stage": "bronsmatch"
+    },
+    {
+      "winner_name": "Linn Debove",
+      "loser_name": "Cissi Hellman",
+      "winner_win_prob": 0.37513941205378376,
+      "stage": "gruppspel"
+    },
+    {
+      "winner_name": "Gabriel Nordenankar",
+      "loser_name": "Daniel Mensak",
+      "winner_win_prob": 0.39120139214783806,
+      "stage": "semifinal"
+    },
+    {
+      "winner_name": "Gabriel Nordenankar",
+      "loser_name": "Johan Ekman",
+      "winner_win_prob": 0.39581836159595607,
+      "stage": "gruppspel"
+    },
+    {
+      "winner_name": "Daniel Mensak",
+      "loser_name": "Erik Sunninger",
+      "winner_win_prob": 0.39819085108179336,
+      "stage": "kvartsfinal"
+    },
+    {
+      "winner_name": "Gabriel Nordenankar",
+      "loser_name": "Lotta Harder",
+      "winner_win_prob": 0.40062875764997524,
+      "stage": "kvartsfinal"
+    },
+    {
+      "winner_name": "Gabriel Nordenankar",
+      "loser_name": "Jakob Lien",
+      "winner_win_prob": 0.40243104367009275,
+      "stage": "final"
     }
   ]
 }

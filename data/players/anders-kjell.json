@@ -1,0 +1,125 @@
+{
+  "n_games": 3,
+  "score_share": 0.2769230769230769,
+  "n_wins": 1,
+  "years": [
+    2021
+  ],
+  "win_rate": 0.3333333333333333,
+  "opponent_score_share": 0.5422838452974371,
+  "skill": 51.51258252484005,
+  "skill_sigma": 60.835789136477075,
+  "name": "Anders Kjell",
+  "slug": "anders-kjell",
+  "skill_rank": 97.0,
+  "skill_rank_pct": 97.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      null
+    ],
+    [
+      2016,
+      null
+    ],
+    [
+      2017,
+      null
+    ],
+    [
+      2018,
+      null
+    ],
+    [
+      2019,
+      null
+    ],
+    [
+      2020,
+      null
+    ],
+    [
+      2021,
+      52.0
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2021,
+      "last_game": {
+        "opponent_name": "Richard Arnesson",
+        "opponent_slug": "richard-arnesson",
+        "score": 9,
+        "opponent_score": 6,
+        "is_winner": true,
+        "stage": "gruppspel"
+      },
+      "games": [
+        {
+          "game_id": 514,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Anders Kjell",
+          "score": 0,
+          "score_share": 0.0,
+          "win_prob": 0.29874177918460565,
+          "opponent_name": "Patrik J\u00e4rg\u00e5rden",
+          "opponent_score": 9,
+          "opponent_score_share": 1.0,
+          "opponent_win_prob": 0.7012582208153944,
+          "is_winner": false,
+          "opponent_slug": "patrik-jargarden",
+          "opponent_hist_score_share": 0.6351246421433587
+        },
+        {
+          "game_id": 462,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Anders Kjell",
+          "score": 3,
+          "score_share": 0.23076923076923078,
+          "win_prob": 0.5628257763845183,
+          "opponent_name": "Bj\u00f6rn Berglund",
+          "opponent_score": 10,
+          "opponent_score_share": 0.7692307692307693,
+          "opponent_win_prob": 0.43717422361548175,
+          "is_winner": false,
+          "opponent_slug": "bjorn-berglund",
+          "opponent_hist_score_share": 0.5564327761018938
+        },
+        {
+          "game_id": 501,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Anders Kjell",
+          "score": 9,
+          "score_share": 0.6,
+          "win_prob": 0.41715691380487374,
+          "opponent_name": "Richard Arnesson",
+          "opponent_score": 6,
+          "opponent_score_share": 0.4,
+          "opponent_win_prob": 0.5828430861951263,
+          "is_winner": true,
+          "opponent_slug": "richard-arnesson",
+          "opponent_hist_score_share": 0.43529411764705883
+        }
+      ],
+      "n_games": 3,
+      "n_wins": 1
+    }
+  ],
+  "best_stage": "gruppspel",
+  "best_stage_years": [
+    2021
+  ]
+}

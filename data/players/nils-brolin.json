@@ -6,13 +6,13 @@
     2019
   ],
   "win_rate": 0.0,
-  "opponent_score_share": 0.6008697941001125,
+  "opponent_score_share": 0.5988423047827073,
   "skill": 23.214111726721562,
   "skill_sigma": 71.21807908752382,
   "name": "Nils Brolin",
   "slug": "nils-brolin",
-  "skill_rank": 100.0,
-  "skill_rank_pct": 100.0,
+  "skill_rank": 111.0,
+  "skill_rank_pct": 111.0,
   "skill_history": [
     [
       2011,
@@ -41,6 +41,10 @@
     [
       2020,
       null
+    ],
+    [
+      2021,
+      null
     ]
   ],
   "tournaments": [
@@ -54,6 +58,44 @@
         "is_winner": false,
         "stage": "gruppspel"
       },
+      "games": [
+        {
+          "game_id": 299,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Nils Brolin",
+          "score": 3,
+          "score_share": 0.2727272727272727,
+          "win_prob": 0.49396717486492275,
+          "opponent_name": "Pelle Dovborg",
+          "opponent_score": 8,
+          "opponent_score_share": 0.7272727272727273,
+          "opponent_win_prob": 0.5060328251350772,
+          "is_winner": false,
+          "opponent_slug": "pelle-dovborg",
+          "opponent_hist_score_share": 0.5669484926837869
+        },
+        {
+          "game_id": 254,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Nils Brolin",
+          "score": 3,
+          "score_share": 0.2727272727272727,
+          "win_prob": 0.20769825407999243,
+          "opponent_name": "Estrid",
+          "opponent_score": 8,
+          "opponent_score_share": 0.7272727272727273,
+          "opponent_win_prob": 0.7923017459200076,
+          "is_winner": false,
+          "opponent_slug": "estrid",
+          "opponent_hist_score_share": 0.6307361168816277
+        }
+      ],
       "n_games": 2,
       "n_wins": 0
     }

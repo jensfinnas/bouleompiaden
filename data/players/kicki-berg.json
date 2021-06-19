@@ -6,13 +6,13 @@
     2020
   ],
   "win_rate": 0.0,
-  "opponent_score_share": 0.5733122740314713,
+  "opponent_score_share": 0.5701184707681629,
   "skill": 1.3993560592152121,
   "skill_sigma": 65.36515123527,
   "name": "Kicki Berg",
   "slug": "kicki-berg",
-  "skill_rank": 116.0,
-  "skill_rank_pct": 116.0,
+  "skill_rank": 127.0,
+  "skill_rank_pct": 127.0,
   "skill_history": [
     [
       2011,
@@ -41,6 +41,10 @@
     [
       2020,
       1.0
+    ],
+    [
+      2021,
+      null
     ]
   ],
   "tournaments": [
@@ -54,6 +58,62 @@
         "is_winner": false,
         "stage": "sextondelsfinal"
       },
+      "games": [
+        {
+          "game_id": 372,
+          "year": 2020,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Kicki Berg",
+          "score": 3,
+          "score_share": 0.25,
+          "win_prob": 0.5337799899303366,
+          "opponent_name": "Olle Strandberg",
+          "opponent_score": 9,
+          "opponent_score_share": 0.75,
+          "opponent_win_prob": 0.4662200100696634,
+          "is_winner": false,
+          "opponent_slug": "olle-strandberg",
+          "opponent_hist_score_share": 0.6265515681970623
+        },
+        {
+          "game_id": 412,
+          "year": 2020,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Kicki Berg",
+          "score": 5,
+          "score_share": 0.35714285714285715,
+          "win_prob": 0.17808429074977572,
+          "opponent_name": "Johan Johnson",
+          "opponent_score": 9,
+          "opponent_score_share": 0.6428571428571429,
+          "opponent_win_prob": 0.8219157092502243,
+          "is_winner": false,
+          "opponent_slug": "johan-johnson",
+          "opponent_hist_score_share": 0.45725227591036416
+        },
+        {
+          "game_id": 427,
+          "year": 2020,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p1",
+          "name": "Kicki Berg",
+          "score": 6,
+          "score_share": 0.35294117647058826,
+          "win_prob": 0.22277166230086298,
+          "opponent_name": "Olle Strandberg",
+          "opponent_score": 11,
+          "opponent_score_share": 0.6470588235294118,
+          "opponent_win_prob": 0.777228337699137,
+          "is_winner": false,
+          "opponent_slug": "olle-strandberg",
+          "opponent_hist_score_share": 0.6265515681970623
+        }
+      ],
       "n_games": 3,
       "n_wins": 0
     }

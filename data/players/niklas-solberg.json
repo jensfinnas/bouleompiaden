@@ -6,7 +6,7 @@
     2020
   ],
   "win_rate": 0.8,
-  "opponent_score_share": 0.5782573739803586,
+  "opponent_score_share": 0.576438551305891,
   "skill": 206.19579370243187,
   "skill_sigma": 46.677400140395676,
   "name": "Niklas Solberg",
@@ -41,6 +41,10 @@
     [
       2020,
       206.0
+    ],
+    [
+      2021,
+      null
     ]
   ],
   "tournaments": [
@@ -54,6 +58,98 @@
         "is_winner": false,
         "stage": "kvartsfinal"
       },
+      "games": [
+        {
+          "game_id": 369,
+          "year": 2020,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Niklas Solberg",
+          "score": 9,
+          "score_share": 0.5625,
+          "win_prob": 0.2696631501603333,
+          "opponent_name": "Robeson",
+          "opponent_score": 7,
+          "opponent_score_share": 0.4375,
+          "opponent_win_prob": 0.7303368498396667,
+          "is_winner": true,
+          "opponent_slug": "robeson",
+          "opponent_hist_score_share": 0.5907463227674689
+        },
+        {
+          "game_id": 388,
+          "year": 2020,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Niklas Solberg",
+          "score": 9,
+          "score_share": 0.75,
+          "win_prob": 0.7015588191454748,
+          "opponent_name": "Jon Jeppson",
+          "opponent_score": 3,
+          "opponent_score_share": 0.25,
+          "opponent_win_prob": 0.2984411808545252,
+          "is_winner": true,
+          "opponent_slug": "jon-jeppson",
+          "opponent_hist_score_share": 0.6127450980392156
+        },
+        {
+          "game_id": 429,
+          "year": 2020,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p1",
+          "name": "Niklas Solberg",
+          "score": 11,
+          "score_share": 0.7333333333333333,
+          "win_prob": 0.5417488785392963,
+          "opponent_name": "Theodore Ripman",
+          "opponent_score": 4,
+          "opponent_score_share": 0.26666666666666666,
+          "opponent_win_prob": 0.4582511214607037,
+          "is_winner": true,
+          "opponent_slug": "theodore-ripman",
+          "opponent_hist_score_share": 0.5584493013252412
+        },
+        {
+          "game_id": 440,
+          "year": 2020,
+          "stage": "\u00e5ttondelsfinal",
+          "stage_level": 2,
+          "winner": "p1",
+          "name": "Niklas Solberg",
+          "score": 11,
+          "score_share": 0.6875,
+          "win_prob": 0.8638730358732971,
+          "opponent_name": "Hannes Jordan",
+          "opponent_score": 5,
+          "opponent_score_share": 0.3125,
+          "opponent_win_prob": 0.1361269641267029,
+          "is_winner": true,
+          "opponent_slug": "hannes-jordan",
+          "opponent_hist_score_share": 0.4937004662004662
+        },
+        {
+          "game_id": 445,
+          "year": 2020,
+          "stage": "kvartsfinal",
+          "stage_level": 3,
+          "winner": "p1",
+          "name": "Niklas Solberg",
+          "score": 8,
+          "score_share": 0.42105263157894735,
+          "win_prob": 0.8994368657017371,
+          "opponent_name": "Olle Strandberg",
+          "opponent_score": 11,
+          "opponent_score_share": 0.5789473684210527,
+          "opponent_win_prob": 0.10056313429826293,
+          "is_winner": false,
+          "opponent_slug": "olle-strandberg",
+          "opponent_hist_score_share": 0.6265515681970623
+        }
+      ],
       "n_games": 5,
       "n_wins": 4
     }

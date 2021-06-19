@@ -1,0 +1,107 @@
+{
+  "n_games": 2,
+  "score_share": 0.5408653846153846,
+  "n_wins": 1,
+  "years": [
+    2021
+  ],
+  "win_rate": 0.5,
+  "opponent_score_share": 0.30850150258238496,
+  "skill": 42.86685407663278,
+  "skill_sigma": 67.56609865412946,
+  "name": "Klara Lundin",
+  "slug": "klara-lundin",
+  "skill_rank": 104.0,
+  "skill_rank_pct": 104.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      null
+    ],
+    [
+      2016,
+      null
+    ],
+    [
+      2017,
+      null
+    ],
+    [
+      2018,
+      null
+    ],
+    [
+      2019,
+      null
+    ],
+    [
+      2020,
+      null
+    ],
+    [
+      2021,
+      43.0
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2021,
+      "last_game": {
+        "opponent_name": "John Qvale",
+        "opponent_slug": "john-qvale",
+        "score": 10,
+        "opponent_score": 3,
+        "is_winner": true,
+        "stage": "gruppspel"
+      },
+      "games": [
+        {
+          "game_id": 456,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Klara Lundin",
+          "score": 5,
+          "score_share": 0.3125,
+          "win_prob": 0.650553120804182,
+          "opponent_name": "Linn Enhage",
+          "opponent_score": 11,
+          "opponent_score_share": 0.6875,
+          "opponent_win_prob": 0.34944687919581796,
+          "is_winner": false,
+          "opponent_slug": "linn-enhage",
+          "opponent_hist_score_share": 0.2980441862059509
+        },
+        {
+          "game_id": 498,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Klara Lundin",
+          "score": 10,
+          "score_share": 0.7692307692307693,
+          "win_prob": 0.6958104968972189,
+          "opponent_name": "John Qvale",
+          "opponent_score": 3,
+          "opponent_score_share": 0.23076923076923078,
+          "opponent_win_prob": 0.30418950310278114,
+          "is_winner": true,
+          "opponent_slug": "john-qvale",
+          "opponent_hist_score_share": 0.318958818958819
+        }
+      ],
+      "n_games": 2,
+      "n_wins": 1
+    }
+  ],
+  "best_stage": "gruppspel",
+  "best_stage_years": [
+    2021
+  ]
+}

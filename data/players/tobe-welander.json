@@ -7,13 +7,13 @@
     2017
   ],
   "win_rate": 0.3333333333333333,
-  "opponent_score_share": 0.48832705297375784,
+  "opponent_score_share": 0.48694840070471845,
   "skill": 64.7891342010066,
   "skill_sigma": 49.71407626898299,
   "name": "Tobe Welander",
   "slug": "tobe-welander",
-  "skill_rank": 82.0,
-  "skill_rank_pct": 82.0,
+  "skill_rank": 88.0,
+  "skill_rank_pct": 88.0,
   "skill_history": [
     [
       2011,
@@ -42,6 +42,10 @@
     [
       2020,
       null
+    ],
+    [
+      2021,
+      null
     ]
   ],
   "tournaments": [
@@ -55,6 +59,44 @@
         "is_winner": false,
         "stage": "gruppspel"
       },
+      "games": [
+        {
+          "game_id": 56,
+          "year": 2016,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Tobe Welander",
+          "score": 6,
+          "score_share": 0.46153846153846156,
+          "win_prob": 0.5000000150000002,
+          "opponent_name": "Sofia Bard",
+          "opponent_score": 7,
+          "opponent_score_share": 0.5384615384615384,
+          "opponent_win_prob": 0.49999998499999976,
+          "is_winner": false,
+          "opponent_slug": "sofia-bard",
+          "opponent_hist_score_share": 0.47756410256410253
+        },
+        {
+          "game_id": 63,
+          "year": 2016,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Tobe Welander",
+          "score": 5,
+          "score_share": 0.4166666666666667,
+          "win_prob": 0.368146740429566,
+          "opponent_name": "Erik Sunninger",
+          "opponent_score": 7,
+          "opponent_score_share": 0.5833333333333334,
+          "opponent_win_prob": 0.631853259570434,
+          "is_winner": false,
+          "opponent_slug": "erik-sunninger",
+          "opponent_hist_score_share": 0.47222222222222227
+        }
+      ],
       "n_games": 2,
       "n_wins": 0
     },
@@ -68,6 +110,80 @@
         "is_winner": false,
         "stage": "\u00e5ttondelsfinal"
       },
+      "games": [
+        {
+          "game_id": 96,
+          "year": 2017,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Tobe Welander",
+          "score": 8,
+          "score_share": 0.8,
+          "win_prob": 0.36613798551426757,
+          "opponent_name": "Johanna R\u00e5dstr\u00f6m",
+          "opponent_score": 2,
+          "opponent_score_share": 0.2,
+          "opponent_win_prob": 0.6338620144857324,
+          "is_winner": true,
+          "opponent_slug": "johanna-radstrom",
+          "opponent_hist_score_share": 0.31837560781888513
+        },
+        {
+          "game_id": 108,
+          "year": 2017,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Tobe Welander",
+          "score": 1,
+          "score_share": 0.125,
+          "win_prob": 0.461130883659721,
+          "opponent_name": "Richard Ekman",
+          "opponent_score": 7,
+          "opponent_score_share": 0.875,
+          "opponent_win_prob": 0.538869116340279,
+          "is_winner": false,
+          "opponent_slug": "richard-ekman",
+          "opponent_hist_score_share": 0.6032088282088284
+        },
+        {
+          "game_id": 123,
+          "year": 2017,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Tobe Welander",
+          "score": 7,
+          "score_share": 0.6363636363636364,
+          "win_prob": 0.3698992531644909,
+          "opponent_name": "Jacob Stenman",
+          "opponent_score": 4,
+          "opponent_score_share": 0.36363636363636365,
+          "opponent_win_prob": 0.6301007468355091,
+          "is_winner": true,
+          "opponent_slug": "jacob-stenman",
+          "opponent_hist_score_share": 0.3577272727272728
+        },
+        {
+          "game_id": 129,
+          "year": 2017,
+          "stage": "\u00e5ttondelsfinal",
+          "stage_level": 2,
+          "winner": "p1",
+          "name": "Tobe Welander",
+          "score": 8,
+          "score_share": 0.47058823529411764,
+          "win_prob": 0.126891275488911,
+          "opponent_name": "Erik Nordenankar",
+          "opponent_score": 9,
+          "opponent_score_share": 0.5294117647058824,
+          "opponent_win_prob": 0.873108724511089,
+          "is_winner": false,
+          "opponent_slug": "erik-nordenankar",
+          "opponent_hist_score_share": 0.6925923706869999
+        }
+      ],
       "n_games": 4,
       "n_wins": 2
     }

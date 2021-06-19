@@ -66,5 +66,96 @@
       ]
     }
   ],
-  "player_skill_change": []
+  "top_performers": [
+    {
+      "name": "Erik Nordenankar",
+      "performance": 0.3487327715657223
+    },
+    {
+      "name": "Cissi Hellman",
+      "performance": 0.11162515003796188
+    },
+    {
+      "name": "Henrik Blomkvist",
+      "performance": 0.07217982299626921
+    },
+    {
+      "name": "John Kjellkvist",
+      "performance": 0.07062710423751661
+    },
+    {
+      "name": "Theodore Ripman",
+      "performance": 0.045426011531300624
+    },
+    {
+      "name": "Jakob Lien",
+      "performance": 0.0450284888826501
+    },
+    {
+      "name": "Olof Sabelstr\u00f6m",
+      "performance": 0.03196680140940858
+    }
+  ],
+  "top_low_prob_winners": [
+    {
+      "winner_name": "Andreas Josefson",
+      "loser_name": "Gabriel Nordenankar",
+      "winner_win_prob": 0.19637131529412763,
+      "stage": "gruppspel"
+    },
+    {
+      "winner_name": "Henrik Blomkvist",
+      "loser_name": "John Kjellkvist",
+      "winner_win_prob": 0.24191486975165066,
+      "stage": "kvartsfinal"
+    },
+    {
+      "winner_name": "Cissi Hellman",
+      "loser_name": "Jakob Lien",
+      "winner_win_prob": 0.26693874121838457,
+      "stage": "kvartsfinal"
+    },
+    {
+      "winner_name": "Olof Sabelstr\u00f6m",
+      "loser_name": "Theodore Ripman",
+      "winner_win_prob": 0.26813130916433614,
+      "stage": "kvartsfinal"
+    },
+    {
+      "winner_name": "Gabriel Nordenankar",
+      "loser_name": "Cissi Hellman",
+      "winner_win_prob": 0.36814674042956597,
+      "stage": "gruppspel"
+    },
+    {
+      "winner_name": "Erik Nordenankar",
+      "loser_name": "Andreas Josefson",
+      "winner_win_prob": 0.4028192866931639,
+      "stage": "kvartsfinal"
+    },
+    {
+      "winner_name": "Erik Nordenankar",
+      "loser_name": "Henrik Blomkvist",
+      "winner_win_prob": 0.4288144742053944,
+      "stage": "semifinal"
+    },
+    {
+      "winner_name": "Erik Nordenankar",
+      "loser_name": "Cissi Hellman",
+      "winner_win_prob": 0.4547359683119315,
+      "stage": "final"
+    },
+    {
+      "winner_name": "Erik Nordenankar",
+      "loser_name": "Sofia R\u00e5dstr\u00f6m",
+      "winner_win_prob": 0.46996642796089894,
+      "stage": "gruppspel"
+    },
+    {
+      "winner_name": "Cissi Hellman",
+      "loser_name": "Olof Sabelstr\u00f6m",
+      "winner_win_prob": 0.4978182023333033,
+      "stage": "semifinal"
+    }
+  ]
 }

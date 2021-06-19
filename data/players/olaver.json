@@ -6,13 +6,13 @@
     2019
   ],
   "win_rate": 0.5,
-  "opponent_score_share": 0.458689875226253,
+  "opponent_score_share": 0.4514834136141541,
   "skill": 105.74134355799195,
   "skill_sigma": 53.96018851560789,
   "name": "Olaver",
   "slug": "olaver",
-  "skill_rank": 60.0,
-  "skill_rank_pct": 60.0,
+  "skill_rank": 70.0,
+  "skill_rank_pct": 70.0,
   "skill_history": [
     [
       2011,
@@ -41,6 +41,10 @@
     [
       2020,
       null
+    ],
+    [
+      2021,
+      null
     ]
   ],
   "tournaments": [
@@ -54,6 +58,80 @@
         "is_winner": false,
         "stage": "sextondelsfinal"
       },
+      "games": [
+        {
+          "game_id": 267,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Olaver",
+          "score": 4,
+          "score_share": 0.3076923076923077,
+          "win_prob": 0.5601545352753725,
+          "opponent_name": "Johan Ekman",
+          "opponent_score": 9,
+          "opponent_score_share": 0.6923076923076923,
+          "opponent_win_prob": 0.43984546472462743,
+          "is_winner": false,
+          "opponent_slug": "johan-ekman",
+          "opponent_hist_score_share": 0.4664331538106048
+        },
+        {
+          "game_id": 313,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Olaver",
+          "score": 8,
+          "score_share": 0.5333333333333333,
+          "win_prob": 0.4238544198825268,
+          "opponent_name": "Richard Ekman",
+          "opponent_score": 7,
+          "opponent_score_share": 0.4666666666666667,
+          "opponent_win_prob": 0.5761455801174732,
+          "is_winner": true,
+          "opponent_slug": "richard-ekman",
+          "opponent_hist_score_share": 0.6032088282088284
+        },
+        {
+          "game_id": 305,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Olaver",
+          "score": 8,
+          "score_share": 0.8888888888888888,
+          "win_prob": 0.41084041285429385,
+          "opponent_name": "Frida Danielsson",
+          "opponent_score": 1,
+          "opponent_score_share": 0.1111111111111111,
+          "opponent_win_prob": 0.5891595871457062,
+          "is_winner": true,
+          "opponent_slug": "frida-danielsson",
+          "opponent_hist_score_share": 0.10555555555555556
+        },
+        {
+          "game_id": 331,
+          "year": 2019,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p1",
+          "name": "Olaver",
+          "score": 7,
+          "score_share": 0.4117647058823529,
+          "win_prob": 0.14001370953747472,
+          "opponent_name": "Estrid",
+          "opponent_score": 10,
+          "opponent_score_share": 0.5882352941176471,
+          "opponent_win_prob": 0.8599862904625253,
+          "is_winner": false,
+          "opponent_slug": "estrid",
+          "opponent_hist_score_share": 0.6307361168816277
+        }
+      ],
       "n_games": 4,
       "n_wins": 2
     }

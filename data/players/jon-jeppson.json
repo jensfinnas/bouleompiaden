@@ -6,13 +6,13 @@
     2020
   ],
   "win_rate": 0.6,
-  "opponent_score_share": 0.505634788818709,
+  "opponent_score_share": 0.5053562971133736,
   "skill": 144.1827800158701,
   "skill_sigma": 51.682894232073544,
   "name": "Jon Jeppson",
   "slug": "jon-jeppson",
-  "skill_rank": 31.0,
-  "skill_rank_pct": 31.0,
+  "skill_rank": 34.0,
+  "skill_rank_pct": 34.0,
   "skill_history": [
     [
       2011,
@@ -41,6 +41,10 @@
     [
       2020,
       144.0
+    ],
+    [
+      2021,
+      null
     ]
   ],
   "tournaments": [
@@ -54,6 +58,98 @@
         "is_winner": false,
         "stage": "\u00e5ttondelsfinal"
       },
+      "games": [
+        {
+          "game_id": 368,
+          "year": 2020,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Jon Jeppson",
+          "score": 9,
+          "score_share": 1.0,
+          "win_prob": 0.8077914640938769,
+          "opponent_name": "Johanna R\u00e5dstr\u00f6m",
+          "opponent_score": 0,
+          "opponent_score_share": 0.0,
+          "opponent_win_prob": 0.19220853590612305,
+          "is_winner": true,
+          "opponent_slug": "johanna-radstrom",
+          "opponent_hist_score_share": 0.31837560781888513
+        },
+        {
+          "game_id": 388,
+          "year": 2020,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Jon Jeppson",
+          "score": 3,
+          "score_share": 0.25,
+          "win_prob": 0.2984411808545252,
+          "opponent_name": "Niklas Solberg",
+          "opponent_score": 9,
+          "opponent_score_share": 0.75,
+          "opponent_win_prob": 0.7015588191454748,
+          "is_winner": false,
+          "opponent_slug": "niklas-solberg",
+          "opponent_hist_score_share": 0.6308771929824561
+        },
+        {
+          "game_id": 411,
+          "year": 2020,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Jon Jeppson",
+          "score": 9,
+          "score_share": 0.9,
+          "win_prob": 0.34455068317749227,
+          "opponent_name": "Filippa Berencreutz",
+          "opponent_score": 1,
+          "opponent_score_share": 0.1,
+          "opponent_win_prob": 0.6554493168225077,
+          "is_winner": true,
+          "opponent_slug": "filippa-berencreutz",
+          "opponent_hist_score_share": 0.45041478129713425
+        },
+        {
+          "game_id": 433,
+          "year": 2020,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p1",
+          "name": "Jon Jeppson",
+          "score": 11,
+          "score_share": 0.6470588235294118,
+          "win_prob": 0.5726908089190985,
+          "opponent_name": "Charlotte Breitholtz",
+          "opponent_score": 6,
+          "opponent_score_share": 0.35294117647058826,
+          "opponent_win_prob": 0.4273091910809015,
+          "is_winner": true,
+          "opponent_slug": "charlotte-breitholtz",
+          "opponent_hist_score_share": 0.5758726567550098
+        },
+        {
+          "game_id": 442,
+          "year": 2020,
+          "stage": "\u00e5ttondelsfinal",
+          "stage_level": 2,
+          "winner": "p2",
+          "name": "Jon Jeppson",
+          "score": 4,
+          "score_share": 0.26666666666666666,
+          "win_prob": 0.538642631226479,
+          "opponent_name": "Alexander Starfelt",
+          "opponent_score": 11,
+          "opponent_score_share": 0.7333333333333333,
+          "opponent_win_prob": 0.46135736877352096,
+          "is_winner": false,
+          "opponent_slug": "alexander-starfelt",
+          "opponent_hist_score_share": 0.5512412467133828
+        }
+      ],
       "n_games": 5,
       "n_wins": 3
     }

@@ -1,0 +1,107 @@
+{
+  "n_games": 2,
+  "score_share": 0.3035714285714286,
+  "n_wins": 0,
+  "years": [
+    2021
+  ],
+  "win_rate": 0.0,
+  "opponent_score_share": 0.522792281183962,
+  "skill": 7.1156167079921975,
+  "skill_sigma": 66.87954874833062,
+  "name": "Sophie Hinks",
+  "slug": "sophie-hinks",
+  "skill_rank": 123.0,
+  "skill_rank_pct": 123.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      null
+    ],
+    [
+      2016,
+      null
+    ],
+    [
+      2017,
+      null
+    ],
+    [
+      2018,
+      null
+    ],
+    [
+      2019,
+      null
+    ],
+    [
+      2020,
+      null
+    ],
+    [
+      2021,
+      7.0
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2021,
+      "last_game": {
+        "opponent_name": "Olle Strandberg",
+        "opponent_slug": "olle-strandberg",
+        "score": 3,
+        "opponent_score": 9,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "games": [
+        {
+          "game_id": 518,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Sophie Hinks",
+          "score": 5,
+          "score_share": 0.35714285714285715,
+          "win_prob": 0.5709226666970959,
+          "opponent_name": "Sofia \u00d6rning",
+          "opponent_score": 9,
+          "opponent_score_share": 0.6428571428571429,
+          "opponent_win_prob": 0.4290773333029041,
+          "is_winner": false,
+          "opponent_slug": "sofia-orning",
+          "opponent_hist_score_share": 0.4190329941708618
+        },
+        {
+          "game_id": 491,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Sophie Hinks",
+          "score": 3,
+          "score_share": 0.25,
+          "win_prob": 0.2886134884333462,
+          "opponent_name": "Olle Strandberg",
+          "opponent_score": 9,
+          "opponent_score_share": 0.75,
+          "opponent_win_prob": 0.7113865115666538,
+          "is_winner": false,
+          "opponent_slug": "olle-strandberg",
+          "opponent_hist_score_share": 0.6265515681970623
+        }
+      ],
+      "n_games": 2,
+      "n_wins": 0
+    }
+  ],
+  "best_stage": "gruppspel",
+  "best_stage_years": [
+    2021
+  ]
+}

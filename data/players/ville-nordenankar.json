@@ -1,21 +1,22 @@
 {
-  "n_games": 12,
-  "score_share": 0.4518518518518518,
+  "n_games": 14,
+  "score_share": 0.4128117913832199,
   "n_wins": 6,
   "years": [
     2017,
     2018,
     2019,
-    2020
+    2020,
+    2021
   ],
-  "win_rate": 0.5,
-  "opponent_score_share": 0.5628482530143141,
-  "skill": 126.36201757139473,
-  "skill_sigma": 34.228704097953525,
+  "win_rate": 0.42857142857142855,
+  "opponent_score_share": 0.5577470672749193,
+  "skill": 107.76092818796256,
+  "skill_sigma": 31.931521973023564,
   "name": "Ville Nordenankar",
   "slug": "ville-nordenankar",
-  "skill_rank": 47.0,
-  "skill_rank_pct": 47.0,
+  "skill_rank": 67.0,
+  "skill_rank_pct": 67.0,
   "skill_history": [
     [
       2011,
@@ -44,6 +45,10 @@
     [
       2020,
       126.0
+    ],
+    [
+      2021,
+      108.0
     ]
   ],
   "tournaments": [
@@ -57,6 +62,80 @@
         "is_winner": false,
         "stage": "kvartsfinal"
       },
+      "games": [
+        {
+          "game_id": 86,
+          "year": 2017,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Ville Nordenankar",
+          "score": 7,
+          "score_share": 0.7777777777777778,
+          "win_prob": 0.3107781765585469,
+          "opponent_name": "Johan Kjell",
+          "opponent_score": 2,
+          "opponent_score_share": 0.2222222222222222,
+          "opponent_win_prob": 0.6892218234414531,
+          "is_winner": true,
+          "opponent_slug": "johan-kjell",
+          "opponent_hist_score_share": 0.5761679966633527
+        },
+        {
+          "game_id": 103,
+          "year": 2017,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Ville Nordenankar",
+          "score": 7,
+          "score_share": 0.5833333333333334,
+          "win_prob": 0.6157460275695373,
+          "opponent_name": "Jerker Karlsson",
+          "opponent_score": 5,
+          "opponent_score_share": 0.4166666666666667,
+          "opponent_win_prob": 0.38425397243046266,
+          "is_winner": true,
+          "opponent_slug": "jerker-karlsson",
+          "opponent_hist_score_share": 0.5206712624981856
+        },
+        {
+          "game_id": 130,
+          "year": 2017,
+          "stage": "\u00e5ttondelsfinal",
+          "stage_level": 2,
+          "winner": "p2",
+          "name": "Ville Nordenankar",
+          "score": 9,
+          "score_share": 0.6,
+          "win_prob": 0.5439878720587736,
+          "opponent_name": "Jesper Kronholm",
+          "opponent_score": 6,
+          "opponent_score_share": 0.4,
+          "opponent_win_prob": 0.4560121279412264,
+          "is_winner": true,
+          "opponent_slug": "jesper-kronholm",
+          "opponent_hist_score_share": 0.5928684605155193
+        },
+        {
+          "game_id": 137,
+          "year": 2017,
+          "stage": "kvartsfinal",
+          "stage_level": 3,
+          "winner": "p1",
+          "name": "Ville Nordenankar",
+          "score": 1,
+          "score_share": 0.1,
+          "win_prob": 0.7226512500044151,
+          "opponent_name": "Erik Nordenankar",
+          "opponent_score": 9,
+          "opponent_score_share": 0.9,
+          "opponent_win_prob": 0.27734874999558495,
+          "is_winner": false,
+          "opponent_slug": "erik-nordenankar",
+          "opponent_hist_score_share": 0.6925923706869999
+        }
+      ],
       "n_games": 4,
       "n_wins": 3
     },
@@ -70,6 +149,80 @@
         "is_winner": false,
         "stage": "\u00e5ttondelsfinal"
       },
+      "games": [
+        {
+          "game_id": 154,
+          "year": 2018,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Ville Nordenankar",
+          "score": 7,
+          "score_share": 0.7,
+          "win_prob": 0.7650359214282243,
+          "opponent_name": "Louise Persson",
+          "opponent_score": 3,
+          "opponent_score_share": 0.3,
+          "opponent_win_prob": 0.2349640785717757,
+          "is_winner": true,
+          "opponent_slug": "louise-persson",
+          "opponent_hist_score_share": 0.5705586080586081
+        },
+        {
+          "game_id": 178,
+          "year": 2018,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Ville Nordenankar",
+          "score": 7,
+          "score_share": 0.7777777777777778,
+          "win_prob": 0.8715073912406951,
+          "opponent_name": "Julius Jorborg",
+          "opponent_score": 2,
+          "opponent_score_share": 0.2222222222222222,
+          "opponent_win_prob": 0.1284926087593049,
+          "is_winner": true,
+          "opponent_slug": "julius-jorborg",
+          "opponent_hist_score_share": 0.44598794063079783
+        },
+        {
+          "game_id": 220,
+          "year": 2018,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p1",
+          "name": "Ville Nordenankar",
+          "score": 9,
+          "score_share": 1.0,
+          "win_prob": 0.8975294400294883,
+          "opponent_name": "Love Elfvelin",
+          "opponent_score": 0,
+          "opponent_score_share": 0.0,
+          "opponent_win_prob": 0.10247055997051169,
+          "is_winner": true,
+          "opponent_slug": "love-elfvelin",
+          "opponent_hist_score_share": 0.4349618635332921
+        },
+        {
+          "game_id": 234,
+          "year": 2018,
+          "stage": "\u00e5ttondelsfinal",
+          "stage_level": 2,
+          "winner": "p2",
+          "name": "Ville Nordenankar",
+          "score": 1,
+          "score_share": 0.1,
+          "win_prob": 0.325997162178601,
+          "opponent_name": "Gabriel Nordenankar",
+          "opponent_score": 9,
+          "opponent_score_share": 0.9,
+          "opponent_win_prob": 0.674002837821399,
+          "is_winner": false,
+          "opponent_slug": "gabriel-nordenankar",
+          "opponent_hist_score_share": 0.6387546156727935
+        }
+      ],
       "n_games": 4,
       "n_wins": 3
     },
@@ -83,6 +236,44 @@
         "is_winner": false,
         "stage": "gruppspel"
       },
+      "games": [
+        {
+          "game_id": 303,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Ville Nordenankar",
+          "score": 0,
+          "score_share": 0.0,
+          "win_prob": 0.8197776156020011,
+          "opponent_name": "Louise Persson",
+          "opponent_score": 8,
+          "opponent_score_share": 1.0,
+          "opponent_win_prob": 0.18022238439799887,
+          "is_winner": false,
+          "opponent_slug": "louise-persson",
+          "opponent_hist_score_share": 0.5705586080586081
+        },
+        {
+          "game_id": 262,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Ville Nordenankar",
+          "score": 2,
+          "score_share": 0.2,
+          "win_prob": 0.7848431066780621,
+          "opponent_name": "Niklas Frisk",
+          "opponent_score": 8,
+          "opponent_score_share": 0.8,
+          "opponent_win_prob": 0.21515689332193788,
+          "is_winner": false,
+          "opponent_slug": "niklas-frisk",
+          "opponent_hist_score_share": 0.6648148148148149
+        }
+      ],
       "n_games": 2,
       "n_wins": 0
     },
@@ -96,6 +287,95 @@
         "is_winner": false,
         "stage": "gruppspel"
       },
+      "games": [
+        {
+          "game_id": 361,
+          "year": 2020,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Ville Nordenankar",
+          "score": 5,
+          "score_share": 0.3333333333333333,
+          "win_prob": 0.6041881666708355,
+          "opponent_name": "Pelle Dovborg",
+          "opponent_score": 10,
+          "opponent_score_share": 0.6666666666666666,
+          "opponent_win_prob": 0.3958118333291645,
+          "is_winner": false,
+          "opponent_slug": "pelle-dovborg",
+          "opponent_hist_score_share": 0.5669484926837869
+        },
+        {
+          "game_id": 396,
+          "year": 2020,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Ville Nordenankar",
+          "score": 3,
+          "score_share": 0.25,
+          "win_prob": 0.791346009379539,
+          "opponent_name": "Pia T\u00f6rnkvist",
+          "opponent_score": 9,
+          "opponent_score_share": 0.75,
+          "opponent_win_prob": 0.20865399062046103,
+          "is_winner": false,
+          "opponent_slug": "pia-tornkvist",
+          "opponent_hist_score_share": 0.5230994152046784
+        }
+      ],
+      "n_games": 2,
+      "n_wins": 0
+    },
+    {
+      "year": 2021,
+      "last_game": {
+        "opponent_name": "Hilda Dahlberg",
+        "opponent_slug": "hilda-dahlberg",
+        "score": 5,
+        "opponent_score": 9,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "games": [
+        {
+          "game_id": 469,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Ville Nordenankar",
+          "score": 0,
+          "score_share": 0.0,
+          "win_prob": 0.4386300058881789,
+          "opponent_name": "Magnus Enlund",
+          "opponent_score": 9,
+          "opponent_score_share": 1.0,
+          "opponent_win_prob": 0.5613699941118211,
+          "is_winner": false,
+          "opponent_slug": "magnus-enlund",
+          "opponent_hist_score_share": 0.5759506833036245
+        },
+        {
+          "game_id": 504,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Ville Nordenankar",
+          "score": 5,
+          "score_share": 0.35714285714285715,
+          "win_prob": 0.6580263592525337,
+          "opponent_name": "Hilda Dahlberg",
+          "opponent_score": 9,
+          "opponent_score_share": 0.6428571428571429,
+          "opponent_win_prob": 0.3419736407474662,
+          "is_winner": false,
+          "opponent_slug": "hilda-dahlberg",
+          "opponent_hist_score_share": 0.43452380952380953
+        }
+      ],
       "n_games": 2,
       "n_wins": 0
     }

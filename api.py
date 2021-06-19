@@ -178,3 +178,14 @@ def translate(key):
 @app.template_filter('slugify')
 def slugify_filter(s):
     return slugify(s)
+
+@app.template_filter('genitive')
+def genitive_filter(s):
+    """
+    genitive_filter("Lars") => "Lars"
+    genitive_filter("Kalle") => "Kalles"
+    """
+    if s.endswith("s"):
+        return s
+    else:
+        return s + "s"

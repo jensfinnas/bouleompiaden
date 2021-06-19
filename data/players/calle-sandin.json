@@ -7,13 +7,13 @@
     2020
   ],
   "win_rate": 0.0,
-  "opponent_score_share": 0.5248762591923302,
+  "opponent_score_share": 0.5251476031085122,
   "skill": 5.294396824267511,
   "skill_sigma": 72.65379263927423,
   "name": "Calle Sandin",
   "slug": "calle-sandin",
-  "skill_rank": 114.0,
-  "skill_rank_pct": 114.0,
+  "skill_rank": 125.0,
+  "skill_rank_pct": 125.0,
   "skill_history": [
     [
       2011,
@@ -42,6 +42,10 @@
     [
       2020,
       5.0
+    ],
+    [
+      2021,
+      null
     ]
   ],
   "tournaments": [
@@ -55,6 +59,44 @@
         "is_winner": false,
         "stage": "gruppspel"
       },
+      "games": [
+        {
+          "game_id": 10,
+          "year": 2011,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Calle Sandin",
+          "score": 6,
+          "score_share": 0.46153846153846156,
+          "win_prob": 0.46996642796089894,
+          "opponent_name": "Henrik Blomkvist",
+          "opponent_score": 7,
+          "opponent_score_share": 0.5384615384615384,
+          "opponent_win_prob": 0.5300335720391011,
+          "is_winner": false,
+          "opponent_slug": "henrik-blomkvist",
+          "opponent_hist_score_share": 0.44635780885780885
+        },
+        {
+          "game_id": 2,
+          "year": 2011,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Calle Sandin",
+          "score": 4,
+          "score_share": 0.36363636363636365,
+          "win_prob": 0.49999998499999976,
+          "opponent_name": "Theodore Ripman",
+          "opponent_score": 7,
+          "opponent_score_share": 0.6363636363636364,
+          "opponent_win_prob": 0.5000000150000002,
+          "is_winner": false,
+          "opponent_slug": "theodore-ripman",
+          "opponent_hist_score_share": 0.5584493013252412
+        }
+      ],
       "n_games": 2,
       "n_wins": 0
     },
@@ -68,6 +110,26 @@
         "is_winner": false,
         "stage": "gruppspel"
       },
+      "games": [
+        {
+          "game_id": 377,
+          "year": 2020,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Calle Sandin",
+          "score": 4,
+          "score_share": 0.3076923076923077,
+          "win_prob": 0.039533150017655255,
+          "opponent_name": "Edvin Lindsten",
+          "opponent_score": 9,
+          "opponent_score_share": 0.6923076923076923,
+          "opponent_win_prob": 0.9604668499823448,
+          "is_winner": false,
+          "opponent_slug": "edvin-lindsten",
+          "opponent_hist_score_share": 0.5706356991424866
+        }
+      ],
       "n_games": 1,
       "n_wins": 0
     }

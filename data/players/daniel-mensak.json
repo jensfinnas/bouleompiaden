@@ -6,13 +6,13 @@
     2016
   ],
   "win_rate": 0.6,
-  "opponent_score_share": 0.4846533507627819,
+  "opponent_score_share": 0.4884853116093318,
   "skill": 139.23734241206387,
   "skill_sigma": 49.174830854538946,
   "name": "Daniel Mensak",
   "slug": "daniel-mensak",
-  "skill_rank": 35.0,
-  "skill_rank_pct": 35.0,
+  "skill_rank": 38.0,
+  "skill_rank_pct": 38.0,
   "skill_history": [
     [
       2011,
@@ -41,6 +41,10 @@
     [
       2020,
       null
+    ],
+    [
+      2021,
+      null
     ]
   ],
   "tournaments": [
@@ -54,6 +58,98 @@
         "is_winner": false,
         "stage": "bronsmatch"
       },
+      "games": [
+        {
+          "game_id": 55,
+          "year": 2016,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Daniel Mensak",
+          "score": 7,
+          "score_share": 0.875,
+          "win_prob": 0.5479050654236911,
+          "opponent_name": "Frida \u00d6hrn",
+          "opponent_score": 1,
+          "opponent_score_share": 0.125,
+          "opponent_win_prob": 0.4520949345763089,
+          "is_winner": true,
+          "opponent_slug": "frida-ohrn",
+          "opponent_hist_score_share": 0.39154768842268833
+        },
+        {
+          "game_id": 145,
+          "year": 2016,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Daniel Mensak",
+          "score": 7,
+          "score_share": 0.7,
+          "win_prob": 0.4181406140652833,
+          "opponent_name": "Felix H\u00e4ggstr\u00f6m",
+          "opponent_score": 3,
+          "opponent_score_share": 0.3,
+          "opponent_win_prob": 0.5818593859347168,
+          "is_winner": true,
+          "opponent_slug": "felix-haggstrom",
+          "opponent_hist_score_share": 0.4192307692307692
+        },
+        {
+          "game_id": 75,
+          "year": 2016,
+          "stage": "kvartsfinal",
+          "stage_level": 3,
+          "winner": "p1",
+          "name": "Daniel Mensak",
+          "score": 9,
+          "score_share": 0.75,
+          "win_prob": 0.39819085108179336,
+          "opponent_name": "Erik Sunninger",
+          "opponent_score": 3,
+          "opponent_score_share": 0.25,
+          "opponent_win_prob": 0.6018091489182067,
+          "is_winner": true,
+          "opponent_slug": "erik-sunninger",
+          "opponent_hist_score_share": 0.47222222222222227
+        },
+        {
+          "game_id": 77,
+          "year": 2016,
+          "stage": "semifinal",
+          "stage_level": 4,
+          "winner": "p1",
+          "name": "Daniel Mensak",
+          "score": 6,
+          "score_share": 0.4,
+          "win_prob": 0.6087986078521619,
+          "opponent_name": "Gabriel Nordenankar",
+          "opponent_score": 9,
+          "opponent_score_share": 0.6,
+          "opponent_win_prob": 0.39120139214783806,
+          "is_winner": false,
+          "opponent_slug": "gabriel-nordenankar",
+          "opponent_hist_score_share": 0.6387546156727935
+        },
+        {
+          "game_id": 78,
+          "year": 2016,
+          "stage": "bronsmatch",
+          "stage_level": 5,
+          "winner": "p1",
+          "name": "Daniel Mensak",
+          "score": 9,
+          "score_share": 0.42857142857142855,
+          "win_prob": 0.6774917451019681,
+          "opponent_name": "Jerker Karlsson",
+          "opponent_score": 12,
+          "opponent_score_share": 0.5714285714285714,
+          "opponent_win_prob": 0.3225082548980319,
+          "is_winner": false,
+          "opponent_slug": "jerker-karlsson",
+          "opponent_hist_score_share": 0.5206712624981856
+        }
+      ],
       "n_games": 5,
       "n_wins": 3
     }

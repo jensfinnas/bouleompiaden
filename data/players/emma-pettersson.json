@@ -6,13 +6,13 @@
     2017
   ],
   "win_rate": 0.0,
-  "opponent_score_share": 0.4135438172938173,
+  "opponent_score_share": 0.407331271669507,
   "skill": -30.09126027630779,
   "skill_sigma": 68.67476674269147,
   "name": "Emma Pettersson",
   "slug": "emma-pettersson",
-  "skill_rank": 125.0,
-  "skill_rank_pct": 125.0,
+  "skill_rank": 138.0,
+  "skill_rank_pct": 138.0,
   "skill_history": [
     [
       2011,
@@ -41,6 +41,10 @@
     [
       2020,
       null
+    ],
+    [
+      2021,
+      null
     ]
   ],
   "tournaments": [
@@ -54,6 +58,44 @@
         "is_winner": false,
         "stage": "gruppspel"
       },
+      "games": [
+        {
+          "game_id": 115,
+          "year": 2017,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Emma Pettersson",
+          "score": 5,
+          "score_share": 0.4166666666666667,
+          "win_prob": 0.7761144015148475,
+          "opponent_name": "Sofia R\u00e5dstr\u00f6m",
+          "opponent_score": 7,
+          "opponent_score_share": 0.5833333333333334,
+          "opponent_win_prob": 0.22388559848515255,
+          "is_winner": false,
+          "opponent_slug": "sofia-radstrom",
+          "opponent_hist_score_share": 0.343188184364655
+        },
+        {
+          "game_id": 93,
+          "year": 2017,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Emma Pettersson",
+          "score": 3,
+          "score_share": 0.3,
+          "win_prob": 0.5000000150000002,
+          "opponent_name": "Sofia Ahlstr\u00f6m",
+          "opponent_score": 7,
+          "opponent_score_share": 0.7,
+          "opponent_win_prob": 0.49999998499999976,
+          "is_winner": false,
+          "opponent_slug": "sofia-ahlstrom",
+          "opponent_hist_score_share": 0.471474358974359
+        }
+      ],
       "n_games": 2,
       "n_wins": 0
     }

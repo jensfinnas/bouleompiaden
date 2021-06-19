@@ -1,18 +1,19 @@
 {
-  "n_games": 3,
-  "score_share": 0.4916666666666667,
+  "n_games": 5,
+  "score_share": 0.4026923076923077,
   "n_wins": 2,
   "years": [
-    2020
+    2020,
+    2021
   ],
-  "win_rate": 0.6666666666666666,
-  "opponent_score_share": 0.4910715593848057,
-  "skill": 188.51803976327434,
-  "skill_sigma": 55.91051610697386,
+  "win_rate": 0.4,
+  "opponent_score_share": 0.48740016744766856,
+  "skill": 111.67519482445633,
+  "skill_sigma": 45.55608207147605,
   "name": "Emma Bergmark",
   "slug": "emma-bergmark",
-  "skill_rank": 11.0,
-  "skill_rank_pct": 11.0,
+  "skill_rank": 59.0,
+  "skill_rank_pct": 59.0,
   "skill_history": [
     [
       2011,
@@ -41,6 +42,10 @@
     [
       2020,
       189.0
+    ],
+    [
+      2021,
+      112.0
     ]
   ],
   "tournaments": [
@@ -54,8 +59,115 @@
         "is_winner": false,
         "stage": "sextondelsfinal"
       },
+      "games": [
+        {
+          "game_id": 395,
+          "year": 2020,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Emma Bergmark",
+          "score": 9,
+          "score_share": 0.5625,
+          "win_prob": 0.2110863718813541,
+          "opponent_name": "Gabriel Nordenankar",
+          "opponent_score": 7,
+          "opponent_score_share": 0.4375,
+          "opponent_win_prob": 0.788913628118646,
+          "is_winner": true,
+          "opponent_slug": "gabriel-nordenankar",
+          "opponent_hist_score_share": 0.6387546156727935
+        },
+        {
+          "game_id": 382,
+          "year": 2020,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Emma Bergmark",
+          "score": 9,
+          "score_share": 0.6,
+          "win_prob": 0.49999998499999976,
+          "opponent_name": "Heiv Sarban",
+          "opponent_score": 6,
+          "opponent_score_share": 0.4,
+          "opponent_win_prob": 0.5000000150000002,
+          "is_winner": true,
+          "opponent_slug": "heiv-sarban",
+          "opponent_hist_score_share": 0.2801470588235294
+        },
+        {
+          "game_id": 424,
+          "year": 2020,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p2",
+          "name": "Emma Bergmark",
+          "score": 5,
+          "score_share": 0.3125,
+          "win_prob": 0.7957831046848138,
+          "opponent_name": "Martyna",
+          "opponent_score": 11,
+          "opponent_score_share": 0.6875,
+          "opponent_win_prob": 0.20421689531518616,
+          "is_winner": false,
+          "opponent_slug": "martyna",
+          "opponent_hist_score_share": 0.5338235294117647
+        }
+      ],
       "n_games": 3,
       "n_wins": 2
+    },
+    {
+      "year": 2021,
+      "last_game": {
+        "opponent_name": "Erik Numan",
+        "opponent_slug": "erik-numan",
+        "score": 3,
+        "opponent_score": 10,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "games": [
+        {
+          "game_id": 467,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Emma Bergmark",
+          "score": 4,
+          "score_share": 0.3076923076923077,
+          "win_prob": 0.7689405427632858,
+          "opponent_name": "Filippa Berencreutz",
+          "opponent_score": 9,
+          "opponent_score_share": 0.6923076923076923,
+          "opponent_win_prob": 0.23105945723671417,
+          "is_winner": false,
+          "opponent_slug": "filippa-berencreutz",
+          "opponent_hist_score_share": 0.45041478129713425
+        },
+        {
+          "game_id": 503,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Emma Bergmark",
+          "score": 3,
+          "score_share": 0.23076923076923078,
+          "win_prob": 0.8977612130947423,
+          "opponent_name": "Erik Numan",
+          "opponent_score": 10,
+          "opponent_score_share": 0.7692307692307693,
+          "opponent_win_prob": 0.10223878690525763,
+          "is_winner": false,
+          "opponent_slug": "erik-numan",
+          "opponent_hist_score_share": 0.533860852033121
+        }
+      ],
+      "n_games": 2,
+      "n_wins": 0
     }
   ],
   "best_stage": "sextondelsfinal",

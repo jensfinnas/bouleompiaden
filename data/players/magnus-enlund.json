@@ -1,18 +1,19 @@
 {
-  "n_games": 3,
-  "score_share": 0.6019013666072489,
-  "n_wins": 2,
+  "n_games": 6,
+  "score_share": 0.5759506833036245,
+  "n_wins": 3,
   "years": [
-    2019
+    2019,
+    2021
   ],
-  "win_rate": 0.6666666666666666,
-  "opponent_score_share": 0.5271353105883444,
-  "skill": 141.20520477416474,
-  "skill_sigma": 55.362905142331165,
+  "win_rate": 0.5,
+  "opponent_score_share": 0.5168498168349255,
+  "skill": 124.26207562189714,
+  "skill_sigma": 42.0374598191226,
   "name": "Magnus Enlund",
   "slug": "magnus-enlund",
-  "skill_rank": 34.0,
-  "skill_rank_pct": 34.0,
+  "skill_rank": 51.0,
+  "skill_rank_pct": 51.0,
   "skill_history": [
     [
       2011,
@@ -41,6 +42,10 @@
     [
       2020,
       null
+    ],
+    [
+      2021,
+      124.0
     ]
   ],
   "tournaments": [
@@ -54,8 +59,133 @@
         "is_winner": false,
         "stage": "sextondelsfinal"
       },
+      "games": [
+        {
+          "game_id": 282,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Magnus Enlund",
+          "score": 8,
+          "score_share": 0.7272727272727273,
+          "win_prob": 0.4041335358145538,
+          "opponent_name": "Jerker Karlsson",
+          "opponent_score": 3,
+          "opponent_score_share": 0.2727272727272727,
+          "opponent_win_prob": 0.5958664641854462,
+          "is_winner": true,
+          "opponent_slug": "jerker-karlsson",
+          "opponent_hist_score_share": 0.5206712624981856
+        },
+        {
+          "game_id": 253,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Magnus Enlund",
+          "score": 8,
+          "score_share": 0.6666666666666666,
+          "win_prob": 0.6492755191572198,
+          "opponent_name": "Robeson",
+          "opponent_score": 4,
+          "opponent_score_share": 0.3333333333333333,
+          "opponent_win_prob": 0.3507244808427802,
+          "is_winner": true,
+          "opponent_slug": "robeson",
+          "opponent_hist_score_share": 0.5907463227674689
+        },
+        {
+          "game_id": 359,
+          "year": 2019,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p2",
+          "name": "Magnus Enlund",
+          "score": 7,
+          "score_share": 0.4117647058823529,
+          "win_prob": 0.8037514594278611,
+          "opponent_name": "Kusha Bahrami",
+          "opponent_score": 10,
+          "opponent_score_share": 0.5882352941176471,
+          "opponent_win_prob": 0.19624854057213892,
+          "is_winner": false,
+          "opponent_slug": "kusha-bahrami",
+          "opponent_hist_score_share": 0.466840675664205
+        }
+      ],
       "n_games": 3,
       "n_wins": 2
+    },
+    {
+      "year": 2021,
+      "last_game": {
+        "opponent_name": "Erik Numan",
+        "opponent_slug": "erik-numan",
+        "score": 6,
+        "opponent_score": 9,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "games": [
+        {
+          "game_id": 489,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Magnus Enlund",
+          "score": 3,
+          "score_share": 0.25,
+          "win_prob": 0.3330699883856547,
+          "opponent_name": "Johan Kjell",
+          "opponent_score": 9,
+          "opponent_score_share": 0.75,
+          "opponent_win_prob": 0.6669300116143453,
+          "is_winner": false,
+          "opponent_slug": "johan-kjell",
+          "opponent_hist_score_share": 0.5761679966633527
+        },
+        {
+          "game_id": 469,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Magnus Enlund",
+          "score": 9,
+          "score_share": 1.0,
+          "win_prob": 0.5613699941118211,
+          "opponent_name": "Ville Nordenankar",
+          "opponent_score": 0,
+          "opponent_score_share": 0.0,
+          "opponent_win_prob": 0.4386300058881789,
+          "is_winner": true,
+          "opponent_slug": "ville-nordenankar",
+          "opponent_hist_score_share": 0.4128117913832199
+        },
+        {
+          "game_id": 517,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Magnus Enlund",
+          "score": 6,
+          "score_share": 0.4,
+          "win_prob": 0.7287116025233846,
+          "opponent_name": "Erik Numan",
+          "opponent_score": 9,
+          "opponent_score_share": 0.6,
+          "opponent_win_prob": 0.2712883974766154,
+          "is_winner": false,
+          "opponent_slug": "erik-numan",
+          "opponent_hist_score_share": 0.533860852033121
+        }
+      ],
+      "n_games": 3,
+      "n_wins": 1
     }
   ],
   "best_stage": "sextondelsfinal",

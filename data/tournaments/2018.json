@@ -256,198 +256,128 @@
       ]
     }
   ],
-  "player_skill_change": [
+  "top_performers": [
     {
-      "player": "Johan Kjell",
-      "skill": 200.0,
-      "player_slug": "johan-kjell",
-      "change": 122.0
+      "name": "Johan Kjell",
+      "performance": 0.514911112246739
     },
     {
-      "player": "Ida Wimmerman",
-      "skill": 123.0,
-      "player_slug": "ida-wimmerman",
-      "change": 101.0
+      "name": "Theodore Ripman",
+      "performance": 0.3221959235210565
     },
     {
-      "player": "Linn Enhage",
-      "skill": 73.0,
-      "player_slug": "linn-enhage",
-      "change": 63.0
+      "name": "Ida Wimmerman",
+      "performance": 0.31022338081628825
     },
     {
-      "player": "Lovisa Birgersson",
-      "skill": 131.0,
-      "player_slug": "lovisa-birgersson",
-      "change": 58.0
+      "name": "Lovisa Birgersson",
+      "performance": 0.2688949984920266
     },
     {
-      "player": "Robin Linderborg",
-      "skill": 183.0,
-      "player_slug": "robin-linderborg",
-      "change": 54.0
+      "name": "Love Elfvelin",
+      "performance": 0.24049142939852755
     },
     {
-      "player": "Jens Finn\u00e4s",
-      "skill": 134.0,
-      "player_slug": "jens-finnas",
-      "change": 40.0
+      "name": "Robin Linderborg",
+      "performance": 0.23956216512169423
     },
     {
-      "player": "Theodore Ripman",
-      "skill": 166.0,
-      "player_slug": "theodore-ripman",
-      "change": 36.0
+      "name": "Jens Hultkrans",
+      "performance": 0.22221859147595857
     },
     {
-      "player": "Love Elfvelin",
-      "skill": 83.0,
-      "player_slug": "love-elfvelin",
-      "change": 34.0
+      "name": "Jens Finn\u00e4s",
+      "performance": 0.21133262740514547
     },
     {
-      "player": "Alexander Starfelt",
-      "skill": 106.0,
-      "player_slug": "alexander-starfelt",
-      "change": 29.0
+      "name": "Estrid",
+      "performance": 0.18847903005420674
     },
     {
-      "player": "Sofia \u00d6rning",
-      "skill": 43.0,
-      "player_slug": "sofia-orning",
-      "change": 25.0
+      "name": "Hannes Jordan",
+      "performance": 0.18325516263917419
     },
     {
-      "player": "Ylva Andr\u00e9asson",
-      "skill": 77.0,
-      "player_slug": "ylva-andreasson",
-      "change": 22.0
+      "name": "Alexander Starfelt",
+      "performance": 0.14302390444958873
     },
     {
-      "player": "Erik Nordenankar",
-      "skill": 212.0,
-      "player_slug": "erik-nordenankar",
-      "change": 13.0
+      "name": "Robin Fogelberg",
+      "performance": 0.13365295758935175
     },
     {
-      "player": "Richard Ekman",
-      "skill": 111.0,
-      "player_slug": "richard-ekman",
-      "change": 7.0
+      "name": "Erik Nordenankar",
+      "performance": 0.11160413643955214
     },
     {
-      "player": "Ville Nordenankar",
-      "skill": 202.0,
-      "player_slug": "ville-nordenankar",
-      "change": 6.0
+      "name": "Ylva Andr\u00e9asson",
+      "performance": 0.10550162188226853
     },
     {
-      "player": "Cissi Hellman",
-      "skill": 144.0,
-      "player_slug": "cissi-hellman",
-      "change": 5.0
+      "name": "Charlotte Johansson",
+      "performance": 0.0933085040205357
+    }
+  ],
+  "top_low_prob_winners": [
+    {
+      "winner_name": "Linn Enhage",
+      "loser_name": "Jakob Lien",
+      "winner_win_prob": 0.0445880580825998,
+      "stage": "gruppspel"
     },
     {
-      "player": "Love Andr\u00e9asson",
-      "skill": 165.0,
-      "player_slug": "love-andreasson",
-      "change": 3.0
+      "winner_name": "Jens Hultkrans",
+      "loser_name": "Gabriel Nordenankar",
+      "winner_win_prob": 0.09164536525270384,
+      "stage": "kvartsfinal"
     },
     {
-      "player": "Julius Jorborg",
-      "skill": 61.0,
-      "player_slug": "julius-jorborg",
-      "change": -7.0
+      "winner_name": "Robin Fogelberg",
+      "loser_name": "Estrid",
+      "winner_win_prob": 0.1301401876420676,
+      "stage": "kvartsfinal"
     },
     {
-      "player": "Gabriel Nordenankar",
-      "skill": 243.0,
-      "player_slug": "gabriel-nordenankar",
-      "change": -7.0
+      "winner_name": "Johan Kjell",
+      "loser_name": "Charlotte Johansson",
+      "winner_win_prob": 0.1305956364541747,
+      "stage": "\u00e5ttondelsfinal"
     },
     {
-      "player": "Johan Ekman",
-      "skill": 80.0,
-      "player_slug": "johan-ekman",
-      "change": -10.0
+      "winner_name": "Ida Wimmerman",
+      "loser_name": "Josefin Asplund",
+      "winner_win_prob": 0.15492573842315072,
+      "stage": "gruppspel"
     },
     {
-      "player": "Sofia R\u00e5dstr\u00f6m",
-      "skill": 7.0,
-      "player_slug": "sofia-radstrom",
-      "change": -17.0
+      "winner_name": "Robin Fogelberg",
+      "loser_name": "Olle Strandberg",
+      "winner_win_prob": 0.1577818677978704,
+      "stage": "sextondelsfinal"
     },
     {
-      "player": "Pelle Dovborg",
-      "skill": 87.0,
-      "player_slug": "pelle-dovborg",
-      "change": -17.0
+      "winner_name": "Theodore Ripman",
+      "loser_name": "Edvin Lindsten",
+      "winner_win_prob": 0.17732787651847337,
+      "stage": "\u00e5ttondelsfinal"
     },
     {
-      "player": "Jacob Stenman",
-      "skill": 18.0,
-      "player_slug": "jacob-stenman",
-      "change": -18.0
+      "winner_name": "Johan Kjell",
+      "loser_name": "Sebastin Fors\u00e9n",
+      "winner_win_prob": 0.19008845997894508,
+      "stage": "sextondelsfinal"
     },
     {
-      "player": "Johanna R\u00e5dstr\u00f6m",
-      "skill": -9.0,
-      "player_slug": "johanna-radstrom",
-      "change": -19.0
+      "winner_name": "Lovisa Birgersson",
+      "loser_name": "Jakob Lien",
+      "winner_win_prob": 0.20565395540466636,
+      "stage": "sextondelsfinal"
     },
     {
-      "player": "Edvin Lindsten",
-      "skill": 211.0,
-      "player_slug": "edvin-lindsten",
-      "change": -23.0
-    },
-    {
-      "player": "Benjamin Ger. Hed.",
-      "skill": 163.0,
-      "player_slug": "benjamin-ger-hed",
-      "change": -24.0
-    },
-    {
-      "player": "Kajsa Hallberg-Nor.",
-      "skill": -14.0,
-      "player_slug": "kajsa-hallberg-nor",
-      "change": -26.0
-    },
-    {
-      "player": "Jakob Lien",
-      "skill": 164.0,
-      "player_slug": "jakob-lien",
-      "change": -29.0
-    },
-    {
-      "player": "Jesper Kronholm",
-      "skill": 137.0,
-      "player_slug": "jesper-kronholm",
-      "change": -35.0
-    },
-    {
-      "player": "John Qvale",
-      "skill": -21.0,
-      "player_slug": "john-qvale",
-      "change": -36.0
-    },
-    {
-      "player": "Frida \u00d6hrn",
-      "skill": -2.0,
-      "player_slug": "frida-ohrn",
-      "change": -37.0
-    },
-    {
-      "player": "Josefin Asplund",
-      "skill": 129.0,
-      "player_slug": "josefin-asplund",
-      "change": -44.0
-    },
-    {
-      "player": "Linn Debove",
-      "skill": 63.0,
-      "player_slug": "linn-debove",
-      "change": -69.0
+      "winner_name": "Love Elfvelin",
+      "loser_name": "Linn Debove",
+      "winner_win_prob": 0.25119692686632733,
+      "stage": "gruppspel"
     }
   ]
 }

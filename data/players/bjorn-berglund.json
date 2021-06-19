@@ -1,20 +1,21 @@
 {
-  "n_games": 9,
-  "score_share": 0.49594645550527905,
-  "n_wins": 3,
+  "n_games": 12,
+  "score_share": 0.5564327761018938,
+  "n_wins": 5,
   "years": [
     2018,
     2019,
-    2020
+    2020,
+    2021
   ],
-  "win_rate": 0.3333333333333333,
-  "opponent_score_share": 0.4909783302148406,
-  "skill": 79.5039625720265,
-  "skill_sigma": 42.40850863816587,
+  "win_rate": 0.4166666666666667,
+  "opponent_score_share": 0.4700292016152485,
+  "skill": 106.58317660711188,
+  "skill_sigma": 35.556870267491796,
   "name": "Bj\u00f6rn Berglund",
   "slug": "bjorn-berglund",
-  "skill_rank": 75.0,
-  "skill_rank_pct": 75.0,
+  "skill_rank": 68.0,
+  "skill_rank_pct": 68.0,
   "skill_history": [
     [
       2011,
@@ -43,6 +44,10 @@
     [
       2020,
       80.0
+    ],
+    [
+      2021,
+      107.0
     ]
   ],
   "tournaments": [
@@ -56,6 +61,44 @@
         "is_winner": false,
         "stage": "gruppspel"
       },
+      "games": [
+        {
+          "game_id": 148,
+          "year": 2018,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Bj\u00f6rn Berglund",
+          "score": 6,
+          "score_share": 0.46153846153846156,
+          "win_prob": 0.4079558484410911,
+          "opponent_name": "Theodore Ripman",
+          "opponent_score": 7,
+          "opponent_score_share": 0.5384615384615384,
+          "opponent_win_prob": 0.5920441515589089,
+          "is_winner": false,
+          "opponent_slug": "theodore-ripman",
+          "opponent_hist_score_share": 0.5584493013252412
+        },
+        {
+          "game_id": 189,
+          "year": 2018,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Bj\u00f6rn Berglund",
+          "score": 6,
+          "score_share": 0.46153846153846156,
+          "win_prob": 0.4983978702264515,
+          "opponent_name": "Sussie R\u00e5dis",
+          "opponent_score": 7,
+          "opponent_score_share": 0.5384615384615384,
+          "opponent_win_prob": 0.5016021297735485,
+          "is_winner": false,
+          "opponent_slug": "sussie-radis",
+          "opponent_hist_score_share": 0.3748112998112998
+        }
+      ],
       "n_games": 2,
       "n_wins": 0
     },
@@ -69,6 +112,62 @@
         "is_winner": false,
         "stage": "gruppspel"
       },
+      "games": [
+        {
+          "game_id": 325,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Bj\u00f6rn Berglund",
+          "score": 7,
+          "score_share": 0.4375,
+          "win_prob": 0.22001784933717272,
+          "opponent_name": "Benjamin Ger. Hed.",
+          "opponent_score": 9,
+          "opponent_score_share": 0.5625,
+          "opponent_win_prob": 0.7799821506628273,
+          "is_winner": false,
+          "opponent_slug": "benjamin-ger-hed",
+          "opponent_hist_score_share": 0.5806306275423923
+        },
+        {
+          "game_id": 301,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Bj\u00f6rn Berglund",
+          "score": 8,
+          "score_share": 0.6666666666666666,
+          "win_prob": 0.08002353426926534,
+          "opponent_name": "Charlotte Johansson",
+          "opponent_score": 4,
+          "opponent_score_share": 0.3333333333333333,
+          "opponent_win_prob": 0.9199764657307347,
+          "is_winner": true,
+          "opponent_slug": "charlotte-johansson",
+          "opponent_hist_score_share": 0.5206228956228955
+        },
+        {
+          "game_id": 259,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Bj\u00f6rn Berglund",
+          "score": 4,
+          "score_share": 0.3333333333333333,
+          "win_prob": 0.2662051108746257,
+          "opponent_name": "Alexander Bjerner",
+          "opponent_score": 8,
+          "opponent_score_share": 0.6666666666666666,
+          "opponent_win_prob": 0.7337948891253743,
+          "is_winner": false,
+          "opponent_slug": "alexander-bjerner",
+          "opponent_hist_score_share": 0.48329448329448327
+        }
+      ],
       "n_games": 3,
       "n_wins": 1
     },
@@ -82,12 +181,156 @@
         "is_winner": false,
         "stage": "sextondelsfinal"
       },
+      "games": [
+        {
+          "game_id": 383,
+          "year": 2020,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Bj\u00f6rn Berglund",
+          "score": 7,
+          "score_share": 0.4375,
+          "win_prob": 0.023135489884675963,
+          "opponent_name": "Gabriel Nordenankar",
+          "opponent_score": 9,
+          "opponent_score_share": 0.5625,
+          "opponent_win_prob": 0.976864510115324,
+          "is_winner": false,
+          "opponent_slug": "gabriel-nordenankar",
+          "opponent_hist_score_share": 0.6387546156727935
+        },
+        {
+          "game_id": 417,
+          "year": 2020,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Bj\u00f6rn Berglund",
+          "score": 9,
+          "score_share": 0.5625,
+          "win_prob": 0.4552132784667602,
+          "opponent_name": "Adriana Lilja",
+          "opponent_score": 7,
+          "opponent_score_share": 0.4375,
+          "opponent_win_prob": 0.5447867215332398,
+          "is_winner": true,
+          "opponent_slug": "adriana-lilja",
+          "opponent_hist_score_share": 0.44533756684491976
+        },
+        {
+          "game_id": 406,
+          "year": 2020,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Bj\u00f6rn Berglund",
+          "score": 9,
+          "score_share": 0.75,
+          "win_prob": 0.5298761051997596,
+          "opponent_name": "Heiv Sarban",
+          "opponent_score": 3,
+          "opponent_score_share": 0.25,
+          "opponent_win_prob": 0.47012389480024047,
+          "is_winner": true,
+          "opponent_slug": "heiv-sarban",
+          "opponent_hist_score_share": 0.2801470588235294
+        },
+        {
+          "game_id": 428,
+          "year": 2020,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p1",
+          "name": "Bj\u00f6rn Berglund",
+          "score": 6,
+          "score_share": 0.35294117647058826,
+          "win_prob": 0.4161940009774867,
+          "opponent_name": "Wille Laska",
+          "opponent_score": 11,
+          "opponent_score_share": 0.6470588235294118,
+          "opponent_win_prob": 0.5838059990225133,
+          "is_winner": false,
+          "opponent_slug": "wille-laska",
+          "opponent_hist_score_share": 0.5285714285714286
+        }
+      ],
       "n_games": 4,
+      "n_wins": 2
+    },
+    {
+      "year": 2021,
+      "last_game": {
+        "opponent_name": "Chris Lowe",
+        "opponent_slug": "chris-lowe",
+        "score": 8,
+        "opponent_score": 10,
+        "is_winner": false,
+        "stage": "sextondelsfinal"
+      },
+      "games": [
+        {
+          "game_id": 485,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Bj\u00f6rn Berglund",
+          "score": 9,
+          "score_share": 1.0,
+          "win_prob": 0.20842653419372392,
+          "opponent_name": "Robin Linderborg",
+          "opponent_score": 0,
+          "opponent_score_share": 0.0,
+          "opponent_win_prob": 0.7915734658062761,
+          "is_winner": true,
+          "opponent_slug": "robin-linderborg",
+          "opponent_hist_score_share": 0.5582165616829482
+        },
+        {
+          "game_id": 462,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Bj\u00f6rn Berglund",
+          "score": 10,
+          "score_share": 0.7692307692307693,
+          "win_prob": 0.43717422361548175,
+          "opponent_name": "Anders Kjell",
+          "opponent_score": 3,
+          "opponent_score_share": 0.23076923076923078,
+          "opponent_win_prob": 0.5628257763845183,
+          "is_winner": true,
+          "opponent_slug": "anders-kjell",
+          "opponent_hist_score_share": 0.2769230769230769
+        },
+        {
+          "game_id": 523,
+          "year": 2021,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p2",
+          "name": "Bj\u00f6rn Berglund",
+          "score": 8,
+          "score_share": 0.4444444444444444,
+          "win_prob": 0.5325928561612765,
+          "opponent_name": "Chris Lowe",
+          "opponent_score": 10,
+          "opponent_score_share": 0.5555555555555556,
+          "opponent_win_prob": 0.4674071438387235,
+          "is_winner": false,
+          "opponent_slug": "chris-lowe",
+          "opponent_hist_score_share": 0.3945915032679739
+        }
+      ],
+      "n_games": 3,
       "n_wins": 2
     }
   ],
   "best_stage": "sextondelsfinal",
   "best_stage_years": [
-    2020
+    2020,
+    2021
   ]
 }

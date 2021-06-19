@@ -1,19 +1,20 @@
 {
-  "n_games": 6,
-  "score_share": 0.4914351851851852,
-  "n_wins": 2,
+  "n_games": 9,
+  "score_share": 0.5498456790123456,
+  "n_wins": 5,
   "years": [
     2019,
-    2020
+    2020,
+    2021
   ],
-  "win_rate": 0.3333333333333333,
-  "opponent_score_share": 0.46967347235261964,
-  "skill": 91.8320065042285,
-  "skill_sigma": 45.52534954717289,
+  "win_rate": 0.5555555555555556,
+  "opponent_score_share": 0.4878728609493981,
+  "skill": 156.36238581493436,
+  "skill_sigma": 36.23972777425785,
   "name": "Micke Leyi",
   "slug": "micke-leyi",
-  "skill_rank": 65.0,
-  "skill_rank_pct": 65.0,
+  "skill_rank": 27.0,
+  "skill_rank_pct": 27.0,
   "skill_history": [
     [
       2011,
@@ -42,6 +43,10 @@
     [
       2020,
       92.0
+    ],
+    [
+      2021,
+      156.0
     ]
   ],
   "tournaments": [
@@ -55,6 +60,80 @@
         "is_winner": false,
         "stage": "sextondelsfinal"
       },
+      "games": [
+        {
+          "game_id": 261,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Micke Leyi",
+          "score": 8,
+          "score_share": 0.6666666666666666,
+          "win_prob": 0.27460213219816987,
+          "opponent_name": "Hannes Jordan",
+          "opponent_score": 4,
+          "opponent_score_share": 0.3333333333333333,
+          "opponent_win_prob": 0.7253978678018301,
+          "is_winner": true,
+          "opponent_slug": "hannes-jordan",
+          "opponent_hist_score_share": 0.4937004662004662
+        },
+        {
+          "game_id": 318,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Micke Leyi",
+          "score": 8,
+          "score_share": 1.0,
+          "win_prob": 0.7073615025247314,
+          "opponent_name": "Edith S\u00f6derstr\u00f6m",
+          "opponent_score": 0,
+          "opponent_score_share": 0.0,
+          "opponent_win_prob": 0.2926384974752686,
+          "is_winner": true,
+          "opponent_slug": "edith-soderstrom",
+          "opponent_hist_score_share": 0.2696581196581197
+        },
+        {
+          "game_id": 286,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Micke Leyi",
+          "score": 0,
+          "score_share": 0.0,
+          "win_prob": 0.6180833861654852,
+          "opponent_name": "Robin Fogelberg",
+          "opponent_score": 8,
+          "opponent_score_share": 1.0,
+          "opponent_win_prob": 0.3819166138345148,
+          "is_winner": false,
+          "opponent_slug": "robin-fogelberg",
+          "opponent_hist_score_share": 0.5474311979729937
+        },
+        {
+          "game_id": 337,
+          "year": 2019,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p1",
+          "name": "Micke Leyi",
+          "score": 8,
+          "score_share": 0.4444444444444444,
+          "win_prob": 0.41847060109723744,
+          "opponent_name": "Theodore Ripman",
+          "opponent_score": 10,
+          "opponent_score_share": 0.5555555555555556,
+          "opponent_win_prob": 0.5815293989027626,
+          "is_winner": false,
+          "opponent_slug": "theodore-ripman",
+          "opponent_hist_score_share": 0.5584493013252412
+        }
+      ],
       "n_games": 4,
       "n_wins": 2
     },
@@ -68,12 +147,120 @@
         "is_winner": false,
         "stage": "gruppspel"
       },
+      "games": [
+        {
+          "game_id": 378,
+          "year": 2020,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Micke Leyi",
+          "score": 7,
+          "score_share": 0.4375,
+          "win_prob": 0.5907078025192712,
+          "opponent_name": "Martyna",
+          "opponent_score": 9,
+          "opponent_score_share": 0.5625,
+          "opponent_win_prob": 0.40929219748072876,
+          "is_winner": false,
+          "opponent_slug": "martyna",
+          "opponent_hist_score_share": 0.5338235294117647
+        },
+        {
+          "game_id": 404,
+          "year": 2020,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Micke Leyi",
+          "score": 6,
+          "score_share": 0.4,
+          "win_prob": 0.6364801335320873,
+          "opponent_name": "Lars T\u00f6rnkvist",
+          "opponent_score": 9,
+          "opponent_score_share": 0.6,
+          "opponent_win_prob": 0.3635198664679127,
+          "is_winner": false,
+          "opponent_slug": "lars-tornkvist",
+          "opponent_hist_score_share": 0.390307486631016
+        }
+      ],
       "n_games": 2,
       "n_wins": 0
+    },
+    {
+      "year": 2021,
+      "last_game": {
+        "opponent_name": "Hannes Jordan",
+        "opponent_slug": "hannes-jordan",
+        "score": 10,
+        "opponent_score": 5,
+        "is_winner": true,
+        "stage": "sextondelsfinal"
+      },
+      "games": [
+        {
+          "game_id": 472,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Micke Leyi",
+          "score": 9,
+          "score_share": 0.6,
+          "win_prob": 0.09398688154910939,
+          "opponent_name": "Erik Nordenankar",
+          "opponent_score": 6,
+          "opponent_score_share": 0.4,
+          "opponent_win_prob": 0.9060131184508906,
+          "is_winner": true,
+          "opponent_slug": "erik-nordenankar",
+          "opponent_hist_score_share": 0.6925923706869999
+        },
+        {
+          "game_id": 492,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Micke Leyi",
+          "score": 11,
+          "score_share": 0.7333333333333333,
+          "win_prob": 0.5152527991258602,
+          "opponent_name": "Joel Gustafsson",
+          "opponent_score": 4,
+          "opponent_score_share": 0.26666666666666666,
+          "opponent_win_prob": 0.4847472008741398,
+          "is_winner": true,
+          "opponent_slug": "joel-gustafsson",
+          "opponent_hist_score_share": 0.4111928104575164
+        },
+        {
+          "game_id": 535,
+          "year": 2021,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p1",
+          "name": "Micke Leyi",
+          "score": 10,
+          "score_share": 0.6666666666666666,
+          "win_prob": 0.5734570150263536,
+          "opponent_name": "Hannes Jordan",
+          "opponent_score": 5,
+          "opponent_score_share": 0.3333333333333333,
+          "opponent_win_prob": 0.4265429849736464,
+          "is_winner": true,
+          "opponent_slug": "hannes-jordan",
+          "opponent_hist_score_share": 0.4937004662004662
+        }
+      ],
+      "n_games": 3,
+      "n_wins": 3
     }
   ],
   "best_stage": "sextondelsfinal",
   "best_stage_years": [
-    2019
+    2019,
+    2021
   ]
 }

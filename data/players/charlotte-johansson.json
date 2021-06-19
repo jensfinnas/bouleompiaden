@@ -7,13 +7,13 @@
     2019
   ],
   "win_rate": 0.5,
-  "opponent_score_share": 0.5408947590848299,
+  "opponent_score_share": 0.5515517398433167,
   "skill": 108.82771618591043,
   "skill_sigma": 43.484028971553144,
   "name": "Charlotte Johansson",
   "slug": "charlotte-johansson",
-  "skill_rank": 56.0,
-  "skill_rank_pct": 56.0,
+  "skill_rank": 62.0,
+  "skill_rank_pct": 62.0,
   "skill_history": [
     [
       2011,
@@ -42,6 +42,10 @@
     [
       2020,
       null
+    ],
+    [
+      2021,
+      null
     ]
   ],
   "tournaments": [
@@ -55,6 +59,80 @@
         "is_winner": false,
         "stage": "\u00e5ttondelsfinal"
       },
+      "games": [
+        {
+          "game_id": 184,
+          "year": 2018,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Charlotte Johansson",
+          "score": 7,
+          "score_share": 0.5833333333333334,
+          "win_prob": 0.6639852531960551,
+          "opponent_name": "Cissi Hellman",
+          "opponent_score": 5,
+          "opponent_score_share": 0.4166666666666667,
+          "opponent_win_prob": 0.33601474680394494,
+          "is_winner": true,
+          "opponent_slug": "cissi-hellman",
+          "opponent_hist_score_share": 0.48071302791411474
+        },
+        {
+          "game_id": 166,
+          "year": 2018,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Charlotte Johansson",
+          "score": 7,
+          "score_share": 1.0,
+          "win_prob": 0.26042606700879833,
+          "opponent_name": "Benjamin Ger. Hed.",
+          "opponent_score": 0,
+          "opponent_score_share": 0.0,
+          "opponent_win_prob": 0.7395739329912017,
+          "is_winner": true,
+          "opponent_slug": "benjamin-ger-hed",
+          "opponent_hist_score_share": 0.5806306275423923
+        },
+        {
+          "game_id": 227,
+          "year": 2018,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p1",
+          "name": "Charlotte Johansson",
+          "score": 9,
+          "score_share": 0.8181818181818182,
+          "win_prob": 0.8329503001671785,
+          "opponent_name": "Alexander Starfelt",
+          "opponent_score": 2,
+          "opponent_score_share": 0.18181818181818182,
+          "opponent_win_prob": 0.16704969983282147,
+          "is_winner": true,
+          "opponent_slug": "alexander-starfelt",
+          "opponent_hist_score_share": 0.5512412467133828
+        },
+        {
+          "game_id": 237,
+          "year": 2018,
+          "stage": "\u00e5ttondelsfinal",
+          "stage_level": 2,
+          "winner": "p1",
+          "name": "Charlotte Johansson",
+          "score": 2,
+          "score_share": 0.16666666666666666,
+          "win_prob": 0.8694043635458253,
+          "opponent_name": "Johan Kjell",
+          "opponent_score": 10,
+          "opponent_score_share": 0.8333333333333334,
+          "opponent_win_prob": 0.1305956364541747,
+          "is_winner": false,
+          "opponent_slug": "johan-kjell",
+          "opponent_hist_score_share": 0.5761679966633527
+        }
+      ],
       "n_games": 4,
       "n_wins": 3
     },
@@ -68,6 +146,44 @@
         "is_winner": false,
         "stage": "gruppspel"
       },
+      "games": [
+        {
+          "game_id": 258,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Charlotte Johansson",
+          "score": 2,
+          "score_share": 0.2222222222222222,
+          "win_prob": 0.658070430734958,
+          "opponent_name": "Lotta Harder",
+          "opponent_score": 7,
+          "opponent_score_share": 0.7777777777777778,
+          "opponent_win_prob": 0.34192956926504203,
+          "is_winner": false,
+          "opponent_slug": "lotta-harder",
+          "opponent_hist_score_share": 0.5641247641247641
+        },
+        {
+          "game_id": 301,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Charlotte Johansson",
+          "score": 4,
+          "score_share": 0.3333333333333333,
+          "win_prob": 0.9199764657307347,
+          "opponent_name": "Bj\u00f6rn Berglund",
+          "opponent_score": 8,
+          "opponent_score_share": 0.6666666666666666,
+          "opponent_win_prob": 0.08002353426926534,
+          "is_winner": false,
+          "opponent_slug": "bjorn-berglund",
+          "opponent_hist_score_share": 0.5564327761018938
+        }
+      ],
       "n_games": 2,
       "n_wins": 0
     }

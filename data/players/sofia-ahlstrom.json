@@ -6,13 +6,13 @@
     2017
   ],
   "win_rate": 0.5,
-  "opponent_score_share": 0.5104252151265365,
+  "opponent_score_share": 0.5165160818590717,
   "skill": 120.29714872294652,
   "skill_sigma": 62.23099547046753,
   "name": "Sofia Ahlstr\u00f6m",
   "slug": "sofia-ahlstrom",
-  "skill_rank": 51.0,
-  "skill_rank_pct": 51.0,
+  "skill_rank": 54.0,
+  "skill_rank_pct": 54.0,
   "skill_history": [
     [
       2011,
@@ -41,6 +41,10 @@
     [
       2020,
       null
+    ],
+    [
+      2021,
+      null
     ]
   ],
   "tournaments": [
@@ -54,6 +58,80 @@
         "is_winner": false,
         "stage": "\u00e5ttondelsfinal"
       },
+      "games": [
+        {
+          "game_id": 106,
+          "year": 2017,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Sofia Ahlstr\u00f6m",
+          "score": 5,
+          "score_share": 0.4166666666666667,
+          "win_prob": 0.3075196449024433,
+          "opponent_name": "Gabriel Nordenankar",
+          "opponent_score": 7,
+          "opponent_score_share": 0.5833333333333334,
+          "opponent_win_prob": 0.6924803550975567,
+          "is_winner": false,
+          "opponent_slug": "gabriel-nordenankar",
+          "opponent_hist_score_share": 0.6387546156727935
+        },
+        {
+          "game_id": 93,
+          "year": 2017,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Sofia Ahlstr\u00f6m",
+          "score": 7,
+          "score_share": 0.7,
+          "win_prob": 0.49999998499999976,
+          "opponent_name": "Emma Pettersson",
+          "opponent_score": 3,
+          "opponent_score_share": 0.3,
+          "opponent_win_prob": 0.5000000150000002,
+          "is_winner": true,
+          "opponent_slug": "emma-pettersson",
+          "opponent_hist_score_share": 0.35833333333333334
+        },
+        {
+          "game_id": 125,
+          "year": 2017,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Sofia Ahlstr\u00f6m",
+          "score": 7,
+          "score_share": 0.5384615384615384,
+          "win_prob": 0.6970578771741374,
+          "opponent_name": "Ida Wimmerman",
+          "opponent_score": 6,
+          "opponent_score_share": 0.46153846153846156,
+          "opponent_win_prob": 0.30294212282586264,
+          "is_winner": true,
+          "opponent_slug": "ida-wimmerman",
+          "opponent_hist_score_share": 0.5017578826402356
+        },
+        {
+          "game_id": 134,
+          "year": 2017,
+          "stage": "\u00e5ttondelsfinal",
+          "stage_level": 2,
+          "winner": "p1",
+          "name": "Sofia Ahlstr\u00f6m",
+          "score": 3,
+          "score_share": 0.23076923076923078,
+          "win_prob": 0.29837885800427755,
+          "opponent_name": "Josefin Asplund",
+          "opponent_score": 10,
+          "opponent_score_share": 0.7692307692307693,
+          "opponent_win_prob": 0.7016211419957225,
+          "is_winner": false,
+          "opponent_slug": "josefin-asplund",
+          "opponent_hist_score_share": 0.5672184957899244
+        }
+      ],
       "n_games": 4,
       "n_wins": 2
     }

@@ -6,7 +6,7 @@
     2012
   ],
   "win_rate": 1.0,
-  "opponent_score_share": 0.5715456651056761,
+  "opponent_score_share": 0.5712983867071373,
   "skill": 271.0261300539191,
   "skill_sigma": 52.79508455006538,
   "name": "Filip Tyd\u00e9n",
@@ -41,6 +41,10 @@
     [
       2020,
       null
+    ],
+    [
+      2021,
+      null
     ]
   ],
   "tournaments": [
@@ -54,6 +58,98 @@
         "is_winner": true,
         "stage": "vinnare"
       },
+      "games": [
+        {
+          "game_id": 37,
+          "year": 2012,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Filip Tyd\u00e9n",
+          "score": 8,
+          "score_share": 0.6153846153846154,
+          "win_prob": 0.6402041273956629,
+          "opponent_name": "Andreas Josefson",
+          "opponent_score": 5,
+          "opponent_score_share": 0.38461538461538464,
+          "opponent_win_prob": 0.35979587260433704,
+          "is_winner": true,
+          "opponent_slug": "andreas-josefson",
+          "opponent_hist_score_share": 0.41695652620022366
+        },
+        {
+          "game_id": 21,
+          "year": 2012,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Filip Tyd\u00e9n",
+          "score": 7,
+          "score_share": 0.5833333333333334,
+          "win_prob": 0.49999998499999976,
+          "opponent_name": "Richard Ekman",
+          "opponent_score": 5,
+          "opponent_score_share": 0.4166666666666667,
+          "opponent_win_prob": 0.5000000150000002,
+          "is_winner": true,
+          "opponent_slug": "richard-ekman",
+          "opponent_hist_score_share": 0.6032088282088284
+        },
+        {
+          "game_id": 42,
+          "year": 2012,
+          "stage": "kvartsfinal",
+          "stage_level": 3,
+          "winner": "p1",
+          "name": "Filip Tyd\u00e9n",
+          "score": 7,
+          "score_share": 0.5833333333333334,
+          "win_prob": 0.4506565601543932,
+          "opponent_name": "Love Andr\u00e9asson",
+          "opponent_score": 5,
+          "opponent_score_share": 0.4166666666666667,
+          "opponent_win_prob": 0.5493434398456067,
+          "is_winner": true,
+          "opponent_slug": "love-andreasson",
+          "opponent_hist_score_share": 0.5925543702329417
+        },
+        {
+          "game_id": 45,
+          "year": 2012,
+          "stage": "semifinal",
+          "stage_level": 4,
+          "winner": "p2",
+          "name": "Filip Tyd\u00e9n",
+          "score": 7,
+          "score_share": 0.6363636363636364,
+          "win_prob": 0.6517822408013549,
+          "opponent_name": "Jakob Lien",
+          "opponent_score": 4,
+          "opponent_score_share": 0.36363636363636365,
+          "opponent_win_prob": 0.3482177591986451,
+          "is_winner": true,
+          "opponent_slug": "jakob-lien",
+          "opponent_hist_score_share": 0.5680243456458289
+        },
+        {
+          "game_id": 48,
+          "year": 2012,
+          "stage": "vinnare",
+          "stage_level": 8,
+          "winner": "p1",
+          "name": "Filip Tyd\u00e9n",
+          "score": 13,
+          "score_share": 0.8125,
+          "win_prob": 0.4970393345471612,
+          "opponent_name": "Johan Alm",
+          "opponent_score": 3,
+          "opponent_score_share": 0.1875,
+          "opponent_win_prob": 0.5029606654528388,
+          "is_winner": true,
+          "opponent_slug": "johan-alm",
+          "opponent_hist_score_share": 0.6757478632478632
+        }
+      ],
       "n_games": 5,
       "n_wins": 5
     }

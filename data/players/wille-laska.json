@@ -6,13 +6,13 @@
     2020
   ],
   "win_rate": 0.5,
-  "opponent_score_share": 0.5464155984547987,
+  "opponent_score_share": 0.5639009146862984,
   "skill": 108.54666157404843,
   "skill_sigma": 53.920549157092395,
   "name": "Wille Laska",
   "slug": "wille-laska",
-  "skill_rank": 57.0,
-  "skill_rank_pct": 57.0,
+  "skill_rank": 63.0,
+  "skill_rank_pct": 63.0,
   "skill_history": [
     [
       2011,
@@ -41,6 +41,10 @@
     [
       2020,
       109.0
+    ],
+    [
+      2021,
+      null
     ]
   ],
   "tournaments": [
@@ -54,6 +58,80 @@
         "is_winner": false,
         "stage": "\u00e5ttondelsfinal"
       },
+      "games": [
+        {
+          "game_id": 391,
+          "year": 2020,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Wille Laska",
+          "score": 6,
+          "score_share": 0.4,
+          "win_prob": 0.28532388147924276,
+          "opponent_name": "Jerker Karlsson",
+          "opponent_score": 9,
+          "opponent_score_share": 0.6,
+          "opponent_win_prob": 0.7146761185207573,
+          "is_winner": false,
+          "opponent_slug": "jerker-karlsson",
+          "opponent_hist_score_share": 0.5206712624981856
+        },
+        {
+          "game_id": 414,
+          "year": 2020,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Wille Laska",
+          "score": 10,
+          "score_share": 0.7142857142857143,
+          "win_prob": 0.337622400663481,
+          "opponent_name": "Sandra Sundin",
+          "opponent_score": 4,
+          "opponent_score_share": 0.2857142857142857,
+          "opponent_win_prob": 0.6623775993365191,
+          "is_winner": true,
+          "opponent_slug": "sandra-sundin",
+          "opponent_hist_score_share": 0.551948051948052
+        },
+        {
+          "game_id": 428,
+          "year": 2020,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p1",
+          "name": "Wille Laska",
+          "score": 11,
+          "score_share": 0.6470588235294118,
+          "win_prob": 0.5838059990225133,
+          "opponent_name": "Bj\u00f6rn Berglund",
+          "opponent_score": 6,
+          "opponent_score_share": 0.35294117647058826,
+          "opponent_win_prob": 0.4161940009774867,
+          "is_winner": true,
+          "opponent_slug": "bjorn-berglund",
+          "opponent_hist_score_share": 0.5564327761018938
+        },
+        {
+          "game_id": 439,
+          "year": 2020,
+          "stage": "\u00e5ttondelsfinal",
+          "stage_level": 2,
+          "winner": "p1",
+          "name": "Wille Laska",
+          "score": 6,
+          "score_share": 0.35294117647058826,
+          "win_prob": 0.6273687919195502,
+          "opponent_name": "Olle Strandberg",
+          "opponent_score": 11,
+          "opponent_score_share": 0.6470588235294118,
+          "opponent_win_prob": 0.3726312080804498,
+          "is_winner": false,
+          "opponent_slug": "olle-strandberg",
+          "opponent_hist_score_share": 0.6265515681970623
+        }
+      ],
       "n_games": 4,
       "n_wins": 2
     }

@@ -1,20 +1,21 @@
 {
-  "n_games": 9,
-  "score_share": 0.4545750545750546,
-  "n_wins": 5,
+  "n_games": 12,
+  "score_share": 0.46432872682872683,
+  "n_wins": 7,
   "years": [
     2016,
     2018,
-    2019
+    2019,
+    2021
   ],
-  "win_rate": 0.5555555555555556,
-  "opponent_score_share": 0.49657625590860976,
-  "skill": 150.07839635366042,
-  "skill_sigma": 41.052139966874726,
+  "win_rate": 0.5833333333333334,
+  "opponent_score_share": 0.4991740847476309,
+  "skill": 163.5150413770966,
+  "skill_sigma": 34.36769362148477,
   "name": "Jens Finn\u00e4s",
   "slug": "jens-finnas",
-  "skill_rank": 29.0,
-  "skill_rank_pct": 29.0,
+  "skill_rank": 22.0,
+  "skill_rank_pct": 22.0,
   "skill_history": [
     [
       2011,
@@ -43,6 +44,10 @@
     [
       2020,
       null
+    ],
+    [
+      2021,
+      164.0
     ]
   ],
   "tournaments": [
@@ -56,6 +61,44 @@
         "is_winner": false,
         "stage": "gruppspel"
       },
+      "games": [
+        {
+          "game_id": 69,
+          "year": 2016,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Jens Finn\u00e4s",
+          "score": 7,
+          "score_share": 0.6363636363636364,
+          "win_prob": 0.46996642796089894,
+          "opponent_name": "John Qvale",
+          "opponent_score": 4,
+          "opponent_score_share": 0.36363636363636365,
+          "opponent_win_prob": 0.5300335720391011,
+          "is_winner": true,
+          "opponent_slug": "john-qvale",
+          "opponent_hist_score_share": 0.318958818958819
+        },
+        {
+          "game_id": 54,
+          "year": 2016,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Jens Finn\u00e4s",
+          "score": 2,
+          "score_share": 0.2,
+          "win_prob": 0.49999998499999976,
+          "opponent_name": "Lotta Harder",
+          "opponent_score": 8,
+          "opponent_score_share": 0.8,
+          "opponent_win_prob": 0.5000000150000002,
+          "is_winner": false,
+          "opponent_slug": "lotta-harder",
+          "opponent_hist_score_share": 0.5641247641247641
+        }
+      ],
       "n_games": 2,
       "n_wins": 1
     },
@@ -69,6 +112,62 @@
         "is_winner": false,
         "stage": "sextondelsfinal"
       },
+      "games": [
+        {
+          "game_id": 181,
+          "year": 2018,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Jens Finn\u00e4s",
+          "score": 7,
+          "score_share": 0.7,
+          "win_prob": 0.39423313548712424,
+          "opponent_name": "Kusha Bahrami",
+          "opponent_score": 3,
+          "opponent_score_share": 0.3,
+          "opponent_win_prob": 0.6057668645128758,
+          "is_winner": true,
+          "opponent_slug": "kusha-bahrami",
+          "opponent_hist_score_share": 0.466840675664205
+        },
+        {
+          "game_id": 161,
+          "year": 2018,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Jens Finn\u00e4s",
+          "score": 7,
+          "score_share": 0.6363636363636364,
+          "win_prob": 0.4838402210525887,
+          "opponent_name": "Joakim Lundin",
+          "opponent_score": 4,
+          "opponent_score_share": 0.36363636363636365,
+          "opponent_win_prob": 0.5161597789474113,
+          "is_winner": true,
+          "opponent_slug": "joakim-lundin",
+          "opponent_hist_score_share": 0.39805194805194805
+        },
+        {
+          "game_id": 229,
+          "year": 2018,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p2",
+          "name": "Jens Finn\u00e4s",
+          "score": 2,
+          "score_share": 0.18181818181818182,
+          "win_prob": 0.4879287612448507,
+          "opponent_name": "Love Andr\u00e9asson",
+          "opponent_score": 9,
+          "opponent_score_share": 0.8181818181818182,
+          "opponent_win_prob": 0.5120712387551494,
+          "is_winner": false,
+          "opponent_slug": "love-andreasson",
+          "opponent_hist_score_share": 0.5925543702329417
+        }
+      ],
       "n_games": 3,
       "n_wins": 2
     },
@@ -82,13 +181,157 @@
         "is_winner": false,
         "stage": "sextondelsfinal"
       },
+      "games": [
+        {
+          "game_id": 294,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Jens Finn\u00e4s",
+          "score": 5,
+          "score_share": 0.35714285714285715,
+          "win_prob": 0.1463842116170786,
+          "opponent_name": "Gabriel Nordenankar",
+          "opponent_score": 9,
+          "opponent_score_share": 0.6428571428571429,
+          "opponent_win_prob": 0.8536157883829214,
+          "is_winner": false,
+          "opponent_slug": "gabriel-nordenankar",
+          "opponent_hist_score_share": 0.6387546156727935
+        },
+        {
+          "game_id": 326,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Jens Finn\u00e4s",
+          "score": 8,
+          "score_share": 0.5333333333333333,
+          "win_prob": 0.44340663991940404,
+          "opponent_name": "Hannes Jordan",
+          "opponent_score": 7,
+          "opponent_score_share": 0.4666666666666667,
+          "opponent_win_prob": 0.5565933600805959,
+          "is_winner": true,
+          "opponent_slug": "hannes-jordan",
+          "opponent_hist_score_share": 0.4937004662004662
+        },
+        {
+          "game_id": 277,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Jens Finn\u00e4s",
+          "score": 9,
+          "score_share": 0.6923076923076923,
+          "win_prob": 0.6857763477204726,
+          "opponent_name": "Edith S\u00f6derstr\u00f6m",
+          "opponent_score": 4,
+          "opponent_score_share": 0.3076923076923077,
+          "opponent_win_prob": 0.3142236522795274,
+          "is_winner": true,
+          "opponent_slug": "edith-soderstrom",
+          "opponent_hist_score_share": 0.2696581196581197
+        },
+        {
+          "game_id": 338,
+          "year": 2019,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p1",
+          "name": "Jens Finn\u00e4s",
+          "score": 2,
+          "score_share": 0.15384615384615385,
+          "win_prob": 0.2644227250181119,
+          "opponent_name": "Erik Nordenankar",
+          "opponent_score": 11,
+          "opponent_score_share": 0.8461538461538461,
+          "opponent_win_prob": 0.7355772749818881,
+          "is_winner": false,
+          "opponent_slug": "erik-nordenankar",
+          "opponent_hist_score_share": 0.6925923706869999
+        }
+      ],
       "n_games": 4,
+      "n_wins": 2
+    },
+    {
+      "year": 2021,
+      "last_game": {
+        "opponent_name": "Pelle Dovborg",
+        "opponent_slug": "pelle-dovborg",
+        "score": 3,
+        "opponent_score": 10,
+        "is_winner": false,
+        "stage": "sextondelsfinal"
+      },
+      "games": [
+        {
+          "game_id": 480,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Jens Finn\u00e4s",
+          "score": 9,
+          "score_share": 0.5625,
+          "win_prob": 0.38348320562232807,
+          "opponent_name": "Pelle Dovborg",
+          "opponent_score": 7,
+          "opponent_score_share": 0.4375,
+          "opponent_win_prob": 0.6165167943776719,
+          "is_winner": true,
+          "opponent_slug": "pelle-dovborg",
+          "opponent_hist_score_share": 0.5669484926837869
+        },
+        {
+          "game_id": 452,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Jens Finn\u00e4s",
+          "score": 11,
+          "score_share": 0.6875,
+          "win_prob": 0.6508769756215536,
+          "opponent_name": "P\u00e4r D\u00e4lborg",
+          "opponent_score": 5,
+          "opponent_score_share": 0.3125,
+          "opponent_win_prob": 0.34912302437844644,
+          "is_winner": true,
+          "opponent_slug": "par-dalborg",
+          "opponent_hist_score_share": 0.4209558823529412
+        },
+        {
+          "game_id": 536,
+          "year": 2021,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p2",
+          "name": "Jens Finn\u00e4s",
+          "score": 3,
+          "score_share": 0.23076923076923078,
+          "win_prob": 0.4894727315793961,
+          "opponent_name": "Pelle Dovborg",
+          "opponent_score": 10,
+          "opponent_score_share": 0.7692307692307693,
+          "opponent_win_prob": 0.5105272684206039,
+          "is_winner": false,
+          "opponent_slug": "pelle-dovborg",
+          "opponent_hist_score_share": 0.5669484926837869
+        }
+      ],
+      "n_games": 3,
       "n_wins": 2
     }
   ],
   "best_stage": "sextondelsfinal",
   "best_stage_years": [
     2019,
-    2018
+    2018,
+    2021
   ]
 }

@@ -6,13 +6,13 @@
     2019
   ],
   "win_rate": 0.5,
-  "opponent_score_share": 0.5090204311191743,
+  "opponent_score_share": 0.5123035362405615,
   "skill": 131.44451219069174,
   "skill_sigma": 49.192924780909365,
   "name": "Christian Steen",
   "slug": "christian-steen",
-  "skill_rank": 44.0,
-  "skill_rank_pct": 44.0,
+  "skill_rank": 45.0,
+  "skill_rank_pct": 45.0,
   "skill_history": [
     [
       2011,
@@ -41,6 +41,10 @@
     [
       2020,
       null
+    ],
+    [
+      2021,
+      null
     ]
   ],
   "tournaments": [
@@ -54,6 +58,80 @@
         "is_winner": false,
         "stage": "sextondelsfinal"
       },
+      "games": [
+        {
+          "game_id": 324,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Christian Steen",
+          "score": 8,
+          "score_share": 0.6153846153846154,
+          "win_prob": 0.6138360271384109,
+          "opponent_name": "Olle Strandberg",
+          "opponent_score": 5,
+          "opponent_score_share": 0.38461538461538464,
+          "opponent_win_prob": 0.3861639728615891,
+          "is_winner": true,
+          "opponent_slug": "olle-strandberg",
+          "opponent_hist_score_share": 0.6265515681970623
+        },
+        {
+          "game_id": 292,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Christian Steen",
+          "score": 5,
+          "score_share": 0.38461538461538464,
+          "win_prob": 0.7749987110642017,
+          "opponent_name": "Mina Kheirkhah",
+          "opponent_score": 8,
+          "opponent_score_share": 0.6153846153846154,
+          "opponent_win_prob": 0.2250012889357983,
+          "is_winner": false,
+          "opponent_slug": "mina-kheirkhah",
+          "opponent_hist_score_share": 0.4432545173186885
+        },
+        {
+          "game_id": 272,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Christian Steen",
+          "score": 8,
+          "score_share": 0.6153846153846154,
+          "win_prob": 0.252762510343167,
+          "opponent_name": "Jens Hultkrans",
+          "opponent_score": 5,
+          "opponent_score_share": 0.38461538461538464,
+          "opponent_win_prob": 0.747237489656833,
+          "is_winner": true,
+          "opponent_slug": "jens-hultkrans",
+          "opponent_hist_score_share": 0.5361535421278069
+        },
+        {
+          "game_id": 330,
+          "year": 2019,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p1",
+          "name": "Christian Steen",
+          "score": 8,
+          "score_share": 0.4,
+          "win_prob": 0.5534182046323686,
+          "opponent_name": "Mina Kheirkhah",
+          "opponent_score": 12,
+          "opponent_score_share": 0.6,
+          "opponent_win_prob": 0.4465817953676314,
+          "is_winner": false,
+          "opponent_slug": "mina-kheirkhah",
+          "opponent_hist_score_share": 0.4432545173186885
+        }
+      ],
       "n_games": 4,
       "n_wins": 2
     }

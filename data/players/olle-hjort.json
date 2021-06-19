@@ -6,13 +6,13 @@
     2018
   ],
   "win_rate": 0.3333333333333333,
-  "opponent_score_share": 0.512107707107707,
+  "opponent_score_share": 0.5067742860547483,
   "skill": 62.70539121299896,
   "skill_sigma": 63.9634474212986,
   "name": "Olle Hjort",
   "slug": "olle-hjort",
-  "skill_rank": 85.0,
-  "skill_rank_pct": 85.0,
+  "skill_rank": 91.0,
+  "skill_rank_pct": 91.0,
   "skill_history": [
     [
       2011,
@@ -41,6 +41,10 @@
     [
       2020,
       null
+    ],
+    [
+      2021,
+      null
     ]
   ],
   "tournaments": [
@@ -54,6 +58,62 @@
         "is_winner": false,
         "stage": "gruppspel"
       },
+      "games": [
+        {
+          "game_id": 169,
+          "year": 2018,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Olle Hjort",
+          "score": 7,
+          "score_share": 0.6363636363636364,
+          "win_prob": 0.6805480849364811,
+          "opponent_name": "Frida \u00d6hrn",
+          "opponent_score": 4,
+          "opponent_score_share": 0.36363636363636365,
+          "opponent_win_prob": 0.3194519150635189,
+          "is_winner": true,
+          "opponent_slug": "frida-ohrn",
+          "opponent_hist_score_share": 0.39154768842268833
+        },
+        {
+          "game_id": 185,
+          "year": 2018,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Olle Hjort",
+          "score": 2,
+          "score_share": 0.2222222222222222,
+          "win_prob": 0.48517681739207963,
+          "opponent_name": "Robin Linderborg",
+          "opponent_score": 7,
+          "opponent_score_share": 0.7777777777777778,
+          "opponent_win_prob": 0.5148231826079204,
+          "is_winner": false,
+          "opponent_slug": "robin-linderborg",
+          "opponent_hist_score_share": 0.5582165616829482
+        },
+        {
+          "game_id": 213,
+          "year": 2018,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Olle Hjort",
+          "score": 0,
+          "score_share": 0.0,
+          "win_prob": 0.4665482561706008,
+          "opponent_name": "Louise Persson",
+          "opponent_score": 5,
+          "opponent_score_share": 1.0,
+          "opponent_win_prob": 0.5334517438293992,
+          "is_winner": false,
+          "opponent_slug": "louise-persson",
+          "opponent_hist_score_share": 0.5705586080586081
+        }
+      ],
       "n_games": 3,
       "n_wins": 1
     }

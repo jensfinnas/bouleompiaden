@@ -1,0 +1,125 @@
+{
+  "n_games": 3,
+  "score_share": 0.2857142857142857,
+  "n_wins": 1,
+  "years": [
+    2021
+  ],
+  "win_rate": 0.3333333333333333,
+  "opponent_score_share": 0.4857409323480752,
+  "skill": 66.49450360949261,
+  "skill_sigma": 64.799892081744,
+  "name": "Gustaf Berencreutz",
+  "slug": "gustaf-berencreutz",
+  "skill_rank": 86.0,
+  "skill_rank_pct": 86.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      null
+    ],
+    [
+      2016,
+      null
+    ],
+    [
+      2017,
+      null
+    ],
+    [
+      2018,
+      null
+    ],
+    [
+      2019,
+      null
+    ],
+    [
+      2020,
+      null
+    ],
+    [
+      2021,
+      66.0
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2021,
+      "last_game": {
+        "opponent_name": "Robin Linderborg",
+        "opponent_slug": "robin-linderborg",
+        "score": 0,
+        "opponent_score": 10,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "games": [
+        {
+          "game_id": 500,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Gustaf Berencreutz",
+          "score": 12,
+          "score_share": 0.8571428571428571,
+          "win_prob": 0.7799496298670819,
+          "opponent_name": "Johanna R\u00e5dstr\u00f6m",
+          "opponent_score": 2,
+          "opponent_score_share": 0.14285714285714285,
+          "opponent_win_prob": 0.22005037013291806,
+          "is_winner": true,
+          "opponent_slug": "johanna-radstrom",
+          "opponent_hist_score_share": 0.31837560781888513
+        },
+        {
+          "game_id": 459,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Gustaf Berencreutz",
+          "score": 0,
+          "score_share": 0.0,
+          "win_prob": 0.2204814024551447,
+          "opponent_name": "Benjamin Ger. Hed.",
+          "opponent_score": 11,
+          "opponent_score_share": 1.0,
+          "opponent_win_prob": 0.7795185975448553,
+          "is_winner": false,
+          "opponent_slug": "benjamin-ger-hed",
+          "opponent_hist_score_share": 0.5806306275423923
+        },
+        {
+          "game_id": 511,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Gustaf Berencreutz",
+          "score": 0,
+          "score_share": 0.0,
+          "win_prob": 0.30550415809085685,
+          "opponent_name": "Robin Linderborg",
+          "opponent_score": 10,
+          "opponent_score_share": 1.0,
+          "opponent_win_prob": 0.6944958419091432,
+          "is_winner": false,
+          "opponent_slug": "robin-linderborg",
+          "opponent_hist_score_share": 0.5582165616829482
+        }
+      ],
+      "n_games": 3,
+      "n_wins": 1
+    }
+  ],
+  "best_stage": "gruppspel",
+  "best_stage_years": [
+    2021
+  ]
+}

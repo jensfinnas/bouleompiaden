@@ -99,7 +99,7 @@
                     {% include 'includes/player_stats_table.html' %}
                     
                     <a href="{{url_for('player_index', player_slug=player.slug)}}" type="button" class="btn btn-outline-primary">
-                      Mer statistik 
+                      All spelarstatistik 
                       <i class="fa fa-chevron-right" style="margin-left: 8px; padding-top: 4px;"></i>
                     </a>
 
@@ -141,4 +141,14 @@
       </div>
     </div>
   </div>
+{% endblock %}
+
+{% block js %}
+<script>
+  $('.collapse').on("show.bs.collapse", function() {
+    var $elem = $(this).find("chart")
+    initChart($elem)
+
+  })
+</script>
 {% endblock %}

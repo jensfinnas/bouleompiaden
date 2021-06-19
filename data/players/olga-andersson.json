@@ -7,13 +7,13 @@
     2019
   ],
   "win_rate": 0.3333333333333333,
-  "opponent_score_share": 0.5053938255176279,
+  "opponent_score_share": 0.5052138989237666,
   "skill": 59.1119452956166,
   "skill_sigma": 48.76455937780867,
   "name": "Olga Andersson",
   "slug": "olga-andersson",
-  "skill_rank": 88.0,
-  "skill_rank_pct": 88.0,
+  "skill_rank": 93.0,
+  "skill_rank_pct": 93.0,
   "skill_history": [
     [
       2011,
@@ -42,6 +42,10 @@
     [
       2020,
       null
+    ],
+    [
+      2021,
+      null
     ]
   ],
   "tournaments": [
@@ -55,6 +59,44 @@
         "is_winner": false,
         "stage": "gruppspel"
       },
+      "games": [
+        {
+          "game_id": 194,
+          "year": 2018,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Olga Andersson",
+          "score": 1,
+          "score_share": 0.1,
+          "win_prob": 0.6141890087977074,
+          "opponent_name": "Johan Kjell",
+          "opponent_score": 9,
+          "opponent_score_share": 0.9,
+          "opponent_win_prob": 0.38581099120229256,
+          "is_winner": false,
+          "opponent_slug": "johan-kjell",
+          "opponent_hist_score_share": 0.5761679966633527
+        },
+        {
+          "game_id": 158,
+          "year": 2018,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Olga Andersson",
+          "score": 3,
+          "score_share": 0.3,
+          "win_prob": 0.15307519719841134,
+          "opponent_name": "Edvin Lindsten",
+          "opponent_score": 7,
+          "opponent_score_share": 0.7,
+          "opponent_win_prob": 0.8469248028015887,
+          "is_winner": false,
+          "opponent_slug": "edvin-lindsten",
+          "opponent_hist_score_share": 0.5706356991424866
+        }
+      ],
       "n_games": 2,
       "n_wins": 0
     },
@@ -68,6 +110,80 @@
         "is_winner": false,
         "stage": "sextondelsfinal"
       },
+      "games": [
+        {
+          "game_id": 320,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Olga Andersson",
+          "score": 8,
+          "score_share": 0.5714285714285714,
+          "win_prob": 0.4046121673514025,
+          "opponent_name": "Sofia \u00d6rning",
+          "opponent_score": 6,
+          "opponent_score_share": 0.42857142857142855,
+          "opponent_win_prob": 0.5953878326485975,
+          "is_winner": true,
+          "opponent_slug": "sofia-orning",
+          "opponent_hist_score_share": 0.4190329941708618
+        },
+        {
+          "game_id": 249,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Olga Andersson",
+          "score": 1,
+          "score_share": 0.1,
+          "win_prob": 0.13948981322361353,
+          "opponent_name": "Jesper Kronholm",
+          "opponent_score": 9,
+          "opponent_score_share": 0.9,
+          "opponent_win_prob": 0.8605101867763865,
+          "is_winner": false,
+          "opponent_slug": "jesper-kronholm",
+          "opponent_hist_score_share": 0.5928684605155193
+        },
+        {
+          "game_id": 296,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Olga Andersson",
+          "score": 10,
+          "score_share": 0.8333333333333334,
+          "win_prob": 0.43879855605851636,
+          "opponent_name": "Philip Little",
+          "opponent_score": 2,
+          "opponent_score_share": 0.16666666666666666,
+          "opponent_win_prob": 0.5612014439414836,
+          "is_winner": true,
+          "opponent_slug": "philip-little",
+          "opponent_hist_score_share": 0.32133699633699636
+        },
+        {
+          "game_id": 334,
+          "year": 2019,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p1",
+          "name": "Olga Andersson",
+          "score": 2,
+          "score_share": 0.16666666666666666,
+          "win_prob": 0.23404608811811678,
+          "opponent_name": "Alexander Starfelt",
+          "opponent_score": 10,
+          "opponent_score_share": 0.8333333333333334,
+          "opponent_win_prob": 0.7659539118818832,
+          "is_winner": false,
+          "opponent_slug": "alexander-starfelt",
+          "opponent_hist_score_share": 0.5512412467133828
+        }
+      ],
       "n_games": 4,
       "n_wins": 2
     }

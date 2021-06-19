@@ -1,20 +1,21 @@
 {
-  "n_games": 9,
-  "score_share": 0.43858091799268273,
-  "n_wins": 4,
+  "n_games": 11,
+  "score_share": 0.4432545173186885,
+  "n_wins": 5,
   "years": [
     2018,
     2019,
-    2020
+    2020,
+    2021
   ],
-  "win_rate": 0.4444444444444444,
-  "opponent_score_share": 0.5019354119074622,
-  "skill": 124.44887521519725,
-  "skill_sigma": 38.38604272685846,
+  "win_rate": 0.45454545454545453,
+  "opponent_score_share": 0.5127181757568428,
+  "skill": 138.68598831471922,
+  "skill_sigma": 33.08097462226162,
   "name": "Mina Kheirkhah",
   "slug": "mina-kheirkhah",
-  "skill_rank": 49.0,
-  "skill_rank_pct": 49.0,
+  "skill_rank": 39.0,
+  "skill_rank_pct": 39.0,
   "skill_history": [
     [
       2011,
@@ -43,6 +44,10 @@
     [
       2020,
       124.0
+    ],
+    [
+      2021,
+      139.0
     ]
   ],
   "tournaments": [
@@ -56,6 +61,62 @@
         "is_winner": false,
         "stage": "gruppspel"
       },
+      "games": [
+        {
+          "game_id": 171,
+          "year": 2018,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Mina Kheirkhah",
+          "score": 7,
+          "score_share": 0.5833333333333334,
+          "win_prob": 0.4081738096690197,
+          "opponent_name": "Linn Debove",
+          "opponent_score": 5,
+          "opponent_score_share": 0.4166666666666667,
+          "opponent_win_prob": 0.5918261903309803,
+          "is_winner": true,
+          "opponent_slug": "linn-debove",
+          "opponent_hist_score_share": 0.40625
+        },
+        {
+          "game_id": 186,
+          "year": 2018,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Mina Kheirkhah",
+          "score": 1,
+          "score_share": 0.1111111111111111,
+          "win_prob": 0.6875569080063968,
+          "opponent_name": "Richard Ekman",
+          "opponent_score": 8,
+          "opponent_score_share": 0.8888888888888888,
+          "opponent_win_prob": 0.3124430919936032,
+          "is_winner": false,
+          "opponent_slug": "richard-ekman",
+          "opponent_hist_score_share": 0.6032088282088284
+        },
+        {
+          "game_id": 214,
+          "year": 2018,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Mina Kheirkhah",
+          "score": 4,
+          "score_share": 0.36363636363636365,
+          "win_prob": 0.35618095766636415,
+          "opponent_name": "Jesper Kronholm",
+          "opponent_score": 7,
+          "opponent_score_share": 0.6363636363636364,
+          "opponent_win_prob": 0.6438190423336358,
+          "is_winner": false,
+          "opponent_slug": "jesper-kronholm",
+          "opponent_hist_score_share": 0.5928684605155193
+        }
+      ],
       "n_games": 3,
       "n_wins": 1
     },
@@ -69,6 +130,80 @@
         "is_winner": false,
         "stage": "\u00e5ttondelsfinal"
       },
+      "games": [
+        {
+          "game_id": 273,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Mina Kheirkhah",
+          "score": 8,
+          "score_share": 0.8888888888888888,
+          "win_prob": 0.41466315290630584,
+          "opponent_name": "Sussie R\u00e5dis",
+          "opponent_score": 1,
+          "opponent_score_share": 0.1111111111111111,
+          "opponent_win_prob": 0.5853368470936942,
+          "is_winner": true,
+          "opponent_slug": "sussie-radis",
+          "opponent_hist_score_share": 0.3748112998112998
+        },
+        {
+          "game_id": 292,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Mina Kheirkhah",
+          "score": 8,
+          "score_share": 0.6153846153846154,
+          "win_prob": 0.2250012889357983,
+          "opponent_name": "Christian Steen",
+          "opponent_score": 5,
+          "opponent_score_share": 0.38461538461538464,
+          "opponent_win_prob": 0.7749987110642017,
+          "is_winner": true,
+          "opponent_slug": "christian-steen",
+          "opponent_hist_score_share": 0.5038461538461538
+        },
+        {
+          "game_id": 330,
+          "year": 2019,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p1",
+          "name": "Mina Kheirkhah",
+          "score": 12,
+          "score_share": 0.6,
+          "win_prob": 0.4465817953676314,
+          "opponent_name": "Christian Steen",
+          "opponent_score": 8,
+          "opponent_score_share": 0.4,
+          "opponent_win_prob": 0.5534182046323686,
+          "is_winner": true,
+          "opponent_slug": "christian-steen",
+          "opponent_hist_score_share": 0.5038461538461538
+        },
+        {
+          "game_id": 344,
+          "year": 2019,
+          "stage": "\u00e5ttondelsfinal",
+          "stage_level": 2,
+          "winner": "p1",
+          "name": "Mina Kheirkhah",
+          "score": 3,
+          "score_share": 0.21428571428571427,
+          "win_prob": 0.243989375397074,
+          "opponent_name": "Estrid",
+          "opponent_score": 11,
+          "opponent_score_share": 0.7857142857142857,
+          "opponent_win_prob": 0.756010624602926,
+          "is_winner": false,
+          "opponent_slug": "estrid",
+          "opponent_hist_score_share": 0.6307361168816277
+        }
+      ],
       "n_games": 4,
       "n_wins": 3
     },
@@ -82,8 +217,97 @@
         "is_winner": false,
         "stage": "gruppspel"
       },
+      "games": [
+        {
+          "game_id": 401,
+          "year": 2020,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Mina Kheirkhah",
+          "score": 1,
+          "score_share": 0.1,
+          "win_prob": 0.7160978878071609,
+          "opponent_name": "Filippa Berencreutz",
+          "opponent_score": 9,
+          "opponent_score_share": 0.9,
+          "opponent_win_prob": 0.2839021121928391,
+          "is_winner": false,
+          "opponent_slug": "filippa-berencreutz",
+          "opponent_hist_score_share": 0.45041478129713425
+        },
+        {
+          "game_id": 370,
+          "year": 2020,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Mina Kheirkhah",
+          "score": 8,
+          "score_share": 0.47058823529411764,
+          "win_prob": 0.6656192053860999,
+          "opponent_name": "Johan Johnson",
+          "opponent_score": 9,
+          "opponent_score_share": 0.5294117647058824,
+          "opponent_win_prob": 0.33438079461390013,
+          "is_winner": false,
+          "opponent_slug": "johan-johnson",
+          "opponent_hist_score_share": 0.45725227591036416
+        }
+      ],
       "n_games": 2,
       "n_wins": 0
+    },
+    {
+      "year": 2021,
+      "last_game": {
+        "opponent_name": "Robin Linderborg",
+        "opponent_slug": "robin-linderborg",
+        "score": 4,
+        "opponent_score": 10,
+        "is_winner": false,
+        "stage": "sextondelsfinal"
+      },
+      "games": [
+        {
+          "game_id": 486,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Mina Kheirkhah",
+          "score": 9,
+          "score_share": 0.6428571428571429,
+          "win_prob": 0.17792968615319704,
+          "opponent_name": "Theodore Ripman",
+          "opponent_score": 5,
+          "opponent_score_share": 0.35714285714285715,
+          "opponent_win_prob": 0.822070313846803,
+          "is_winner": true,
+          "opponent_slug": "theodore-ripman",
+          "opponent_hist_score_share": 0.5584493013252412
+        },
+        {
+          "game_id": 525,
+          "year": 2021,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p2",
+          "name": "Mina Kheirkhah",
+          "score": 4,
+          "score_share": 0.2857142857142857,
+          "win_prob": 0.4932869132052341,
+          "opponent_name": "Robin Linderborg",
+          "opponent_score": 10,
+          "opponent_score_share": 0.7142857142857143,
+          "opponent_win_prob": 0.5067130867947659,
+          "is_winner": false,
+          "opponent_slug": "robin-linderborg",
+          "opponent_hist_score_share": 0.5582165616829482
+        }
+      ],
+      "n_games": 2,
+      "n_wins": 1
     }
   ],
   "best_stage": "\u00e5ttondelsfinal",

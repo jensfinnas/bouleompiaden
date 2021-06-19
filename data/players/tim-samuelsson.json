@@ -1,18 +1,19 @@
 {
-  "n_games": 4,
-  "score_share": 0.5314685314685315,
-  "n_wins": 2,
+  "n_games": 7,
+  "score_share": 0.550949050949051,
+  "n_wins": 4,
   "years": [
-    2020
+    2020,
+    2021
   ],
-  "win_rate": 0.5,
-  "opponent_score_share": 0.43959130942586827,
-  "skill": 127.56329269958013,
-  "skill_sigma": 52.54865134672043,
+  "win_rate": 0.5714285714285714,
+  "opponent_score_share": 0.47347579810882234,
+  "skill": 145.77025241259417,
+  "skill_sigma": 41.205106384025555,
   "name": "Tim Samuelsson",
   "slug": "tim-samuelsson",
-  "skill_rank": 46.0,
-  "skill_rank_pct": 46.0,
+  "skill_rank": 33.0,
+  "skill_rank_pct": 33.0,
   "skill_history": [
     [
       2011,
@@ -41,6 +42,10 @@
     [
       2020,
       128.0
+    ],
+    [
+      2021,
+      146.0
     ]
   ],
   "tournaments": [
@@ -54,7 +59,150 @@
         "is_winner": false,
         "stage": "\u00e5ttondelsfinal"
       },
+      "games": [
+        {
+          "game_id": 402,
+          "year": 2020,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Tim Samuelsson",
+          "score": 9,
+          "score_share": 0.8181818181818182,
+          "win_prob": 0.5049558442717784,
+          "opponent_name": "Linn Enhage",
+          "opponent_score": 2,
+          "opponent_score_share": 0.18181818181818182,
+          "opponent_win_prob": 0.4950441557282216,
+          "is_winner": true,
+          "opponent_slug": "linn-enhage",
+          "opponent_hist_score_share": 0.2980441862059509
+        },
+        {
+          "game_id": 374,
+          "year": 2020,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Tim Samuelsson",
+          "score": 4,
+          "score_share": 0.3076923076923077,
+          "win_prob": 0.2631401781668132,
+          "opponent_name": "Jens Hultkrans",
+          "opponent_score": 9,
+          "opponent_score_share": 0.6923076923076923,
+          "opponent_win_prob": 0.7368598218331868,
+          "is_winner": false,
+          "opponent_slug": "jens-hultkrans",
+          "opponent_hist_score_share": 0.5361535421278069
+        },
+        {
+          "game_id": 420,
+          "year": 2020,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p2",
+          "name": "Tim Samuelsson",
+          "score": 11,
+          "score_share": 0.6875,
+          "win_prob": 0.3612799888770264,
+          "opponent_name": "Caroline Edholm",
+          "opponent_score": 5,
+          "opponent_score_share": 0.3125,
+          "opponent_win_prob": 0.6387200111229736,
+          "is_winner": true,
+          "opponent_slug": "caroline-edholm",
+          "opponent_hist_score_share": 0.46428571428571425
+        },
+        {
+          "game_id": 436,
+          "year": 2020,
+          "stage": "\u00e5ttondelsfinal",
+          "stage_level": 2,
+          "winner": "p2",
+          "name": "Tim Samuelsson",
+          "score": 5,
+          "score_share": 0.3125,
+          "win_prob": 0.4432535633224018,
+          "opponent_name": "Jens Hultkrans",
+          "opponent_score": 11,
+          "opponent_score_share": 0.6875,
+          "opponent_win_prob": 0.5567464366775983,
+          "is_winner": false,
+          "opponent_slug": "jens-hultkrans",
+          "opponent_hist_score_share": 0.5361535421278069
+        }
+      ],
       "n_games": 4,
+      "n_wins": 2
+    },
+    {
+      "year": 2021,
+      "last_game": {
+        "opponent_name": "Erik Numan",
+        "opponent_slug": "erik-numan",
+        "score": 3,
+        "opponent_score": 10,
+        "is_winner": false,
+        "stage": "sextondelsfinal"
+      },
+      "games": [
+        {
+          "game_id": 483,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Tim Samuelsson",
+          "score": 9,
+          "score_share": 0.6,
+          "win_prob": 0.3967160851370237,
+          "opponent_name": "Alexander Starfelt",
+          "opponent_score": 6,
+          "opponent_score_share": 0.4,
+          "opponent_win_prob": 0.6032839148629763,
+          "is_winner": true,
+          "opponent_slug": "alexander-starfelt",
+          "opponent_hist_score_share": 0.5512412467133828
+        },
+        {
+          "game_id": 458,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Tim Samuelsson",
+          "score": 9,
+          "score_share": 0.9,
+          "win_prob": 0.5819248497875111,
+          "opponent_name": "Chris Lowe",
+          "opponent_score": 1,
+          "opponent_score_share": 0.1,
+          "opponent_win_prob": 0.41807515021248887,
+          "is_winner": true,
+          "opponent_slug": "chris-lowe",
+          "opponent_hist_score_share": 0.3945915032679739
+        },
+        {
+          "game_id": 526,
+          "year": 2021,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p2",
+          "name": "Tim Samuelsson",
+          "score": 3,
+          "score_share": 0.23076923076923078,
+          "win_prob": 0.6621333282080839,
+          "opponent_name": "Erik Numan",
+          "opponent_score": 10,
+          "opponent_score_share": 0.7692307692307693,
+          "opponent_win_prob": 0.3378666717919161,
+          "is_winner": false,
+          "opponent_slug": "erik-numan",
+          "opponent_hist_score_share": 0.533860852033121
+        }
+      ],
+      "n_games": 3,
       "n_wins": 2
     }
   ],

@@ -1,19 +1,20 @@
 {
-  "n_games": 5,
-  "score_share": 0.44282828282828285,
-  "n_wins": 2,
+  "n_games": 9,
+  "score_share": 0.43399440066106737,
+  "n_wins": 4,
   "years": [
     2017,
-    2019
+    2019,
+    2021
   ],
-  "win_rate": 0.4,
-  "opponent_score_share": 0.5067165093496694,
-  "skill": 75.48929270466625,
-  "skill_sigma": 49.13253019658764,
+  "win_rate": 0.4444444444444444,
+  "opponent_score_share": 0.49452566629517924,
+  "skill": 108.39327574018317,
+  "skill_sigma": 38.30214979966026,
   "name": "Johannes Birgersson",
   "slug": "johannes-birgersson",
-  "skill_rank": 78.0,
-  "skill_rank_pct": 78.0,
+  "skill_rank": 64.0,
+  "skill_rank_pct": 64.0,
   "skill_history": [
     [
       2011,
@@ -42,6 +43,10 @@
     [
       2020,
       null
+    ],
+    [
+      2021,
+      108.0
     ]
   ],
   "tournaments": [
@@ -55,6 +60,62 @@
         "is_winner": true,
         "stage": "gruppspel"
       },
+      "games": [
+        {
+          "game_id": 95,
+          "year": 2017,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Johannes Birgersson",
+          "score": 1,
+          "score_share": 0.1111111111111111,
+          "win_prob": 0.300548255097994,
+          "opponent_name": "Erik Nordenankar",
+          "opponent_score": 8,
+          "opponent_score_share": 0.8888888888888888,
+          "opponent_win_prob": 0.699451744902006,
+          "is_winner": false,
+          "opponent_slug": "erik-nordenankar",
+          "opponent_hist_score_share": 0.6925923706869999
+        },
+        {
+          "game_id": 121,
+          "year": 2017,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Johannes Birgersson",
+          "score": 8,
+          "score_share": 0.6666666666666666,
+          "win_prob": 0.45714821723544796,
+          "opponent_name": "Johan Ekman",
+          "opponent_score": 4,
+          "opponent_score_share": 0.3333333333333333,
+          "opponent_win_prob": 0.542851782764552,
+          "is_winner": true,
+          "opponent_slug": "johan-ekman",
+          "opponent_hist_score_share": 0.4664331538106048
+        },
+        {
+          "game_id": 116,
+          "year": 2017,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Johannes Birgersson",
+          "score": 7,
+          "score_share": 0.6363636363636364,
+          "win_prob": 0.5331693192865767,
+          "opponent_name": "Petter Hammarb\u00e4ck",
+          "opponent_score": 4,
+          "opponent_score_share": 0.36363636363636365,
+          "opponent_win_prob": 0.4668306807134233,
+          "is_winner": true,
+          "opponent_slug": "petter-hammarback",
+          "opponent_hist_score_share": 0.24431818181818182
+        }
+      ],
       "n_games": 3,
       "n_wins": 2
     },
@@ -68,13 +129,137 @@
         "is_winner": false,
         "stage": "gruppspel"
       },
+      "games": [
+        {
+          "game_id": 252,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Johannes Birgersson",
+          "score": 7,
+          "score_share": 0.4666666666666667,
+          "win_prob": 0.4078708262211328,
+          "opponent_name": "Jerker Karlsson",
+          "opponent_score": 8,
+          "opponent_score_share": 0.5333333333333333,
+          "opponent_win_prob": 0.5921291737788672,
+          "is_winner": false,
+          "opponent_slug": "jerker-karlsson",
+          "opponent_hist_score_share": 0.5206712624981856
+        },
+        {
+          "game_id": 298,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Johannes Birgersson",
+          "score": 4,
+          "score_share": 0.3333333333333333,
+          "win_prob": 0.7790236813517573,
+          "opponent_name": "Robeson",
+          "opponent_score": 8,
+          "opponent_score_share": 0.6666666666666666,
+          "opponent_win_prob": 0.22097631864824274,
+          "is_winner": false,
+          "opponent_slug": "robeson",
+          "opponent_hist_score_share": 0.5907463227674689
+        }
+      ],
       "n_games": 2,
       "n_wins": 0
+    },
+    {
+      "year": 2021,
+      "last_game": {
+        "opponent_name": "Olle Strandberg",
+        "opponent_slug": "olle-strandberg",
+        "score": 3,
+        "opponent_score": 10,
+        "is_winner": false,
+        "stage": "sextondelsfinal"
+      },
+      "games": [
+        {
+          "game_id": 478,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Johannes Birgersson",
+          "score": 0,
+          "score_share": 0.0,
+          "win_prob": 0.04965534494095036,
+          "opponent_name": "Gabriel Nordenankar",
+          "opponent_score": 9,
+          "opponent_score_share": 1.0,
+          "opponent_win_prob": 0.9503446550590496,
+          "is_winner": false,
+          "opponent_slug": "gabriel-nordenankar",
+          "opponent_hist_score_share": 0.6387546156727935
+        },
+        {
+          "game_id": 521,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Johannes Birgersson",
+          "score": 9,
+          "score_share": 0.6428571428571429,
+          "win_prob": 0.18658914575851893,
+          "opponent_name": "Robin Fogelberg",
+          "opponent_score": 5,
+          "opponent_score_share": 0.35714285714285715,
+          "opponent_win_prob": 0.8134108542414811,
+          "is_winner": true,
+          "opponent_slug": "robin-fogelberg",
+          "opponent_hist_score_share": 0.5474311979729937
+        },
+        {
+          "game_id": 509,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Johannes Birgersson",
+          "score": 9,
+          "score_share": 0.8181818181818182,
+          "win_prob": 0.7107797650344263,
+          "opponent_name": "Hasse Hallgren",
+          "opponent_score": 2,
+          "opponent_score_share": 0.18181818181818182,
+          "opponent_win_prob": 0.2892202349655737,
+          "is_winner": true,
+          "opponent_slug": "hasse-hallgren",
+          "opponent_hist_score_share": 0.12323232323232323
+        },
+        {
+          "game_id": 531,
+          "year": 2021,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p1",
+          "name": "Johannes Birgersson",
+          "score": 3,
+          "score_share": 0.23076923076923078,
+          "win_prob": 0.25137412587121855,
+          "opponent_name": "Olle Strandberg",
+          "opponent_score": 10,
+          "opponent_score_share": 0.7692307692307693,
+          "opponent_win_prob": 0.7486258741287815,
+          "is_winner": false,
+          "opponent_slug": "olle-strandberg",
+          "opponent_hist_score_share": 0.6265515681970623
+        }
+      ],
+      "n_games": 4,
+      "n_wins": 2
     }
   ],
-  "best_stage": "gruppspel",
+  "best_stage": "sextondelsfinal",
   "best_stage_years": [
-    2017,
-    2019
+    2021
   ]
 }

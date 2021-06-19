@@ -145,6 +145,22 @@
       "is_winner": true
     },
     {
+      "year": 2021,
+      "opponent": "Beata Harrysson",
+      "player_score": 9,
+      "opponent_score": 6,
+      "winner": "Alexander Starfelt",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Tim Samuelsson",
+      "player_score": 6,
+      "opponent_score": 9,
+      "winner": "Tim Samuelsson",
+      "is_winner": false
+    },
+    {
       "year": 2017,
       "opponent": "Robin Linderborg",
       "player_score": 2,
@@ -223,6 +239,40 @@
       "opponent_score": 11,
       "winner": "Pelle Dovborg",
       "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Robeson",
+      "player_score": 2,
+      "opponent_score": 10,
+      "winner": "Robeson",
+      "is_winner": false
+    }
+  ],
+  "Anders Kjell": [
+    {
+      "year": 2021,
+      "opponent": "Bj\u00f6rn Berglund",
+      "player_score": 3,
+      "opponent_score": 10,
+      "winner": "Bj\u00f6rn Berglund",
+      "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Richard Arnesson",
+      "player_score": 9,
+      "opponent_score": 6,
+      "winner": "Anders Kjell",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Patrik J\u00e4rg\u00e5rden",
+      "player_score": 0,
+      "opponent_score": 9,
+      "winner": "Patrik J\u00e4rg\u00e5rden",
+      "is_winner": false
     }
   ],
   "Andreas Josefson": [
@@ -251,6 +301,14 @@
       "is_winner": false
     },
     {
+      "year": 2021,
+      "opponent": "P\u00e4r D\u00e4lborg",
+      "player_score": 8,
+      "opponent_score": 9,
+      "winner": "P\u00e4r D\u00e4lborg",
+      "is_winner": false
+    },
+    {
       "year": 2011,
       "opponent": "Cissi Hellman",
       "player_score": 5,
@@ -265,6 +323,32 @@
       "opponent_score": 6,
       "winner": "Andreas Josefson",
       "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Pelle Dovborg",
+      "player_score": 5,
+      "opponent_score": 9,
+      "winner": "Pelle Dovborg",
+      "is_winner": false
+    }
+  ],
+  "Anna Malmqvist": [
+    {
+      "year": 2021,
+      "opponent": "Jonas Nygren",
+      "player_score": 3,
+      "opponent_score": 9,
+      "winner": "Jonas Nygren",
+      "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Lovisa Birgersson",
+      "player_score": 2,
+      "opponent_score": 9,
+      "winner": "Lovisa Birgersson",
+      "is_winner": false
     }
   ],
   "Beata Harrysson": [
@@ -282,6 +366,22 @@
       "player_score": 1,
       "opponent_score": 9,
       "winner": "Frida \u00d6hrn",
+      "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Chris Lowe",
+      "player_score": 7,
+      "opponent_score": 9,
+      "winner": "Chris Lowe",
+      "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Alexander Starfelt",
+      "player_score": 6,
+      "opponent_score": 9,
+      "winner": "Alexander Starfelt",
       "is_winner": false
     }
   ],
@@ -383,6 +483,46 @@
       "is_winner": true
     },
     {
+      "year": 2021,
+      "opponent": "Gustaf Berencreutz",
+      "player_score": 11,
+      "opponent_score": 0,
+      "winner": "Benjamin Ger. Hed.",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Patrik J\u00e4rg\u00e5rden",
+      "player_score": 9,
+      "opponent_score": 8,
+      "winner": "Benjamin Ger. Hed.",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Sofia \u00d6rning",
+      "player_score": 10,
+      "opponent_score": 5,
+      "winner": "Benjamin Ger. Hed.",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Jakob Gustafsson",
+      "player_score": 10,
+      "opponent_score": 3,
+      "winner": "Benjamin Ger. Hed.",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Gabriel Nordenankar",
+      "player_score": 4,
+      "opponent_score": 11,
+      "winner": "Gabriel Nordenankar",
+      "is_winner": false
+    },
+    {
       "year": 2017,
       "opponent": "Maria Adel\u00f6f",
       "player_score": 7,
@@ -465,6 +605,22 @@
       "is_winner": false
     },
     {
+      "year": 2021,
+      "opponent": "Anders Kjell",
+      "player_score": 10,
+      "opponent_score": 3,
+      "winner": "Bj\u00f6rn Berglund",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Chris Lowe",
+      "player_score": 8,
+      "opponent_score": 10,
+      "winner": "Chris Lowe",
+      "is_winner": false
+    },
+    {
       "year": 2018,
       "opponent": "Theodore Ripman",
       "player_score": 6,
@@ -519,6 +675,14 @@
       "opponent_score": 11,
       "winner": "Wille Laska",
       "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Robin Linderborg",
+      "player_score": 9,
+      "opponent_score": 0,
+      "winner": "Bj\u00f6rn Berglund",
+      "is_winner": true
     }
   ],
   "Bj\u00f6rn Westerfors": [
@@ -536,6 +700,48 @@
       "player_score": 4,
       "opponent_score": 7,
       "winner": "Jerker Karlsson",
+      "is_winner": false
+    }
+  ],
+  "Calle Buddee Roos": [
+    {
+      "year": 2021,
+      "opponent": "Sussie R\u00e5dis",
+      "player_score": 10,
+      "opponent_score": 4,
+      "winner": "Calle Buddee Roos",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Jerker Karlsson",
+      "player_score": 6,
+      "opponent_score": 9,
+      "winner": "Jerker Karlsson",
+      "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Joel Gustafsson",
+      "player_score": 9,
+      "opponent_score": 7,
+      "winner": "Calle Buddee Roos",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Johan Kjell",
+      "player_score": 10,
+      "opponent_score": 9,
+      "winner": "Calle Buddee Roos",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Robeson",
+      "player_score": 8,
+      "opponent_score": 11,
+      "winner": "Robeson",
       "is_winner": false
     }
   ],
@@ -581,6 +787,22 @@
       "opponent_score": 9,
       "winner": "Fredrik Berg",
       "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Kusha Bahrami",
+      "player_score": 9,
+      "opponent_score": 6,
+      "winner": "Carl Rother-Schirren",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Hannes Jordan",
+      "player_score": 10,
+      "opponent_score": 1,
+      "winner": "Carl Rother-Schirren",
+      "is_winner": true
     }
   ],
   "Caroline Edholm": [
@@ -709,6 +931,48 @@
       "opponent_score": 10,
       "winner": "Johan Kjell",
       "is_winner": false
+    }
+  ],
+  "Chris Lowe": [
+    {
+      "year": 2021,
+      "opponent": "Theodore Ripman",
+      "player_score": 2,
+      "opponent_score": 10,
+      "winner": "Theodore Ripman",
+      "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Tim Samuelsson",
+      "player_score": 1,
+      "opponent_score": 9,
+      "winner": "Tim Samuelsson",
+      "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Beata Harrysson",
+      "player_score": 9,
+      "opponent_score": 7,
+      "winner": "Chris Lowe",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Linn Enhage",
+      "player_score": 10,
+      "opponent_score": 7,
+      "winner": "Chris Lowe",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Bj\u00f6rn Berglund",
+      "player_score": 10,
+      "opponent_score": 8,
+      "winner": "Chris Lowe",
+      "is_winner": true
     }
   ],
   "Christian Steen": [
@@ -977,6 +1241,14 @@
       "is_winner": false
     },
     {
+      "year": 2021,
+      "opponent": "Sofia \u00d6rning",
+      "player_score": 3,
+      "opponent_score": 10,
+      "winner": "Sofia \u00d6rning",
+      "is_winner": false
+    },
+    {
       "year": 2018,
       "opponent": "Jens Hultkrans",
       "player_score": 8,
@@ -1014,6 +1286,14 @@
       "player_score": 0,
       "opponent_score": 8,
       "winner": "Micke Leyi",
+      "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Robeson",
+      "player_score": 4,
+      "opponent_score": 9,
+      "winner": "Robeson",
       "is_winner": false
     }
   ],
@@ -1115,6 +1395,30 @@
       "is_winner": true
     },
     {
+      "year": 2021,
+      "opponent": "Erik Numan",
+      "player_score": 9,
+      "opponent_score": 8,
+      "winner": "Edvin Lindsten",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Filippa Berencreutz",
+      "player_score": 8,
+      "opponent_score": 9,
+      "winner": "Filippa Berencreutz",
+      "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Hilda Dahlberg",
+      "player_score": 10,
+      "opponent_score": 6,
+      "winner": "Edvin Lindsten",
+      "is_winner": true
+    },
+    {
       "year": 2017,
       "opponent": "Karl S\u00f6derberg",
       "player_score": 7,
@@ -1193,6 +1497,14 @@
       "opponent_score": 13,
       "winner": "Pelle Dovborg",
       "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Gabriel Nordenankar",
+      "player_score": 6,
+      "opponent_score": 10,
+      "winner": "Gabriel Nordenankar",
+      "is_winner": false
     }
   ],
   "Emma Bergmark": [
@@ -1213,12 +1525,28 @@
       "is_winner": false
     },
     {
+      "year": 2021,
+      "opponent": "Filippa Berencreutz",
+      "player_score": 4,
+      "opponent_score": 9,
+      "winner": "Filippa Berencreutz",
+      "is_winner": false
+    },
+    {
       "year": 2020,
       "opponent": "Heiv Sarban",
       "player_score": 9,
       "opponent_score": 6,
       "winner": "Emma Bergmark",
       "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Erik Numan",
+      "player_score": 3,
+      "opponent_score": 10,
+      "winner": "Erik Numan",
+      "is_winner": false
     }
   ],
   "Emma Pettersson": [
@@ -1361,6 +1689,22 @@
       "is_winner": false
     },
     {
+      "year": 2021,
+      "opponent": "Micke Leyi",
+      "player_score": 6,
+      "opponent_score": 9,
+      "winner": "Micke Leyi",
+      "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Heiv Sarban",
+      "player_score": 9,
+      "opponent_score": 0,
+      "winner": "Erik Nordenankar",
+      "is_winner": true
+    },
+    {
       "year": 2011,
       "opponent": "Jakob Lien",
       "player_score": 6,
@@ -1487,6 +1831,46 @@
       "opponent_score": 6,
       "winner": "Erik Nordenankar",
       "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Johan Johnson",
+      "player_score": 9,
+      "opponent_score": 7,
+      "winner": "Erik Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Lovisa Birgersson",
+      "player_score": 10,
+      "opponent_score": 7,
+      "winner": "Erik Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Pelle Dovborg",
+      "player_score": 11,
+      "opponent_score": 0,
+      "winner": "Erik Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Robeson",
+      "player_score": 12,
+      "opponent_score": 6,
+      "winner": "Erik Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Gabriel Nordenankar",
+      "player_score": 13,
+      "opponent_score": 12,
+      "winner": "Erik Nordenankar",
+      "is_winner": true
     }
   ],
   "Erik Numan": [
@@ -1504,6 +1888,46 @@
       "player_score": 5,
       "opponent_score": 9,
       "winner": "Theodore Ripman",
+      "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Emma Bergmark",
+      "player_score": 10,
+      "opponent_score": 3,
+      "winner": "Erik Numan",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Edvin Lindsten",
+      "player_score": 8,
+      "opponent_score": 9,
+      "winner": "Edvin Lindsten",
+      "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Magnus Enlund",
+      "player_score": 9,
+      "opponent_score": 6,
+      "winner": "Erik Numan",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Tim Samuelsson",
+      "player_score": 10,
+      "opponent_score": 3,
+      "winner": "Erik Numan",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Robin Linderborg",
+      "player_score": 5,
+      "opponent_score": 10,
+      "winner": "Robin Linderborg",
       "is_winner": false
     }
   ],
@@ -1751,6 +2175,14 @@
       "is_winner": false
     },
     {
+      "year": 2021,
+      "opponent": "Theodore Ripman",
+      "player_score": 3,
+      "opponent_score": 10,
+      "winner": "Theodore Ripman",
+      "is_winner": false
+    },
+    {
       "year": 2020,
       "opponent": "Mina Kheirkhah",
       "player_score": 9,
@@ -1765,6 +2197,22 @@
       "opponent_score": 9,
       "winner": "Jon Jeppson",
       "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Emma Bergmark",
+      "player_score": 9,
+      "opponent_score": 4,
+      "winner": "Filippa Berencreutz",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Edvin Lindsten",
+      "player_score": 9,
+      "opponent_score": 8,
+      "winner": "Filippa Berencreutz",
+      "is_winner": true
     }
   ],
   "Fredrik Berg": [
@@ -1882,6 +2330,30 @@
       "player_score": 3,
       "opponent_score": 9,
       "winner": "Martyna",
+      "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Theodore Ripman",
+      "player_score": 2,
+      "opponent_score": 10,
+      "winner": "Theodore Ripman",
+      "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Johan Ekman",
+      "player_score": 9,
+      "opponent_score": 7,
+      "winner": "Frida \u00d6hrn",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Lovisa Birgersson",
+      "player_score": 4,
+      "opponent_score": 9,
+      "winner": "Lovisa Birgersson",
       "is_winner": false
     }
   ],
@@ -2007,6 +2479,46 @@
       "is_winner": false
     },
     {
+      "year": 2021,
+      "opponent": "Johannes Birgersson",
+      "player_score": 9,
+      "opponent_score": 0,
+      "winner": "Gabriel Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Jesper Kronholm",
+      "player_score": 9,
+      "opponent_score": 8,
+      "winner": "Gabriel Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Edvin Lindsten",
+      "player_score": 10,
+      "opponent_score": 6,
+      "winner": "Gabriel Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Jens Hultkrans",
+      "player_score": 10,
+      "opponent_score": 0,
+      "winner": "Gabriel Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Erik Nordenankar",
+      "player_score": 12,
+      "opponent_score": 13,
+      "winner": "Erik Nordenankar",
+      "is_winner": false
+    },
+    {
       "year": 2011,
       "opponent": "Cissi Hellman",
       "player_score": 7,
@@ -2109,6 +2621,48 @@
       "opponent_score": 9,
       "winner": "Emma Bergmark",
       "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Benjamin Ger. Hed.",
+      "player_score": 11,
+      "opponent_score": 4,
+      "winner": "Gabriel Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Theodore Ripman",
+      "player_score": 11,
+      "opponent_score": 3,
+      "winner": "Gabriel Nordenankar",
+      "is_winner": true
+    }
+  ],
+  "Gustaf Berencreutz": [
+    {
+      "year": 2021,
+      "opponent": "Johanna R\u00e5dstr\u00f6m",
+      "player_score": 12,
+      "opponent_score": 2,
+      "winner": "Gustaf Berencreutz",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Benjamin Ger. Hed.",
+      "player_score": 0,
+      "opponent_score": 11,
+      "winner": "Benjamin Ger. Hed.",
+      "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Robin Linderborg",
+      "player_score": 0,
+      "opponent_score": 10,
+      "winner": "Robin Linderborg",
+      "is_winner": false
     }
   ],
   "Gustaf Ekenstein": [
@@ -2168,6 +2722,22 @@
       "player_score": 7,
       "opponent_score": 9,
       "winner": "Theodore Ripman",
+      "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Sofia R\u00e5dstr\u00f6m",
+      "player_score": 9,
+      "opponent_score": 3,
+      "winner": "Hannes Jordan",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Carl Rother-Schirren",
+      "player_score": 1,
+      "opponent_score": 10,
+      "winner": "Carl Rother-Schirren",
       "is_winner": false
     },
     {
@@ -2233,6 +2803,14 @@
       "opponent_score": 11,
       "winner": "Niklas Solberg",
       "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Micke Leyi",
+      "player_score": 5,
+      "opponent_score": 10,
+      "winner": "Micke Leyi",
+      "is_winner": false
     }
   ],
   "Hasse Hallgren": [
@@ -2251,6 +2829,22 @@
       "opponent_score": 8,
       "winner": "Robin Linderborg",
       "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Jesper Kronholm",
+      "player_score": 0,
+      "opponent_score": 9,
+      "winner": "Jesper Kronholm",
+      "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Johannes Birgersson",
+      "player_score": 2,
+      "opponent_score": 9,
+      "winner": "Johannes Birgersson",
+      "is_winner": false
     }
   ],
   "Heiv Sarban": [
@@ -2268,6 +2862,22 @@
       "player_score": 3,
       "opponent_score": 9,
       "winner": "Bj\u00f6rn Berglund",
+      "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Joel Gustafsson",
+      "player_score": 8,
+      "opponent_score": 9,
+      "winner": "Joel Gustafsson",
+      "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Erik Nordenankar",
+      "player_score": 0,
+      "opponent_score": 9,
+      "winner": "Erik Nordenankar",
       "is_winner": false
     }
   ],
@@ -2303,6 +2913,32 @@
       "opponent_score": 5,
       "winner": "Henrik Blomkvist",
       "is_winner": true
+    }
+  ],
+  "Hilda Dahlberg": [
+    {
+      "year": 2021,
+      "opponent": "Ville Nordenankar",
+      "player_score": 9,
+      "opponent_score": 5,
+      "winner": "Hilda Dahlberg",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Johan Kjell",
+      "player_score": 4,
+      "opponent_score": 10,
+      "winner": "Johan Kjell",
+      "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Edvin Lindsten",
+      "player_score": 6,
+      "opponent_score": 10,
+      "winner": "Edvin Lindsten",
+      "is_winner": false
     }
   ],
   "Ida Wimmerman": [
@@ -2449,6 +3085,22 @@
       "is_winner": true
     },
     {
+      "year": 2021,
+      "opponent": "Jessica James",
+      "player_score": 9,
+      "opponent_score": 5,
+      "winner": "Jakob Gustafsson",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Kajsa Hallberg-Nor.",
+      "player_score": 10,
+      "opponent_score": 7,
+      "winner": "Jakob Gustafsson",
+      "is_winner": true
+    },
+    {
       "year": 2019,
       "opponent": "Fanny Kjellner",
       "player_score": 3,
@@ -2485,6 +3137,22 @@
       "opponent": "Benjamin Ger. Hed.",
       "player_score": 3,
       "opponent_score": 11,
+      "winner": "Benjamin Ger. Hed.",
+      "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Robin Fogelberg",
+      "player_score": 9,
+      "opponent_score": 3,
+      "winner": "Jakob Gustafsson",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Benjamin Ger. Hed.",
+      "player_score": 3,
+      "opponent_score": 10,
       "winner": "Benjamin Ger. Hed.",
       "is_winner": false
     }
@@ -2727,6 +3395,22 @@
       "is_winner": true
     },
     {
+      "year": 2021,
+      "opponent": "P\u00e4r D\u00e4lborg",
+      "player_score": 11,
+      "opponent_score": 5,
+      "winner": "Jens Finn\u00e4s",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Pelle Dovborg",
+      "player_score": 3,
+      "opponent_score": 10,
+      "winner": "Pelle Dovborg",
+      "is_winner": false
+    },
+    {
       "year": 2016,
       "opponent": "Lotta Harder",
       "player_score": 2,
@@ -2765,6 +3449,14 @@
       "opponent_score": 11,
       "winner": "Erik Nordenankar",
       "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Pelle Dovborg",
+      "player_score": 9,
+      "opponent_score": 7,
+      "winner": "Jens Finn\u00e4s",
+      "is_winner": true
     }
   ],
   "Jens Hultkrans": [
@@ -2815,6 +3507,30 @@
       "opponent_score": 9,
       "winner": "Caroline Edholm",
       "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "John Qvale",
+      "player_score": 10,
+      "opponent_score": 5,
+      "winner": "Jens Hultkrans",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Linn Enhage",
+      "player_score": 11,
+      "opponent_score": 4,
+      "winner": "Jens Hultkrans",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Julius Jorborg",
+      "player_score": 10,
+      "opponent_score": 2,
+      "winner": "Jens Hultkrans",
+      "is_winner": true
     },
     {
       "year": 2018,
@@ -2926,6 +3642,14 @@
       "player_score": 10,
       "opponent_score": 11,
       "winner": "Robeson",
+      "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Gabriel Nordenankar",
+      "player_score": 0,
+      "opponent_score": 10,
+      "winner": "Gabriel Nordenankar",
       "is_winner": false
     }
   ],
@@ -3050,6 +3774,30 @@
       "player_score": 7,
       "opponent_score": 11,
       "winner": "Pia T\u00f6rnkvist",
+      "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Calle Buddee Roos",
+      "player_score": 9,
+      "opponent_score": 6,
+      "winner": "Jerker Karlsson",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Johan Johnson",
+      "player_score": 9,
+      "opponent_score": 3,
+      "winner": "Jerker Karlsson",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Patrik J\u00e4rg\u00e5rden",
+      "player_score": 8,
+      "opponent_score": 10,
+      "winner": "Patrik J\u00e4rg\u00e5rden",
       "is_winner": false
     },
     {
@@ -3183,6 +3931,22 @@
       "is_winner": true
     },
     {
+      "year": 2021,
+      "opponent": "Hasse Hallgren",
+      "player_score": 9,
+      "opponent_score": 0,
+      "winner": "Jesper Kronholm",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Julius Jorborg",
+      "player_score": 4,
+      "opponent_score": 10,
+      "winner": "Julius Jorborg",
+      "is_winner": false
+    },
+    {
       "year": 2017,
       "opponent": "Theodore Ripman",
       "player_score": 7,
@@ -3228,6 +3992,32 @@
       "player_score": 6,
       "opponent_score": 10,
       "winner": "Pelle Dovborg",
+      "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Gabriel Nordenankar",
+      "player_score": 8,
+      "opponent_score": 9,
+      "winner": "Gabriel Nordenankar",
+      "is_winner": false
+    }
+  ],
+  "Jessica James": [
+    {
+      "year": 2021,
+      "opponent": "Jakob Gustafsson",
+      "player_score": 5,
+      "opponent_score": 9,
+      "winner": "Jakob Gustafsson",
+      "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Julius Jorborg",
+      "player_score": 3,
+      "opponent_score": 9,
+      "winner": "Julius Jorborg",
       "is_winner": false
     }
   ],
@@ -3281,6 +4071,32 @@
       "opponent_score": 3,
       "winner": "Joel Danell",
       "is_winner": true
+    }
+  ],
+  "Joel Gustafsson": [
+    {
+      "year": 2021,
+      "opponent": "Heiv Sarban",
+      "player_score": 9,
+      "opponent_score": 8,
+      "winner": "Joel Gustafsson",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Calle Buddee Roos",
+      "player_score": 7,
+      "opponent_score": 9,
+      "winner": "Calle Buddee Roos",
+      "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Micke Leyi",
+      "player_score": 4,
+      "opponent_score": 11,
+      "winner": "Micke Leyi",
+      "is_winner": false
     }
   ],
   "Johan Alm": [
@@ -3417,6 +4233,22 @@
       "is_winner": true
     },
     {
+      "year": 2021,
+      "opponent": "Jonas Nygren",
+      "player_score": 9,
+      "opponent_score": 8,
+      "winner": "Johan Ekman",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Frida \u00d6hrn",
+      "player_score": 7,
+      "opponent_score": 9,
+      "winner": "Frida \u00d6hrn",
+      "is_winner": false
+    },
+    {
       "year": 2012,
       "opponent": "Agnes Lind",
       "player_score": 7,
@@ -3463,6 +4295,14 @@
       "opponent_score": 10,
       "winner": "Gabriel Nordenankar",
       "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Lovisa Birgersson",
+      "player_score": 0,
+      "opponent_score": 9,
+      "winner": "Lovisa Birgersson",
+      "is_winner": false
     }
   ],
   "Johan Johnson": [
@@ -3491,6 +4331,22 @@
       "is_winner": true
     },
     {
+      "year": 2021,
+      "opponent": "Sussie R\u00e5dis",
+      "player_score": 9,
+      "opponent_score": 5,
+      "winner": "Johan Johnson",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Erik Nordenankar",
+      "player_score": 7,
+      "opponent_score": 9,
+      "winner": "Erik Nordenankar",
+      "is_winner": false
+    },
+    {
       "year": 2020,
       "opponent": "Lovisa Birgersson",
       "player_score": 11,
@@ -3504,6 +4360,14 @@
       "player_score": 2,
       "opponent_score": 13,
       "winner": "Pelle Dovborg",
+      "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Jerker Karlsson",
+      "player_score": 3,
+      "opponent_score": 9,
+      "winner": "Jerker Karlsson",
       "is_winner": false
     }
   ],
@@ -3539,6 +4403,30 @@
       "opponent_score": 8,
       "winner": "Johan Kjell",
       "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Hilda Dahlberg",
+      "player_score": 10,
+      "opponent_score": 4,
+      "winner": "Johan Kjell",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Magnus Enlund",
+      "player_score": 9,
+      "opponent_score": 3,
+      "winner": "Johan Kjell",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Calle Buddee Roos",
+      "player_score": 9,
+      "opponent_score": 10,
+      "winner": "Calle Buddee Roos",
+      "is_winner": false
     },
     {
       "year": 2012,
@@ -3701,6 +4589,22 @@
       "opponent_score": 8,
       "winner": "Robin Fogelberg",
       "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Patrik J\u00e4rg\u00e5rden",
+      "player_score": 7,
+      "opponent_score": 9,
+      "winner": "Patrik J\u00e4rg\u00e5rden",
+      "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Gustaf Berencreutz",
+      "player_score": 2,
+      "opponent_score": 12,
+      "winner": "Gustaf Berencreutz",
+      "is_winner": false
     }
   ],
   "Johannes Birgersson": [
@@ -3711,6 +4615,14 @@
       "opponent_score": 8,
       "winner": "Robeson",
       "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Hasse Hallgren",
+      "player_score": 9,
+      "opponent_score": 2,
+      "winner": "Johannes Birgersson",
+      "is_winner": true
     },
     {
       "year": 2017,
@@ -3742,6 +4654,30 @@
       "player_score": 7,
       "opponent_score": 8,
       "winner": "Jerker Karlsson",
+      "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Gabriel Nordenankar",
+      "player_score": 0,
+      "opponent_score": 9,
+      "winner": "Gabriel Nordenankar",
+      "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Robin Fogelberg",
+      "player_score": 9,
+      "opponent_score": 5,
+      "winner": "Johannes Birgersson",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Olle Strandberg",
+      "player_score": 3,
+      "opponent_score": 10,
+      "winner": "Olle Strandberg",
       "is_winner": false
     }
   ],
@@ -3789,6 +4725,14 @@
       "is_winner": false
     },
     {
+      "year": 2021,
+      "opponent": "Klara Lundin",
+      "player_score": 3,
+      "opponent_score": 10,
+      "winner": "Klara Lundin",
+      "is_winner": false
+    },
+    {
       "year": 2016,
       "opponent": "Lotta Harder",
       "player_score": 1,
@@ -3818,6 +4762,14 @@
       "player_score": 5,
       "opponent_score": 8,
       "winner": "Edvin Lindsten",
+      "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Jens Hultkrans",
+      "player_score": 5,
+      "opponent_score": 10,
+      "winner": "Jens Hultkrans",
       "is_winner": false
     }
   ],
@@ -3861,6 +4813,32 @@
       "opponent_score": 0,
       "winner": "Jon Jeppson",
       "is_winner": true
+    }
+  ],
+  "Jonas Nygren": [
+    {
+      "year": 2021,
+      "opponent": "Johan Ekman",
+      "player_score": 8,
+      "opponent_score": 9,
+      "winner": "Johan Ekman",
+      "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Anna Malmqvist",
+      "player_score": 9,
+      "opponent_score": 3,
+      "winner": "Jonas Nygren",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Theodore Ripman",
+      "player_score": 5,
+      "opponent_score": 10,
+      "winner": "Theodore Ripman",
+      "is_winner": false
     }
   ],
   "Josefin Asplund": [
@@ -3971,6 +4949,14 @@
       "is_winner": true
     },
     {
+      "year": 2021,
+      "opponent": "Jessica James",
+      "player_score": 9,
+      "opponent_score": 3,
+      "winner": "Julius Jorborg",
+      "is_winner": true
+    },
+    {
       "year": 2018,
       "opponent": "Ville Nordenankar",
       "player_score": 2,
@@ -4000,6 +4986,30 @@
       "player_score": 8,
       "opponent_score": 10,
       "winner": "Robin Fogelberg",
+      "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Robin Fogelberg",
+      "player_score": 2,
+      "opponent_score": 10,
+      "winner": "Robin Fogelberg",
+      "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Jesper Kronholm",
+      "player_score": 10,
+      "opponent_score": 4,
+      "winner": "Julius Jorborg",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Jens Hultkrans",
+      "player_score": 2,
+      "opponent_score": 10,
+      "winner": "Jens Hultkrans",
       "is_winner": false
     }
   ],
@@ -4066,6 +5076,30 @@
       "player_score": 2,
       "opponent_score": 9,
       "winner": "Kusha Bahrami",
+      "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Sofia \u00d6rning",
+      "player_score": 9,
+      "opponent_score": 3,
+      "winner": "Kajsa Hallberg-Nor.",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Robeson",
+      "player_score": 5,
+      "opponent_score": 10,
+      "winner": "Robeson",
+      "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Jakob Gustafsson",
+      "player_score": 7,
+      "opponent_score": 10,
+      "winner": "Jakob Gustafsson",
       "is_winner": false
     }
   ],
@@ -4149,6 +5183,24 @@
       "is_winner": false
     }
   ],
+  "Klara Lundin": [
+    {
+      "year": 2021,
+      "opponent": "Linn Enhage",
+      "player_score": 5,
+      "opponent_score": 11,
+      "winner": "Linn Enhage",
+      "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "John Qvale",
+      "player_score": 10,
+      "opponent_score": 3,
+      "winner": "Klara Lundin",
+      "is_winner": true
+    }
+  ],
   "Kusha Bahrami": [
     {
       "year": 2018,
@@ -4180,6 +5232,14 @@
       "player_score": 1,
       "opponent_score": 10,
       "winner": "Benjamin Ger. Hed.",
+      "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Carl Rother-Schirren",
+      "player_score": 6,
+      "opponent_score": 9,
+      "winner": "Carl Rother-Schirren",
       "is_winner": false
     },
     {
@@ -4221,6 +5281,22 @@
       "opponent_score": 7,
       "winner": "Kusha Bahrami",
       "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Sofia R\u00e5dstr\u00f6m",
+      "player_score": 9,
+      "opponent_score": 3,
+      "winner": "Kusha Bahrami",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Pelle Dovborg",
+      "player_score": 1,
+      "opponent_score": 9,
+      "winner": "Pelle Dovborg",
+      "is_winner": false
     }
   ],
   "Lars T\u00f6rnkvist": [
@@ -4367,6 +5443,14 @@
       "is_winner": false
     },
     {
+      "year": 2021,
+      "opponent": "Chris Lowe",
+      "player_score": 7,
+      "opponent_score": 10,
+      "winner": "Chris Lowe",
+      "is_winner": false
+    },
+    {
       "year": 2016,
       "opponent": "Bj\u00f6rn Westerfors",
       "player_score": 4,
@@ -4381,6 +5465,22 @@
       "opponent_score": 4,
       "winner": "Linn Enhage",
       "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Klara Lundin",
+      "player_score": 11,
+      "opponent_score": 5,
+      "winner": "Linn Enhage",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Jens Hultkrans",
+      "player_score": 4,
+      "opponent_score": 11,
+      "winner": "Jens Hultkrans",
+      "is_winner": false
     }
   ],
   "Linnea Karlsson": [
@@ -4803,6 +5903,38 @@
       "is_winner": false
     },
     {
+      "year": 2021,
+      "opponent": "Anna Malmqvist",
+      "player_score": 9,
+      "opponent_score": 2,
+      "winner": "Lovisa Birgersson",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Johan Ekman",
+      "player_score": 9,
+      "opponent_score": 0,
+      "winner": "Lovisa Birgersson",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Frida \u00d6hrn",
+      "player_score": 9,
+      "opponent_score": 4,
+      "winner": "Lovisa Birgersson",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Erik Nordenankar",
+      "player_score": 7,
+      "opponent_score": 10,
+      "winner": "Erik Nordenankar",
+      "is_winner": false
+    },
+    {
       "year": 2017,
       "opponent": "Theodore Ripman",
       "player_score": 5,
@@ -4861,6 +5993,14 @@
       "is_winner": false
     },
     {
+      "year": 2021,
+      "opponent": "Erik Numan",
+      "player_score": 6,
+      "opponent_score": 9,
+      "winner": "Erik Numan",
+      "is_winner": false
+    },
+    {
       "year": 2019,
       "opponent": "Robeson",
       "player_score": 8,
@@ -4875,6 +6015,22 @@
       "opponent_score": 3,
       "winner": "Magnus Enlund",
       "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Ville Nordenankar",
+      "player_score": 9,
+      "opponent_score": 0,
+      "winner": "Magnus Enlund",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Johan Kjell",
+      "player_score": 3,
+      "opponent_score": 9,
+      "winner": "Johan Kjell",
+      "is_winner": false
     }
   ],
   "Maria Adel\u00f6f": [
@@ -5079,6 +6235,22 @@
       "is_winner": false
     },
     {
+      "year": 2021,
+      "opponent": "Joel Gustafsson",
+      "player_score": 11,
+      "opponent_score": 4,
+      "winner": "Micke Leyi",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Hannes Jordan",
+      "player_score": 10,
+      "opponent_score": 5,
+      "winner": "Micke Leyi",
+      "is_winner": true
+    },
+    {
       "year": 2019,
       "opponent": "Hannes Jordan",
       "player_score": 8,
@@ -5101,6 +6273,14 @@
       "opponent_score": 10,
       "winner": "Theodore Ripman",
       "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Erik Nordenankar",
+      "player_score": 9,
+      "opponent_score": 6,
+      "winner": "Micke Leyi",
+      "is_winner": true
     }
   ],
   "Mina Kheirkhah": [
@@ -5126,6 +6306,14 @@
       "player_score": 1,
       "opponent_score": 9,
       "winner": "Filippa Berencreutz",
+      "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Robin Linderborg",
+      "player_score": 4,
+      "opponent_score": 10,
+      "winner": "Robin Linderborg",
       "is_winner": false
     },
     {
@@ -5175,6 +6363,14 @@
       "opponent_score": 9,
       "winner": "Johan Johnson",
       "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Theodore Ripman",
+      "player_score": 9,
+      "opponent_score": 5,
+      "winner": "Mina Kheirkhah",
+      "is_winner": true
     }
   ],
   "Monica Harder": [
@@ -5525,6 +6721,38 @@
       "is_winner": false
     },
     {
+      "year": 2021,
+      "opponent": "Sophie Hinks",
+      "player_score": 9,
+      "opponent_score": 3,
+      "winner": "Olle Strandberg",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Johannes Birgersson",
+      "player_score": 10,
+      "opponent_score": 3,
+      "winner": "Olle Strandberg",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Patrik J\u00e4rg\u00e5rden",
+      "player_score": 10,
+      "opponent_score": 5,
+      "winner": "Olle Strandberg",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Robeson",
+      "player_score": 5,
+      "opponent_score": 11,
+      "winner": "Robeson",
+      "is_winner": false
+    },
+    {
       "year": 2018,
       "opponent": "Sofia R\u00e5dstr\u00f6m",
       "player_score": 7,
@@ -5633,6 +6861,22 @@
       "is_winner": false
     },
     {
+      "year": 2021,
+      "opponent": "Johanna R\u00e5dstr\u00f6m",
+      "player_score": 9,
+      "opponent_score": 7,
+      "winner": "Patrik J\u00e4rg\u00e5rden",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Anders Kjell",
+      "player_score": 9,
+      "opponent_score": 0,
+      "winner": "Patrik J\u00e4rg\u00e5rden",
+      "is_winner": true
+    },
+    {
       "year": 2012,
       "opponent": "Joel Danell",
       "player_score": 7,
@@ -5655,6 +6899,30 @@
       "opponent_score": 3,
       "winner": "Patrik J\u00e4rg\u00e5rden",
       "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Benjamin Ger. Hed.",
+      "player_score": 8,
+      "opponent_score": 9,
+      "winner": "Benjamin Ger. Hed.",
+      "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Jerker Karlsson",
+      "player_score": 10,
+      "opponent_score": 8,
+      "winner": "Patrik J\u00e4rg\u00e5rden",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Olle Strandberg",
+      "player_score": 5,
+      "opponent_score": 10,
+      "winner": "Olle Strandberg",
+      "is_winner": false
     }
   ],
   "Pelle Dovborg": [
@@ -5755,6 +7023,38 @@
       "is_winner": true
     },
     {
+      "year": 2021,
+      "opponent": "Andreas Josefson",
+      "player_score": 9,
+      "opponent_score": 5,
+      "winner": "Pelle Dovborg",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Jens Finn\u00e4s",
+      "player_score": 7,
+      "opponent_score": 9,
+      "winner": "Jens Finn\u00e4s",
+      "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Kusha Bahrami",
+      "player_score": 9,
+      "opponent_score": 1,
+      "winner": "Pelle Dovborg",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Erik Nordenankar",
+      "player_score": 0,
+      "opponent_score": 11,
+      "winner": "Erik Nordenankar",
+      "is_winner": false
+    },
+    {
       "year": 2016,
       "opponent": "Johan Ekman",
       "player_score": 1,
@@ -5825,6 +7125,14 @@
       "opponent_score": 13,
       "winner": "Olle Strandberg",
       "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Jens Finn\u00e4s",
+      "player_score": 10,
+      "opponent_score": 3,
+      "winner": "Pelle Dovborg",
+      "is_winner": true
     }
   ],
   "Petter Hammarb\u00e4ck": [
@@ -5919,6 +7227,42 @@
       "opponent_score": 7,
       "winner": "Pia T\u00f6rnkvist",
       "is_winner": true
+    }
+  ],
+  "P\u00e4r D\u00e4lborg": [
+    {
+      "year": 2021,
+      "opponent": "Jens Finn\u00e4s",
+      "player_score": 5,
+      "opponent_score": 11,
+      "winner": "Jens Finn\u00e4s",
+      "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Andreas Josefson",
+      "player_score": 9,
+      "opponent_score": 8,
+      "winner": "P\u00e4r D\u00e4lborg",
+      "is_winner": true
+    }
+  ],
+  "Richard Arnesson": [
+    {
+      "year": 2021,
+      "opponent": "Anders Kjell",
+      "player_score": 6,
+      "opponent_score": 9,
+      "winner": "Anders Kjell",
+      "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Robin Linderborg",
+      "player_score": 8,
+      "opponent_score": 9,
+      "winner": "Robin Linderborg",
+      "is_winner": false
     }
   ],
   "Richard Ekman": [
@@ -6109,6 +7453,46 @@
       "is_winner": true
     },
     {
+      "year": 2021,
+      "opponent": "Edith S\u00f6derstr\u00f6m",
+      "player_score": 9,
+      "opponent_score": 4,
+      "winner": "Robeson",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Kajsa Hallberg-Nor.",
+      "player_score": 10,
+      "opponent_score": 5,
+      "winner": "Robeson",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Alexander Starfelt",
+      "player_score": 10,
+      "opponent_score": 2,
+      "winner": "Robeson",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Calle Buddee Roos",
+      "player_score": 11,
+      "opponent_score": 8,
+      "winner": "Robeson",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Erik Nordenankar",
+      "player_score": 6,
+      "opponent_score": 12,
+      "winner": "Erik Nordenankar",
+      "is_winner": false
+    },
+    {
       "year": 2019,
       "opponent": "Johannes Birgersson",
       "player_score": 8,
@@ -6195,6 +7579,22 @@
       "opponent_score": 10,
       "winner": "Robeson",
       "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Olle Strandberg",
+      "player_score": 11,
+      "opponent_score": 5,
+      "winner": "Robeson",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Theodore Ripman",
+      "player_score": 9,
+      "opponent_score": 13,
+      "winner": "Theodore Ripman",
+      "is_winner": false
     }
   ],
   "Robin Fogelberg": [
@@ -6276,6 +7676,30 @@
       "player_score": 9,
       "opponent_score": 11,
       "winner": "Hannes Jordan",
+      "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Julius Jorborg",
+      "player_score": 10,
+      "opponent_score": 2,
+      "winner": "Robin Fogelberg",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Jakob Gustafsson",
+      "player_score": 3,
+      "opponent_score": 9,
+      "winner": "Jakob Gustafsson",
+      "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Johannes Birgersson",
+      "player_score": 5,
+      "opponent_score": 9,
+      "winner": "Johannes Birgersson",
       "is_winner": false
     },
     {
@@ -6409,6 +7833,38 @@
       "is_winner": false
     },
     {
+      "year": 2021,
+      "opponent": "Richard Arnesson",
+      "player_score": 9,
+      "opponent_score": 8,
+      "winner": "Robin Linderborg",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Bj\u00f6rn Berglund",
+      "player_score": 0,
+      "opponent_score": 9,
+      "winner": "Bj\u00f6rn Berglund",
+      "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Gustaf Berencreutz",
+      "player_score": 10,
+      "opponent_score": 0,
+      "winner": "Robin Linderborg",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Erik Numan",
+      "player_score": 10,
+      "opponent_score": 5,
+      "winner": "Robin Linderborg",
+      "is_winner": true
+    },
+    {
       "year": 2017,
       "opponent": "Love Andr\u00e9asson",
       "player_score": 3,
@@ -6447,6 +7903,22 @@
       "opponent_score": 5,
       "winner": "Robin Linderborg",
       "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Mina Kheirkhah",
+      "player_score": 10,
+      "opponent_score": 4,
+      "winner": "Robin Linderborg",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Theodore Ripman",
+      "player_score": 9,
+      "opponent_score": 12,
+      "winner": "Theodore Ripman",
+      "is_winner": false
     }
   ],
   "Sandra Starfelt": [
@@ -6729,6 +8201,14 @@
       "is_winner": false
     },
     {
+      "year": 2021,
+      "opponent": "Kusha Bahrami",
+      "player_score": 3,
+      "opponent_score": 9,
+      "winner": "Kusha Bahrami",
+      "is_winner": false
+    },
+    {
       "year": 2011,
       "opponent": "Jakob Lien",
       "player_score": 2,
@@ -6767,6 +8247,14 @@
       "opponent_score": 7,
       "winner": "Sofia R\u00e5dstr\u00f6m",
       "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Hannes Jordan",
+      "player_score": 3,
+      "opponent_score": 9,
+      "winner": "Hannes Jordan",
+      "is_winner": false
     }
   ],
   "Sofia S\u00f6derberg": [
@@ -6845,6 +8333,14 @@
       "is_winner": false
     },
     {
+      "year": 2021,
+      "opponent": "Kajsa Hallberg-Nor.",
+      "player_score": 3,
+      "opponent_score": 9,
+      "winner": "Kajsa Hallberg-Nor.",
+      "is_winner": false
+    },
+    {
       "year": 2017,
       "opponent": "Love Andr\u00e9asson",
       "player_score": 1,
@@ -6883,6 +8379,48 @@
       "opponent_score": 5,
       "winner": "Sofia \u00d6rning",
       "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Edith S\u00f6derstr\u00f6m",
+      "player_score": 10,
+      "opponent_score": 3,
+      "winner": "Sofia \u00d6rning",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Sophie Hinks",
+      "player_score": 9,
+      "opponent_score": 5,
+      "winner": "Sofia \u00d6rning",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Benjamin Ger. Hed.",
+      "player_score": 5,
+      "opponent_score": 10,
+      "winner": "Benjamin Ger. Hed.",
+      "is_winner": false
+    }
+  ],
+  "Sophie Hinks": [
+    {
+      "year": 2021,
+      "opponent": "Sofia \u00d6rning",
+      "player_score": 5,
+      "opponent_score": 9,
+      "winner": "Sofia \u00d6rning",
+      "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Olle Strandberg",
+      "player_score": 3,
+      "opponent_score": 9,
+      "winner": "Olle Strandberg",
+      "is_winner": false
     }
   ],
   "Sussie R\u00e5dis": [
@@ -6932,6 +8470,22 @@
       "player_score": 4,
       "opponent_score": 8,
       "winner": "Jens Hultkrans",
+      "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Johan Johnson",
+      "player_score": 5,
+      "opponent_score": 9,
+      "winner": "Johan Johnson",
+      "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Calle Buddee Roos",
+      "player_score": 4,
+      "opponent_score": 10,
+      "winner": "Calle Buddee Roos",
       "is_winner": false
     }
   ],
@@ -7073,6 +8627,54 @@
       "is_winner": true
     },
     {
+      "year": 2021,
+      "opponent": "Frida \u00d6hrn",
+      "player_score": 10,
+      "opponent_score": 2,
+      "winner": "Theodore Ripman",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Mina Kheirkhah",
+      "player_score": 5,
+      "opponent_score": 9,
+      "winner": "Mina Kheirkhah",
+      "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Jonas Nygren",
+      "player_score": 10,
+      "opponent_score": 5,
+      "winner": "Theodore Ripman",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Robin Linderborg",
+      "player_score": 12,
+      "opponent_score": 9,
+      "winner": "Theodore Ripman",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Gabriel Nordenankar",
+      "player_score": 3,
+      "opponent_score": 11,
+      "winner": "Gabriel Nordenankar",
+      "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Robeson",
+      "player_score": 13,
+      "opponent_score": 9,
+      "winner": "Theodore Ripman",
+      "is_winner": true
+    },
+    {
       "year": 2012,
       "opponent": "Cissi Hellman",
       "player_score": 3,
@@ -7151,6 +8753,22 @@
       "opponent_score": 11,
       "winner": "Niklas Solberg",
       "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Filippa Berencreutz",
+      "player_score": 10,
+      "opponent_score": 3,
+      "winner": "Theodore Ripman",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Chris Lowe",
+      "player_score": 10,
+      "opponent_score": 2,
+      "winner": "Theodore Ripman",
+      "is_winner": true
     }
   ],
   "Tim Samuelsson": [
@@ -7171,6 +8789,22 @@
       "is_winner": false
     },
     {
+      "year": 2021,
+      "opponent": "Chris Lowe",
+      "player_score": 9,
+      "opponent_score": 1,
+      "winner": "Tim Samuelsson",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Erik Numan",
+      "player_score": 3,
+      "opponent_score": 10,
+      "winner": "Erik Numan",
+      "is_winner": false
+    },
+    {
       "year": 2020,
       "opponent": "Linn Enhage",
       "player_score": 9,
@@ -7183,6 +8817,14 @@
       "opponent": "Caroline Edholm",
       "player_score": 11,
       "opponent_score": 5,
+      "winner": "Tim Samuelsson",
+      "is_winner": true
+    },
+    {
+      "year": 2021,
+      "opponent": "Alexander Starfelt",
+      "player_score": 9,
+      "opponent_score": 6,
       "winner": "Tim Samuelsson",
       "is_winner": true
     }
@@ -7331,6 +8973,14 @@
       "is_winner": false
     },
     {
+      "year": 2021,
+      "opponent": "Magnus Enlund",
+      "player_score": 0,
+      "opponent_score": 9,
+      "winner": "Magnus Enlund",
+      "is_winner": false
+    },
+    {
       "year": 2017,
       "opponent": "Johan Kjell",
       "player_score": 7,
@@ -7376,6 +9026,14 @@
       "player_score": 3,
       "opponent_score": 9,
       "winner": "Pia T\u00f6rnkvist",
+      "is_winner": false
+    },
+    {
+      "year": 2021,
+      "opponent": "Hilda Dahlberg",
+      "player_score": 5,
+      "opponent_score": 9,
+      "winner": "Hilda Dahlberg",
       "is_winner": false
     }
   ],

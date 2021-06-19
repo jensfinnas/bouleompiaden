@@ -6,13 +6,13 @@
     2017
   ],
   "win_rate": 0.0,
-  "opponent_score_share": 0.5246096471363852,
+  "opponent_score_share": 0.5181882199416137,
   "skill": 11.955722334895187,
   "skill_sigma": 75.85733345455203,
   "name": "Karl S\u00f6derberg",
   "slug": "karl-soderberg",
-  "skill_rank": 110.0,
-  "skill_rank_pct": 110.0,
+  "skill_rank": 119.0,
+  "skill_rank_pct": 119.0,
   "skill_history": [
     [
       2011,
@@ -41,6 +41,10 @@
     [
       2020,
       null
+    ],
+    [
+      2021,
+      null
     ]
   ],
   "tournaments": [
@@ -54,6 +58,44 @@
         "is_winner": false,
         "stage": "gruppspel"
       },
+      "games": [
+        {
+          "game_id": 114,
+          "year": 2017,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Karl S\u00f6derberg",
+          "score": 1,
+          "score_share": 0.125,
+          "win_prob": 0.4427904703665815,
+          "opponent_name": "Simon Rosendahl",
+          "opponent_score": 7,
+          "opponent_score_share": 0.875,
+          "opponent_win_prob": 0.5572095296334185,
+          "is_winner": false,
+          "opponent_slug": "simon-rosendahl",
+          "opponent_hist_score_share": 0.4657407407407408
+        },
+        {
+          "game_id": 91,
+          "year": 2017,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Karl S\u00f6derberg",
+          "score": 2,
+          "score_share": 0.2222222222222222,
+          "win_prob": 0.5000000150000002,
+          "opponent_name": "Edvin Lindsten",
+          "opponent_score": 7,
+          "opponent_score_share": 0.7777777777777778,
+          "opponent_win_prob": 0.49999998499999976,
+          "is_winner": false,
+          "opponent_slug": "edvin-lindsten",
+          "opponent_hist_score_share": 0.5706356991424866
+        }
+      ],
       "n_games": 2,
       "n_wins": 0
     }

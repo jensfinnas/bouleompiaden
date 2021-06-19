@@ -1,21 +1,22 @@
 {
-  "n_games": 8,
-  "score_share": 0.1928880147630148,
-  "n_wins": 0,
+  "n_games": 11,
+  "score_share": 0.2762001961199822,
+  "n_wins": 1,
   "years": [
     2017,
     2018,
     2019,
-    2020
+    2020,
+    2021
   ],
-  "win_rate": 0.0,
-  "opponent_score_share": 0.5143499157262944,
-  "skill": -42.309553351753706,
-  "skill_sigma": 54.38920117932993,
+  "win_rate": 0.09090909090909091,
+  "opponent_score_share": 0.4996013205616096,
+  "skill": -1.8404668442480279,
+  "skill_sigma": 45.38274334920831,
   "name": "Kajsa Hallberg-Nor.",
   "slug": "kajsa-hallberg-nor",
-  "skill_rank": 128.0,
-  "skill_rank_pct": 128.0,
+  "skill_rank": 129.0,
+  "skill_rank_pct": 129.0,
   "skill_history": [
     [
       2011,
@@ -44,6 +45,10 @@
     [
       2020,
       -42.0
+    ],
+    [
+      2021,
+      -2.0
     ]
   ],
   "tournaments": [
@@ -57,6 +62,44 @@
         "is_winner": false,
         "stage": "gruppspel"
       },
+      "games": [
+        {
+          "game_id": 99,
+          "year": 2017,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Kajsa Hallberg-Nor.",
+          "score": 3,
+          "score_share": 0.3,
+          "win_prob": 0.5000000150000002,
+          "opponent_name": "Mathilda Hansson",
+          "opponent_score": 7,
+          "opponent_score_share": 0.7,
+          "opponent_win_prob": 0.49999998499999976,
+          "is_winner": false,
+          "opponent_slug": "mathilda-hansson",
+          "opponent_hist_score_share": 0.44249639249639244
+        },
+        {
+          "game_id": 118,
+          "year": 2017,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Kajsa Hallberg-Nor.",
+          "score": 6,
+          "score_share": 0.46153846153846156,
+          "win_prob": 0.411819051868066,
+          "opponent_name": "Maria Adel\u00f6f",
+          "opponent_score": 7,
+          "opponent_score_share": 0.5384615384615384,
+          "opponent_win_prob": 0.588180948131934,
+          "is_winner": false,
+          "opponent_slug": "maria-adelof",
+          "opponent_hist_score_share": 0.4079487179487179
+        }
+      ],
       "n_games": 2,
       "n_wins": 0
     },
@@ -70,6 +113,44 @@
         "is_winner": false,
         "stage": "gruppspel"
       },
+      "games": [
+        {
+          "game_id": 193,
+          "year": 2018,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Kajsa Hallberg-Nor.",
+          "score": 1,
+          "score_share": 0.1111111111111111,
+          "win_prob": 0.09993756702306533,
+          "opponent_name": "Jesper Kronholm",
+          "opponent_score": 8,
+          "opponent_score_share": 0.8888888888888888,
+          "opponent_win_prob": 0.9000624329769347,
+          "is_winner": false,
+          "opponent_slug": "jesper-kronholm",
+          "opponent_hist_score_share": 0.5928684605155193
+        },
+        {
+          "game_id": 157,
+          "year": 2018,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Kajsa Hallberg-Nor.",
+          "score": 1,
+          "score_share": 0.125,
+          "win_prob": 0.2691491165146517,
+          "opponent_name": "Fanny Kjellner",
+          "opponent_score": 7,
+          "opponent_score_share": 0.875,
+          "opponent_win_prob": 0.7308508834853483,
+          "is_winner": false,
+          "opponent_slug": "fanny-kjellner",
+          "opponent_hist_score_share": 0.4707491582491583
+        }
+      ],
       "n_games": 2,
       "n_wins": 0
     },
@@ -83,6 +164,44 @@
         "is_winner": false,
         "stage": "gruppspel"
       },
+      "games": [
+        {
+          "game_id": 279,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Kajsa Hallberg-Nor.",
+          "score": 2,
+          "score_share": 0.18181818181818182,
+          "win_prob": 0.13619283407270855,
+          "opponent_name": "Alexander Starfelt",
+          "opponent_score": 9,
+          "opponent_score_share": 0.8181818181818182,
+          "opponent_win_prob": 0.8638071659272915,
+          "is_winner": false,
+          "opponent_slug": "alexander-starfelt",
+          "opponent_hist_score_share": 0.5512412467133828
+        },
+        {
+          "game_id": 311,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Kajsa Hallberg-Nor.",
+          "score": 2,
+          "score_share": 0.18181818181818182,
+          "win_prob": 0.12499531626811666,
+          "opponent_name": "Kusha Bahrami",
+          "opponent_score": 9,
+          "opponent_score_share": 0.8181818181818182,
+          "opponent_win_prob": 0.8750046837318833,
+          "is_winner": false,
+          "opponent_slug": "kusha-bahrami",
+          "opponent_hist_score_share": 0.466840675664205
+        }
+      ],
       "n_games": 2,
       "n_wins": 0
     },
@@ -96,15 +215,119 @@
         "is_winner": false,
         "stage": "gruppspel"
       },
+      "games": [
+        {
+          "game_id": 376,
+          "year": 2020,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Kajsa Hallberg-Nor.",
+          "score": 0,
+          "score_share": 0.0,
+          "win_prob": 0.04348748702249755,
+          "opponent_name": "Alexander Starfelt",
+          "opponent_score": 9,
+          "opponent_score_share": 1.0,
+          "opponent_win_prob": 0.9565125129775025,
+          "is_winner": false,
+          "opponent_slug": "alexander-starfelt",
+          "opponent_hist_score_share": 0.5512412467133828
+        },
+        {
+          "game_id": 403,
+          "year": 2020,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Kajsa Hallberg-Nor.",
+          "score": 2,
+          "score_share": 0.18181818181818182,
+          "win_prob": 0.15712203959001753,
+          "opponent_name": "Sandra Sundin",
+          "opponent_score": 9,
+          "opponent_score_share": 0.8181818181818182,
+          "opponent_win_prob": 0.8428779604099825,
+          "is_winner": false,
+          "opponent_slug": "sandra-sundin",
+          "opponent_hist_score_share": 0.551948051948052
+        }
+      ],
       "n_games": 2,
       "n_wins": 0
+    },
+    {
+      "year": 2021,
+      "last_game": {
+        "opponent_name": "Jakob Gustafsson",
+        "opponent_slug": "jakob-gustafsson",
+        "score": 7,
+        "opponent_score": 10,
+        "is_winner": false,
+        "stage": "sextondelsfinal"
+      },
+      "games": [
+        {
+          "game_id": 471,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Kajsa Hallberg-Nor.",
+          "score": 9,
+          "score_share": 0.75,
+          "win_prob": 0.17010554828258717,
+          "opponent_name": "Sofia \u00d6rning",
+          "opponent_score": 3,
+          "opponent_score_share": 0.25,
+          "opponent_win_prob": 0.8298944517174128,
+          "is_winner": true,
+          "opponent_slug": "sofia-orning",
+          "opponent_hist_score_share": 0.4190329941708618
+        },
+        {
+          "game_id": 490,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Kajsa Hallberg-Nor.",
+          "score": 5,
+          "score_share": 0.3333333333333333,
+          "win_prob": 0.008877540344246593,
+          "opponent_name": "Robeson",
+          "opponent_score": 10,
+          "opponent_score_share": 0.6666666666666666,
+          "opponent_win_prob": 0.9911224596557534,
+          "is_winner": false,
+          "opponent_slug": "robeson",
+          "opponent_hist_score_share": 0.5907463227674689
+        },
+        {
+          "game_id": 528,
+          "year": 2021,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p1",
+          "name": "Kajsa Hallberg-Nor.",
+          "score": 7,
+          "score_share": 0.4117647058823529,
+          "win_prob": 0.08117343674459188,
+          "opponent_name": "Jakob Gustafsson",
+          "opponent_score": 10,
+          "opponent_score_share": 0.5882352941176471,
+          "opponent_win_prob": 0.9188265632554081,
+          "is_winner": false,
+          "opponent_slug": "jakob-gustafsson",
+          "opponent_hist_score_share": 0.4505012589905638
+        }
+      ],
+      "n_games": 3,
+      "n_wins": 1
     }
   ],
-  "best_stage": "gruppspel",
+  "best_stage": "sextondelsfinal",
   "best_stage_years": [
-    2020,
-    2019,
-    2018,
-    2017
+    2021
   ]
 }

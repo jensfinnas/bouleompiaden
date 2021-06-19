@@ -78,54 +78,112 @@
       ]
     }
   ],
-  "player_skill_change": [
+  "top_performers": [
     {
-      "player": "Jakob Lien",
-      "skill": 183.0,
-      "player_slug": "jakob-lien",
-      "change": 61.0
+      "name": "Filip Tyd\u00e9n",
+      "performance": 0.45206355042028556
     },
     {
-      "player": "Gabriel Nordenankar",
-      "skill": 115.0,
-      "player_slug": "gabriel-nordenankar",
-      "change": 16.0
+      "name": "Johan Kjell",
+      "performance": 0.36860375299602616
     },
     {
-      "player": "Andreas Josefson",
-      "skill": 89.0,
-      "player_slug": "andreas-josefson",
-      "change": 4.0
+      "name": "Jakob Lien",
+      "performance": 0.2506768036226171
     },
     {
-      "player": "Theodore Ripman",
-      "skill": 125.0,
-      "player_slug": "theodore-ripman",
-      "change": 2.0
+      "name": "Johan Alm",
+      "performance": 0.2396230411462394
     },
     {
-      "player": "Erik Nordenankar",
-      "skill": 194.0,
-      "player_slug": "erik-nordenankar",
-      "change": -4.0
+      "name": "Love Andr\u00e9asson",
+      "performance": 0.13871203852892422
     },
     {
-      "player": "Cissi Hellman",
-      "skill": 141.0,
-      "player_slug": "cissi-hellman",
-      "change": -15.0
+      "name": "Johan Ekman",
+      "performance": 0.08233523796902081
     },
     {
-      "player": "Sofia R\u00e5dstr\u00f6m",
-      "skill": -14.0,
-      "player_slug": "sofia-radstrom",
-      "change": -29.0
+      "name": "Joel Danell",
+      "performance": 0.0659266222852169
     },
     {
-      "player": "Olof Sabelstr\u00f6m",
-      "skill": 80.0,
-      "player_slug": "olof-sabelstrom",
-      "change": -45.0
+      "name": "Gabriel Nordenankar",
+      "performance": 0.059231728108844944
+    },
+    {
+      "name": "Patrik J\u00e4rg\u00e5rden",
+      "performance": 0.0532217874208765
+    },
+    {
+      "name": "Andreas Josefson",
+      "performance": 0.015047254918539199
+    },
+    {
+      "name": "Johanna R\u00e5dstr\u00f6m",
+      "performance": 0.015016793519550653
+    }
+  ],
+  "top_low_prob_winners": [
+    {
+      "winner_name": "Theodore Ripman",
+      "loser_name": "Cissi Hellman",
+      "winner_win_prob": 0.2414320038312941,
+      "stage": "gruppspel"
+    },
+    {
+      "winner_name": "Joel Danell",
+      "loser_name": "Klara Gustin",
+      "winner_win_prob": 0.368146740429566,
+      "stage": "gruppspel"
+    },
+    {
+      "winner_name": "Johan Alm",
+      "loser_name": "Erik Nordenankar",
+      "winner_win_prob": 0.3847212934929283,
+      "stage": "kvartsfinal"
+    },
+    {
+      "winner_name": "Love Andr\u00e9asson",
+      "loser_name": "Olof Sabelstr\u00f6m",
+      "winner_win_prob": 0.42705115455767495,
+      "stage": "gruppspel"
+    },
+    {
+      "winner_name": "Filip Tyd\u00e9n",
+      "loser_name": "Love Andr\u00e9asson",
+      "winner_win_prob": 0.4506565601543932,
+      "stage": "kvartsfinal"
+    },
+    {
+      "winner_name": "Jakob Lien",
+      "loser_name": "Patrik J\u00e4rg\u00e5rden",
+      "winner_win_prob": 0.4632940319685017,
+      "stage": "kvartsfinal"
+    },
+    {
+      "winner_name": "Johanna R\u00e5dstr\u00f6m",
+      "loser_name": "Conny \u00c5berg",
+      "winner_win_prob": 0.46996642796089894,
+      "stage": "gruppspel"
+    },
+    {
+      "winner_name": "Gabriel Nordenankar",
+      "loser_name": "Olof Sabelstr\u00f6m",
+      "winner_win_prob": 0.4890058337922557,
+      "stage": "gruppspel"
+    },
+    {
+      "winner_name": "Filip Tyd\u00e9n",
+      "loser_name": "Johan Alm",
+      "winner_win_prob": 0.4970393345471612,
+      "stage": "final"
+    },
+    {
+      "winner_name": "Johan Ekman",
+      "loser_name": "Agnes Lind",
+      "winner_win_prob": 0.49999998499999976,
+      "stage": "gruppspel"
     }
   ]
 }

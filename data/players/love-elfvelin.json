@@ -7,13 +7,13 @@
     2018
   ],
   "win_rate": 0.42857142857142855,
-  "opponent_score_share": 0.4812727660234054,
+  "opponent_score_share": 0.47646792519530085,
   "skill": 83.23915158295911,
   "skill_sigma": 44.060859547860005,
   "name": "Love Elfvelin",
   "slug": "love-elfvelin",
-  "skill_rank": 72.0,
-  "skill_rank_pct": 72.0,
+  "skill_rank": 78.0,
+  "skill_rank_pct": 78.0,
   "skill_history": [
     [
       2011,
@@ -42,6 +42,10 @@
     [
       2020,
       null
+    ],
+    [
+      2021,
+      null
     ]
   ],
   "tournaments": [
@@ -55,6 +59,62 @@
         "is_winner": false,
         "stage": "gruppspel"
       },
+      "games": [
+        {
+          "game_id": 117,
+          "year": 2017,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Love Elfvelin",
+          "score": 8,
+          "score_share": 0.7272727272727273,
+          "win_prob": 0.48240617466301405,
+          "opponent_name": "Johanna R\u00e5dstr\u00f6m",
+          "opponent_score": 3,
+          "opponent_score_share": 0.2727272727272727,
+          "opponent_win_prob": 0.517593825336986,
+          "is_winner": true,
+          "opponent_slug": "johanna-radstrom",
+          "opponent_hist_score_share": 0.31837560781888513
+        },
+        {
+          "game_id": 122,
+          "year": 2017,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Love Elfvelin",
+          "score": 6,
+          "score_share": 0.42857142857142855,
+          "win_prob": 0.26726384474066056,
+          "opponent_name": "Jerker Karlsson",
+          "opponent_score": 8,
+          "opponent_score_share": 0.5714285714285714,
+          "opponent_win_prob": 0.7327361552593394,
+          "is_winner": false,
+          "opponent_slug": "jerker-karlsson",
+          "opponent_hist_score_share": 0.5206712624981856
+        },
+        {
+          "game_id": 97,
+          "year": 2017,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Love Elfvelin",
+          "score": 2,
+          "score_share": 0.2222222222222222,
+          "win_prob": 0.6134876116457141,
+          "opponent_name": "Richard Ekman",
+          "opponent_score": 7,
+          "opponent_score_share": 0.7777777777777778,
+          "opponent_win_prob": 0.3865123883542859,
+          "is_winner": false,
+          "opponent_slug": "richard-ekman",
+          "opponent_hist_score_share": 0.6032088282088284
+        }
+      ],
       "n_games": 3,
       "n_wins": 1
     },
@@ -68,6 +128,80 @@
         "is_winner": false,
         "stage": "sextondelsfinal"
       },
+      "games": [
+        {
+          "game_id": 200,
+          "year": 2018,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Love Elfvelin",
+          "score": 8,
+          "score_share": 0.6666666666666666,
+          "win_prob": 0.25119692686632733,
+          "opponent_name": "Linn Debove",
+          "opponent_score": 4,
+          "opponent_score_share": 0.3333333333333333,
+          "opponent_win_prob": 0.7488030731336727,
+          "is_winner": true,
+          "opponent_slug": "linn-debove",
+          "opponent_hist_score_share": 0.40625
+        },
+        {
+          "game_id": 170,
+          "year": 2018,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Love Elfvelin",
+          "score": 5,
+          "score_share": 0.4166666666666667,
+          "win_prob": 0.29508613886111035,
+          "opponent_name": "Richard Ekman",
+          "opponent_score": 7,
+          "opponent_score_share": 0.5833333333333334,
+          "opponent_win_prob": 0.7049138611388897,
+          "is_winner": false,
+          "opponent_slug": "richard-ekman",
+          "opponent_hist_score_share": 0.6032088282088284
+        },
+        {
+          "game_id": 207,
+          "year": 2018,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Love Elfvelin",
+          "score": 7,
+          "score_share": 0.5833333333333334,
+          "win_prob": 0.3892806567079403,
+          "opponent_name": "Fanny Kjellner",
+          "opponent_score": 5,
+          "opponent_score_share": 0.4166666666666667,
+          "opponent_win_prob": 0.6107193432920597,
+          "is_winner": true,
+          "opponent_slug": "fanny-kjellner",
+          "opponent_hist_score_share": 0.4707491582491583
+        },
+        {
+          "game_id": 220,
+          "year": 2018,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p1",
+          "name": "Love Elfvelin",
+          "score": 0,
+          "score_share": 0.0,
+          "win_prob": 0.10247055997051169,
+          "opponent_name": "Ville Nordenankar",
+          "opponent_score": 9,
+          "opponent_score_share": 1.0,
+          "opponent_win_prob": 0.8975294400294883,
+          "is_winner": false,
+          "opponent_slug": "ville-nordenankar",
+          "opponent_hist_score_share": 0.4128117913832199
+        }
+      ],
       "n_games": 4,
       "n_wins": 2
     }

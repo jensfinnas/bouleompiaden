@@ -6,7 +6,7 @@
     2012
   ],
   "win_rate": 0.8,
-  "opponent_score_share": 0.4720430581980513,
+  "opponent_score_share": 0.473120052702822,
   "skill": 220.9505233889524,
   "skill_sigma": 53.40811638215878,
   "name": "Johan Alm",
@@ -41,6 +41,10 @@
     [
       2020,
       null
+    ],
+    [
+      2021,
+      null
     ]
   ],
   "tournaments": [
@@ -54,6 +58,98 @@
         "is_winner": false,
         "stage": "final"
       },
+      "games": [
+        {
+          "game_id": 26,
+          "year": 2012,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Johan Alm",
+          "score": 7,
+          "score_share": 0.875,
+          "win_prob": 0.5000000150000002,
+          "opponent_name": "Johanna R\u00e5dstr\u00f6m",
+          "opponent_score": 1,
+          "opponent_score_share": 0.125,
+          "opponent_win_prob": 0.49999998499999976,
+          "is_winner": true,
+          "opponent_slug": "johanna-radstrom",
+          "opponent_hist_score_share": 0.31837560781888513
+        },
+        {
+          "game_id": 34,
+          "year": 2012,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Johan Alm",
+          "score": 7,
+          "score_share": 1.0,
+          "win_prob": 0.631853259570434,
+          "opponent_name": "Conny \u00c5berg",
+          "opponent_score": 0,
+          "opponent_score_share": 0.0,
+          "opponent_win_prob": 0.36814674042956597,
+          "is_winner": true,
+          "opponent_slug": "conny-aberg",
+          "opponent_hist_score_share": 0.15
+        },
+        {
+          "game_id": 44,
+          "year": 2012,
+          "stage": "kvartsfinal",
+          "stage_level": 3,
+          "winner": "p2",
+          "name": "Johan Alm",
+          "score": 7,
+          "score_share": 0.5384615384615384,
+          "win_prob": 0.3847212934929283,
+          "opponent_name": "Erik Nordenankar",
+          "opponent_score": 6,
+          "opponent_score_share": 0.46153846153846156,
+          "opponent_win_prob": 0.6152787065070717,
+          "is_winner": true,
+          "opponent_slug": "erik-nordenankar",
+          "opponent_hist_score_share": 0.6925923706869999
+        },
+        {
+          "game_id": 46,
+          "year": 2012,
+          "stage": "semifinal",
+          "stage_level": 4,
+          "winner": "p2",
+          "name": "Johan Alm",
+          "score": 7,
+          "score_share": 0.7777777777777778,
+          "win_prob": 0.7823495607526018,
+          "opponent_name": "Theodore Ripman",
+          "opponent_score": 2,
+          "opponent_score_share": 0.2222222222222222,
+          "opponent_win_prob": 0.21765043924739824,
+          "is_winner": true,
+          "opponent_slug": "theodore-ripman",
+          "opponent_hist_score_share": 0.5584493013252412
+        },
+        {
+          "game_id": 48,
+          "year": 2012,
+          "stage": "final",
+          "stage_level": 7,
+          "winner": "p1",
+          "name": "Johan Alm",
+          "score": 3,
+          "score_share": 0.1875,
+          "win_prob": 0.5029606654528388,
+          "opponent_name": "Filip Tyd\u00e9n",
+          "opponent_score": 13,
+          "opponent_score_share": 0.8125,
+          "opponent_win_prob": 0.4970393345471612,
+          "is_winner": false,
+          "opponent_slug": "filip-tyden",
+          "opponent_hist_score_share": 0.6461829836829838
+        }
+      ],
       "n_games": 5,
       "n_wins": 4
     }

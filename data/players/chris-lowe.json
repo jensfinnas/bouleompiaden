@@ -1,0 +1,161 @@
+{
+  "n_games": 5,
+  "score_share": 0.3945915032679739,
+  "n_wins": 3,
+  "years": [
+    2021
+  ],
+  "win_rate": 0.6,
+  "opponent_score_share": 0.45215006291642734,
+  "skill": 127.84648352629836,
+  "skill_sigma": 49.16330109690908,
+  "name": "Chris Lowe",
+  "slug": "chris-lowe",
+  "skill_rank": 49.0,
+  "skill_rank_pct": 49.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      null
+    ],
+    [
+      2016,
+      null
+    ],
+    [
+      2017,
+      null
+    ],
+    [
+      2018,
+      null
+    ],
+    [
+      2019,
+      null
+    ],
+    [
+      2020,
+      null
+    ],
+    [
+      2021,
+      128.0
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2021,
+      "last_game": {
+        "opponent_name": "Theodore Ripman",
+        "opponent_slug": "theodore-ripman",
+        "score": 2,
+        "opponent_score": 10,
+        "is_winner": false,
+        "stage": "\u00e5ttondelsfinal"
+      },
+      "games": [
+        {
+          "game_id": 512,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Chris Lowe",
+          "score": 10,
+          "score_share": 0.5882352941176471,
+          "win_prob": 0.554399756649963,
+          "opponent_name": "Linn Enhage",
+          "opponent_score": 7,
+          "opponent_score_share": 0.4117647058823529,
+          "opponent_win_prob": 0.445600243350037,
+          "is_winner": true,
+          "opponent_slug": "linn-enhage",
+          "opponent_hist_score_share": 0.2980441862059509
+        },
+        {
+          "game_id": 458,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Chris Lowe",
+          "score": 1,
+          "score_share": 0.1,
+          "win_prob": 0.41807515021248887,
+          "opponent_name": "Tim Samuelsson",
+          "opponent_score": 9,
+          "opponent_score_share": 0.9,
+          "opponent_win_prob": 0.5819248497875111,
+          "is_winner": false,
+          "opponent_slug": "tim-samuelsson",
+          "opponent_hist_score_share": 0.550949050949051
+        },
+        {
+          "game_id": 499,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Chris Lowe",
+          "score": 9,
+          "score_share": 0.5625,
+          "win_prob": 0.7068606960656258,
+          "opponent_name": "Beata Harrysson",
+          "opponent_score": 7,
+          "opponent_score_share": 0.4375,
+          "opponent_win_prob": 0.2931393039343742,
+          "is_winner": true,
+          "opponent_slug": "beata-harrysson",
+          "opponent_hist_score_share": 0.296875
+        },
+        {
+          "game_id": 523,
+          "year": 2021,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p2",
+          "name": "Chris Lowe",
+          "score": 10,
+          "score_share": 0.5555555555555556,
+          "win_prob": 0.4674071438387235,
+          "opponent_name": "Bj\u00f6rn Berglund",
+          "opponent_score": 8,
+          "opponent_score_share": 0.4444444444444444,
+          "opponent_win_prob": 0.5325928561612765,
+          "is_winner": true,
+          "opponent_slug": "bjorn-berglund",
+          "opponent_hist_score_share": 0.5564327761018938
+        },
+        {
+          "game_id": 538,
+          "year": 2021,
+          "stage": "\u00e5ttondelsfinal",
+          "stage_level": 2,
+          "winner": "p2",
+          "name": "Chris Lowe",
+          "score": 2,
+          "score_share": 0.16666666666666666,
+          "win_prob": 0.2733576376848589,
+          "opponent_name": "Theodore Ripman",
+          "opponent_score": 10,
+          "opponent_score_share": 0.8333333333333334,
+          "opponent_win_prob": 0.7266423623151411,
+          "is_winner": false,
+          "opponent_slug": "theodore-ripman",
+          "opponent_hist_score_share": 0.5584493013252412
+        }
+      ],
+      "n_games": 5,
+      "n_wins": 3
+    }
+  ],
+  "best_stage": "\u00e5ttondelsfinal",
+  "best_stage_years": [
+    2021
+  ]
+}

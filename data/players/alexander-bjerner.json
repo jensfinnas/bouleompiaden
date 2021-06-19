@@ -6,13 +6,13 @@
     2019
   ],
   "win_rate": 0.6666666666666666,
-  "opponent_score_share": 0.5515994172856918,
+  "opponent_score_share": 0.5711420002473924,
   "skill": 137.98382676526975,
   "skill_sigma": 58.48142083789554,
   "name": "Alexander Bjerner",
   "slug": "alexander-bjerner",
-  "skill_rank": 38.0,
-  "skill_rank_pct": 38.0,
+  "skill_rank": 40.0,
+  "skill_rank_pct": 40.0,
   "skill_history": [
     [
       2011,
@@ -41,6 +41,10 @@
     [
       2020,
       null
+    ],
+    [
+      2021,
+      null
     ]
   ],
   "tournaments": [
@@ -54,6 +58,62 @@
         "is_winner": false,
         "stage": "sextondelsfinal"
       },
+      "games": [
+        {
+          "game_id": 285,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Alexander Bjerner",
+          "score": 9,
+          "score_share": 0.6923076923076923,
+          "win_prob": 0.37655346094966957,
+          "opponent_name": "Lotta Harder",
+          "opponent_score": 4,
+          "opponent_score_share": 0.3076923076923077,
+          "opponent_win_prob": 0.6234465390503304,
+          "is_winner": true,
+          "opponent_slug": "lotta-harder",
+          "opponent_hist_score_share": 0.5641247641247641
+        },
+        {
+          "game_id": 259,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Alexander Bjerner",
+          "score": 8,
+          "score_share": 0.6666666666666666,
+          "win_prob": 0.7337948891253743,
+          "opponent_name": "Bj\u00f6rn Berglund",
+          "opponent_score": 4,
+          "opponent_score_share": 0.3333333333333333,
+          "opponent_win_prob": 0.2662051108746257,
+          "is_winner": true,
+          "opponent_slug": "bjorn-berglund",
+          "opponent_hist_score_share": 0.5564327761018938
+        },
+        {
+          "game_id": 340,
+          "year": 2019,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p2",
+          "name": "Alexander Bjerner",
+          "score": 1,
+          "score_share": 0.09090909090909091,
+          "win_prob": 0.70486285490546,
+          "opponent_name": "Jesper Kronholm",
+          "opponent_score": 10,
+          "opponent_score_share": 0.9090909090909091,
+          "opponent_win_prob": 0.29513714509454003,
+          "is_winner": false,
+          "opponent_slug": "jesper-kronholm",
+          "opponent_hist_score_share": 0.5928684605155193
+        }
+      ],
       "n_games": 3,
       "n_wins": 2
     }

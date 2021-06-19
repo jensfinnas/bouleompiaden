@@ -1,0 +1,125 @@
+{
+  "n_games": 3,
+  "score_share": 0.43452380952380953,
+  "n_wins": 1,
+  "years": [
+    2021
+  ],
+  "win_rate": 0.3333333333333333,
+  "opponent_score_share": 0.5198718290630198,
+  "skill": 112.51670777195092,
+  "skill_sigma": 58.03923337816677,
+  "name": "Hilda Dahlberg",
+  "slug": "hilda-dahlberg",
+  "skill_rank": 58.0,
+  "skill_rank_pct": 58.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      null
+    ],
+    [
+      2016,
+      null
+    ],
+    [
+      2017,
+      null
+    ],
+    [
+      2018,
+      null
+    ],
+    [
+      2019,
+      null
+    ],
+    [
+      2020,
+      null
+    ],
+    [
+      2021,
+      113.0
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2021,
+      "last_game": {
+        "opponent_name": "Edvin Lindsten",
+        "opponent_slug": "edvin-lindsten",
+        "score": 6,
+        "opponent_score": 10,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "games": [
+        {
+          "game_id": 468,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Hilda Dahlberg",
+          "score": 4,
+          "score_share": 0.2857142857142857,
+          "win_prob": 0.21471621670427565,
+          "opponent_name": "Johan Kjell",
+          "opponent_score": 10,
+          "opponent_score_share": 0.7142857142857143,
+          "opponent_win_prob": 0.7852837832957243,
+          "is_winner": false,
+          "opponent_slug": "johan-kjell",
+          "opponent_hist_score_share": 0.5761679966633527
+        },
+        {
+          "game_id": 504,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Hilda Dahlberg",
+          "score": 9,
+          "score_share": 0.6428571428571429,
+          "win_prob": 0.3419736407474662,
+          "opponent_name": "Ville Nordenankar",
+          "opponent_score": 5,
+          "opponent_score_share": 0.35714285714285715,
+          "opponent_win_prob": 0.6580263592525337,
+          "is_winner": true,
+          "opponent_slug": "ville-nordenankar",
+          "opponent_hist_score_share": 0.4128117913832199
+        },
+        {
+          "game_id": 516,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Hilda Dahlberg",
+          "score": 6,
+          "score_share": 0.375,
+          "win_prob": 0.3615082269753431,
+          "opponent_name": "Edvin Lindsten",
+          "opponent_score": 10,
+          "opponent_score_share": 0.625,
+          "opponent_win_prob": 0.6384917730246569,
+          "is_winner": false,
+          "opponent_slug": "edvin-lindsten",
+          "opponent_hist_score_share": 0.5706356991424866
+        }
+      ],
+      "n_games": 3,
+      "n_wins": 1
+    }
+  ],
+  "best_stage": "gruppspel",
+  "best_stage_years": [
+    2021
+  ]
+}

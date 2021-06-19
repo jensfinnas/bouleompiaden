@@ -6,13 +6,13 @@
     2012
   ],
   "win_rate": 0.0,
-  "opponent_score_share": 0.4994114885659003,
+  "opponent_score_share": 0.4970617355333742,
   "skill": 15.145942025378263,
   "skill_sigma": 75.31316150277124,
   "name": "Conny \u00c5berg",
   "slug": "conny-aberg",
-  "skill_rank": 104.0,
-  "skill_rank_pct": 104.0,
+  "skill_rank": 115.0,
+  "skill_rank_pct": 115.0,
   "skill_history": [
     [
       2011,
@@ -41,6 +41,10 @@
     [
       2020,
       null
+    ],
+    [
+      2021,
+      null
     ]
   ],
   "tournaments": [
@@ -54,6 +58,44 @@
         "is_winner": false,
         "stage": "gruppspel"
       },
+      "games": [
+        {
+          "game_id": 40,
+          "year": 2012,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Conny \u00c5berg",
+          "score": 3,
+          "score_share": 0.3,
+          "win_prob": 0.5300335720391011,
+          "opponent_name": "Johanna R\u00e5dstr\u00f6m",
+          "opponent_score": 7,
+          "opponent_score_share": 0.7,
+          "opponent_win_prob": 0.46996642796089894,
+          "is_winner": false,
+          "opponent_slug": "johanna-radstrom",
+          "opponent_hist_score_share": 0.31837560781888513
+        },
+        {
+          "game_id": 34,
+          "year": 2012,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Conny \u00c5berg",
+          "score": 0,
+          "score_share": 0.0,
+          "win_prob": 0.36814674042956597,
+          "opponent_name": "Johan Alm",
+          "opponent_score": 7,
+          "opponent_score_share": 1.0,
+          "opponent_win_prob": 0.631853259570434,
+          "is_winner": false,
+          "opponent_slug": "johan-alm",
+          "opponent_hist_score_share": 0.6757478632478632
+        }
+      ],
       "n_games": 2,
       "n_wins": 0
     }

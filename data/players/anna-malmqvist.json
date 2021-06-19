@@ -1,0 +1,107 @@
+{
+  "n_games": 2,
+  "score_share": 0.2159090909090909,
+  "n_wins": 0,
+  "years": [
+    2021
+  ],
+  "win_rate": 0.0,
+  "opponent_score_share": 0.5625332592244356,
+  "skill": 11.826760741341376,
+  "skill_sigma": 70.61458099538956,
+  "name": "Anna Malmqvist",
+  "slug": "anna-malmqvist",
+  "skill_rank": 120.0,
+  "skill_rank_pct": 120.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      null
+    ],
+    [
+      2016,
+      null
+    ],
+    [
+      2017,
+      null
+    ],
+    [
+      2018,
+      null
+    ],
+    [
+      2019,
+      null
+    ],
+    [
+      2020,
+      null
+    ],
+    [
+      2021,
+      12.0
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2021,
+      "last_game": {
+        "opponent_name": "Jonas Nygren",
+        "opponent_slug": "jonas-nygren",
+        "score": 3,
+        "opponent_score": 9,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "games": [
+        {
+          "game_id": 464,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Anna Malmqvist",
+          "score": 2,
+          "score_share": 0.18181818181818182,
+          "win_prob": 0.3296816217684151,
+          "opponent_name": "Lovisa Birgersson",
+          "opponent_score": 9,
+          "opponent_score_share": 0.8181818181818182,
+          "opponent_win_prob": 0.6703183782315849,
+          "is_winner": false,
+          "opponent_slug": "lovisa-birgersson",
+          "opponent_hist_score_share": 0.607092662239721
+        },
+        {
+          "game_id": 502,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Anna Malmqvist",
+          "score": 3,
+          "score_share": 0.25,
+          "win_prob": 0.5648594053231248,
+          "opponent_name": "Jonas Nygren",
+          "opponent_score": 9,
+          "opponent_score_share": 0.75,
+          "opponent_win_prob": 0.43514059467687516,
+          "is_winner": false,
+          "opponent_slug": "jonas-nygren",
+          "opponent_hist_score_share": 0.5179738562091504
+        }
+      ],
+      "n_games": 2,
+      "n_wins": 0
+    }
+  ],
+  "best_stage": "gruppspel",
+  "best_stage_years": [
+    2021
+  ]
+}

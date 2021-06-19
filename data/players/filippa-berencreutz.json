@@ -1,18 +1,19 @@
 {
-  "n_games": 3,
-  "score_share": 0.4166666666666667,
-  "n_wins": 1,
+  "n_games": 6,
+  "score_share": 0.45041478129713425,
+  "n_wins": 3,
   "years": [
-    2020
+    2020,
+    2021
   ],
-  "win_rate": 0.3333333333333333,
-  "opponent_score_share": 0.5824969314226939,
-  "skill": 109.02909317158702,
-  "skill_sigma": 59.65345249044226,
+  "win_rate": 0.5,
+  "opponent_score_share": 0.5467282157008232,
+  "skill": 165.09439556848423,
+  "skill_sigma": 41.86472618180692,
   "name": "Filippa Berencreutz",
   "slug": "filippa-berencreutz",
-  "skill_rank": 55.0,
-  "skill_rank_pct": 55.0,
+  "skill_rank": 21.0,
+  "skill_rank_pct": 21.0,
   "skill_history": [
     [
       2011,
@@ -41,6 +42,10 @@
     [
       2020,
       109.0
+    ],
+    [
+      2021,
+      165.0
     ]
   ],
   "tournaments": [
@@ -54,12 +59,137 @@
         "is_winner": false,
         "stage": "gruppspel"
       },
+      "games": [
+        {
+          "game_id": 371,
+          "year": 2020,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Filippa Berencreutz",
+          "score": 3,
+          "score_share": 0.25,
+          "win_prob": 0.1902442594484339,
+          "opponent_name": "Erik Nordenankar",
+          "opponent_score": 9,
+          "opponent_score_share": 0.75,
+          "opponent_win_prob": 0.8097557405515661,
+          "is_winner": false,
+          "opponent_slug": "erik-nordenankar",
+          "opponent_hist_score_share": 0.6925923706869999
+        },
+        {
+          "game_id": 401,
+          "year": 2020,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Filippa Berencreutz",
+          "score": 9,
+          "score_share": 0.9,
+          "win_prob": 0.2839021121928391,
+          "opponent_name": "Mina Kheirkhah",
+          "opponent_score": 1,
+          "opponent_score_share": 0.1,
+          "opponent_win_prob": 0.7160978878071609,
+          "is_winner": true,
+          "opponent_slug": "mina-kheirkhah",
+          "opponent_hist_score_share": 0.4432545173186885
+        },
+        {
+          "game_id": 411,
+          "year": 2020,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Filippa Berencreutz",
+          "score": 1,
+          "score_share": 0.1,
+          "win_prob": 0.6554493168225077,
+          "opponent_name": "Jon Jeppson",
+          "opponent_score": 9,
+          "opponent_score_share": 0.9,
+          "opponent_win_prob": 0.34455068317749227,
+          "is_winner": false,
+          "opponent_slug": "jon-jeppson",
+          "opponent_hist_score_share": 0.6127450980392156
+        }
+      ],
       "n_games": 3,
       "n_wins": 1
+    },
+    {
+      "year": 2021,
+      "last_game": {
+        "opponent_name": "Theodore Ripman",
+        "opponent_slug": "theodore-ripman",
+        "score": 3,
+        "opponent_score": 10,
+        "is_winner": false,
+        "stage": "sextondelsfinal"
+      },
+      "games": [
+        {
+          "game_id": 488,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Filippa Berencreutz",
+          "score": 9,
+          "score_share": 0.5294117647058824,
+          "win_prob": 0.3752401824915499,
+          "opponent_name": "Edvin Lindsten",
+          "opponent_score": 8,
+          "opponent_score_share": 0.47058823529411764,
+          "opponent_win_prob": 0.6247598175084501,
+          "is_winner": true,
+          "opponent_slug": "edvin-lindsten",
+          "opponent_hist_score_share": 0.5706356991424866
+        },
+        {
+          "game_id": 467,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Filippa Berencreutz",
+          "score": 9,
+          "score_share": 0.6923076923076923,
+          "win_prob": 0.23105945723671417,
+          "opponent_name": "Emma Bergmark",
+          "opponent_score": 4,
+          "opponent_score_share": 0.3076923076923077,
+          "opponent_win_prob": 0.7689405427632858,
+          "is_winner": true,
+          "opponent_slug": "emma-bergmark",
+          "opponent_hist_score_share": 0.4026923076923077
+        },
+        {
+          "game_id": 524,
+          "year": 2021,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p2",
+          "name": "Filippa Berencreutz",
+          "score": 3,
+          "score_share": 0.23076923076923078,
+          "win_prob": 0.4505238649187612,
+          "opponent_name": "Theodore Ripman",
+          "opponent_score": 10,
+          "opponent_score_share": 0.7692307692307693,
+          "opponent_win_prob": 0.5494761350812388,
+          "is_winner": false,
+          "opponent_slug": "theodore-ripman",
+          "opponent_hist_score_share": 0.5584493013252412
+        }
+      ],
+      "n_games": 3,
+      "n_wins": 2
     }
   ],
-  "best_stage": "gruppspel",
+  "best_stage": "sextondelsfinal",
   "best_stage_years": [
-    2020
+    2021
   ]
 }

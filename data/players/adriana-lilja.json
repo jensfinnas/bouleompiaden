@@ -6,13 +6,13 @@
     2020
   ],
   "win_rate": 0.25,
-  "opponent_score_share": 0.5404711977666941,
+  "opponent_score_share": 0.5335865883453309,
   "skill": 35.78905236101366,
   "skill_sigma": 58.50951506789129,
   "name": "Adriana Lilja",
   "slug": "adriana-lilja",
-  "skill_rank": 97.0,
-  "skill_rank_pct": 97.0,
+  "skill_rank": 108.0,
+  "skill_rank_pct": 108.0,
   "skill_history": [
     [
       2011,
@@ -41,6 +41,10 @@
     [
       2020,
       36.0
+    ],
+    [
+      2021,
+      null
     ]
   ],
   "tournaments": [
@@ -54,6 +58,80 @@
         "is_winner": false,
         "stage": "sextondelsfinal"
       },
+      "games": [
+        {
+          "game_id": 394,
+          "year": 2020,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Adriana Lilja",
+          "score": 1,
+          "score_share": 0.09090909090909091,
+          "win_prob": 0.4440942719668455,
+          "opponent_name": "Patrik J\u00e4rg\u00e5rden",
+          "opponent_score": 10,
+          "opponent_score_share": 0.9090909090909091,
+          "opponent_win_prob": 0.5559057280331545,
+          "is_winner": false,
+          "opponent_slug": "patrik-jargarden",
+          "opponent_hist_score_share": 0.6351246421433587
+        },
+        {
+          "game_id": 381,
+          "year": 2020,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Adriana Lilja",
+          "score": 9,
+          "score_share": 0.9,
+          "win_prob": 0.7771084056590513,
+          "opponent_name": "Frida \u00d6hrn",
+          "opponent_score": 1,
+          "opponent_score_share": 0.1,
+          "opponent_win_prob": 0.2228915943409487,
+          "is_winner": true,
+          "opponent_slug": "frida-ohrn",
+          "opponent_hist_score_share": 0.39154768842268833
+        },
+        {
+          "game_id": 417,
+          "year": 2020,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Adriana Lilja",
+          "score": 7,
+          "score_share": 0.4375,
+          "win_prob": 0.5447867215332398,
+          "opponent_name": "Bj\u00f6rn Berglund",
+          "opponent_score": 9,
+          "opponent_score_share": 0.5625,
+          "opponent_win_prob": 0.4552132784667602,
+          "is_winner": false,
+          "opponent_slug": "bjorn-berglund",
+          "opponent_hist_score_share": 0.5564327761018938
+        },
+        {
+          "game_id": 434,
+          "year": 2020,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p1",
+          "name": "Adriana Lilja",
+          "score": 6,
+          "score_share": 0.35294117647058826,
+          "win_prob": 0.12237955862503624,
+          "opponent_name": "Alexander Starfelt",
+          "opponent_score": 11,
+          "opponent_score_share": 0.6470588235294118,
+          "opponent_win_prob": 0.8776204413749638,
+          "is_winner": false,
+          "opponent_slug": "alexander-starfelt",
+          "opponent_hist_score_share": 0.5512412467133828
+        }
+      ],
       "n_games": 4,
       "n_wins": 1
     }

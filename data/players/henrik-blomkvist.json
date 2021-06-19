@@ -6,13 +6,13 @@
     2011
   ],
   "win_rate": 0.5,
-  "opponent_score_share": 0.5956171149836504,
+  "opponent_score_share": 0.5981382346308769,
   "skill": 124.7189196809611,
   "skill_sigma": 57.75703053348684,
   "name": "Henrik Blomkvist",
   "slug": "henrik-blomkvist",
-  "skill_rank": 48.0,
-  "skill_rank_pct": 48.0,
+  "skill_rank": 50.0,
+  "skill_rank_pct": 50.0,
   "skill_history": [
     [
       2011,
@@ -41,6 +41,10 @@
     [
       2020,
       null
+    ],
+    [
+      2021,
+      null
     ]
   ],
   "tournaments": [
@@ -54,6 +58,80 @@
         "is_winner": false,
         "stage": "semifinal"
       },
+      "games": [
+        {
+          "game_id": 10,
+          "year": 2011,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Henrik Blomkvist",
+          "score": 7,
+          "score_share": 0.5384615384615384,
+          "win_prob": 0.5300335720391011,
+          "opponent_name": "Calle Sandin",
+          "opponent_score": 6,
+          "opponent_score_share": 0.46153846153846156,
+          "opponent_win_prob": 0.46996642796089894,
+          "is_winner": true,
+          "opponent_slug": "calle-sandin",
+          "opponent_hist_score_share": 0.37762237762237766
+        },
+        {
+          "game_id": 6,
+          "year": 2011,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Henrik Blomkvist",
+          "score": 4,
+          "score_share": 0.36363636363636365,
+          "win_prob": 0.36814674042956597,
+          "opponent_name": "Theodore Ripman",
+          "opponent_score": 7,
+          "opponent_score_share": 0.6363636363636364,
+          "opponent_win_prob": 0.631853259570434,
+          "is_winner": false,
+          "opponent_slug": "theodore-ripman",
+          "opponent_hist_score_share": 0.5584493013252412
+        },
+        {
+          "game_id": 12,
+          "year": 2011,
+          "stage": "kvartsfinal",
+          "stage_level": 3,
+          "winner": "p2",
+          "name": "Henrik Blomkvist",
+          "score": 7,
+          "score_share": 0.5833333333333334,
+          "win_prob": 0.24191486975165066,
+          "opponent_name": "John Kjellkvist",
+          "opponent_score": 5,
+          "opponent_score_share": 0.4166666666666667,
+          "opponent_win_prob": 0.7580851302483493,
+          "is_winner": true,
+          "opponent_slug": "john-kjellkvist",
+          "opponent_hist_score_share": 0.763888888888889
+        },
+        {
+          "game_id": 16,
+          "year": 2011,
+          "stage": "semifinal",
+          "stage_level": 4,
+          "winner": "p2",
+          "name": "Henrik Blomkvist",
+          "score": 3,
+          "score_share": 0.3,
+          "win_prob": 0.5711855257946056,
+          "opponent_name": "Erik Nordenankar",
+          "opponent_score": 7,
+          "opponent_score_share": 0.7,
+          "opponent_win_prob": 0.4288144742053944,
+          "is_winner": false,
+          "opponent_slug": "erik-nordenankar",
+          "opponent_hist_score_share": 0.6925923706869999
+        }
+      ],
       "n_games": 4,
       "n_wins": 2
     }

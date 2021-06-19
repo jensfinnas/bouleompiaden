@@ -6,13 +6,13 @@
     2019
   ],
   "win_rate": 0.6666666666666666,
-  "opponent_score_share": 0.4603258593928883,
+  "opponent_score_share": 0.4473125059033443,
   "skill": 169.30230457900387,
   "skill_sigma": 54.19541215107114,
   "name": "Niklas Frisk",
   "slug": "niklas-frisk",
-  "skill_rank": 18.0,
-  "skill_rank_pct": 18.0,
+  "skill_rank": 17.0,
+  "skill_rank_pct": 17.0,
   "skill_history": [
     [
       2011,
@@ -41,6 +41,10 @@
     [
       2020,
       null
+    ],
+    [
+      2021,
+      null
     ]
   ],
   "tournaments": [
@@ -54,6 +58,62 @@
         "is_winner": false,
         "stage": "sextondelsfinal"
       },
+      "games": [
+        {
+          "game_id": 262,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Niklas Frisk",
+          "score": 8,
+          "score_share": 0.8,
+          "win_prob": 0.21515689332193788,
+          "opponent_name": "Ville Nordenankar",
+          "opponent_score": 2,
+          "opponent_score_share": 0.2,
+          "opponent_win_prob": 0.7848431066780621,
+          "is_winner": true,
+          "opponent_slug": "ville-nordenankar",
+          "opponent_hist_score_share": 0.4128117913832199
+        },
+        {
+          "game_id": 287,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Niklas Frisk",
+          "score": 9,
+          "score_share": 0.75,
+          "win_prob": 0.6236590112474505,
+          "opponent_name": "Monica Harder",
+          "opponent_score": 3,
+          "opponent_score_share": 0.25,
+          "opponent_win_prob": 0.3763409887525495,
+          "is_winner": true,
+          "opponent_slug": "monica-harder",
+          "opponent_hist_score_share": 0.4484126984126984
+        },
+        {
+          "game_id": 335,
+          "year": 2019,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p2",
+          "name": "Niklas Frisk",
+          "score": 8,
+          "score_share": 0.4444444444444444,
+          "win_prob": 0.7947648199716594,
+          "opponent_name": "Cissi Hellman",
+          "opponent_score": 10,
+          "opponent_score_share": 0.5555555555555556,
+          "opponent_win_prob": 0.20523518002834062,
+          "is_winner": false,
+          "opponent_slug": "cissi-hellman",
+          "opponent_hist_score_share": 0.48071302791411474
+        }
+      ],
       "n_games": 3,
       "n_wins": 2
     }

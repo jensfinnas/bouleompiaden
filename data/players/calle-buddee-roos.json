@@ -1,0 +1,161 @@
+{
+  "n_games": 5,
+  "score_share": 0.5248308270676691,
+  "n_wins": 3,
+  "years": [
+    2021
+  ],
+  "win_rate": 0.6,
+  "opponent_score_share": 0.4947179384395647,
+  "skill": 167.4267087433743,
+  "skill_sigma": 46.8459396715471,
+  "name": "Calle Buddee Roos",
+  "slug": "calle-buddee-roos",
+  "skill_rank": 19.0,
+  "skill_rank_pct": 19.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      null
+    ],
+    [
+      2016,
+      null
+    ],
+    [
+      2017,
+      null
+    ],
+    [
+      2018,
+      null
+    ],
+    [
+      2019,
+      null
+    ],
+    [
+      2020,
+      null
+    ],
+    [
+      2021,
+      167.0
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2021,
+      "last_game": {
+        "opponent_name": "Robeson",
+        "opponent_slug": "robeson",
+        "score": 8,
+        "opponent_score": 11,
+        "is_winner": false,
+        "stage": "\u00e5ttondelsfinal"
+      },
+      "games": [
+        {
+          "game_id": 474,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Calle Buddee Roos",
+          "score": 6,
+          "score_share": 0.4,
+          "win_prob": 0.2920445975277639,
+          "opponent_name": "Jerker Karlsson",
+          "opponent_score": 9,
+          "opponent_score_share": 0.6,
+          "opponent_win_prob": 0.7079554024722361,
+          "is_winner": false,
+          "opponent_slug": "jerker-karlsson",
+          "opponent_hist_score_share": 0.5206712624981856
+        },
+        {
+          "game_id": 507,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Calle Buddee Roos",
+          "score": 10,
+          "score_share": 0.7142857142857143,
+          "win_prob": 0.500653330504206,
+          "opponent_name": "Sussie R\u00e5dis",
+          "opponent_score": 4,
+          "opponent_score_share": 0.2857142857142857,
+          "opponent_win_prob": 0.499346669495794,
+          "is_winner": true,
+          "opponent_slug": "sussie-radis",
+          "opponent_hist_score_share": 0.3748112998112998
+        },
+        {
+          "game_id": 519,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Calle Buddee Roos",
+          "score": 9,
+          "score_share": 0.5625,
+          "win_prob": 0.5885558131207747,
+          "opponent_name": "Joel Gustafsson",
+          "opponent_score": 7,
+          "opponent_score_share": 0.4375,
+          "opponent_win_prob": 0.4114441868792253,
+          "is_winner": true,
+          "opponent_slug": "joel-gustafsson",
+          "opponent_hist_score_share": 0.4111928104575164
+        },
+        {
+          "game_id": 534,
+          "year": 2021,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p2",
+          "name": "Calle Buddee Roos",
+          "score": 10,
+          "score_share": 0.5263157894736842,
+          "win_prob": 0.21890721824213222,
+          "opponent_name": "Johan Kjell",
+          "opponent_score": 9,
+          "opponent_score_share": 0.47368421052631576,
+          "opponent_win_prob": 0.7810927817578678,
+          "is_winner": true,
+          "opponent_slug": "johan-kjell",
+          "opponent_hist_score_share": 0.5761679966633527
+        },
+        {
+          "game_id": 543,
+          "year": 2021,
+          "stage": "\u00e5ttondelsfinal",
+          "stage_level": 2,
+          "winner": "p1",
+          "name": "Calle Buddee Roos",
+          "score": 8,
+          "score_share": 0.42105263157894735,
+          "win_prob": 0.3663721941335947,
+          "opponent_name": "Robeson",
+          "opponent_score": 11,
+          "opponent_score_share": 0.5789473684210527,
+          "opponent_win_prob": 0.6336278058664053,
+          "is_winner": false,
+          "opponent_slug": "robeson",
+          "opponent_hist_score_share": 0.5907463227674689
+        }
+      ],
+      "n_games": 5,
+      "n_wins": 3
+    }
+  ],
+  "best_stage": "\u00e5ttondelsfinal",
+  "best_stage_years": [
+    2021
+  ]
+}

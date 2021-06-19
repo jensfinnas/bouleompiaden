@@ -1,18 +1,19 @@
 {
-  "n_games": 2,
-  "score_share": 0.24545454545454548,
-  "n_wins": 0,
+  "n_games": 4,
+  "score_share": 0.5,
+  "n_wins": 2,
   "years": [
-    2020
+    2020,
+    2021
   ],
-  "win_rate": 0.0,
-  "opponent_score_share": 0.49731088356088354,
-  "skill": 12.793444323203667,
-  "skill_sigma": 71.64875025614924,
+  "win_rate": 0.5,
+  "opponent_score_share": 0.4886179973154763,
+  "skill": 129.54991379743245,
+  "skill_sigma": 49.414487328609354,
   "name": "Carl Rother-Schirren",
   "slug": "carl-rother-schirren",
-  "skill_rank": 108.0,
-  "skill_rank_pct": 108.0,
+  "skill_rank": 47.0,
+  "skill_rank_pct": 47.0,
   "skill_history": [
     [
       2011,
@@ -41,6 +42,10 @@
     [
       2020,
       13.0
+    ],
+    [
+      2021,
+      130.0
     ]
   ],
   "tournaments": [
@@ -54,12 +59,102 @@
         "is_winner": false,
         "stage": "gruppspel"
       },
+      "games": [
+        {
+          "game_id": 365,
+          "year": 2020,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Carl Rother-Schirren",
+          "score": 1,
+          "score_share": 0.09090909090909091,
+          "win_prob": 0.28558143837864025,
+          "opponent_name": "Robin Linderborg",
+          "opponent_score": 10,
+          "opponent_score_share": 0.9090909090909091,
+          "opponent_win_prob": 0.7144185616213597,
+          "is_winner": false,
+          "opponent_slug": "robin-linderborg",
+          "opponent_hist_score_share": 0.5582165616829482
+        },
+        {
+          "game_id": 398,
+          "year": 2020,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Carl Rother-Schirren",
+          "score": 6,
+          "score_share": 0.4,
+          "win_prob": 0.6030548169411108,
+          "opponent_name": "Fredrik Berg",
+          "opponent_score": 9,
+          "opponent_score_share": 0.6,
+          "opponent_win_prob": 0.39694518305888915,
+          "is_winner": false,
+          "opponent_slug": "fredrik-berg",
+          "opponent_hist_score_share": 0.4357142857142857
+        }
+      ],
       "n_games": 2,
       "n_wins": 0
+    },
+    {
+      "year": 2021,
+      "last_game": {
+        "opponent_name": "Kusha Bahrami",
+        "opponent_slug": "kusha-bahrami",
+        "score": 9,
+        "opponent_score": 6,
+        "is_winner": true,
+        "stage": "gruppspel"
+      },
+      "games": [
+        {
+          "game_id": 481,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Carl Rother-Schirren",
+          "score": 10,
+          "score_share": 0.9090909090909091,
+          "win_prob": 0.2935237985586512,
+          "opponent_name": "Hannes Jordan",
+          "opponent_score": 1,
+          "opponent_score_share": 0.09090909090909091,
+          "opponent_win_prob": 0.7064762014413488,
+          "is_winner": true,
+          "opponent_slug": "hannes-jordan",
+          "opponent_hist_score_share": 0.4937004662004662
+        },
+        {
+          "game_id": 454,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Carl Rother-Schirren",
+          "score": 9,
+          "score_share": 0.6,
+          "win_prob": 0.1322894683770075,
+          "opponent_name": "Kusha Bahrami",
+          "opponent_score": 6,
+          "opponent_score_share": 0.4,
+          "opponent_win_prob": 0.8677105316229925,
+          "is_winner": true,
+          "opponent_slug": "kusha-bahrami",
+          "opponent_hist_score_share": 0.466840675664205
+        }
+      ],
+      "n_games": 2,
+      "n_wins": 2
     }
   ],
   "best_stage": "gruppspel",
   "best_stage_years": [
-    2020
+    2020,
+    2021
   ]
 }

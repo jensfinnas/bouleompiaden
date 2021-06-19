@@ -7,13 +7,13 @@
     2019
   ],
   "win_rate": 0.5,
-  "opponent_score_share": 0.4747943542696049,
+  "opponent_score_share": 0.47865791350141934,
   "skill": 107.76818085736672,
   "skill_sigma": 45.831823490205295,
   "name": "Lotta Harder",
   "slug": "lotta-harder",
-  "skill_rank": 58.0,
-  "skill_rank_pct": 58.0,
+  "skill_rank": 66.0,
+  "skill_rank_pct": 66.0,
   "skill_history": [
     [
       2011,
@@ -42,6 +42,10 @@
     [
       2020,
       null
+    ],
+    [
+      2021,
+      null
     ]
   ],
   "tournaments": [
@@ -55,6 +59,62 @@
         "is_winner": false,
         "stage": "kvartsfinal"
       },
+      "games": [
+        {
+          "game_id": 54,
+          "year": 2016,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Lotta Harder",
+          "score": 8,
+          "score_share": 0.8,
+          "win_prob": 0.5000000150000002,
+          "opponent_name": "Jens Finn\u00e4s",
+          "opponent_score": 2,
+          "opponent_score_share": 0.2,
+          "opponent_win_prob": 0.49999998499999976,
+          "is_winner": true,
+          "opponent_slug": "jens-finnas",
+          "opponent_hist_score_share": 0.46432872682872683
+        },
+        {
+          "game_id": 62,
+          "year": 2016,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Lotta Harder",
+          "score": 8,
+          "score_share": 0.8888888888888888,
+          "win_prob": 0.631853259570434,
+          "opponent_name": "John Qvale",
+          "opponent_score": 1,
+          "opponent_score_share": 0.1111111111111111,
+          "opponent_win_prob": 0.36814674042956597,
+          "is_winner": true,
+          "opponent_slug": "john-qvale",
+          "opponent_hist_score_share": 0.318958818958819
+        },
+        {
+          "game_id": 74,
+          "year": 2016,
+          "stage": "kvartsfinal",
+          "stage_level": 3,
+          "winner": "p1",
+          "name": "Lotta Harder",
+          "score": 2,
+          "score_share": 0.18181818181818182,
+          "win_prob": 0.5993712423500248,
+          "opponent_name": "Gabriel Nordenankar",
+          "opponent_score": 9,
+          "opponent_score_share": 0.8181818181818182,
+          "opponent_win_prob": 0.40062875764997524,
+          "is_winner": false,
+          "opponent_slug": "gabriel-nordenankar",
+          "opponent_hist_score_share": 0.6387546156727935
+        }
+      ],
       "n_games": 3,
       "n_wins": 2
     },
@@ -68,6 +128,62 @@
         "is_winner": false,
         "stage": "gruppspel"
       },
+      "games": [
+        {
+          "game_id": 258,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Lotta Harder",
+          "score": 7,
+          "score_share": 0.7777777777777778,
+          "win_prob": 0.34192956926504203,
+          "opponent_name": "Charlotte Johansson",
+          "opponent_score": 2,
+          "opponent_score_share": 0.2222222222222222,
+          "opponent_win_prob": 0.658070430734958,
+          "is_winner": true,
+          "opponent_slug": "charlotte-johansson",
+          "opponent_hist_score_share": 0.5206228956228955
+        },
+        {
+          "game_id": 317,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Lotta Harder",
+          "score": 6,
+          "score_share": 0.42857142857142855,
+          "win_prob": 0.7895710197736637,
+          "opponent_name": "Julius Jorborg",
+          "opponent_score": 8,
+          "opponent_score_share": 0.5714285714285714,
+          "opponent_win_prob": 0.21042898022633627,
+          "is_winner": false,
+          "opponent_slug": "julius-jorborg",
+          "opponent_hist_score_share": 0.44598794063079783
+        },
+        {
+          "game_id": 285,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Lotta Harder",
+          "score": 4,
+          "score_share": 0.3076923076923077,
+          "win_prob": 0.6234465390503304,
+          "opponent_name": "Alexander Bjerner",
+          "opponent_score": 9,
+          "opponent_score_share": 0.6923076923076923,
+          "opponent_win_prob": 0.37655346094966957,
+          "is_winner": false,
+          "opponent_slug": "alexander-bjerner",
+          "opponent_hist_score_share": 0.48329448329448327
+        }
+      ],
       "n_games": 3,
       "n_wins": 1
     }

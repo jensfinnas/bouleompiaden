@@ -7,13 +7,13 @@
     2018
   ],
   "win_rate": 0.5,
-  "opponent_score_share": 0.4943386914789227,
+  "opponent_score_share": 0.49507801785244016,
   "skill": 122.86336950456626,
   "skill_sigma": 47.161066411553726,
   "name": "Ida Wimmerman",
   "slug": "ida-wimmerman",
-  "skill_rank": 50.0,
-  "skill_rank_pct": 50.0,
+  "skill_rank": 52.0,
+  "skill_rank_pct": 52.0,
   "skill_history": [
     [
       2011,
@@ -42,6 +42,10 @@
     [
       2020,
       null
+    ],
+    [
+      2021,
+      null
     ]
   ],
   "tournaments": [
@@ -55,6 +59,44 @@
         "is_winner": false,
         "stage": "gruppspel"
       },
+      "games": [
+        {
+          "game_id": 83,
+          "year": 2017,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Ida Wimmerman",
+          "score": 6,
+          "score_share": 0.42857142857142855,
+          "win_prob": 0.5000000150000002,
+          "opponent_name": "Josefin Asplund",
+          "opponent_score": 8,
+          "opponent_score_share": 0.5714285714285714,
+          "opponent_win_prob": 0.49999998499999976,
+          "is_winner": false,
+          "opponent_slug": "josefin-asplund",
+          "opponent_hist_score_share": 0.5672184957899244
+        },
+        {
+          "game_id": 125,
+          "year": 2017,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Ida Wimmerman",
+          "score": 6,
+          "score_share": 0.46153846153846156,
+          "win_prob": 0.30294212282586264,
+          "opponent_name": "Sofia Ahlstr\u00f6m",
+          "opponent_score": 7,
+          "opponent_score_share": 0.5384615384615384,
+          "opponent_win_prob": 0.6970578771741374,
+          "is_winner": false,
+          "opponent_slug": "sofia-ahlstrom",
+          "opponent_hist_score_share": 0.471474358974359
+        }
+      ],
       "n_games": 2,
       "n_wins": 0
     },
@@ -68,6 +110,80 @@
         "is_winner": false,
         "stage": "\u00e5ttondelsfinal"
       },
+      "games": [
+        {
+          "game_id": 183,
+          "year": 2018,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Ida Wimmerman",
+          "score": 7,
+          "score_share": 0.5833333333333334,
+          "win_prob": 0.15492573842315072,
+          "opponent_name": "Josefin Asplund",
+          "opponent_score": 5,
+          "opponent_score_share": 0.4166666666666667,
+          "opponent_win_prob": 0.8450742615768493,
+          "is_winner": true,
+          "opponent_slug": "josefin-asplund",
+          "opponent_hist_score_share": 0.5672184957899244
+        },
+        {
+          "game_id": 165,
+          "year": 2018,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Ida Wimmerman",
+          "score": 7,
+          "score_share": 0.7,
+          "win_prob": 0.2936904693628419,
+          "opponent_name": "Leo Ehnborg",
+          "opponent_score": 3,
+          "opponent_score_share": 0.3,
+          "opponent_win_prob": 0.7063095306371581,
+          "is_winner": true,
+          "opponent_slug": "leo-ehnborg",
+          "opponent_hist_score_share": 0.3125
+        },
+        {
+          "game_id": 222,
+          "year": 2018,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p1",
+          "name": "Ida Wimmerman",
+          "score": 9,
+          "score_share": 0.5294117647058824,
+          "win_prob": 0.6631901794269979,
+          "opponent_name": "Ylva Andr\u00e9asson",
+          "opponent_score": 8,
+          "opponent_score_share": 0.47058823529411764,
+          "opponent_win_prob": 0.3368098205730021,
+          "is_winner": true,
+          "opponent_slug": "ylva-andreasson",
+          "opponent_hist_score_share": 0.5159032144326262
+        },
+        {
+          "game_id": 235,
+          "year": 2018,
+          "stage": "\u00e5ttondelsfinal",
+          "stage_level": 2,
+          "winner": "p2",
+          "name": "Ida Wimmerman",
+          "score": 4,
+          "score_share": 0.3076923076923077,
+          "win_prob": 0.6473000895218566,
+          "opponent_name": "Jens Hultkrans",
+          "opponent_score": 9,
+          "opponent_score_share": 0.6923076923076923,
+          "opponent_win_prob": 0.3526999104781434,
+          "is_winner": false,
+          "opponent_slug": "jens-hultkrans",
+          "opponent_hist_score_share": 0.5361535421278069
+        }
+      ],
       "n_games": 4,
       "n_wins": 3
     }

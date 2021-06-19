@@ -17,13 +17,13 @@ def game(player1, player2):
         "p1": p1,
         "p2": p2,
     }
-    resp["p1_win_prob"] = _win_probability([p1["rating"]], [p2["rating"]])
+    resp["p1_win_prob"] = get_win_probability([p1["rating"]], [p2["rating"]])
     resp["p2_win_prob"] = 1 - resp["p1_win_prob"]
 
     return resp
 
 
-def _win_probability(a, b):
+def get_win_probability(a, b):
     """Calcaluates the probaility of a beating b.
 
     Copy-paste from:

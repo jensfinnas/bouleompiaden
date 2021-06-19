@@ -139,96 +139,128 @@
       ]
     }
   ],
-  "player_skill_change": [
+  "top_performers": [
     {
-      "player": "Pelle Dovborg",
-      "skill": 104.0,
-      "player_slug": "pelle-dovborg",
-      "change": 77.0
+      "name": "Pelle Dovborg",
+      "performance": 0.42334375106814076
     },
     {
-      "player": "Sofia R\u00e5dstr\u00f6m",
-      "skill": 24.0,
-      "player_slug": "sofia-radstrom",
-      "change": 69.0
+      "name": "Sofia R\u00e5dstr\u00f6m",
+      "performance": 0.3599239547871219
     },
     {
-      "player": "Tobe Welander",
-      "skill": 65.0,
-      "player_slug": "tobe-welander",
-      "change": 45.0
+      "name": "Gabriel Nordenankar",
+      "performance": 0.3047167742898876
     },
     {
-      "player": "Richard Ekman",
-      "skill": 104.0,
-      "player_slug": "richard-ekman",
-      "change": 42.0
+      "name": "Richard Ekman",
+      "performance": 0.3044169023506439
     },
     {
-      "player": "Gabriel Nordenankar",
-      "skill": 250.0,
-      "player_slug": "gabriel-nordenankar",
-      "change": 40.0
+      "name": "Erik Nordenankar",
+      "performance": 0.27792088417477934
     },
     {
-      "player": "Erik Nordenankar",
-      "skill": 199.0,
-      "player_slug": "erik-nordenankar",
-      "change": 32.0
+      "name": "Sandra Starfelt",
+      "performance": 0.2603701226786244
     },
     {
-      "player": "Jerker Karlsson",
-      "skill": 162.0,
-      "player_slug": "jerker-karlsson",
-      "change": 28.0
+      "name": "Johannes Birgersson",
+      "performance": 0.23637806945999376
     },
     {
-      "player": "Theodore Ripman",
-      "skill": 130.0,
-      "player_slug": "theodore-ripman",
-      "change": 5.0
+      "name": "Benjamin Ger. Hed.",
+      "performance": 0.20842082039139548
     },
     {
-      "player": "Jakob Lien",
-      "skill": 193.0,
-      "player_slug": "jakob-lien",
-      "change": -4.0
+      "name": "Edvin Lindsten",
+      "performance": 0.20809718181810835
     },
     {
-      "player": "Love Andr\u00e9asson",
-      "skill": 162.0,
-      "player_slug": "love-andreasson",
-      "change": -4.0
+      "name": "Ville Nordenankar",
+      "performance": 0.20170916845218173
     },
     {
-      "player": "Cissi Hellman",
-      "skill": 139.0,
-      "player_slug": "cissi-hellman",
-      "change": -12.0
+      "name": "Tobe Welander",
+      "performance": 0.16898515054315236
     },
     {
-      "player": "Johan Ekman",
-      "skill": 90.0,
-      "player_slug": "johan-ekman",
-      "change": -15.0
+      "name": "Josefin Asplund",
+      "performance": 0.1657462117286529
     },
     {
-      "player": "Maria Adel\u00f6f",
-      "skill": 77.0,
-      "player_slug": "maria-adelof",
-      "change": -35.0
+      "name": "Jesper Kronholm",
+      "performance": 0.1565223194287583
     },
     {
-      "player": "Johanna R\u00e5dstr\u00f6m",
-      "skill": 10.0,
-      "player_slug": "johanna-radstrom",
-      "change": -51.0
+      "name": "Jerker Karlsson",
+      "performance": 0.1511647383670524
     },
     {
-      "player": "Johan Kjell",
-      "skill": 78.0,
-      "player_slug": "johan-kjell",
-      "change": -94.0
+      "name": "Robin Linderborg",
+      "performance": 0.07894996350275466
+    }
+  ],
+  "top_low_prob_winners": [
+    {
+      "winner_name": "Sofia R\u00e5dstr\u00f6m",
+      "loser_name": "Julius Jorborg",
+      "winner_win_prob": 0.08102327740783699,
+      "stage": "gruppspel"
+    },
+    {
+      "winner_name": "Sofia R\u00e5dstr\u00f6m",
+      "loser_name": "Emma Pettersson",
+      "winner_win_prob": 0.22388559848515255,
+      "stage": "gruppspel"
+    },
+    {
+      "winner_name": "Jerker Karlsson",
+      "loser_name": "Josefin Asplund",
+      "winner_win_prob": 0.26890284525692515,
+      "stage": "kvartsfinal"
+    },
+    {
+      "winner_name": "Pelle Dovborg",
+      "loser_name": "Jacob Stenman",
+      "winner_win_prob": 0.2723733396206587,
+      "stage": "gruppspel"
+    },
+    {
+      "winner_name": "Erik Nordenankar",
+      "loser_name": "Ville Nordenankar",
+      "winner_win_prob": 0.27734874999558495,
+      "stage": "kvartsfinal"
+    },
+    {
+      "winner_name": "Jerker Karlsson",
+      "loser_name": "Love Andr\u00e9asson",
+      "winner_win_prob": 0.28014026745162046,
+      "stage": "\u00e5ttondelsfinal"
+    },
+    {
+      "winner_name": "Sandra Starfelt",
+      "loser_name": "Johan Kjell",
+      "winner_win_prob": 0.28590906082717704,
+      "stage": "gruppspel"
+    },
+    {
+      "winner_name": "Pelle Dovborg",
+      "loser_name": "Tove Papp Lindkvist",
+      "winner_win_prob": 0.30614706298999195,
+      "stage": "gruppspel"
+    },
+    {
+      "winner_name": "Ville Nordenankar",
+      "loser_name": "Johan Kjell",
+      "winner_win_prob": 0.3107781765585469,
+      "stage": "gruppspel"
+    },
+    {
+      "winner_name": "Edvin Lindsten",
+      "loser_name": "Jakob Lien",
+      "winner_win_prob": 0.334014213128083,
+      "stage": "gruppspel"
     }
   ]
 }

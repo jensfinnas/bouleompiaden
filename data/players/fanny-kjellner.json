@@ -7,13 +7,13 @@
     2019
   ],
   "win_rate": 0.3333333333333333,
-  "opponent_score_share": 0.47021497749614677,
+  "opponent_score_share": 0.4922969095725702,
   "skill": 49.72175753064418,
   "skill_sigma": 50.665836304677114,
   "name": "Fanny Kjellner",
   "slug": "fanny-kjellner",
-  "skill_rank": 93.0,
-  "skill_rank_pct": 93.0,
+  "skill_rank": 100.0,
+  "skill_rank_pct": 100.0,
   "skill_history": [
     [
       2011,
@@ -42,6 +42,10 @@
     [
       2020,
       null
+    ],
+    [
+      2021,
+      null
     ]
   ],
   "tournaments": [
@@ -55,6 +59,62 @@
         "is_winner": false,
         "stage": "gruppspel"
       },
+      "games": [
+        {
+          "game_id": 157,
+          "year": 2018,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Fanny Kjellner",
+          "score": 7,
+          "score_share": 0.875,
+          "win_prob": 0.7308508834853483,
+          "opponent_name": "Kajsa Hallberg-Nor.",
+          "opponent_score": 1,
+          "opponent_score_share": 0.125,
+          "opponent_win_prob": 0.2691491165146517,
+          "is_winner": true,
+          "opponent_slug": "kajsa-hallberg-nor",
+          "opponent_hist_score_share": 0.2762001961199822
+        },
+        {
+          "game_id": 207,
+          "year": 2018,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Fanny Kjellner",
+          "score": 5,
+          "score_share": 0.4166666666666667,
+          "win_prob": 0.6107193432920597,
+          "opponent_name": "Love Elfvelin",
+          "opponent_score": 7,
+          "opponent_score_share": 0.5833333333333334,
+          "opponent_win_prob": 0.3892806567079403,
+          "is_winner": false,
+          "opponent_slug": "love-elfvelin",
+          "opponent_hist_score_share": 0.4349618635332921
+        },
+        {
+          "game_id": 179,
+          "year": 2018,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Fanny Kjellner",
+          "score": 2,
+          "score_share": 0.2222222222222222,
+          "win_prob": 0.3485158599846623,
+          "opponent_name": "Estrid",
+          "opponent_score": 7,
+          "opponent_score_share": 0.7777777777777778,
+          "opponent_win_prob": 0.6514841400153377,
+          "is_winner": false,
+          "opponent_slug": "estrid",
+          "opponent_hist_score_share": 0.6307361168816277
+        }
+      ],
       "n_games": 3,
       "n_wins": 1
     },
@@ -68,6 +128,62 @@
         "is_winner": false,
         "stage": "gruppspel"
       },
+      "games": [
+        {
+          "game_id": 290,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Fanny Kjellner",
+          "score": 4,
+          "score_share": 0.3333333333333333,
+          "win_prob": 0.09557194625940435,
+          "opponent_name": "Edvin Lindsten",
+          "opponent_score": 8,
+          "opponent_score_share": 0.6666666666666666,
+          "opponent_win_prob": 0.9044280537405956,
+          "is_winner": false,
+          "opponent_slug": "edvin-lindsten",
+          "opponent_hist_score_share": 0.5706356991424866
+        },
+        {
+          "game_id": 269,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Fanny Kjellner",
+          "score": 8,
+          "score_share": 0.7272727272727273,
+          "win_prob": 0.3559106809149917,
+          "opponent_name": "Jakob Gustafsson",
+          "opponent_score": 3,
+          "opponent_score_share": 0.2727272727272727,
+          "opponent_win_prob": 0.6440893190850083,
+          "is_winner": true,
+          "opponent_slug": "jakob-gustafsson",
+          "opponent_hist_score_share": 0.4505012589905638
+        },
+        {
+          "game_id": 322,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Fanny Kjellner",
+          "score": 3,
+          "score_share": 0.25,
+          "win_prob": 0.4947084430641107,
+          "opponent_name": "Robeson",
+          "opponent_score": 9,
+          "opponent_score_share": 0.75,
+          "opponent_win_prob": 0.5052915569358893,
+          "is_winner": false,
+          "opponent_slug": "robeson",
+          "opponent_hist_score_share": 0.5907463227674689
+        }
+      ],
       "n_games": 3,
       "n_wins": 1
     }

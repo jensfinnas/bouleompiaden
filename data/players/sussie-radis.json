@@ -1,19 +1,20 @@
 {
-  "n_games": 6,
-  "score_share": 0.3926055426055426,
+  "n_games": 8,
+  "score_share": 0.3748112998112998,
   "n_wins": 2,
   "years": [
     2018,
-    2019
+    2019,
+    2021
   ],
-  "win_rate": 0.3333333333333333,
-  "opponent_score_share": 0.507718055931904,
-  "skill": 68.84114998140613,
-  "skill_sigma": 49.45112043337495,
+  "win_rate": 0.25,
+  "opponent_score_share": 0.5105853511616845,
+  "skill": 46.28721691824576,
+  "skill_sigma": 44.53413873866236,
   "name": "Sussie R\u00e5dis",
   "slug": "sussie-radis",
-  "skill_rank": 81.0,
-  "skill_rank_pct": 81.0,
+  "skill_rank": 102.0,
+  "skill_rank_pct": 102.0,
   "skill_history": [
     [
       2011,
@@ -42,6 +43,10 @@
     [
       2020,
       null
+    ],
+    [
+      2021,
+      46.0
     ]
   ],
   "tournaments": [
@@ -55,6 +60,80 @@
         "is_winner": false,
         "stage": "sextondelsfinal"
       },
+      "games": [
+        {
+          "game_id": 189,
+          "year": 2018,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Sussie R\u00e5dis",
+          "score": 7,
+          "score_share": 0.5384615384615384,
+          "win_prob": 0.5016021297735485,
+          "opponent_name": "Bj\u00f6rn Berglund",
+          "opponent_score": 6,
+          "opponent_score_share": 0.46153846153846156,
+          "opponent_win_prob": 0.4983978702264515,
+          "is_winner": true,
+          "opponent_slug": "bjorn-berglund",
+          "opponent_hist_score_share": 0.5564327761018938
+        },
+        {
+          "game_id": 210,
+          "year": 2018,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Sussie R\u00e5dis",
+          "score": 7,
+          "score_share": 0.7,
+          "win_prob": 0.4343524801742311,
+          "opponent_name": "Gustaf Ekenstein",
+          "opponent_score": 3,
+          "opponent_score_share": 0.3,
+          "opponent_win_prob": 0.5656475198257689,
+          "is_winner": true,
+          "opponent_slug": "gustaf-ekenstein",
+          "opponent_hist_score_share": 0.4611111111111111
+        },
+        {
+          "game_id": 149,
+          "year": 2018,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Sussie R\u00e5dis",
+          "score": 3,
+          "score_share": 0.2727272727272727,
+          "win_prob": 0.49999998499999976,
+          "opponent_name": "Robin Fogelberg",
+          "opponent_score": 8,
+          "opponent_score_share": 0.7272727272727273,
+          "opponent_win_prob": 0.5000000150000002,
+          "is_winner": false,
+          "opponent_slug": "robin-fogelberg",
+          "opponent_hist_score_share": 0.5474311979729937
+        },
+        {
+          "game_id": 228,
+          "year": 2018,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p1",
+          "name": "Sussie R\u00e5dis",
+          "score": 6,
+          "score_share": 0.4,
+          "win_prob": 0.3902226316331361,
+          "opponent_name": "Robin Linderborg",
+          "opponent_score": 9,
+          "opponent_score_share": 0.6,
+          "opponent_win_prob": 0.6097773683668639,
+          "is_winner": false,
+          "opponent_slug": "robin-linderborg",
+          "opponent_hist_score_share": 0.5582165616829482
+        }
+      ],
       "n_games": 4,
       "n_wins": 2
     },
@@ -68,6 +147,95 @@
         "is_winner": false,
         "stage": "gruppspel"
       },
+      "games": [
+        {
+          "game_id": 273,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Sussie R\u00e5dis",
+          "score": 1,
+          "score_share": 0.1111111111111111,
+          "win_prob": 0.5853368470936942,
+          "opponent_name": "Mina Kheirkhah",
+          "opponent_score": 8,
+          "opponent_score_share": 0.8888888888888888,
+          "opponent_win_prob": 0.41466315290630584,
+          "is_winner": false,
+          "opponent_slug": "mina-kheirkhah",
+          "opponent_hist_score_share": 0.4432545173186885
+        },
+        {
+          "game_id": 308,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Sussie R\u00e5dis",
+          "score": 4,
+          "score_share": 0.3333333333333333,
+          "win_prob": 0.1593455759635275,
+          "opponent_name": "Jens Hultkrans",
+          "opponent_score": 8,
+          "opponent_score_share": 0.6666666666666666,
+          "opponent_win_prob": 0.8406544240364725,
+          "is_winner": false,
+          "opponent_slug": "jens-hultkrans",
+          "opponent_hist_score_share": 0.5361535421278069
+        }
+      ],
+      "n_games": 2,
+      "n_wins": 0
+    },
+    {
+      "year": 2021,
+      "last_game": {
+        "opponent_name": "Calle Buddee Roos",
+        "opponent_slug": "calle-buddee-roos",
+        "score": 4,
+        "opponent_score": 10,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "games": [
+        {
+          "game_id": 475,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Sussie R\u00e5dis",
+          "score": 5,
+          "score_share": 0.35714285714285715,
+          "win_prob": 0.17272460584546667,
+          "opponent_name": "Johan Johnson",
+          "opponent_score": 9,
+          "opponent_score_share": 0.6428571428571429,
+          "opponent_win_prob": 0.8272753941545333,
+          "is_winner": false,
+          "opponent_slug": "johan-johnson",
+          "opponent_hist_score_share": 0.45725227591036416
+        },
+        {
+          "game_id": 507,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Sussie R\u00e5dis",
+          "score": 4,
+          "score_share": 0.2857142857142857,
+          "win_prob": 0.499346669495794,
+          "opponent_name": "Calle Buddee Roos",
+          "opponent_score": 10,
+          "opponent_score_share": 0.7142857142857143,
+          "opponent_win_prob": 0.500653330504206,
+          "is_winner": false,
+          "opponent_slug": "calle-buddee-roos",
+          "opponent_hist_score_share": 0.5248308270676691
+        }
+      ],
       "n_games": 2,
       "n_wins": 0
     }

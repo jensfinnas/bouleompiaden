@@ -6,13 +6,13 @@
     2020
   ],
   "win_rate": 0.3333333333333333,
-  "opponent_score_share": 0.5245838990388224,
+  "opponent_score_share": 0.5359246185250145,
   "skill": 118.68245665497726,
   "skill_sigma": 55.66465863436521,
   "name": "Caroline Edholm",
   "slug": "caroline-edholm",
-  "skill_rank": 52.0,
-  "skill_rank_pct": 52.0,
+  "skill_rank": 56.0,
+  "skill_rank_pct": 56.0,
   "skill_history": [
     [
       2011,
@@ -41,6 +41,10 @@
     [
       2020,
       119.0
+    ],
+    [
+      2021,
+      null
     ]
   ],
   "tournaments": [
@@ -54,6 +58,62 @@
         "is_winner": false,
         "stage": "sextondelsfinal"
       },
+      "games": [
+        {
+          "game_id": 375,
+          "year": 2020,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Caroline Edholm",
+          "score": 7,
+          "score_share": 0.4375,
+          "win_prob": 0.2939300065165966,
+          "opponent_name": "Jerker Karlsson",
+          "opponent_score": 9,
+          "opponent_score_share": 0.5625,
+          "opponent_win_prob": 0.7060699934834034,
+          "is_winner": false,
+          "opponent_slug": "jerker-karlsson",
+          "opponent_hist_score_share": 0.5206712624981856
+        },
+        {
+          "game_id": 413,
+          "year": 2020,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Caroline Edholm",
+          "score": 9,
+          "score_share": 0.6428571428571429,
+          "win_prob": 0.16232296664685575,
+          "opponent_name": "Jens Hultkrans",
+          "opponent_score": 5,
+          "opponent_score_share": 0.35714285714285715,
+          "opponent_win_prob": 0.8376770333531443,
+          "is_winner": true,
+          "opponent_slug": "jens-hultkrans",
+          "opponent_hist_score_share": 0.5361535421278069
+        },
+        {
+          "game_id": 420,
+          "year": 2020,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p2",
+          "name": "Caroline Edholm",
+          "score": 5,
+          "score_share": 0.3125,
+          "win_prob": 0.6387200111229736,
+          "opponent_name": "Tim Samuelsson",
+          "opponent_score": 11,
+          "opponent_score_share": 0.6875,
+          "opponent_win_prob": 0.3612799888770264,
+          "is_winner": false,
+          "opponent_slug": "tim-samuelsson",
+          "opponent_hist_score_share": 0.550949050949051
+        }
+      ],
       "n_games": 3,
       "n_wins": 1
     }

@@ -1,0 +1,125 @@
+{
+  "n_games": 3,
+  "score_share": 0.5179738562091504,
+  "n_wins": 1,
+  "years": [
+    2021
+  ],
+  "win_rate": 0.3333333333333333,
+  "opponent_score_share": 0.4135971820149789,
+  "skill": 65.56035571183622,
+  "skill_sigma": 62.896176952234455,
+  "name": "Jonas Nygren",
+  "slug": "jonas-nygren",
+  "skill_rank": 87.0,
+  "skill_rank_pct": 87.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      null
+    ],
+    [
+      2016,
+      null
+    ],
+    [
+      2017,
+      null
+    ],
+    [
+      2018,
+      null
+    ],
+    [
+      2019,
+      null
+    ],
+    [
+      2020,
+      null
+    ],
+    [
+      2021,
+      66.0
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2021,
+      "last_game": {
+        "opponent_name": "Anna Malmqvist",
+        "opponent_slug": "anna-malmqvist",
+        "score": 9,
+        "opponent_score": 3,
+        "is_winner": true,
+        "stage": "gruppspel"
+      },
+      "games": [
+        {
+          "game_id": 513,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Jonas Nygren",
+          "score": 5,
+          "score_share": 0.3333333333333333,
+          "win_prob": 0.12582521717715545,
+          "opponent_name": "Theodore Ripman",
+          "opponent_score": 10,
+          "opponent_score_share": 0.6666666666666666,
+          "opponent_win_prob": 0.8741747828228446,
+          "is_winner": false,
+          "opponent_slug": "theodore-ripman",
+          "opponent_hist_score_share": 0.5584493013252412
+        },
+        {
+          "game_id": 465,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Jonas Nygren",
+          "score": 8,
+          "score_share": 0.47058823529411764,
+          "win_prob": 0.5150740595458985,
+          "opponent_name": "Johan Ekman",
+          "opponent_score": 9,
+          "opponent_score_share": 0.5294117647058824,
+          "opponent_win_prob": 0.4849259404541016,
+          "is_winner": false,
+          "opponent_slug": "johan-ekman",
+          "opponent_hist_score_share": 0.4664331538106048
+        },
+        {
+          "game_id": 502,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Jonas Nygren",
+          "score": 9,
+          "score_share": 0.75,
+          "win_prob": 0.43514059467687516,
+          "opponent_name": "Anna Malmqvist",
+          "opponent_score": 3,
+          "opponent_score_share": 0.25,
+          "opponent_win_prob": 0.5648594053231248,
+          "is_winner": true,
+          "opponent_slug": "anna-malmqvist",
+          "opponent_hist_score_share": 0.2159090909090909
+        }
+      ],
+      "n_games": 3,
+      "n_wins": 1
+    }
+  ],
+  "best_stage": "gruppspel",
+  "best_stage_years": [
+    2021
+  ]
+}

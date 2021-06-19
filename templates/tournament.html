@@ -9,6 +9,12 @@
 <div class="jumbotron">
     <h1>Bouleympiaden: {{tournament.year}}</h1>
 
+    <p class="lead margin-top-10">
+        <strong>Guld:</strong> XXX</br>
+        <strong>Silver:</strong> XXX</br>
+        <strong>Brons:</strong> XXX</br>
+
+    </p>
 </div>
 
 <div class="card bg-light mb-3">
@@ -52,31 +58,34 @@
   <div class="card-body">
     <h4 class="card-title mb-2">Överpresterande spelare</h4>
     <p>
-      Varje vinst ger plus i rankingpoäng. Ju svårare motståndare, desto fler poäng.
+      För varje spelare räknar vi ut en <strong>prestationspoäng</strong> för hela turneringen enligt följande:
     </p>
-    <p>
-      Här är spelarna som stärkte sin ranking mest år {{year}}.
+    <p class="text-small">
+      <samp>
+      + Motståndarens vinstchans i de matcher spelaren vunnit<br>
+      – Spelaren egen vinstchans i förlustmatcher<br>
+      / Antal matcher
+      </samp>
     </p>
+    <p>Segrar mot svåra motståndare ger höga poäng. Förluster mot lätta motståndare ger stora avdrag.</p>
 
     <table class="table table-striped">
       <thead>
         <th>Spelare</th>
-        <th>Rankingpoäng</th>
+        <th>Prestations-<br>poäng</th>
       </thead> 
       <tbody>
-        {% for player in  tournament.player_skill_change %}
-          {% if player.change > 0 %}
+        {% for player in  tournament.top_performers %}
             <tr>
               <td>
-                <a href="{{url_for('player_index', player_slug=player.player|slugify)}}">
-                  {{player.player}}
+                <a href="{{url_for('player_index', player_slug=player.name|slugify)}}">
+                  {{player.name}}
                 </a>
               </td>
               <td class="text-right">
-                +{{player.change|int}}
+                {{(player.performance*100)|int}} p
               </td>
             </tr>
-          {% endif %}
         {% endfor %}
       </tbody> 
     </table>
@@ -85,12 +94,48 @@
 
 <div class="card bg-light mb-3">
   <div class="card-body">
-    <h4 class="card-title">Resultat år för år</h4>
+    <h4 class="card-title">Största skrällmatcherna</h4>
     <div class="card-text">
-      {% include 'includes/year_selector.html' %}
+      <p>
+        Matcher där spelare vann mot allra svåraste odds.
+      </p>
+
+      <table class="table table-striped">
+      <thead>
+        <tr>
+          <th>Match</th>
+          <th>Vinstchans</th>
+        </tr>
+
+      </thead>
+        <tbody>
+          {% for game in tournament.top_low_prob_winners %}
+            <tr>
+              <td>
+                <a href="{{url_for('player_index', player_slug=game.winner_name|slugify)}}">
+                  {{game.winner_name|genitive}} 
+                </a>
+                vinst över 
+                <a href="{{url_for('player_index', player_slug=game.loser_name|slugify)}}">
+                  {{game.loser_name}} 
+                </a> 
+                <small>
+                  ({{game.stage}})
+                </small>
+              </td>
+              <td class="text-right">
+                {{(game.winner_win_prob*100)|round|int}} %
+              </td>
+            </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
   </div>
 </div>
 
+
+{% include 'includes/card_year_selector.html' %}
   
 
 {% endblock %}

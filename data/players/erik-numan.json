@@ -1,18 +1,19 @@
 {
-  "n_games": 2,
-  "score_share": 0.3973214285714286,
-  "n_wins": 0,
+  "n_games": 7,
+  "score_share": 0.533860852033121,
+  "n_wins": 3,
   "years": [
-    2020
+    2020,
+    2021
   ],
-  "win_rate": 0.0,
-  "opponent_score_share": 0.4683713633901604,
-  "skill": 15.132647497698173,
-  "skill_sigma": 75.00891930663389,
+  "win_rate": 0.42857142857142855,
+  "opponent_score_share": 0.5239135518694604,
+  "skill": 137.43743951488335,
+  "skill_sigma": 41.488750383660324,
   "name": "Erik Numan",
   "slug": "erik-numan",
-  "skill_rank": 105.0,
-  "skill_rank_pct": 105.0,
+  "skill_rank": 41.0,
+  "skill_rank_pct": 41.0,
   "skill_history": [
     [
       2011,
@@ -41,6 +42,10 @@
     [
       2020,
       15.0
+    ],
+    [
+      2021,
+      137.0
     ]
   ],
   "tournaments": [
@@ -54,12 +59,155 @@
         "is_winner": false,
         "stage": "gruppspel"
       },
+      "games": [
+        {
+          "game_id": 397,
+          "year": 2020,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Erik Numan",
+          "score": 5,
+          "score_share": 0.35714285714285715,
+          "win_prob": 0.04709279301284576,
+          "opponent_name": "Theodore Ripman",
+          "opponent_score": 9,
+          "opponent_score_share": 0.6428571428571429,
+          "opponent_win_prob": 0.9529072069871543,
+          "is_winner": false,
+          "opponent_slug": "theodore-ripman",
+          "opponent_hist_score_share": 0.5584493013252412
+        },
+        {
+          "game_id": 362,
+          "year": 2020,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Erik Numan",
+          "score": 7,
+          "score_share": 0.4375,
+          "win_prob": 0.6666565395545231,
+          "opponent_name": "Jakob Gustafsson",
+          "opponent_score": 9,
+          "opponent_score_share": 0.5625,
+          "opponent_win_prob": 0.3333434604454769,
+          "is_winner": false,
+          "opponent_slug": "jakob-gustafsson",
+          "opponent_hist_score_share": 0.4505012589905638
+        }
+      ],
       "n_games": 2,
       "n_wins": 0
+    },
+    {
+      "year": 2021,
+      "last_game": {
+        "opponent_name": "Robin Linderborg",
+        "opponent_slug": "robin-linderborg",
+        "score": 5,
+        "opponent_score": 10,
+        "is_winner": false,
+        "stage": "\u00e5ttondelsfinal"
+      },
+      "games": [
+        {
+          "game_id": 466,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Erik Numan",
+          "score": 8,
+          "score_share": 0.47058823529411764,
+          "win_prob": 0.059679829665424955,
+          "opponent_name": "Edvin Lindsten",
+          "opponent_score": 9,
+          "opponent_score_share": 0.5294117647058824,
+          "opponent_win_prob": 0.940320170334575,
+          "is_winner": false,
+          "opponent_slug": "edvin-lindsten",
+          "opponent_hist_score_share": 0.5706356991424866
+        },
+        {
+          "game_id": 517,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Erik Numan",
+          "score": 9,
+          "score_share": 0.6,
+          "win_prob": 0.2712883974766154,
+          "opponent_name": "Magnus Enlund",
+          "opponent_score": 6,
+          "opponent_score_share": 0.4,
+          "opponent_win_prob": 0.7287116025233846,
+          "is_winner": true,
+          "opponent_slug": "magnus-enlund",
+          "opponent_hist_score_share": 0.5759506833036245
+        },
+        {
+          "game_id": 503,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Erik Numan",
+          "score": 10,
+          "score_share": 0.7692307692307693,
+          "win_prob": 0.10223878690525763,
+          "opponent_name": "Emma Bergmark",
+          "opponent_score": 3,
+          "opponent_score_share": 0.23076923076923078,
+          "opponent_win_prob": 0.8977612130947423,
+          "is_winner": true,
+          "opponent_slug": "emma-bergmark",
+          "opponent_hist_score_share": 0.4026923076923077
+        },
+        {
+          "game_id": 526,
+          "year": 2021,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p2",
+          "name": "Erik Numan",
+          "score": 10,
+          "score_share": 0.7692307692307693,
+          "win_prob": 0.3378666717919161,
+          "opponent_name": "Tim Samuelsson",
+          "opponent_score": 3,
+          "opponent_score_share": 0.23076923076923078,
+          "opponent_win_prob": 0.6621333282080839,
+          "is_winner": true,
+          "opponent_slug": "tim-samuelsson",
+          "opponent_hist_score_share": 0.550949050949051
+        },
+        {
+          "game_id": 539,
+          "year": 2021,
+          "stage": "\u00e5ttondelsfinal",
+          "stage_level": 2,
+          "winner": "p1",
+          "name": "Erik Numan",
+          "score": 5,
+          "score_share": 0.3333333333333333,
+          "win_prob": 0.47993757690080907,
+          "opponent_name": "Robin Linderborg",
+          "opponent_score": 10,
+          "opponent_score_share": 0.6666666666666666,
+          "opponent_win_prob": 0.5200624230991909,
+          "is_winner": false,
+          "opponent_slug": "robin-linderborg",
+          "opponent_hist_score_share": 0.5582165616829482
+        }
+      ],
+      "n_games": 5,
+      "n_wins": 3
     }
   ],
-  "best_stage": "gruppspel",
+  "best_stage": "\u00e5ttondelsfinal",
   "best_stage_years": [
-    2020
+    2021
   ]
 }

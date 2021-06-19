@@ -256,174 +256,128 @@
       ]
     }
   ],
-  "player_skill_change": [
+  "top_performers": [
     {
-      "player": "Olle Strandberg",
-      "skill": 171.0,
-      "player_slug": "olle-strandberg",
-      "change": 82.0
+      "name": "Olle Strandberg",
+      "performance": 0.4147964215392186
     },
     {
-      "player": "Linnea Karlsson",
-      "skill": 132.0,
-      "player_slug": "linnea-karlsson",
-      "change": 75.0
+      "name": "Pelle Dovborg",
+      "performance": 0.40286114926810235
     },
     {
-      "player": "Pelle Dovborg",
-      "skill": 181.0,
-      "player_slug": "pelle-dovborg",
-      "change": 46.0
+      "name": "Linnea Karlsson",
+      "performance": 0.250479339005373
     },
     {
-      "player": "Jakob Gustafsson",
-      "skill": 84.0,
-      "player_slug": "jakob-gustafsson",
-      "change": 43.0
+      "name": "Robeson",
+      "performance": 0.24432286510290244
     },
     {
-      "player": "Robeson",
-      "skill": 212.0,
-      "player_slug": "robeson",
-      "change": 34.0
+      "name": "Jakob Gustafsson",
+      "performance": 0.24304053998151617
     },
     {
-      "player": "Alexander Starfelt",
-      "skill": 165.0,
-      "player_slug": "alexander-starfelt",
-      "change": 27.0
+      "name": "Alexander Starfelt",
+      "performance": 0.191112965898105
     },
     {
-      "player": "Bj\u00f6rn Berglund",
-      "skill": 80.0,
-      "player_slug": "bjorn-berglund",
-      "change": 20.0
+      "name": "Sofia \u00d6rning",
+      "performance": 0.16475121026036918
     },
     {
-      "player": "Patrik J\u00e4rg\u00e5rden",
-      "skill": 139.0,
-      "player_slug": "patrik-jargarden",
-      "change": 15.0
+      "name": "Emma Bergmark",
+      "performance": 0.16437684614461082
     },
     {
-      "player": "Frida \u00d6hrn",
-      "skill": 10.0,
-      "player_slug": "frida-ohrn",
-      "change": 12.0
+      "name": "Pia T\u00f6rnkvist",
+      "performance": 0.15746918934691792
     },
     {
-      "player": "Lovisa Birgersson",
-      "skill": 156.0,
-      "player_slug": "lovisa-birgersson",
-      "change": 11.0
+      "name": "Niklas Solberg",
+      "performance": 0.14474385011597227
     },
     {
-      "player": "Sofia \u00d6rning",
-      "skill": 51.0,
-      "player_slug": "sofia-orning",
-      "change": 10.0
+      "name": "Bj\u00f6rn Berglund",
+      "performance": 0.1438952813678294
     },
     {
-      "player": "Hannes Jordan",
-      "skill": 138.0,
-      "player_slug": "hannes-jordan",
-      "change": 9.0
+      "name": "Lars T\u00f6rnkvist",
+      "performance": 0.12348652287417358
     },
     {
-      "player": "Jerker Karlsson",
-      "skill": 169.0,
-      "player_slug": "jerker-karlsson",
-      "change": 1.0
+      "name": "Lovisa Birgersson",
+      "performance": 0.11872919860979987
     },
     {
-      "player": "Benjamin Ger. Hed.",
-      "skill": 197.0,
-      "player_slug": "benjamin-ger-hed",
-      "change": 0.0
+      "name": "Martyna",
+      "performance": 0.11776793758942491
     },
     {
-      "player": "Erik Nordenankar",
-      "skill": 206.0,
-      "player_slug": "erik-nordenankar",
-      "change": -3.0
+      "name": "Patrik J\u00e4rg\u00e5rden",
+      "performance": 0.11490069185929082
+    }
+  ],
+  "top_low_prob_winners": [
+    {
+      "winner_name": "Linnea Karlsson",
+      "loser_name": "Robin Linderborg",
+      "winner_win_prob": 0.09399233444001609,
+      "stage": "sextondelsfinal"
     },
     {
-      "player": "Calle Sandin",
-      "skill": 5.0,
-      "player_slug": "calle-sandin",
-      "change": -5.0
+      "winner_name": "Olle Strandberg",
+      "loser_name": "Niklas Solberg",
+      "winner_win_prob": 0.10056313429826293,
+      "stage": "kvartsfinal"
     },
     {
-      "player": "Johanna R\u00e5dstr\u00f6m",
-      "skill": -20.0,
-      "player_slug": "johanna-radstrom",
-      "change": -7.0
+      "winner_name": "Linnea Karlsson",
+      "loser_name": "Pia T\u00f6rnkvist",
+      "winner_win_prob": 0.135086571001507,
+      "stage": "\u00e5ttondelsfinal"
     },
     {
-      "player": "Theodore Ripman",
-      "skill": 202.0,
-      "player_slug": "theodore-ripman",
-      "change": -8.0
+      "winner_name": "Pia T\u00f6rnkvist",
+      "loser_name": "Gabriel Nordenankar",
+      "winner_win_prob": 0.14414124555526953,
+      "stage": "gruppspel"
     },
     {
-      "player": "Robin Fogelberg",
-      "skill": 171.0,
-      "player_slug": "robin-fogelberg",
-      "change": -8.0
+      "winner_name": "Caroline Edholm",
+      "loser_name": "Jens Hultkrans",
+      "winner_win_prob": 0.16232296664685575,
+      "stage": "gruppspel"
     },
     {
-      "player": "Kajsa Hallberg-Nor.",
-      "skill": -42.0,
-      "player_slug": "kajsa-hallberg-nor",
-      "change": -10.0
+      "winner_name": "Simon B\u00f6hm",
+      "loser_name": "Theodore Ripman",
+      "winner_win_prob": 0.18875447087817732,
+      "stage": "gruppspel"
     },
     {
-      "player": "Jens Hultkrans",
-      "skill": 168.0,
-      "player_slug": "jens-hultkrans",
-      "change": -12.0
+      "winner_name": "Martyna",
+      "loser_name": "Emma Bergmark",
+      "winner_win_prob": 0.20421689531518616,
+      "stage": "sextondelsfinal"
     },
     {
-      "player": "Robin Linderborg",
-      "skill": 159.0,
-      "player_slug": "robin-linderborg",
-      "change": -13.0
+      "winner_name": "Pia T\u00f6rnkvist",
+      "loser_name": "Ville Nordenankar",
+      "winner_win_prob": 0.20865399062046103,
+      "stage": "gruppspel"
     },
     {
-      "player": "Gabriel Nordenankar",
-      "skill": 223.0,
-      "player_slug": "gabriel-nordenankar",
-      "change": -19.0
+      "winner_name": "Emma Bergmark",
+      "loser_name": "Gabriel Nordenankar",
+      "winner_win_prob": 0.2110863718813541,
+      "stage": "gruppspel"
     },
     {
-      "player": "Edvin Lindsten",
-      "skill": 181.0,
-      "player_slug": "edvin-lindsten",
-      "change": -21.0
-    },
-    {
-      "player": "Linn Enhage",
-      "skill": 50.0,
-      "player_slug": "linn-enhage",
-      "change": -23.0
-    },
-    {
-      "player": "Mina Kheirkhah",
-      "skill": 124.0,
-      "player_slug": "mina-kheirkhah",
-      "change": -31.0
-    },
-    {
-      "player": "Ville Nordenankar",
-      "skill": 126.0,
-      "player_slug": "ville-nordenankar",
-      "change": -32.0
-    },
-    {
-      "player": "Micke Leyi",
-      "skill": 92.0,
-      "player_slug": "micke-leyi",
-      "change": -38.0
+      "winner_name": "Hannes Jordan",
+      "loser_name": "Robin Fogelberg",
+      "winner_win_prob": 0.21736029567489534,
+      "stage": "sextondelsfinal"
     }
   ]
 }

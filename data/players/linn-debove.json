@@ -7,13 +7,13 @@
     2018
   ],
   "win_rate": 0.25,
-  "opponent_score_share": 0.5126051469190682,
+  "opponent_score_share": 0.5128804448632738,
   "skill": 62.815164428280305,
   "skill_sigma": 51.6960067399774,
   "name": "Linn Debove",
   "slug": "linn-debove",
-  "skill_rank": 84.0,
-  "skill_rank_pct": 84.0,
+  "skill_rank": 90.0,
+  "skill_rank_pct": 90.0,
   "skill_history": [
     [
       2011,
@@ -42,6 +42,10 @@
     [
       2020,
       null
+    ],
+    [
+      2021,
+      null
     ]
   ],
   "tournaments": [
@@ -55,6 +59,44 @@
         "is_winner": true,
         "stage": "gruppspel"
       },
+      "games": [
+        {
+          "game_id": 65,
+          "year": 2016,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Linn Debove",
+          "score": 0,
+          "score_share": 0.0,
+          "win_prob": 0.5424430845405364,
+          "opponent_name": "Erik Nordenankar",
+          "opponent_score": 8,
+          "opponent_score_share": 1.0,
+          "opponent_win_prob": 0.45755691545946364,
+          "is_winner": false,
+          "opponent_slug": "erik-nordenankar",
+          "opponent_hist_score_share": 0.6925923706869999
+        },
+        {
+          "game_id": 50,
+          "year": 2016,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Linn Debove",
+          "score": 7,
+          "score_share": 0.875,
+          "win_prob": 0.37513941205378376,
+          "opponent_name": "Cissi Hellman",
+          "opponent_score": 1,
+          "opponent_score_share": 0.125,
+          "opponent_win_prob": 0.6248605879462162,
+          "is_winner": true,
+          "opponent_slug": "cissi-hellman",
+          "opponent_hist_score_share": 0.48071302791411474
+        }
+      ],
       "n_games": 2,
       "n_wins": 1
     },
@@ -68,6 +110,44 @@
         "is_winner": false,
         "stage": "gruppspel"
       },
+      "games": [
+        {
+          "game_id": 200,
+          "year": 2018,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Linn Debove",
+          "score": 4,
+          "score_share": 0.3333333333333333,
+          "win_prob": 0.7488030731336727,
+          "opponent_name": "Love Elfvelin",
+          "opponent_score": 8,
+          "opponent_score_share": 0.6666666666666666,
+          "opponent_win_prob": 0.25119692686632733,
+          "is_winner": false,
+          "opponent_slug": "love-elfvelin",
+          "opponent_hist_score_share": 0.4349618635332921
+        },
+        {
+          "game_id": 171,
+          "year": 2018,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Linn Debove",
+          "score": 5,
+          "score_share": 0.4166666666666667,
+          "win_prob": 0.5918261903309803,
+          "opponent_name": "Mina Kheirkhah",
+          "opponent_score": 7,
+          "opponent_score_share": 0.5833333333333334,
+          "opponent_win_prob": 0.4081738096690197,
+          "is_winner": false,
+          "opponent_slug": "mina-kheirkhah",
+          "opponent_hist_score_share": 0.4432545173186885
+        }
+      ],
       "n_games": 2,
       "n_wins": 0
     }
