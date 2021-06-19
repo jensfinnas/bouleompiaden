@@ -8,60 +8,10 @@
 
   <div class="jumbotron">
     <h1>Bouleympiaden</h1>
-    <p class="lead">Matchsimulator och spelarranking</p>
+    <p class="lead">Statistik, ranking, matchsimulering och annan siffernörderi.</p>
   </div>
 
-  <div class="card text-white bg-primary mb-3">
-    <div class="card-header">Simulera en match</div>
-    <div class="card-body">
-      <h4 class="card-title">Vem vinner om...</h4>
-      <p class="card-text">
-        <select class="player form-control" id="player1">
-          <option value="">Spelare 1</option>
-          {% for player in players  %}
-            <option value="{{player.name}}">{{player.name}}</option>
-          {% endfor %}
-        </select>
-
-        <p>spelar mot</p>
-
-        <select class="player form-control" id="player2">
-          <option value="">Spelare 2</option>
-          {% for player in players  %}
-            <option value="{{player.name}}">{{player.name}}</option>
-          {% endfor %}
-          <option value="">...</option>
-          <option value="Ny spelare">Ny spelare</option>
-        </select>
-      </p>
-    </div>
-  </div>
-
-
-  <div id="loading" class="text-center" style="display:none;">
-      <div class="spinner-border text-primary" role="status">
-        <span class="sr-only">Loading...</span>
-      </div>
-      <h5>Simulerar matcher...</h5>
-  </div>
-
-  <div id="result-container" class="card bg-light mb-3" style="display:none;">
-    <div class="card-body">
-      <h4 class="card-title">Resultat</h4>
-      <p class="card-text">
-        <div id="result">
-        </div>
-      </p>
-    </div>
-  </div>
-
-  <div class="card bg-light mb-3">
-    <div class="card-body">
-      <h4 class="card-title">Resultat år för år</h4>
-      <div class="card-text">
-        {% include 'includes/year_selector.html' %}
-    </div>
-  </div>
+  {% include 'includes/card_year_selector.html' %}
 
 
   <div class="card bg-light mb-3">

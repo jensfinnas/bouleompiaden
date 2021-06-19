@@ -23,11 +23,7 @@ jsglue = JSGlue(app)
 
 @app.route("/", methods=["GET"])
 def site_index():
-    all_players = players.all()
-    # Hackishly remove all players without both first and last name
-    allowed_first_names = ["Robeson", "Estrid"]
-    all_players = [x for x in all_players if (" " in x["name"]) or
-                                             (x["name"] in allowed_first_names)]
+    all_players = _get_all_players()
 
     context = {
         "players": all_players,
@@ -40,6 +36,20 @@ def site_index():
         context["marathon_table"] = json.load(f)
 
     return render_template('index.html', **context)
+
+@app.route("/simulera-match", methods=["GET"])
+def simulate_game_index():
+    all_players = _get_all_players()
+    context = {
+        "players": all_players,
+        "base_skill": TRUE_SKILL_BASE,
+    }
+    # number of players etc.
+    context.update(players.metadata)
+
+    return render_template('simulate_game.html', **context)
+
+
 
 @app.route("/spelare/<player_slug>", methods=["GET"])
 def player_index(player_slug):
@@ -178,6 +188,20 @@ def translate(key):
     except KeyError:
         return key
 
+###
+# Helpers
+###
+def _get_all_players():
+    all_players = players.all()
+    # Hackishly remove all players without both first and last name
+    allowed_first_names = ["Robeson", "Estrid"]
+    all_players = [x for x in all_players if (" " in x["name"]) or
+                                            (x["name"] in allowed_first_names)]
+    return all_players
+
+###
+# TEMPLATE FIlTERS
+###
 @app.template_filter('slugify')
 def slugify_filter(s):
     return slugify(s)

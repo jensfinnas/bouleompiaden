@@ -86,6 +86,17 @@
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
         <div class="container-fluid">
           <a class="navbar-brand" href="{{url_for('site_index')}}">Bouleympiaden</a>
+          
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+              <li class="nav-item">
+                <a class="nav-link" href="{{url_for('simulate_game_index')}}">Simulera en match</a>
+              </li>
+            </ul>
+          </div>
         </div>
     </nav>
     <main role="main" class="">
@@ -94,11 +105,6 @@
 
 
       <script type="text/javascript">
-        var $player1 = $("#player1");
-        var $player2 = $("#player2");
-        var $result = $("#result");
-        var $resultContainer = $("#result-container");
-        var $loading = $("#loading");
 
         function initChart($elem) {
             var data = $elem.data("series");
@@ -151,48 +157,7 @@
             });
         }
 
-        $("#player1,#player2").change(function() {
-          var p1 = $player1.val();
-          var p2 = $player2.val();
-          window.location.hash = p1 + "-vs-" + p2;
-        })
 
-        $(window).bind('hashchange', function(e) {
-          var players = decodeURIComponent(window.location.hash.replace("#","")).split("-vs-");
-          var p1 = players[0];
-          var p2 = players[1];
-          $player1.val(p1);
-          $player2.val(p2);
-          if (p1 != "" && p2 != "") {
-            simulate(p1, p2, function(err, resp) {
-              $resultContainer.show();
-              $result.html(resp);
-            })
-          }
-        });
-
-        if (window.location.hash) {
-          $(window).trigger('hashchange')
-        }
-
-        function simulate(p1, p2, callback) {
-          $loading.show()
-          $resultContainer.hide()
-
-          var url = Flask.url_for("simulate", { //"/dev" + Flask.url_for("simulate", {
-            "fmt": "html",
-            "player1": p1,
-            "player2": p2,
-          })
-          $.get(url, function(resp) {
-            $loading.hide()
-            callback(null, resp)
-          })
-          .fail(function(err) {
-            $loading.hide()
-            callback(err)
-          })
-        }
         
         // hack for making table rows clickable in safari
         function none() {}

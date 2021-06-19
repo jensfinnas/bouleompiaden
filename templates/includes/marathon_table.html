@@ -1,6 +1,7 @@
 <table class="table table-responsive table-striped">
   <thead>
     <tr>
+      <th></th>
       <th>Spelare</th>
       <th>
           Poäng<br>
@@ -33,7 +34,9 @@
 
       {% for player in marathon_table %}
         <tr>
+          <td>{{player.marathon_rank|int}}.</td>
           <td>
+               
               <a href="{{url_for('player_index', player_slug=player.name|slugify)}}">
                 {{ player.name }}
               </a>
