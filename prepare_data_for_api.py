@@ -299,6 +299,13 @@ for year, df_year in df.groupby("year"):
         "year": year,
         "playoff": [],
     }
+    s_final = df_year.set_index("stage").loc["final"]
+    tournament["gold"] = s_final["winner_name"]
+    tournament["silver"] = s_final["loser_name"]
+    if "bronsmatch" in df_year["stage"].unique():
+        s_bronsmatch = df_year.set_index("stage").loc["bronsmatch"]
+        tournament["bronze"] = s_bronsmatch["winner_name"]
+
     # lista slutspelts
     for stage in STAGES:
         if stage in df_year["stage"].unique() and stage != "gruppspel":

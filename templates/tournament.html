@@ -9,10 +9,12 @@
 <div class="jumbotron">
     <h1>Bouleympiaden: {{tournament.year}}</h1>
 
-    <p class="lead margin-top-10">
-        <strong>Guld:</strong> XXX</br>
-        <strong>Silver:</strong> XXX</br>
-        <strong>Brons:</strong> XXX</br>
+    <p class="lead margin-top-30">
+        <strong>Guld:</strong> {{tournament.gold}}</br>
+        <strong>Silver:</strong> {{tournament.silver}}</br>
+        {% if tournament.bronze %}
+          <strong>Brons:</strong> {{tournament.bronze}}</br>      
+        {% endif %}
 
     </p>
 </div>
