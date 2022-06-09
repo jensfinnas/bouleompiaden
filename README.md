@@ -19,3 +19,4 @@ Kör `make serve` för att starta sajten på lokal server.
 
 ## Deployment
 
+`make deploy`
