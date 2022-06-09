@@ -1,18 +1,19 @@
 {
-  "n_games": 5,
-  "score_share": 0.6127450980392156,
-  "n_wins": 3,
+  "n_games": 10,
+  "score_share": 0.5849962863933452,
+  "n_wins": 6,
   "years": [
-    2020
+    2020,
+    2022
   ],
   "win_rate": 0.6,
-  "opponent_score_share": 0.5053562971133736,
-  "skill": 144.1827800158701,
-  "skill_sigma": 51.682894232073544,
+  "opponent_score_share": 0.5031319368854532,
+  "skill": 155.45674464901768,
+  "skill_sigma": 36.33339689721777,
   "name": "Jon Jeppson",
   "slug": "jon-jeppson",
-  "skill_rank": 34.0,
-  "skill_rank_pct": 34.0,
+  "skill_rank": 31.0,
+  "skill_rank_pct": 31.0,
   "skill_history": [
     [
       2011,
@@ -45,6 +46,10 @@
     [
       2021,
       null
+    ],
+    [
+      2022,
+      155.0
     ]
   ],
   "tournaments": [
@@ -75,7 +80,7 @@
           "opponent_win_prob": 0.19220853590612305,
           "is_winner": true,
           "opponent_slug": "johanna-radstrom",
-          "opponent_hist_score_share": 0.31837560781888513
+          "opponent_hist_score_share": 0.33566966962295686
         },
         {
           "game_id": 388,
@@ -111,7 +116,7 @@
           "opponent_win_prob": 0.6554493168225077,
           "is_winner": true,
           "opponent_slug": "filippa-berencreutz",
-          "opponent_hist_score_share": 0.45041478129713425
+          "opponent_hist_score_share": 0.4869061085972851
         },
         {
           "game_id": 433,
@@ -147,7 +152,112 @@
           "opponent_win_prob": 0.46135736877352096,
           "is_winner": false,
           "opponent_slug": "alexander-starfelt",
-          "opponent_hist_score_share": 0.5512412467133828
+          "opponent_hist_score_share": 0.5523920473153514
+        }
+      ],
+      "n_games": 5,
+      "n_wins": 3
+    },
+    {
+      "year": 2022,
+      "last_game": {
+        "opponent_name": "Johannes Nordenhaag",
+        "opponent_slug": "johannes-nordenhaag",
+        "score": 6,
+        "opponent_score": 10,
+        "is_winner": false,
+        "stage": "\u00e5ttondelsfinal"
+      },
+      "games": [
+        {
+          "game_id": 560,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Jon Jeppson",
+          "score": 9,
+          "score_share": 0.8181818181818182,
+          "win_prob": 0.6519872285932258,
+          "opponent_name": "Ville Nordenankar",
+          "opponent_score": 2,
+          "opponent_score_share": 0.18181818181818182,
+          "opponent_win_prob": 0.34801277140677417,
+          "is_winner": true,
+          "opponent_slug": "ville-nordenankar",
+          "opponent_hist_score_share": 0.39991770382395375
+        },
+        {
+          "game_id": 585,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Jon Jeppson",
+          "score": 7,
+          "score_share": 0.4375,
+          "win_prob": 0.5985707772195594,
+          "opponent_name": "Jakob Gustafsson",
+          "opponent_score": 9,
+          "opponent_score_share": 0.5625,
+          "opponent_win_prob": 0.4014292227804406,
+          "is_winner": false,
+          "opponent_slug": "jakob-gustafsson",
+          "opponent_hist_score_share": 0.4453114287673111
+        },
+        {
+          "game_id": 613,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Jon Jeppson",
+          "score": 9,
+          "score_share": 0.6,
+          "win_prob": 0.647649698160623,
+          "opponent_name": "Albin",
+          "opponent_score": 6,
+          "opponent_score_share": 0.4,
+          "opponent_win_prob": 0.352350301839377,
+          "is_winner": true,
+          "opponent_slug": "albin",
+          "opponent_hist_score_share": 0.4831501831501832
+        },
+        {
+          "game_id": 629,
+          "year": 2022,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p2",
+          "name": "Jon Jeppson",
+          "score": 10,
+          "score_share": 0.5555555555555556,
+          "win_prob": 0.24582937615414746,
+          "opponent_name": "Jakob Gudmundsson",
+          "opponent_score": 8,
+          "opponent_score_share": 0.4444444444444444,
+          "opponent_win_prob": 0.7541706238458525,
+          "is_winner": true,
+          "opponent_slug": "jakob-gudmundsson",
+          "opponent_hist_score_share": 0.5624338624338624
+        },
+        {
+          "game_id": 642,
+          "year": 2022,
+          "stage": "\u00e5ttondelsfinal",
+          "stage_level": 2,
+          "winner": "p1",
+          "name": "Jon Jeppson",
+          "score": 6,
+          "score_share": 0.375,
+          "win_prob": 0.4831703159403866,
+          "opponent_name": "Johannes Nordenhaag",
+          "opponent_score": 10,
+          "opponent_score_share": 0.625,
+          "opponent_win_prob": 0.5168296840596134,
+          "is_winner": false,
+          "opponent_slug": "johannes-nordenhaag",
+          "opponent_hist_score_share": 0.5587885154061625
         }
       ],
       "n_games": 5,
@@ -156,6 +266,7 @@
   ],
   "best_stage": "\u00e5ttondelsfinal",
   "best_stage_years": [
-    2020
+    2020,
+    2022
   ]
 }

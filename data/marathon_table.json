@@ -1,22 +1,22 @@
 [
   {
-    "name": "Erik Nordenankar",
-    "vinnare": 2.0,
-    "final": 0.0,
-    "brons": 2.0,
-    "bronsmatch": 0.0,
-    "kvartsfinal": 2.0,
-    "marathon_score": 24.0,
-    "marathon_rank": 1.0
-  },
-  {
     "name": "Gabriel Nordenankar",
-    "vinnare": 2.0,
+    "vinnare": 3.0,
     "final": 1.0,
     "brons": 0.0,
     "bronsmatch": 0.0,
     "kvartsfinal": 2.0,
-    "marathon_score": 23.0,
+    "marathon_score": 31.0,
+    "marathon_rank": 1.0
+  },
+  {
+    "name": "Erik Nordenankar",
+    "vinnare": 2.0,
+    "final": 0.0,
+    "brons": 3.0,
+    "bronsmatch": 0.0,
+    "kvartsfinal": 2.0,
+    "marathon_score": 27.0,
     "marathon_rank": 2.0
   },
   {
@@ -50,16 +50,6 @@
     "marathon_rank": 5.0
   },
   {
-    "name": "Johan Kjell",
-    "vinnare": 1.0,
-    "final": 0.0,
-    "brons": 0.0,
-    "bronsmatch": 0.0,
-    "kvartsfinal": 0.0,
-    "marathon_score": 8.0,
-    "marathon_rank": 6.0
-  },
-  {
     "name": "Filip Tyd\u00e9n",
     "vinnare": 1.0,
     "final": 0.0,
@@ -70,24 +60,24 @@
     "marathon_rank": 6.0
   },
   {
-    "name": "Jens Hultkrans",
-    "vinnare": 0.0,
-    "final": 1.0,
+    "name": "Johan Kjell",
+    "vinnare": 1.0,
+    "final": 0.0,
     "brons": 0.0,
     "bronsmatch": 0.0,
-    "kvartsfinal": 2.0,
-    "marathon_score": 7.0,
-    "marathon_rank": 8.0
+    "kvartsfinal": 0.0,
+    "marathon_score": 8.0,
+    "marathon_rank": 6.0
   },
   {
-    "name": "Benjamin Ger. Hed.",
+    "name": "Robin Fogelberg",
     "vinnare": 0.0,
     "final": 1.0,
     "brons": 0.0,
-    "bronsmatch": 0.0,
-    "kvartsfinal": 2.0,
-    "marathon_score": 7.0,
-    "marathon_rank": 8.0
+    "bronsmatch": 1.0,
+    "kvartsfinal": 1.0,
+    "marathon_score": 8.0,
+    "marathon_rank": 6.0
   },
   {
     "name": "Edvin Lindsten",
@@ -97,17 +87,37 @@
     "bronsmatch": 1.0,
     "kvartsfinal": 0.0,
     "marathon_score": 7.0,
-    "marathon_rank": 8.0
+    "marathon_rank": 9.0
   },
   {
-    "name": "Olle Strandberg",
+    "name": "Pelle Dovborg",
+    "vinnare": 0.0,
+    "final": 0.0,
+    "brons": 1.0,
+    "bronsmatch": 1.0,
+    "kvartsfinal": 2.0,
+    "marathon_score": 7.0,
+    "marathon_rank": 9.0
+  },
+  {
+    "name": "Benjamin Ger. Hed.",
     "vinnare": 0.0,
     "final": 1.0,
     "brons": 0.0,
     "bronsmatch": 0.0,
-    "kvartsfinal": 1.0,
-    "marathon_score": 6.0,
-    "marathon_rank": 11.0
+    "kvartsfinal": 2.0,
+    "marathon_score": 7.0,
+    "marathon_rank": 9.0
+  },
+  {
+    "name": "Jens Hultkrans",
+    "vinnare": 0.0,
+    "final": 1.0,
+    "brons": 0.0,
+    "bronsmatch": 0.0,
+    "kvartsfinal": 2.0,
+    "marathon_score": 7.0,
+    "marathon_rank": 9.0
   },
   {
     "name": "Jerker Karlsson",
@@ -117,16 +127,16 @@
     "bronsmatch": 1.0,
     "kvartsfinal": 1.0,
     "marathon_score": 6.0,
-    "marathon_rank": 11.0
+    "marathon_rank": 13.0
   },
   {
-    "name": "Pelle Dovborg",
+    "name": "Olle Strandberg",
     "vinnare": 0.0,
-    "final": 0.0,
-    "brons": 1.0,
+    "final": 1.0,
+    "brons": 0.0,
     "bronsmatch": 0.0,
-    "kvartsfinal": 2.0,
-    "marathon_score": 5.0,
+    "kvartsfinal": 1.0,
+    "marathon_score": 6.0,
     "marathon_rank": 13.0
   },
   {
@@ -137,7 +147,7 @@
     "bronsmatch": 0.0,
     "kvartsfinal": 0.0,
     "marathon_score": 5.0,
-    "marathon_rank": 13.0
+    "marathon_rank": 15.0
   },
   {
     "name": "Johan Alm",
@@ -147,7 +157,7 @@
     "bronsmatch": 0.0,
     "kvartsfinal": 0.0,
     "marathon_score": 5.0,
-    "marathon_rank": 13.0
+    "marathon_rank": 15.0
   },
   {
     "name": "Estrid",
@@ -157,27 +167,7 @@
     "bronsmatch": 1.0,
     "kvartsfinal": 1.0,
     "marathon_score": 3.0,
-    "marathon_rank": 16.0
-  },
-  {
-    "name": "Robin Fogelberg",
-    "vinnare": 0.0,
-    "final": 0.0,
-    "brons": 0.0,
-    "bronsmatch": 1.0,
-    "kvartsfinal": 1.0,
-    "marathon_score": 3.0,
-    "marathon_rank": 16.0
-  },
-  {
-    "name": "Richard Ekman",
-    "vinnare": 0.0,
-    "final": 0.0,
-    "brons": 0.0,
-    "bronsmatch": 0.0,
-    "kvartsfinal": 2.0,
-    "marathon_score": 2.0,
-    "marathon_rank": 18.0
+    "marathon_rank": 17.0
   },
   {
     "name": "Daniel Mensak",
@@ -186,6 +176,16 @@
     "brons": 0.0,
     "bronsmatch": 1.0,
     "kvartsfinal": 0.0,
+    "marathon_score": 2.0,
+    "marathon_rank": 18.0
+  },
+  {
+    "name": "Richard Ekman",
+    "vinnare": 0.0,
+    "final": 0.0,
+    "brons": 0.0,
+    "bronsmatch": 0.0,
+    "kvartsfinal": 2.0,
     "marathon_score": 2.0,
     "marathon_rank": 18.0
   },
@@ -200,7 +200,7 @@
     "marathon_rank": 18.0
   },
   {
-    "name": "John Kjellkvist",
+    "name": "Niklas Solberg",
     "vinnare": 0.0,
     "final": 0.0,
     "brons": 0.0,
@@ -210,57 +210,7 @@
     "marathon_rank": 21.0
   },
   {
-    "name": "Josefin Asplund",
-    "vinnare": 0.0,
-    "final": 0.0,
-    "brons": 0.0,
-    "bronsmatch": 0.0,
-    "kvartsfinal": 1.0,
-    "marathon_score": 1.0,
-    "marathon_rank": 21.0
-  },
-  {
-    "name": "Ville Nordenankar",
-    "vinnare": 0.0,
-    "final": 0.0,
-    "brons": 0.0,
-    "bronsmatch": 0.0,
-    "kvartsfinal": 1.0,
-    "marathon_score": 1.0,
-    "marathon_rank": 21.0
-  },
-  {
-    "name": "Alexander Starfelt",
-    "vinnare": 0.0,
-    "final": 0.0,
-    "brons": 0.0,
-    "bronsmatch": 0.0,
-    "kvartsfinal": 1.0,
-    "marathon_score": 1.0,
-    "marathon_rank": 21.0
-  },
-  {
-    "name": "Patrik J\u00e4rg\u00e5rden",
-    "vinnare": 0.0,
-    "final": 0.0,
-    "brons": 0.0,
-    "bronsmatch": 0.0,
-    "kvartsfinal": 1.0,
-    "marathon_score": 1.0,
-    "marathon_rank": 21.0
-  },
-  {
-    "name": "Andreas Josefson",
-    "vinnare": 0.0,
-    "final": 0.0,
-    "brons": 0.0,
-    "bronsmatch": 0.0,
-    "kvartsfinal": 1.0,
-    "marathon_score": 1.0,
-    "marathon_rank": 21.0
-  },
-  {
-    "name": "Love Andr\u00e9asson",
+    "name": "Erik Numan",
     "vinnare": 0.0,
     "final": 0.0,
     "brons": 0.0,
@@ -280,7 +230,17 @@
     "marathon_rank": 21.0
   },
   {
-    "name": "Niklas Solberg",
+    "name": "Patrik J\u00e4rg\u00e5rden",
+    "vinnare": 0.0,
+    "final": 0.0,
+    "brons": 0.0,
+    "bronsmatch": 0.0,
+    "kvartsfinal": 1.0,
+    "marathon_score": 1.0,
+    "marathon_rank": 21.0
+  },
+  {
+    "name": "Love Andr\u00e9asson",
     "vinnare": 0.0,
     "final": 0.0,
     "brons": 0.0,
@@ -301,6 +261,86 @@
   },
   {
     "name": "Linnea Karlsson",
+    "vinnare": 0.0,
+    "final": 0.0,
+    "brons": 0.0,
+    "bronsmatch": 0.0,
+    "kvartsfinal": 1.0,
+    "marathon_score": 1.0,
+    "marathon_rank": 21.0
+  },
+  {
+    "name": "Johannes Nordenhaag",
+    "vinnare": 0.0,
+    "final": 0.0,
+    "brons": 0.0,
+    "bronsmatch": 0.0,
+    "kvartsfinal": 1.0,
+    "marathon_score": 1.0,
+    "marathon_rank": 21.0
+  },
+  {
+    "name": "John Kjellkvist",
+    "vinnare": 0.0,
+    "final": 0.0,
+    "brons": 0.0,
+    "bronsmatch": 0.0,
+    "kvartsfinal": 1.0,
+    "marathon_score": 1.0,
+    "marathon_rank": 21.0
+  },
+  {
+    "name": "Hannes Jordan",
+    "vinnare": 0.0,
+    "final": 0.0,
+    "brons": 0.0,
+    "bronsmatch": 0.0,
+    "kvartsfinal": 1.0,
+    "marathon_score": 1.0,
+    "marathon_rank": 21.0
+  },
+  {
+    "name": "Josefin Asplund",
+    "vinnare": 0.0,
+    "final": 0.0,
+    "brons": 0.0,
+    "bronsmatch": 0.0,
+    "kvartsfinal": 1.0,
+    "marathon_score": 1.0,
+    "marathon_rank": 21.0
+  },
+  {
+    "name": "Andreas Josefson",
+    "vinnare": 0.0,
+    "final": 0.0,
+    "brons": 0.0,
+    "bronsmatch": 0.0,
+    "kvartsfinal": 1.0,
+    "marathon_score": 1.0,
+    "marathon_rank": 21.0
+  },
+  {
+    "name": "Amanda Engstr\u00f6m",
+    "vinnare": 0.0,
+    "final": 0.0,
+    "brons": 0.0,
+    "bronsmatch": 0.0,
+    "kvartsfinal": 1.0,
+    "marathon_score": 1.0,
+    "marathon_rank": 21.0
+  },
+  {
+    "name": "Alexander Starfelt",
+    "vinnare": 0.0,
+    "final": 0.0,
+    "brons": 0.0,
+    "bronsmatch": 0.0,
+    "kvartsfinal": 1.0,
+    "marathon_score": 1.0,
+    "marathon_rank": 21.0
+  },
+  {
+    "name": "Ville Nordenankar",
     "vinnare": 0.0,
     "final": 0.0,
     "brons": 0.0,

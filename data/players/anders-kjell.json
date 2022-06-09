@@ -1,18 +1,19 @@
 {
-  "n_games": 3,
-  "score_share": 0.2769230769230769,
+  "n_games": 5,
+  "score_share": 0.22865384615384618,
   "n_wins": 1,
   "years": [
-    2021
+    2021,
+    2022
   ],
-  "win_rate": 0.3333333333333333,
-  "opponent_score_share": 0.5422838452974371,
-  "skill": 51.51258252484005,
-  "skill_sigma": 60.835789136477075,
+  "win_rate": 0.2,
+  "opponent_score_share": 0.520542138202355,
+  "skill": 31.70301180549212,
+  "skill_sigma": 53.33840117059806,
   "name": "Anders Kjell",
   "slug": "anders-kjell",
-  "skill_rank": 97.0,
-  "skill_rank_pct": 97.0,
+  "skill_rank": 121.0,
+  "skill_rank_pct": 121.0,
   "skill_history": [
     [
       2011,
@@ -45,6 +46,10 @@
     [
       2021,
       52.0
+    ],
+    [
+      2022,
+      32.0
     ]
   ],
   "tournaments": [
@@ -75,7 +80,7 @@
           "opponent_win_prob": 0.7012582208153944,
           "is_winner": false,
           "opponent_slug": "patrik-jargarden",
-          "opponent_hist_score_share": 0.6351246421433587
+          "opponent_hist_score_share": 0.599091404238463
         },
         {
           "game_id": 462,
@@ -93,7 +98,7 @@
           "opponent_win_prob": 0.43717422361548175,
           "is_winner": false,
           "opponent_slug": "bjorn-berglund",
-          "opponent_hist_score_share": 0.5564327761018938
+          "opponent_hist_score_share": 0.5384795542148484
         },
         {
           "game_id": 501,
@@ -116,10 +121,62 @@
       ],
       "n_games": 3,
       "n_wins": 1
+    },
+    {
+      "year": 2022,
+      "last_game": {
+        "opponent_name": "Carl Rother-Schirren",
+        "opponent_slug": "carl-rother-schirren",
+        "score": 5,
+        "opponent_score": 11,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "games": [
+        {
+          "game_id": 607,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Anders Kjell",
+          "score": 0,
+          "score_share": 0.0,
+          "win_prob": 0.08963361933827198,
+          "opponent_name": "Jerker Karlsson",
+          "opponent_score": 10,
+          "opponent_score_share": 1.0,
+          "opponent_win_prob": 0.910366380661728,
+          "is_winner": false,
+          "opponent_slug": "jerker-karlsson",
+          "opponent_hist_score_share": 0.5304547767047768
+        },
+        {
+          "game_id": 577,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Anders Kjell",
+          "score": 5,
+          "score_share": 0.3125,
+          "win_prob": 0.22987025098718192,
+          "opponent_name": "Carl Rother-Schirren",
+          "opponent_score": 11,
+          "opponent_score_share": 0.6875,
+          "opponent_win_prob": 0.770129749012818,
+          "is_winner": false,
+          "opponent_slug": "carl-rother-schirren",
+          "opponent_hist_score_share": 0.4993908382066278
+        }
+      ],
+      "n_games": 2,
+      "n_wins": 0
     }
   ],
   "best_stage": "gruppspel",
   "best_stage_years": [
-    2021
+    2021,
+    2022
   ]
 }

@@ -1,21 +1,22 @@
 {
-  "n_games": 15,
-  "score_share": 0.5761679966633527,
-  "n_wins": 11,
+  "n_games": 19,
+  "score_share": 0.580606891524278,
+  "n_wins": 13,
   "years": [
     2012,
     2017,
     2018,
-    2021
+    2021,
+    2022
   ],
-  "win_rate": 0.7333333333333333,
-  "opponent_score_share": 0.5126397576421945,
-  "skill": 196.22344809350383,
-  "skill_sigma": 30.12774121882319,
+  "win_rate": 0.6842105263157895,
+  "opponent_score_share": 0.5021908604467694,
+  "skill": 186.14234707777132,
+  "skill_sigma": 26.398124562548144,
   "name": "Johan Kjell",
   "slug": "johan-kjell",
-  "skill_rank": 10.0,
-  "skill_rank_pct": 10.0,
+  "skill_rank": 12.0,
+  "skill_rank_pct": 12.0,
   "skill_history": [
     [
       2011,
@@ -48,6 +49,10 @@
     [
       2021,
       196.0
+    ],
+    [
+      2022,
+      186.0
     ]
   ],
   "tournaments": [
@@ -78,7 +83,7 @@
           "opponent_win_prob": 0.23720749099205207,
           "is_winner": true,
           "opponent_slug": "jerker-karlsson",
-          "opponent_hist_score_share": 0.5206712624981856
+          "opponent_hist_score_share": 0.5304547767047768
         },
         {
           "game_id": 24,
@@ -96,7 +101,7 @@
           "opponent_win_prob": 0.5000000150000002,
           "is_winner": true,
           "opponent_slug": "jerker-karlsson",
-          "opponent_hist_score_share": 0.5206712624981856
+          "opponent_hist_score_share": 0.5304547767047768
         }
       ],
       "n_games": 2,
@@ -129,7 +134,7 @@
           "opponent_win_prob": 0.3107781765585469,
           "is_winner": false,
           "opponent_slug": "ville-nordenankar",
-          "opponent_hist_score_share": 0.4128117913832199
+          "opponent_hist_score_share": 0.39991770382395375
         },
         {
           "game_id": 112,
@@ -180,7 +185,7 @@
           "opponent_win_prob": 0.3066335107116617,
           "is_winner": false,
           "opponent_slug": "sofia-orning",
-          "opponent_hist_score_share": 0.4190329941708618
+          "opponent_hist_score_share": 0.40345667857922757
         },
         {
           "game_id": 194,
@@ -216,7 +221,7 @@
           "opponent_win_prob": 0.597040438317912,
           "is_winner": true,
           "opponent_slug": "robeson",
-          "opponent_hist_score_share": 0.5907463227674689
+          "opponent_hist_score_share": 0.5815109019537957
         },
         {
           "game_id": 226,
@@ -270,7 +275,7 @@
           "opponent_win_prob": 0.6366262287811424,
           "is_winner": true,
           "opponent_slug": "theodore-ripman",
-          "opponent_hist_score_share": 0.5584493013252412
+          "opponent_hist_score_share": 0.5684301946084984
         },
         {
           "game_id": 245,
@@ -288,7 +293,7 @@
           "opponent_win_prob": 0.7278532771217605,
           "is_winner": true,
           "opponent_slug": "erik-nordenankar",
-          "opponent_hist_score_share": 0.6925923706869999
+          "opponent_hist_score_share": 0.6815916514882377
         },
         {
           "game_id": 247,
@@ -339,7 +344,7 @@
           "opponent_win_prob": 0.3330699883856547,
           "is_winner": true,
           "opponent_slug": "magnus-enlund",
-          "opponent_hist_score_share": 0.5759506833036245
+          "opponent_hist_score_share": 0.5090642472995414
         },
         {
           "game_id": 468,
@@ -357,7 +362,7 @@
           "opponent_win_prob": 0.21471621670427565,
           "is_winner": true,
           "opponent_slug": "hilda-dahlberg",
-          "opponent_hist_score_share": 0.43452380952380953
+          "opponent_hist_score_share": 0.481198489010989
         },
         {
           "game_id": 534,
@@ -375,10 +380,97 @@
           "opponent_win_prob": 0.21890721824213222,
           "is_winner": false,
           "opponent_slug": "calle-buddee-roos",
-          "opponent_hist_score_share": 0.5248308270676691
+          "opponent_hist_score_share": 0.5140866873065015
         }
       ],
       "n_games": 3,
+      "n_wins": 2
+    },
+    {
+      "year": 2022,
+      "last_game": {
+        "opponent_name": "Erik Numan",
+        "opponent_slug": "erik-numan",
+        "score": 4,
+        "opponent_score": 10,
+        "is_winner": false,
+        "stage": "\u00e5ttondelsfinal"
+      },
+      "games": [
+        {
+          "game_id": 588,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Johan Kjell",
+          "score": 5,
+          "score_share": 0.35714285714285715,
+          "win_prob": 0.4510073494717037,
+          "opponent_name": "Theodore Ripman",
+          "opponent_score": 9,
+          "opponent_score_share": 0.6428571428571429,
+          "opponent_win_prob": 0.5489926505282963,
+          "is_winner": false,
+          "opponent_slug": "theodore-ripman",
+          "opponent_hist_score_share": 0.5684301946084984
+        },
+        {
+          "game_id": 616,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Johan Kjell",
+          "score": 9,
+          "score_share": 0.9,
+          "win_prob": 0.8170200703456441,
+          "opponent_name": "Emma Frenn\u00e5s",
+          "opponent_score": 1,
+          "opponent_score_share": 0.1,
+          "opponent_win_prob": 0.18297992965435594,
+          "is_winner": true,
+          "opponent_slug": "emma-frennas",
+          "opponent_hist_score_share": 0.3791666666666667
+        },
+        {
+          "game_id": 633,
+          "year": 2022,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p2",
+          "name": "Johan Kjell",
+          "score": 11,
+          "score_share": 0.8461538461538461,
+          "win_prob": 0.6778457320184204,
+          "opponent_name": "Jakob Gustafsson",
+          "opponent_score": 2,
+          "opponent_score_share": 0.15384615384615385,
+          "opponent_win_prob": 0.3221542679815796,
+          "is_winner": true,
+          "opponent_slug": "jakob-gustafsson",
+          "opponent_hist_score_share": 0.4453114287673111
+        },
+        {
+          "game_id": 644,
+          "year": 2022,
+          "stage": "\u00e5ttondelsfinal",
+          "stage_level": 2,
+          "winner": "p1",
+          "name": "Johan Kjell",
+          "score": 4,
+          "score_share": 0.2857142857142857,
+          "win_prob": 0.641287548954524,
+          "opponent_name": "Erik Numan",
+          "opponent_score": 10,
+          "opponent_score_share": 0.7142857142857143,
+          "opponent_win_prob": 0.358712451045476,
+          "is_winner": false,
+          "opponent_slug": "erik-numan",
+          "opponent_hist_score_share": 0.509236211558193
+        }
+      ],
+      "n_games": 4,
       "n_wins": 2
     }
   ],

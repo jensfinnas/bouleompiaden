@@ -1,22 +1,23 @@
 {
-  "n_games": 25,
-  "score_share": 0.5806306275423923,
-  "n_wins": 18,
+  "n_games": 28,
+  "score_share": 0.5937790548374914,
+  "n_wins": 20,
   "years": [
     2017,
     2018,
     2019,
     2020,
-    2021
+    2021,
+    2022
   ],
-  "win_rate": 0.72,
-  "opponent_score_share": 0.4985121610724339,
-  "skill": 201.00280418872512,
-  "skill_sigma": 24.495195318448886,
+  "win_rate": 0.7142857142857143,
+  "opponent_score_share": 0.48782938691864847,
+  "skill": 194.81292104194475,
+  "skill_sigma": 23.238210320825715,
   "name": "Benjamin Ger. Hed.",
   "slug": "benjamin-ger-hed",
-  "skill_rank": 9.0,
-  "skill_rank_pct": 9.0,
+  "skill_rank": 10.0,
+  "skill_rank_pct": 10.0,
   "skill_history": [
     [
       2011,
@@ -49,6 +50,10 @@
     [
       2021,
       201.0
+    ],
+    [
+      2022,
+      195.0
     ]
   ],
   "tournaments": [
@@ -73,13 +78,13 @@
           "score": 8,
           "score_share": 0.6666666666666666,
           "win_prob": 0.525411738247801,
-          "opponent_name": "Mathilda Hansson",
+          "opponent_name": "Mathilda Gr\u00f6nborg",
           "opponent_score": 4,
           "opponent_score_share": 0.3333333333333333,
           "opponent_win_prob": 0.47458826175219904,
           "is_winner": true,
-          "opponent_slug": "mathilda-hansson",
-          "opponent_hist_score_share": 0.44249639249639244
+          "opponent_slug": "mathilda-gronborg",
+          "opponent_hist_score_share": 0.3719416386083052
         },
         {
           "game_id": 98,
@@ -109,13 +114,13 @@
           "score": 9,
           "score_share": 0.6,
           "win_prob": 0.6790703537645644,
-          "opponent_name": "Mathilda Hansson",
+          "opponent_name": "Mathilda Gr\u00f6nborg",
           "opponent_score": 6,
           "opponent_score_share": 0.4,
           "opponent_win_prob": 0.32092964623543563,
           "is_winner": true,
-          "opponent_slug": "mathilda-hansson",
-          "opponent_hist_score_share": 0.44249639249639244
+          "opponent_slug": "mathilda-gronborg",
+          "opponent_hist_score_share": 0.3719416386083052
         },
         {
           "game_id": 140,
@@ -133,7 +138,7 @@
           "opponent_win_prob": 0.5050667530260426,
           "is_winner": false,
           "opponent_slug": "gabriel-nordenankar",
-          "opponent_hist_score_share": 0.6387546156727935
+          "opponent_hist_score_share": 0.6515913176295751
         }
       ],
       "n_games": 4,
@@ -253,7 +258,7 @@
           "opponent_win_prob": 0.3759635423932284,
           "is_winner": false,
           "opponent_slug": "lovisa-birgersson",
-          "opponent_hist_score_share": 0.607092662239721
+          "opponent_hist_score_share": 0.5760537256860787
         },
         {
           "game_id": 325,
@@ -271,7 +276,7 @@
           "opponent_win_prob": 0.22001784933717272,
           "is_winner": true,
           "opponent_slug": "bjorn-berglund",
-          "opponent_hist_score_share": 0.5564327761018938
+          "opponent_hist_score_share": 0.5384795542148484
         },
         {
           "game_id": 274,
@@ -379,7 +384,7 @@
           "opponent_win_prob": 0.4874735161603627,
           "is_winner": false,
           "opponent_slug": "theodore-ripman",
-          "opponent_hist_score_share": 0.5584493013252412
+          "opponent_hist_score_share": 0.5684301946084984
         }
       ],
       "n_games": 8,
@@ -448,7 +453,7 @@
           "opponent_win_prob": 0.10697023150309604,
           "is_winner": true,
           "opponent_slug": "jakob-gustafsson",
-          "opponent_hist_score_share": 0.4505012589905638
+          "opponent_hist_score_share": 0.4453114287673111
         },
         {
           "game_id": 435,
@@ -466,7 +471,7 @@
           "opponent_win_prob": 0.3940590511961413,
           "is_winner": false,
           "opponent_slug": "robeson",
-          "opponent_hist_score_share": 0.5907463227674689
+          "opponent_hist_score_share": 0.5815109019537957
         }
       ],
       "n_games": 4,
@@ -499,7 +504,7 @@
           "opponent_win_prob": 0.2625489029839636,
           "is_winner": true,
           "opponent_slug": "patrik-jargarden",
-          "opponent_hist_score_share": 0.6351246421433587
+          "opponent_hist_score_share": 0.599091404238463
         },
         {
           "game_id": 459,
@@ -517,7 +522,7 @@
           "opponent_win_prob": 0.2204814024551447,
           "is_winner": true,
           "opponent_slug": "gustaf-berencreutz",
-          "opponent_hist_score_share": 0.2857142857142857
+          "opponent_hist_score_share": 0.3536630036630037
         },
         {
           "game_id": 527,
@@ -535,7 +540,7 @@
           "opponent_win_prob": 0.034724148688041634,
           "is_winner": true,
           "opponent_slug": "sofia-orning",
-          "opponent_hist_score_share": 0.4190329941708618
+          "opponent_hist_score_share": 0.40345667857922757
         },
         {
           "game_id": 540,
@@ -553,7 +558,7 @@
           "opponent_win_prob": 0.22035164029294707,
           "is_winner": true,
           "opponent_slug": "jakob-gustafsson",
-          "opponent_hist_score_share": 0.4505012589905638
+          "opponent_hist_score_share": 0.4453114287673111
         },
         {
           "game_id": 546,
@@ -571,11 +576,80 @@
           "opponent_win_prob": 0.6333810943117011,
           "is_winner": false,
           "opponent_slug": "gabriel-nordenankar",
-          "opponent_hist_score_share": 0.6387546156727935
+          "opponent_hist_score_share": 0.6515913176295751
         }
       ],
       "n_games": 5,
       "n_wins": 4
+    },
+    {
+      "year": 2022,
+      "last_game": {
+        "opponent_name": "Erik Numan",
+        "opponent_slug": "erik-numan",
+        "score": 9,
+        "opponent_score": 10,
+        "is_winner": false,
+        "stage": "sextondelsfinal"
+      },
+      "games": [
+        {
+          "game_id": 555,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Benjamin Ger. Hed.",
+          "score": 9,
+          "score_share": 0.8181818181818182,
+          "win_prob": 0.9962709379937241,
+          "opponent_name": "Johanna R\u00e5dstr\u00f6m",
+          "opponent_score": 2,
+          "opponent_score_share": 0.18181818181818182,
+          "opponent_win_prob": 0.0037290620062758917,
+          "is_winner": true,
+          "opponent_slug": "johanna-radstrom",
+          "opponent_hist_score_share": 0.33566966962295686
+        },
+        {
+          "game_id": 582,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Benjamin Ger. Hed.",
+          "score": 9,
+          "score_share": 0.8181818181818182,
+          "win_prob": 0.7715266440040187,
+          "opponent_name": "Erik Numan",
+          "opponent_score": 2,
+          "opponent_score_share": 0.18181818181818182,
+          "opponent_win_prob": 0.22847335599598134,
+          "is_winner": true,
+          "opponent_slug": "erik-numan",
+          "opponent_hist_score_share": 0.509236211558193
+        },
+        {
+          "game_id": 632,
+          "year": 2022,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p2",
+          "name": "Benjamin Ger. Hed.",
+          "score": 9,
+          "score_share": 0.47368421052631576,
+          "win_prob": 0.7615963512016173,
+          "opponent_name": "Erik Numan",
+          "opponent_score": 10,
+          "opponent_score_share": 0.5263157894736842,
+          "opponent_win_prob": 0.23840364879838272,
+          "is_winner": false,
+          "opponent_slug": "erik-numan",
+          "opponent_hist_score_share": 0.509236211558193
+        }
+      ],
+      "n_games": 3,
+      "n_wins": 2
     }
   ],
   "best_stage": "final",

@@ -1,19 +1,20 @@
 {
-  "n_games": 4,
-  "score_share": 0.12323232323232323,
-  "n_wins": 0,
+  "n_games": 8,
+  "score_share": 0.3431332556332556,
+  "n_wins": 2,
   "years": [
     2019,
-    2021
+    2021,
+    2022
   ],
-  "win_rate": 0.0,
-  "opponent_score_share": 0.5529077477641493,
-  "skill": -6.568280919325635,
-  "skill_sigma": 59.32837658506009,
+  "win_rate": 0.25,
+  "opponent_score_share": 0.52646273164676,
+  "skill": 56.90172449003551,
+  "skill_sigma": 43.703798376204496,
   "name": "Hasse Hallgren",
   "slug": "hasse-hallgren",
-  "skill_rank": 130.0,
-  "skill_rank_pct": 130.0,
+  "skill_rank": 107.0,
+  "skill_rank_pct": 107.0,
   "skill_history": [
     [
       2011,
@@ -46,6 +47,10 @@
     [
       2021,
       -7.0
+    ],
+    [
+      2022,
+      57.0
     ]
   ],
   "tournaments": [
@@ -76,7 +81,7 @@
           "opponent_win_prob": 0.7391259661982297,
           "is_winner": false,
           "opponent_slug": "robin-linderborg",
-          "opponent_hist_score_share": 0.5582165616829482
+          "opponent_hist_score_share": 0.5497140012765013
         },
         {
           "game_id": 300,
@@ -94,7 +99,7 @@
           "opponent_win_prob": 0.5678133536301253,
           "is_winner": false,
           "opponent_slug": "olle-strandberg",
-          "opponent_hist_score_share": 0.6265515681970623
+          "opponent_hist_score_share": 0.6605863621382464
         }
       ],
       "n_games": 2,
@@ -103,8 +108,8 @@
     {
       "year": 2021,
       "last_game": {
-        "opponent_name": "Johannes Birgersson",
-        "opponent_slug": "johannes-birgersson",
+        "opponent_name": "Johannes Gr\u00f6nborg",
+        "opponent_slug": "johannes-gronborg",
         "score": 2,
         "opponent_score": 9,
         "is_winner": false,
@@ -139,22 +144,108 @@
           "score": 2,
           "score_share": 0.18181818181818182,
           "win_prob": 0.2892202349655737,
-          "opponent_name": "Johannes Birgersson",
+          "opponent_name": "Johannes Gr\u00f6nborg",
           "opponent_score": 9,
           "opponent_score_share": 0.8181818181818182,
           "opponent_win_prob": 0.7107797650344263,
           "is_winner": false,
-          "opponent_slug": "johannes-birgersson",
-          "opponent_hist_score_share": 0.43399440066106737
+          "opponent_slug": "johannes-gronborg",
+          "opponent_hist_score_share": 0.4397114867703103
         }
       ],
       "n_games": 2,
       "n_wins": 0
+    },
+    {
+      "year": 2022,
+      "last_game": {
+        "opponent_name": "Sebastian Schneider",
+        "opponent_slug": "sebastian-schneider",
+        "score": 8,
+        "opponent_score": 10,
+        "is_winner": false,
+        "stage": "sextondelsfinal"
+      },
+      "games": [
+        {
+          "game_id": 562,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Hasse Hallgren",
+          "score": 9,
+          "score_share": 0.75,
+          "win_prob": 0.2802533191323539,
+          "opponent_name": "Sofia \u00d6rning",
+          "opponent_score": 3,
+          "opponent_score_share": 0.25,
+          "opponent_win_prob": 0.719746680867646,
+          "is_winner": true,
+          "opponent_slug": "sofia-orning",
+          "opponent_hist_score_share": 0.40345667857922757
+        },
+        {
+          "game_id": 586,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Hasse Hallgren",
+          "score": 4,
+          "score_share": 0.3076923076923077,
+          "win_prob": 0.17606534238941182,
+          "opponent_name": "Richard Olsen",
+          "opponent_score": 9,
+          "opponent_score_share": 0.6923076923076923,
+          "opponent_win_prob": 0.8239346576105882,
+          "is_winner": false,
+          "opponent_slug": "richard-olsen",
+          "opponent_hist_score_share": 0.5837912087912087
+        },
+        {
+          "game_id": 614,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Hasse Hallgren",
+          "score": 9,
+          "score_share": 0.75,
+          "win_prob": 0.21578966000955313,
+          "opponent_name": "Linda Tran",
+          "opponent_score": 3,
+          "opponent_score_share": 0.25,
+          "opponent_win_prob": 0.7842103399904469,
+          "is_winner": true,
+          "opponent_slug": "linda-tran",
+          "opponent_hist_score_share": 0.4166666666666667
+        },
+        {
+          "game_id": 637,
+          "year": 2022,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p1",
+          "name": "Hasse Hallgren",
+          "score": 8,
+          "score_share": 0.4444444444444444,
+          "win_prob": 0.09070041355204761,
+          "opponent_name": "Sebastian Schneider",
+          "opponent_score": 10,
+          "opponent_score_share": 0.5555555555555556,
+          "opponent_win_prob": 0.9092995864479524,
+          "is_winner": false,
+          "opponent_slug": "sebastian-schneider",
+          "opponent_hist_score_share": 0.5649069884364002
+        }
+      ],
+      "n_games": 4,
+      "n_wins": 2
     }
   ],
-  "best_stage": "gruppspel",
+  "best_stage": "sextondelsfinal",
   "best_stage_years": [
-    2021,
-    2019
+    2022
   ]
 }

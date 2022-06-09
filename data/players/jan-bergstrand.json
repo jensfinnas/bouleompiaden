@@ -6,13 +6,13 @@
     2019
   ],
   "win_rate": 0.0,
-  "opponent_score_share": 0.6085977726450873,
+  "opponent_score_share": 0.5267482066964998,
   "skill": 15.066833982421542,
   "skill_sigma": 72.73373000750361,
   "name": "Jan Bergstrand",
   "slug": "jan-bergstrand",
-  "skill_rank": 116.0,
-  "skill_rank_pct": 116.0,
+  "skill_rank": 130.0,
+  "skill_rank_pct": 130.0,
   "skill_history": [
     [
       2011,
@@ -45,6 +45,10 @@
     [
       2021,
       null
+    ],
+    [
+      2022,
+      null
     ]
   ],
   "tournaments": [
@@ -75,7 +79,7 @@
           "opponent_win_prob": 0.814958128328119,
           "is_winner": false,
           "opponent_slug": "erik-nordenankar",
-          "opponent_hist_score_share": 0.6925923706869999
+          "opponent_hist_score_share": 0.6815916514882377
         },
         {
           "game_id": 304,
@@ -93,7 +97,7 @@
           "opponent_win_prob": 0.34270317892381175,
           "is_winner": false,
           "opponent_slug": "olle-nyren",
-          "opponent_hist_score_share": 0.5246031746031746
+          "opponent_hist_score_share": 0.3719047619047619
         }
       ],
       "n_games": 2,

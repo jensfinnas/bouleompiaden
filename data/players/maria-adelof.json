@@ -7,13 +7,13 @@
     2017
   ],
   "win_rate": 0.4,
-  "opponent_score_share": 0.4161365350271418,
+  "opponent_score_share": 0.4102677529132392,
   "skill": 77.22341359822497,
   "skill_sigma": 56.52126223985177,
   "name": "Maria Adel\u00f6f",
   "slug": "maria-adelof",
-  "skill_rank": 82.0,
-  "skill_rank_pct": 82.0,
+  "skill_rank": 92.0,
+  "skill_rank_pct": 92.0,
   "skill_history": [
     [
       2011,
@@ -45,6 +45,10 @@
     ],
     [
       2021,
+      null
+    ],
+    [
+      2022,
       null
     ]
   ],
@@ -145,7 +149,7 @@
           "opponent_win_prob": 0.4669013794480954,
           "is_winner": false,
           "opponent_slug": "benjamin-ger-hed",
-          "opponent_hist_score_share": 0.5806306275423923
+          "opponent_hist_score_share": 0.5937790548374914
         },
         {
           "game_id": 118,
@@ -163,7 +167,7 @@
           "opponent_win_prob": 0.411819051868066,
           "is_winner": true,
           "opponent_slug": "kajsa-hallberg-nor",
-          "opponent_hist_score_share": 0.2762001961199822
+          "opponent_hist_score_share": 0.23370785825536958
         }
       ],
       "n_games": 3,

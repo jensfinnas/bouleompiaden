@@ -1,21 +1,22 @@
 {
-  "n_games": 19,
-  "score_share": 0.5474311979729937,
-  "n_wins": 11,
+  "n_games": 27,
+  "score_share": 0.5883273927718372,
+  "n_wins": 17,
   "years": [
     2018,
     2019,
     2020,
-    2021
+    2021,
+    2022
   ],
-  "win_rate": 0.5789473684210527,
-  "opponent_score_share": 0.5112438115261083,
-  "skill": 149.5528938947835,
-  "skill_sigma": 25.795044817171867,
+  "win_rate": 0.6296296296296297,
+  "opponent_score_share": 0.5067778452276209,
+  "skill": 169.2746545789527,
+  "skill_sigma": 21.056433870681833,
   "name": "Robin Fogelberg",
   "slug": "robin-fogelberg",
-  "skill_rank": 31.0,
-  "skill_rank_pct": 31.0,
+  "skill_rank": 22.0,
+  "skill_rank_pct": 22.0,
   "skill_history": [
     [
       2011,
@@ -48,6 +49,10 @@
     [
       2021,
       150.0
+    ],
+    [
+      2022,
+      169.0
     ]
   ],
   "tournaments": [
@@ -78,7 +83,7 @@
           "opponent_win_prob": 0.456944114867269,
           "is_winner": false,
           "opponent_slug": "theodore-ripman",
-          "opponent_hist_score_share": 0.5584493013252412
+          "opponent_hist_score_share": 0.5684301946084984
         },
         {
           "game_id": 203,
@@ -96,7 +101,7 @@
           "opponent_win_prob": 0.4751305813356598,
           "is_winner": false,
           "opponent_slug": "alexander-starfelt",
-          "opponent_hist_score_share": 0.5512412467133828
+          "opponent_hist_score_share": 0.5523920473153514
         },
         {
           "game_id": 149,
@@ -114,7 +119,7 @@
           "opponent_win_prob": 0.49999998499999976,
           "is_winner": true,
           "opponent_slug": "sussie-radis",
-          "opponent_hist_score_share": 0.3748112998112998
+          "opponent_hist_score_share": 0.3569078633784516
         },
         {
           "game_id": 216,
@@ -132,7 +137,7 @@
           "opponent_win_prob": 0.8422181322021296,
           "is_winner": true,
           "opponent_slug": "olle-strandberg",
-          "opponent_hist_score_share": 0.6265515681970623
+          "opponent_hist_score_share": 0.6605863621382464
         },
         {
           "game_id": 232,
@@ -204,7 +209,7 @@
           "opponent_win_prob": 0.6968712014983289,
           "is_winner": false,
           "opponent_slug": "erik-nordenankar",
-          "opponent_hist_score_share": 0.6925923706869999
+          "opponent_hist_score_share": 0.6815916514882377
         }
       ],
       "n_games": 8,
@@ -237,7 +242,7 @@
           "opponent_win_prob": 0.0386286038110456,
           "is_winner": true,
           "opponent_slug": "johanna-radstrom",
-          "opponent_hist_score_share": 0.31837560781888513
+          "opponent_hist_score_share": 0.33566966962295686
         },
         {
           "game_id": 286,
@@ -309,7 +314,7 @@
           "opponent_win_prob": 0.5096944127764496,
           "is_winner": false,
           "opponent_slug": "theodore-ripman",
-          "opponent_hist_score_share": 0.5584493013252412
+          "opponent_hist_score_share": 0.5684301946084984
         }
       ],
       "n_games": 5,
@@ -342,7 +347,7 @@
           "opponent_win_prob": 0.08009138828313717,
           "is_winner": true,
           "opponent_slug": "sofia-orning",
-          "opponent_hist_score_share": 0.4190329941708618
+          "opponent_hist_score_share": 0.40345667857922757
         },
         {
           "game_id": 367,
@@ -378,7 +383,7 @@
           "opponent_win_prob": 0.21736029567489534,
           "is_winner": false,
           "opponent_slug": "hannes-jordan",
-          "opponent_hist_score_share": 0.4937004662004662
+          "opponent_hist_score_share": 0.5230629419600008
         }
       ],
       "n_games": 3,
@@ -405,13 +410,13 @@
           "score": 5,
           "score_share": 0.35714285714285715,
           "win_prob": 0.8134108542414811,
-          "opponent_name": "Johannes Birgersson",
+          "opponent_name": "Johannes Gr\u00f6nborg",
           "opponent_score": 9,
           "opponent_score_share": 0.6428571428571429,
           "opponent_win_prob": 0.18658914575851893,
           "is_winner": false,
-          "opponent_slug": "johannes-birgersson",
-          "opponent_hist_score_share": 0.43399440066106737
+          "opponent_slug": "johannes-gronborg",
+          "opponent_hist_score_share": 0.4397114867703103
         },
         {
           "game_id": 476,
@@ -447,15 +452,174 @@
           "opponent_win_prob": 0.20542033825732564,
           "is_winner": false,
           "opponent_slug": "jakob-gustafsson",
-          "opponent_hist_score_share": 0.4505012589905638
+          "opponent_hist_score_share": 0.4453114287673111
         }
       ],
       "n_games": 3,
       "n_wins": 1
+    },
+    {
+      "year": 2022,
+      "last_game": {
+        "opponent_name": "Gabriel Nordenankar",
+        "opponent_slug": "gabriel-nordenankar",
+        "score": 12,
+        "opponent_score": 13,
+        "is_winner": false,
+        "stage": "final"
+      },
+      "games": [
+        {
+          "game_id": 557,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Robin Fogelberg",
+          "score": 8,
+          "score_share": 0.47058823529411764,
+          "win_prob": 0.8059905273320901,
+          "opponent_name": "Johan Ekman",
+          "opponent_score": 9,
+          "opponent_score_share": 0.5294117647058824,
+          "opponent_win_prob": 0.19400947266790994,
+          "is_winner": false,
+          "opponent_slug": "johan-ekman",
+          "opponent_hist_score_share": 0.5006588294355674
+        },
+        {
+          "game_id": 612,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Robin Fogelberg",
+          "score": 9,
+          "score_share": 0.6428571428571429,
+          "win_prob": 0.6325811897733906,
+          "opponent_name": "Bj\u00f6rn Berglund",
+          "opponent_score": 5,
+          "opponent_score_share": 0.35714285714285715,
+          "opponent_win_prob": 0.36741881022660944,
+          "is_winner": true,
+          "opponent_slug": "bjorn-berglund",
+          "opponent_hist_score_share": 0.5384795542148484
+        },
+        {
+          "game_id": 598,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Robin Fogelberg",
+          "score": 9,
+          "score_share": 0.9,
+          "win_prob": 0.9465786016247931,
+          "opponent_name": "Charlotte Almgren",
+          "opponent_score": 1,
+          "opponent_score_share": 0.1,
+          "opponent_win_prob": 0.05342139837520691,
+          "is_winner": true,
+          "opponent_slug": "charlotte-almgren",
+          "opponent_hist_score_share": 0.1392857142857143
+        },
+        {
+          "game_id": 638,
+          "year": 2022,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p2",
+          "name": "Robin Fogelberg",
+          "score": 10,
+          "score_share": 0.625,
+          "win_prob": 0.18544472874466422,
+          "opponent_name": "Robeson",
+          "opponent_score": 6,
+          "opponent_score_share": 0.375,
+          "opponent_win_prob": 0.8145552712553358,
+          "is_winner": true,
+          "opponent_slug": "robeson",
+          "opponent_hist_score_share": 0.5815109019537957
+        },
+        {
+          "game_id": 647,
+          "year": 2022,
+          "stage": "\u00e5ttondelsfinal",
+          "stage_level": 2,
+          "winner": "p1",
+          "name": "Robin Fogelberg",
+          "score": 11,
+          "score_share": 0.7857142857142857,
+          "win_prob": 0.5093970575988369,
+          "opponent_name": "Hilda Dahlberg",
+          "opponent_score": 3,
+          "opponent_score_share": 0.21428571428571427,
+          "opponent_win_prob": 0.4906029424011631,
+          "is_winner": true,
+          "opponent_slug": "hilda-dahlberg",
+          "opponent_hist_score_share": 0.481198489010989
+        },
+        {
+          "game_id": 651,
+          "year": 2022,
+          "stage": "kvartsfinal",
+          "stage_level": 3,
+          "winner": "p2",
+          "name": "Robin Fogelberg",
+          "score": 11,
+          "score_share": 0.8461538461538461,
+          "win_prob": 0.34382698272901835,
+          "opponent_name": "Amanda Engstr\u00f6m",
+          "opponent_score": 2,
+          "opponent_score_share": 0.15384615384615385,
+          "opponent_win_prob": 0.6561730172709817,
+          "is_winner": true,
+          "opponent_slug": "amanda-engstrom",
+          "opponent_hist_score_share": 0.45617323852617975
+        },
+        {
+          "game_id": 653,
+          "year": 2022,
+          "stage": "semifinal",
+          "stage_level": 4,
+          "winner": "p2",
+          "name": "Robin Fogelberg",
+          "score": 11,
+          "score_share": 0.7333333333333333,
+          "win_prob": 0.3644852173375486,
+          "opponent_name": "Pelle Dovborg",
+          "opponent_score": 4,
+          "opponent_score_share": 0.26666666666666666,
+          "opponent_win_prob": 0.6355147826624514,
+          "is_winner": true,
+          "opponent_slug": "pelle-dovborg",
+          "opponent_hist_score_share": 0.5626206537570174
+        },
+        {
+          "game_id": 655,
+          "year": 2022,
+          "stage": "final",
+          "stage_level": 7,
+          "winner": "p1",
+          "name": "Robin Fogelberg",
+          "score": 12,
+          "score_share": 0.48,
+          "win_prob": 0.17252040482651987,
+          "opponent_name": "Gabriel Nordenankar",
+          "opponent_score": 13,
+          "opponent_score_share": 0.52,
+          "opponent_win_prob": 0.8274795951734801,
+          "is_winner": false,
+          "opponent_slug": "gabriel-nordenankar",
+          "opponent_hist_score_share": 0.6515913176295751
+        }
+      ],
+      "n_games": 8,
+      "n_wins": 6
     }
   ],
-  "best_stage": "bronsmatch",
+  "best_stage": "final",
   "best_stage_years": [
-    2018
+    2022
   ]
 }

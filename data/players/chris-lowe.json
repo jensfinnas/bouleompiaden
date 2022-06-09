@@ -6,13 +6,13 @@
     2021
   ],
   "win_rate": 0.6,
-  "opponent_score_share": 0.45215006291642734,
+  "opponent_score_share": 0.44084308748316003,
   "skill": 127.84648352629836,
   "skill_sigma": 49.16330109690908,
   "name": "Chris Lowe",
   "slug": "chris-lowe",
-  "skill_rank": 49.0,
-  "skill_rank_pct": 49.0,
+  "skill_rank": 54.0,
+  "skill_rank_pct": 54.0,
   "skill_history": [
     [
       2011,
@@ -45,6 +45,10 @@
     [
       2021,
       128.0
+    ],
+    [
+      2022,
+      null
     ]
   ],
   "tournaments": [
@@ -93,7 +97,7 @@
           "opponent_win_prob": 0.5819248497875111,
           "is_winner": false,
           "opponent_slug": "tim-samuelsson",
-          "opponent_hist_score_share": 0.550949050949051
+          "opponent_hist_score_share": 0.5023865023865024
         },
         {
           "game_id": 499,
@@ -129,7 +133,7 @@
           "opponent_win_prob": 0.5325928561612765,
           "is_winner": true,
           "opponent_slug": "bjorn-berglund",
-          "opponent_hist_score_share": 0.5564327761018938
+          "opponent_hist_score_share": 0.5384795542148484
         },
         {
           "game_id": 538,
@@ -147,7 +151,7 @@
           "opponent_win_prob": 0.7266423623151411,
           "is_winner": false,
           "opponent_slug": "theodore-ripman",
-          "opponent_hist_score_share": 0.5584493013252412
+          "opponent_hist_score_share": 0.5684301946084984
         }
       ],
       "n_games": 5,

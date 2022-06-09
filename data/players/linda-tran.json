@@ -1,0 +1,129 @@
+{
+  "n_games": 3,
+  "score_share": 0.4166666666666667,
+  "n_wins": 1,
+  "years": [
+    2022
+  ],
+  "win_rate": 0.3333333333333333,
+  "opponent_score_share": 0.39612079607484013,
+  "skill": 62.850049886912416,
+  "skill_sigma": 54.05730130444757,
+  "name": "Linda Tran",
+  "slug": "linda-tran",
+  "skill_rank": 99.0,
+  "skill_rank_pct": 99.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      null
+    ],
+    [
+      2016,
+      null
+    ],
+    [
+      2017,
+      null
+    ],
+    [
+      2018,
+      null
+    ],
+    [
+      2019,
+      null
+    ],
+    [
+      2020,
+      null
+    ],
+    [
+      2021,
+      null
+    ],
+    [
+      2022,
+      63.0
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2022,
+      "last_game": {
+        "opponent_name": "Jakob Gustafsson",
+        "opponent_slug": "jakob-gustafsson",
+        "score": 7,
+        "opponent_score": 9,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "games": [
+        {
+          "game_id": 600,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Linda Tran",
+          "score": 9,
+          "score_share": 0.5625,
+          "win_prob": 0.31803757742628336,
+          "opponent_name": "Ville Nordenankar",
+          "opponent_score": 7,
+          "opponent_score_share": 0.4375,
+          "opponent_win_prob": 0.6819624225737166,
+          "is_winner": true,
+          "opponent_slug": "ville-nordenankar",
+          "opponent_hist_score_share": 0.39991770382395375
+        },
+        {
+          "game_id": 614,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Linda Tran",
+          "score": 3,
+          "score_share": 0.25,
+          "win_prob": 0.7842103399904469,
+          "opponent_name": "Hasse Hallgren",
+          "opponent_score": 9,
+          "opponent_score_share": 0.75,
+          "opponent_win_prob": 0.21578966000955313,
+          "is_winner": false,
+          "opponent_slug": "hasse-hallgren",
+          "opponent_hist_score_share": 0.3431332556332556
+        },
+        {
+          "game_id": 561,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Linda Tran",
+          "score": 7,
+          "score_share": 0.4375,
+          "win_prob": 0.4086516187413594,
+          "opponent_name": "Jakob Gustafsson",
+          "opponent_score": 9,
+          "opponent_score_share": 0.5625,
+          "opponent_win_prob": 0.5913483812586406,
+          "is_winner": false,
+          "opponent_slug": "jakob-gustafsson",
+          "opponent_hist_score_share": 0.4453114287673111
+        }
+      ],
+      "n_games": 3,
+      "n_wins": 1
+    }
+  ],
+  "best_stage": "gruppspel",
+  "best_stage_years": [
+    2022
+  ]
+}

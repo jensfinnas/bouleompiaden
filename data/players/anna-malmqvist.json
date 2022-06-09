@@ -6,13 +6,13 @@
     2021
   ],
   "win_rate": 0.0,
-  "opponent_score_share": 0.5625332592244356,
+  "opponent_score_share": 0.5470137909476145,
   "skill": 11.826760741341376,
   "skill_sigma": 70.61458099538956,
   "name": "Anna Malmqvist",
   "slug": "anna-malmqvist",
-  "skill_rank": 120.0,
-  "skill_rank_pct": 120.0,
+  "skill_rank": 134.0,
+  "skill_rank_pct": 134.0,
   "skill_history": [
     [
       2011,
@@ -45,6 +45,10 @@
     [
       2021,
       12.0
+    ],
+    [
+      2022,
+      null
     ]
   ],
   "tournaments": [
@@ -75,7 +79,7 @@
           "opponent_win_prob": 0.6703183782315849,
           "is_winner": false,
           "opponent_slug": "lovisa-birgersson",
-          "opponent_hist_score_share": 0.607092662239721
+          "opponent_hist_score_share": 0.5760537256860787
         },
         {
           "game_id": 502,

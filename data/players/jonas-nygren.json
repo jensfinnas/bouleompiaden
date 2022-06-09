@@ -6,13 +6,13 @@
     2021
   ],
   "win_rate": 0.3333333333333333,
-  "opponent_score_share": 0.4135971820149789,
+  "opponent_score_share": 0.4283327049843855,
   "skill": 65.56035571183622,
   "skill_sigma": 62.896176952234455,
   "name": "Jonas Nygren",
   "slug": "jonas-nygren",
-  "skill_rank": 87.0,
-  "skill_rank_pct": 87.0,
+  "skill_rank": 97.0,
+  "skill_rank_pct": 97.0,
   "skill_history": [
     [
       2011,
@@ -45,6 +45,10 @@
     [
       2021,
       66.0
+    ],
+    [
+      2022,
+      null
     ]
   ],
   "tournaments": [
@@ -75,7 +79,7 @@
           "opponent_win_prob": 0.8741747828228446,
           "is_winner": false,
           "opponent_slug": "theodore-ripman",
-          "opponent_hist_score_share": 0.5584493013252412
+          "opponent_hist_score_share": 0.5684301946084984
         },
         {
           "game_id": 465,
@@ -93,7 +97,7 @@
           "opponent_win_prob": 0.4849259404541016,
           "is_winner": false,
           "opponent_slug": "johan-ekman",
-          "opponent_hist_score_share": 0.4664331538106048
+          "opponent_hist_score_share": 0.5006588294355674
         },
         {
           "game_id": 502,

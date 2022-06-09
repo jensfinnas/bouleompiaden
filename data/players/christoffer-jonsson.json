@@ -1,0 +1,111 @@
+{
+  "n_games": 2,
+  "score_share": 0.2909090909090909,
+  "n_wins": 0,
+  "years": [
+    2022
+  ],
+  "win_rate": 0.0,
+  "opponent_score_share": 0.45111480431333373,
+  "skill": 9.965247202026777,
+  "skill_sigma": 70.00604346234209,
+  "name": "Christoffer Jonsson",
+  "slug": "christoffer-jonsson",
+  "skill_rank": 136.0,
+  "skill_rank_pct": 136.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      null
+    ],
+    [
+      2016,
+      null
+    ],
+    [
+      2017,
+      null
+    ],
+    [
+      2018,
+      null
+    ],
+    [
+      2019,
+      null
+    ],
+    [
+      2020,
+      null
+    ],
+    [
+      2021,
+      null
+    ],
+    [
+      2022,
+      10.0
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2022,
+      "last_game": {
+        "opponent_name": "Emma Frenn\u00e5s",
+        "opponent_slug": "emma-frennas",
+        "score": 6,
+        "opponent_score": 9,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "games": [
+        {
+          "game_id": 564,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Christoffer Jonsson",
+          "score": 2,
+          "score_share": 0.18181818181818182,
+          "win_prob": 0.43677635718389696,
+          "opponent_name": "Hannes Jordan",
+          "opponent_score": 9,
+          "opponent_score_share": 0.8181818181818182,
+          "opponent_win_prob": 0.563223642816103,
+          "is_winner": false,
+          "opponent_slug": "hannes-jordan",
+          "opponent_hist_score_share": 0.5230629419600008
+        },
+        {
+          "game_id": 602,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Christoffer Jonsson",
+          "score": 6,
+          "score_share": 0.4,
+          "win_prob": 0.4662021498912902,
+          "opponent_name": "Emma Frenn\u00e5s",
+          "opponent_score": 9,
+          "opponent_score_share": 0.6,
+          "opponent_win_prob": 0.5337978501087097,
+          "is_winner": false,
+          "opponent_slug": "emma-frennas",
+          "opponent_hist_score_share": 0.3791666666666667
+        }
+      ],
+      "n_games": 2,
+      "n_wins": 0
+    }
+  ],
+  "best_stage": "gruppspel",
+  "best_stage_years": [
+    2022
+  ]
+}

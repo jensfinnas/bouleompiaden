@@ -1,18 +1,19 @@
 {
-  "n_games": 5,
-  "score_share": 0.5248308270676691,
-  "n_wins": 3,
+  "n_games": 9,
+  "score_share": 0.5140866873065015,
+  "n_wins": 5,
   "years": [
-    2021
+    2021,
+    2022
   ],
-  "win_rate": 0.6,
-  "opponent_score_share": 0.4947179384395647,
-  "skill": 167.4267087433743,
-  "skill_sigma": 46.8459396715471,
+  "win_rate": 0.5555555555555556,
+  "opponent_score_share": 0.4667962076583818,
+  "skill": 142.2502107716689,
+  "skill_sigma": 36.93038381590184,
   "name": "Calle Buddee Roos",
   "slug": "calle-buddee-roos",
-  "skill_rank": 19.0,
-  "skill_rank_pct": 19.0,
+  "skill_rank": 41.0,
+  "skill_rank_pct": 41.0,
   "skill_history": [
     [
       2011,
@@ -45,6 +46,10 @@
     [
       2021,
       167.0
+    ],
+    [
+      2022,
+      142.0
     ]
   ],
   "tournaments": [
@@ -75,7 +80,7 @@
           "opponent_win_prob": 0.7079554024722361,
           "is_winner": false,
           "opponent_slug": "jerker-karlsson",
-          "opponent_hist_score_share": 0.5206712624981856
+          "opponent_hist_score_share": 0.5304547767047768
         },
         {
           "game_id": 507,
@@ -93,7 +98,7 @@
           "opponent_win_prob": 0.499346669495794,
           "is_winner": true,
           "opponent_slug": "sussie-radis",
-          "opponent_hist_score_share": 0.3748112998112998
+          "opponent_hist_score_share": 0.3569078633784516
         },
         {
           "game_id": 519,
@@ -129,7 +134,7 @@
           "opponent_win_prob": 0.7810927817578678,
           "is_winner": true,
           "opponent_slug": "johan-kjell",
-          "opponent_hist_score_share": 0.5761679966633527
+          "opponent_hist_score_share": 0.580606891524278
         },
         {
           "game_id": 543,
@@ -147,11 +152,98 @@
           "opponent_win_prob": 0.6336278058664053,
           "is_winner": false,
           "opponent_slug": "robeson",
-          "opponent_hist_score_share": 0.5907463227674689
+          "opponent_hist_score_share": 0.5815109019537957
         }
       ],
       "n_games": 5,
       "n_wins": 3
+    },
+    {
+      "year": 2022,
+      "last_game": {
+        "opponent_name": "Johan Ekman",
+        "opponent_slug": "johan-ekman",
+        "score": 4,
+        "opponent_score": 10,
+        "is_winner": false,
+        "stage": "sextondelsfinal"
+      },
+      "games": [
+        {
+          "game_id": 604,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Calle Buddee Roos",
+          "score": 9,
+          "score_share": 0.75,
+          "win_prob": 0.8481830600530424,
+          "opponent_name": "Mathilda Gr\u00f6nborg",
+          "opponent_score": 3,
+          "opponent_score_share": 0.25,
+          "opponent_win_prob": 0.15181693994695755,
+          "is_winner": true,
+          "opponent_slug": "mathilda-gronborg",
+          "opponent_hist_score_share": 0.3719416386083052
+        },
+        {
+          "game_id": 618,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Calle Buddee Roos",
+          "score": 9,
+          "score_share": 0.5294117647058824,
+          "win_prob": 0.5310257075904307,
+          "opponent_name": "Jessica Johansson",
+          "opponent_score": 8,
+          "opponent_score_share": 0.47058823529411764,
+          "opponent_win_prob": 0.46897429240956934,
+          "is_winner": true,
+          "opponent_slug": "jessica-johansson",
+          "opponent_hist_score_share": 0.3666666666666667
+        },
+        {
+          "game_id": 571,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Calle Buddee Roos",
+          "score": 7,
+          "score_share": 0.4375,
+          "win_prob": 0.6964458351200851,
+          "opponent_name": "Richard Printz",
+          "opponent_score": 9,
+          "opponent_score_share": 0.5625,
+          "opponent_win_prob": 0.3035541648799149,
+          "is_winner": false,
+          "opponent_slug": "richard-printz",
+          "opponent_hist_score_share": 0.5012254901960783
+        },
+        {
+          "game_id": 635,
+          "year": 2022,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p1",
+          "name": "Calle Buddee Roos",
+          "score": 4,
+          "score_share": 0.2857142857142857,
+          "win_prob": 0.7628654315974323,
+          "opponent_name": "Johan Ekman",
+          "opponent_score": 10,
+          "opponent_score_share": 0.7142857142857143,
+          "opponent_win_prob": 0.23713456840256772,
+          "is_winner": false,
+          "opponent_slug": "johan-ekman",
+          "opponent_hist_score_share": 0.5006588294355674
+        }
+      ],
+      "n_games": 4,
+      "n_wins": 2
     }
   ],
   "best_stage": "\u00e5ttondelsfinal",

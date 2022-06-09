@@ -12,13 +12,13 @@
     2021
   ],
   "win_rate": 0.23529411764705882,
-  "opponent_score_share": 0.5231272305469046,
+  "opponent_score_share": 0.5240394278159034,
   "skill": 46.435739759557045,
   "skill_sigma": 32.38458682470913,
   "name": "Sofia R\u00e5dstr\u00f6m",
   "slug": "sofia-radstrom",
-  "skill_rank": 101.0,
-  "skill_rank_pct": 101.0,
+  "skill_rank": 112.0,
+  "skill_rank_pct": 112.0,
   "skill_history": [
     [
       2011,
@@ -51,6 +51,10 @@
     [
       2021,
       46.0
+    ],
+    [
+      2022,
+      null
     ]
   ],
   "tournaments": [
@@ -81,7 +85,7 @@
           "opponent_win_prob": 0.46996642796089894,
           "is_winner": false,
           "opponent_slug": "erik-nordenankar",
-          "opponent_hist_score_share": 0.6925923706869999
+          "opponent_hist_score_share": 0.6815916514882377
         },
         {
           "game_id": 7,
@@ -150,7 +154,7 @@
           "opponent_win_prob": 0.7622531274724101,
           "is_winner": false,
           "opponent_slug": "frida-ohrn",
-          "opponent_hist_score_share": 0.39154768842268833
+          "opponent_hist_score_share": 0.39508248162094317
         }
       ],
       "n_games": 2,
@@ -183,7 +187,7 @@
           "opponent_win_prob": 0.8127407776407847,
           "is_winner": false,
           "opponent_slug": "johanna-radstrom",
-          "opponent_hist_score_share": 0.31837560781888513
+          "opponent_hist_score_share": 0.33566966962295686
         },
         {
           "game_id": 60,
@@ -234,7 +238,7 @@
           "opponent_win_prob": 0.9949353798192884,
           "is_winner": false,
           "opponent_slug": "gabriel-nordenankar",
-          "opponent_hist_score_share": 0.6387546156727935
+          "opponent_hist_score_share": 0.6515913176295751
         },
         {
           "game_id": 115,
@@ -321,7 +325,7 @@
           "opponent_win_prob": 0.7200726444006327,
           "is_winner": false,
           "opponent_slug": "olle-strandberg",
-          "opponent_hist_score_share": 0.6265515681970623
+          "opponent_hist_score_share": 0.6605863621382464
         },
         {
           "game_id": 191,
@@ -384,13 +388,13 @@
           "score": 9,
           "score_share": 0.75,
           "win_prob": 0.1347515932073432,
-          "opponent_name": "Mathilda Hansson",
+          "opponent_name": "Mathilda Gr\u00f6nborg",
           "opponent_score": 3,
           "opponent_score_share": 0.25,
           "opponent_win_prob": 0.8652484067926568,
           "is_winner": true,
-          "opponent_slug": "mathilda-hansson",
-          "opponent_hist_score_share": 0.44249639249639244
+          "opponent_slug": "mathilda-gronborg",
+          "opponent_hist_score_share": 0.3719416386083052
         },
         {
           "game_id": 333,
@@ -441,7 +445,7 @@
           "opponent_win_prob": 0.8291662439392642,
           "is_winner": false,
           "opponent_slug": "hannes-jordan",
-          "opponent_hist_score_share": 0.4937004662004662
+          "opponent_hist_score_share": 0.5230629419600008
         },
         {
           "game_id": 497,

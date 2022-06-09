@@ -1,21 +1,22 @@
 {
-  "n_games": 15,
-  "score_share": 0.4937004662004662,
-  "n_wins": 7,
+  "n_games": 20,
+  "score_share": 0.5230629419600008,
+  "n_wins": 11,
   "years": [
     2018,
     2019,
     2020,
-    2021
+    2021,
+    2022
   ],
-  "win_rate": 0.4666666666666667,
-  "opponent_score_share": 0.4939637107386383,
-  "skill": 120.12009149949382,
-  "skill_sigma": 31.354169031787386,
+  "win_rate": 0.55,
+  "opponent_score_share": 0.5122746830241403,
+  "skill": 154.3783109412068,
+  "skill_sigma": 26.354112123139668,
   "name": "Hannes Jordan",
   "slug": "hannes-jordan",
-  "skill_rank": 55.0,
-  "skill_rank_pct": 55.0,
+  "skill_rank": 33.0,
+  "skill_rank_pct": 33.0,
   "skill_history": [
     [
       2011,
@@ -48,6 +49,10 @@
     [
       2021,
       120.0
+    ],
+    [
+      2022,
+      154.0
     ]
   ],
   "tournaments": [
@@ -96,7 +101,7 @@
           "opponent_win_prob": 0.32086564543302604,
           "is_winner": true,
           "opponent_slug": "jacob-stenman",
-          "opponent_hist_score_share": 0.3577272727272728
+          "opponent_hist_score_share": 0.44469299083269664
         },
         {
           "game_id": 219,
@@ -165,7 +170,7 @@
           "opponent_win_prob": 0.053131794276357794,
           "is_winner": true,
           "opponent_slug": "johanna-radstrom",
-          "opponent_hist_score_share": 0.31837560781888513
+          "opponent_hist_score_share": 0.33566966962295686
         },
         {
           "game_id": 326,
@@ -234,7 +239,7 @@
           "opponent_win_prob": 0.825869934614823,
           "is_winner": false,
           "opponent_slug": "theodore-ripman",
-          "opponent_hist_score_share": 0.5584493013252412
+          "opponent_hist_score_share": 0.5684301946084984
         },
         {
           "game_id": 384,
@@ -252,7 +257,7 @@
           "opponent_win_prob": 0.5280848179895918,
           "is_winner": false,
           "opponent_slug": "pelle-dovborg",
-          "opponent_hist_score_share": 0.5669484926837869
+          "opponent_hist_score_share": 0.5626206537570174
         },
         {
           "game_id": 360,
@@ -288,7 +293,7 @@
           "opponent_win_prob": 0.7826397043251047,
           "is_winner": true,
           "opponent_slug": "robin-fogelberg",
-          "opponent_hist_score_share": 0.5474311979729937
+          "opponent_hist_score_share": 0.5883273927718372
         },
         {
           "game_id": 440,
@@ -357,7 +362,7 @@
           "opponent_win_prob": 0.2935237985586512,
           "is_winner": false,
           "opponent_slug": "carl-rother-schirren",
-          "opponent_hist_score_share": 0.5
+          "opponent_hist_score_share": 0.4993908382066278
         },
         {
           "game_id": 535,
@@ -380,11 +385,115 @@
       ],
       "n_games": 3,
       "n_wins": 1
+    },
+    {
+      "year": 2022,
+      "last_game": {
+        "opponent_name": "Erik Nordenankar",
+        "opponent_slug": "erik-nordenankar",
+        "score": 5,
+        "opponent_score": 12,
+        "is_winner": false,
+        "stage": "kvartsfinal"
+      },
+      "games": [
+        {
+          "game_id": 587,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Hannes Jordan",
+          "score": 9,
+          "score_share": 0.5625,
+          "win_prob": 0.3557404088512726,
+          "opponent_name": "Patrik J\u00e4rg\u00e5rden",
+          "opponent_score": 7,
+          "opponent_score_share": 0.4375,
+          "opponent_win_prob": 0.6442595911487274,
+          "is_winner": true,
+          "opponent_slug": "patrik-jargarden",
+          "opponent_hist_score_share": 0.599091404238463
+        },
+        {
+          "game_id": 564,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Hannes Jordan",
+          "score": 9,
+          "score_share": 0.8181818181818182,
+          "win_prob": 0.563223642816103,
+          "opponent_name": "Christoffer Jonsson",
+          "opponent_score": 2,
+          "opponent_score_share": 0.18181818181818182,
+          "opponent_win_prob": 0.43677635718389696,
+          "is_winner": true,
+          "opponent_slug": "christoffer-jonsson",
+          "opponent_hist_score_share": 0.2909090909090909
+        },
+        {
+          "game_id": 626,
+          "year": 2022,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p1",
+          "name": "Hannes Jordan",
+          "score": 10,
+          "score_share": 0.6666666666666666,
+          "win_prob": 0.34757651103376264,
+          "opponent_name": "Jerker Karlsson",
+          "opponent_score": 5,
+          "opponent_score_share": 0.3333333333333333,
+          "opponent_win_prob": 0.6524234889662374,
+          "is_winner": true,
+          "opponent_slug": "jerker-karlsson",
+          "opponent_hist_score_share": 0.5304547767047768
+        },
+        {
+          "game_id": 641,
+          "year": 2022,
+          "stage": "\u00e5ttondelsfinal",
+          "stage_level": 2,
+          "winner": "p1",
+          "name": "Hannes Jordan",
+          "score": 10,
+          "score_share": 0.7142857142857143,
+          "win_prob": 0.28504390124382417,
+          "opponent_name": "Richard Olsen",
+          "opponent_score": 4,
+          "opponent_score_share": 0.2857142857142857,
+          "opponent_win_prob": 0.7149560987561758,
+          "is_winner": true,
+          "opponent_slug": "richard-olsen",
+          "opponent_hist_score_share": 0.5837912087912087
+        },
+        {
+          "game_id": 648,
+          "year": 2022,
+          "stage": "kvartsfinal",
+          "stage_level": 3,
+          "winner": "p1",
+          "name": "Hannes Jordan",
+          "score": 5,
+          "score_share": 0.29411764705882354,
+          "win_prob": 0.21216032396625306,
+          "opponent_name": "Erik Nordenankar",
+          "opponent_score": 12,
+          "opponent_score_share": 0.7058823529411765,
+          "opponent_win_prob": 0.7878396760337469,
+          "is_winner": false,
+          "opponent_slug": "erik-nordenankar",
+          "opponent_hist_score_share": 0.6815916514882377
+        }
+      ],
+      "n_games": 5,
+      "n_wins": 4
     }
   ],
-  "best_stage": "\u00e5ttondelsfinal",
+  "best_stage": "kvartsfinal",
   "best_stage_years": [
-    2018,
-    2020
+    2022
   ]
 }

@@ -7,13 +7,13 @@
     2019
   ],
   "win_rate": 0.0,
-  "opponent_score_share": 0.5386389413962944,
+  "opponent_score_share": 0.513240518785862,
   "skill": -37.695886047685185,
   "skill_sigma": 59.642320407004874,
   "name": "Leo Ehnborg",
   "slug": "leo-ehnborg",
-  "skill_rank": 140.0,
-  "skill_rank_pct": 140.0,
+  "skill_rank": 154.0,
+  "skill_rank_pct": 154.0,
   "skill_history": [
     [
       2011,
@@ -45,6 +45,10 @@
     ],
     [
       2021,
+      null
+    ],
+    [
+      2022,
       null
     ]
   ],
@@ -94,7 +98,7 @@
           "opponent_win_prob": 0.6392247962455624,
           "is_winner": false,
           "opponent_slug": "lovisa-birgersson",
-          "opponent_hist_score_share": 0.607092662239721
+          "opponent_hist_score_share": 0.5760537256860787
         }
       ],
       "n_games": 2,
@@ -103,8 +107,8 @@
     {
       "year": 2019,
       "last_game": {
-        "opponent_name": "Mathilda Hansson",
-        "opponent_slug": "mathilda-hansson",
+        "opponent_name": "Mathilda Gr\u00f6nborg",
+        "opponent_slug": "mathilda-gronborg",
         "score": 4,
         "opponent_score": 8,
         "is_winner": false,
@@ -139,13 +143,13 @@
           "score": 4,
           "score_share": 0.3333333333333333,
           "win_prob": 0.2205505324936391,
-          "opponent_name": "Mathilda Hansson",
+          "opponent_name": "Mathilda Gr\u00f6nborg",
           "opponent_score": 8,
           "opponent_score_share": 0.6666666666666666,
           "opponent_win_prob": 0.7794494675063609,
           "is_winner": false,
-          "opponent_slug": "mathilda-hansson",
-          "opponent_hist_score_share": 0.44249639249639244
+          "opponent_slug": "mathilda-gronborg",
+          "opponent_hist_score_share": 0.3719416386083052
         }
       ],
       "n_games": 2,

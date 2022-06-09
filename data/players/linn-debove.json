@@ -7,13 +7,13 @@
     2018
   ],
   "win_rate": 0.25,
-  "opponent_score_share": 0.5128804448632738,
+  "opponent_score_share": 0.5101302650635833,
   "skill": 62.815164428280305,
   "skill_sigma": 51.6960067399774,
   "name": "Linn Debove",
   "slug": "linn-debove",
-  "skill_rank": 90.0,
-  "skill_rank_pct": 90.0,
+  "skill_rank": 101.0,
+  "skill_rank_pct": 101.0,
   "skill_history": [
     [
       2011,
@@ -46,6 +46,10 @@
     [
       2021,
       null
+    ],
+    [
+      2022,
+      null
     ]
   ],
   "tournaments": [
@@ -76,7 +80,7 @@
           "opponent_win_prob": 0.45755691545946364,
           "is_winner": false,
           "opponent_slug": "erik-nordenankar",
-          "opponent_hist_score_share": 0.6925923706869999
+          "opponent_hist_score_share": 0.6815916514882377
         },
         {
           "game_id": 50,

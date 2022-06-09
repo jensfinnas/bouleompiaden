@@ -11,8 +11,8 @@
   "skill_sigma": 67.84381146525556,
   "name": "P\u00e4r D\u00e4lborg",
   "slug": "par-dalborg",
-  "skill_rank": 65.0,
-  "skill_rank_pct": 65.0,
+  "skill_rank": 73.0,
+  "skill_rank_pct": 73.0,
   "skill_history": [
     [
       2011,
@@ -45,6 +45,10 @@
     [
       2021,
       108.0
+    ],
+    [
+      2022,
+      null
     ]
   ],
   "tournaments": [

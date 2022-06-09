@@ -1,22 +1,23 @@
 {
-  "n_games": 11,
-  "score_share": 0.2762001961199822,
+  "n_games": 13,
+  "score_share": 0.23370785825536958,
   "n_wins": 1,
   "years": [
     2017,
     2018,
     2019,
     2020,
-    2021
+    2021,
+    2022
   ],
-  "win_rate": 0.09090909090909091,
-  "opponent_score_share": 0.4996013205616096,
-  "skill": -1.8404668442480279,
-  "skill_sigma": 45.38274334920831,
+  "win_rate": 0.07692307692307693,
+  "opponent_score_share": 0.5121023244921467,
+  "skill": -9.39337440811242,
+  "skill_sigma": 43.375055167579056,
   "name": "Kajsa Hallberg-Nor.",
   "slug": "kajsa-hallberg-nor",
-  "skill_rank": 129.0,
-  "skill_rank_pct": 129.0,
+  "skill_rank": 146.0,
+  "skill_rank_pct": 146.0,
   "skill_history": [
     [
       2011,
@@ -49,6 +50,10 @@
     [
       2021,
       -2.0
+    ],
+    [
+      2022,
+      -9.0
     ]
   ],
   "tournaments": [
@@ -73,13 +78,13 @@
           "score": 3,
           "score_share": 0.3,
           "win_prob": 0.5000000150000002,
-          "opponent_name": "Mathilda Hansson",
+          "opponent_name": "Mathilda Gr\u00f6nborg",
           "opponent_score": 7,
           "opponent_score_share": 0.7,
           "opponent_win_prob": 0.49999998499999976,
           "is_winner": false,
-          "opponent_slug": "mathilda-hansson",
-          "opponent_hist_score_share": 0.44249639249639244
+          "opponent_slug": "mathilda-gronborg",
+          "opponent_hist_score_share": 0.3719416386083052
         },
         {
           "game_id": 118,
@@ -181,7 +186,7 @@
           "opponent_win_prob": 0.8638071659272915,
           "is_winner": false,
           "opponent_slug": "alexander-starfelt",
-          "opponent_hist_score_share": 0.5512412467133828
+          "opponent_hist_score_share": 0.5523920473153514
         },
         {
           "game_id": 311,
@@ -232,7 +237,7 @@
           "opponent_win_prob": 0.9565125129775025,
           "is_winner": false,
           "opponent_slug": "alexander-starfelt",
-          "opponent_hist_score_share": 0.5512412467133828
+          "opponent_hist_score_share": 0.5523920473153514
         },
         {
           "game_id": 403,
@@ -283,7 +288,7 @@
           "opponent_win_prob": 0.8298944517174128,
           "is_winner": true,
           "opponent_slug": "sofia-orning",
-          "opponent_hist_score_share": 0.4190329941708618
+          "opponent_hist_score_share": 0.40345667857922757
         },
         {
           "game_id": 490,
@@ -301,7 +306,7 @@
           "opponent_win_prob": 0.9911224596557534,
           "is_winner": false,
           "opponent_slug": "robeson",
-          "opponent_hist_score_share": 0.5907463227674689
+          "opponent_hist_score_share": 0.5815109019537957
         },
         {
           "game_id": 528,
@@ -319,11 +324,62 @@
           "opponent_win_prob": 0.9188265632554081,
           "is_winner": false,
           "opponent_slug": "jakob-gustafsson",
-          "opponent_hist_score_share": 0.4505012589905638
+          "opponent_hist_score_share": 0.4453114287673111
         }
       ],
       "n_games": 3,
       "n_wins": 1
+    },
+    {
+      "year": 2022,
+      "last_game": {
+        "opponent_name": "Fredrik Matz",
+        "opponent_slug": "fredrik-matz",
+        "score": 0,
+        "opponent_score": 9,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "games": [
+        {
+          "game_id": 603,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Kajsa Hallberg-Nor.",
+          "score": 0,
+          "score_share": 0.0,
+          "win_prob": 0.031150175674785847,
+          "opponent_name": "Robin Linderborg",
+          "opponent_score": 9,
+          "opponent_score_share": 1.0,
+          "opponent_win_prob": 0.9688498243252142,
+          "is_winner": false,
+          "opponent_slug": "robin-linderborg",
+          "opponent_hist_score_share": 0.5497140012765013
+        },
+        {
+          "game_id": 569,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Kajsa Hallberg-Nor.",
+          "score": 0,
+          "score_share": 0.0,
+          "win_prob": 0.2177792345974645,
+          "opponent_name": "Fredrik Matz",
+          "opponent_score": 9,
+          "opponent_score_share": 1.0,
+          "opponent_win_prob": 0.7822207654025355,
+          "is_winner": false,
+          "opponent_slug": "fredrik-matz",
+          "opponent_hist_score_share": 0.7102564102564103
+        }
+      ],
+      "n_games": 2,
+      "n_wins": 0
     }
   ],
   "best_stage": "sextondelsfinal",

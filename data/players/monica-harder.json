@@ -1,18 +1,19 @@
 {
-  "n_games": 3,
-  "score_share": 0.4484126984126984,
+  "n_games": 5,
+  "score_share": 0.3054112554112554,
   "n_wins": 1,
   "years": [
-    2019
+    2019,
+    2022
   ],
-  "win_rate": 0.3333333333333333,
-  "opponent_score_share": 0.5674046995125427,
-  "skill": 88.01279919224734,
-  "skill_sigma": 60.06305844734327,
+  "win_rate": 0.2,
+  "opponent_score_share": 0.5743729415950831,
+  "skill": 57.94561246980738,
+  "skill_sigma": 50.33171597691784,
   "name": "Monica Harder",
   "slug": "monica-harder",
-  "skill_rank": 77.0,
-  "skill_rank_pct": 77.0,
+  "skill_rank": 106.0,
+  "skill_rank_pct": 106.0,
   "skill_history": [
     [
       2011,
@@ -45,6 +46,10 @@
     [
       2021,
       null
+    ],
+    [
+      2022,
+      58.0
     ]
   ],
   "tournaments": [
@@ -116,10 +121,62 @@
       ],
       "n_games": 3,
       "n_wins": 1
+    },
+    {
+      "year": 2022,
+      "last_game": {
+        "opponent_name": "Magnus Enlund",
+        "opponent_slug": "magnus-enlund",
+        "score": 2,
+        "opponent_score": 9,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "games": [
+        {
+          "game_id": 576,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Monica Harder",
+          "score": 0,
+          "score_share": 0.0,
+          "win_prob": 0.1674515540701091,
+          "opponent_name": "Olle Strandberg",
+          "opponent_score": 10,
+          "opponent_score_share": 1.0,
+          "opponent_win_prob": 0.8325484459298909,
+          "is_winner": false,
+          "opponent_slug": "olle-strandberg",
+          "opponent_hist_score_share": 0.6605863621382464
+        },
+        {
+          "game_id": 606,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Monica Harder",
+          "score": 2,
+          "score_share": 0.18181818181818182,
+          "win_prob": 0.37205413643640695,
+          "opponent_name": "Magnus Enlund",
+          "opponent_score": 9,
+          "opponent_score_share": 0.8181818181818182,
+          "opponent_win_prob": 0.627945863563593,
+          "is_winner": false,
+          "opponent_slug": "magnus-enlund",
+          "opponent_hist_score_share": 0.5090642472995414
+        }
+      ],
+      "n_games": 2,
+      "n_wins": 0
     }
   ],
   "best_stage": "gruppspel",
   "best_stage_years": [
+    2022,
     2019
   ]
 }

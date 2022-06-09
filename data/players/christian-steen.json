@@ -6,13 +6,13 @@
     2019
   ],
   "win_rate": 0.5,
-  "opponent_score_share": 0.5123035362405615,
+  "opponent_score_share": 0.5208122347258575,
   "skill": 131.44451219069174,
   "skill_sigma": 49.192924780909365,
   "name": "Christian Steen",
   "slug": "christian-steen",
-  "skill_rank": 45.0,
-  "skill_rank_pct": 45.0,
+  "skill_rank": 52.0,
+  "skill_rank_pct": 52.0,
   "skill_history": [
     [
       2011,
@@ -45,6 +45,10 @@
     [
       2021,
       null
+    ],
+    [
+      2022,
+      null
     ]
   ],
   "tournaments": [
@@ -75,7 +79,7 @@
           "opponent_win_prob": 0.3861639728615891,
           "is_winner": true,
           "opponent_slug": "olle-strandberg",
-          "opponent_hist_score_share": 0.6265515681970623
+          "opponent_hist_score_share": 0.6605863621382464
         },
         {
           "game_id": 292,

@@ -1,22 +1,23 @@
 {
-  "n_games": 18,
-  "score_share": 0.607092662239721,
+  "n_games": 20,
+  "score_share": 0.5760537256860787,
   "n_wins": 11,
   "years": [
     2017,
     2018,
     2019,
     2020,
-    2021
+    2021,
+    2022
   ],
-  "win_rate": 0.6111111111111112,
-  "opponent_score_share": 0.4602718134551336,
-  "skill": 160.06600945098987,
-  "skill_sigma": 27.616484460930888,
+  "win_rate": 0.55,
+  "opponent_score_share": 0.4626622787889727,
+  "skill": 136.02940283359482,
+  "skill_sigma": 25.63895304898645,
   "name": "Lovisa Birgersson",
   "slug": "lovisa-birgersson",
-  "skill_rank": 25.0,
-  "skill_rank_pct": 25.0,
+  "skill_rank": 47.0,
+  "skill_rank_pct": 47.0,
   "skill_history": [
     [
       2011,
@@ -49,6 +50,10 @@
     [
       2021,
       160.0
+    ],
+    [
+      2022,
+      136.0
     ]
   ],
   "tournaments": [
@@ -79,7 +84,7 @@
           "opponent_win_prob": 0.5735765078343356,
           "is_winner": false,
           "opponent_slug": "erik-nordenankar",
-          "opponent_hist_score_share": 0.6925923706869999
+          "opponent_hist_score_share": 0.6815916514882377
         },
         {
           "game_id": 126,
@@ -97,7 +102,7 @@
           "opponent_win_prob": 0.5426860336925698,
           "is_winner": false,
           "opponent_slug": "theodore-ripman",
-          "opponent_hist_score_share": 0.5584493013252412
+          "opponent_hist_score_share": 0.5684301946084984
         },
         {
           "game_id": 94,
@@ -220,7 +225,7 @@
           "opponent_win_prob": 0.7882353742113861,
           "is_winner": false,
           "opponent_slug": "erik-nordenankar",
-          "opponent_hist_score_share": 0.6925923706869999
+          "opponent_hist_score_share": 0.6815916514882377
         }
       ],
       "n_games": 5,
@@ -253,7 +258,7 @@
           "opponent_win_prob": 0.6240364576067716,
           "is_winner": true,
           "opponent_slug": "benjamin-ger-hed",
-          "opponent_hist_score_share": 0.5806306275423923
+          "opponent_hist_score_share": 0.5937790548374914
         },
         {
           "game_id": 275,
@@ -289,7 +294,7 @@
           "opponent_win_prob": 0.5313783729731436,
           "is_winner": false,
           "opponent_slug": "jerker-karlsson",
-          "opponent_hist_score_share": 0.5206712624981856
+          "opponent_hist_score_share": 0.5304547767047768
         }
       ],
       "n_games": 3,
@@ -358,7 +363,7 @@
           "opponent_win_prob": 0.48316113584803644,
           "is_winner": false,
           "opponent_slug": "johan-johnson",
-          "opponent_hist_score_share": 0.45725227591036416
+          "opponent_hist_score_share": 0.4716205363264187
         }
       ],
       "n_games": 3,
@@ -391,7 +396,7 @@
           "opponent_win_prob": 0.25106207507812284,
           "is_winner": true,
           "opponent_slug": "johan-ekman",
-          "opponent_hist_score_share": 0.4664331538106048
+          "opponent_hist_score_share": 0.5006588294355674
         },
         {
           "game_id": 464,
@@ -427,7 +432,7 @@
           "opponent_win_prob": 0.08391591520331632,
           "is_winner": true,
           "opponent_slug": "frida-ohrn",
-          "opponent_hist_score_share": 0.39154768842268833
+          "opponent_hist_score_share": 0.39508248162094317
         },
         {
           "game_id": 544,
@@ -445,11 +450,62 @@
           "opponent_win_prob": 0.6628925966854156,
           "is_winner": false,
           "opponent_slug": "erik-nordenankar",
-          "opponent_hist_score_share": 0.6925923706869999
+          "opponent_hist_score_share": 0.6815916514882377
         }
       ],
       "n_games": 4,
       "n_wins": 3
+    },
+    {
+      "year": 2022,
+      "last_game": {
+        "opponent_name": "Johan Johnson",
+        "opponent_slug": "johan-johnson",
+        "score": 4,
+        "opponent_score": 9,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "games": [
+        {
+          "game_id": 554,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Lovisa Birgersson",
+          "score": 4,
+          "score_share": 0.2857142857142857,
+          "win_prob": 0.9353966607445708,
+          "opponent_name": "Jacob Stenman",
+          "opponent_score": 10,
+          "opponent_score_share": 0.7142857142857143,
+          "opponent_win_prob": 0.06460333925542913,
+          "is_winner": false,
+          "opponent_slug": "jacob-stenman",
+          "opponent_hist_score_share": 0.44469299083269664
+        },
+        {
+          "game_id": 597,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Lovisa Birgersson",
+          "score": 4,
+          "score_share": 0.3076923076923077,
+          "win_prob": 0.6005179083402613,
+          "opponent_name": "Johan Johnson",
+          "opponent_score": 9,
+          "opponent_score_share": 0.6923076923076923,
+          "opponent_win_prob": 0.3994820916597387,
+          "is_winner": false,
+          "opponent_slug": "johan-johnson",
+          "opponent_hist_score_share": 0.4716205363264187
+        }
+      ],
+      "n_games": 2,
+      "n_wins": 0
     }
   ],
   "best_stage": "\u00e5ttondelsfinal",

@@ -1,0 +1,183 @@
+{
+  "n_games": 6,
+  "score_share": 0.5587885154061625,
+  "n_wins": 4,
+  "years": [
+    2022
+  ],
+  "win_rate": 0.6666666666666666,
+  "opponent_score_share": 0.5233527838325048,
+  "skill": 179.43694677068248,
+  "skill_sigma": 40.295662289726074,
+  "name": "Johannes Nordenhaag",
+  "slug": "johannes-nordenhaag",
+  "skill_rank": 14.0,
+  "skill_rank_pct": 14.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      null
+    ],
+    [
+      2016,
+      null
+    ],
+    [
+      2017,
+      null
+    ],
+    [
+      2018,
+      null
+    ],
+    [
+      2019,
+      null
+    ],
+    [
+      2020,
+      null
+    ],
+    [
+      2021,
+      null
+    ],
+    [
+      2022,
+      179.0
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2022,
+      "last_game": {
+        "opponent_name": "Gabriel Nordenankar",
+        "opponent_slug": "gabriel-nordenankar",
+        "score": 6,
+        "opponent_score": 11,
+        "is_winner": false,
+        "stage": "kvartsfinal"
+      },
+      "games": [
+        {
+          "game_id": 611,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Johannes Nordenhaag",
+          "score": 9,
+          "score_share": 0.5294117647058824,
+          "win_prob": 0.45222860463130776,
+          "opponent_name": "Johannes Gr\u00f6nborg",
+          "opponent_score": 8,
+          "opponent_score_share": 0.47058823529411764,
+          "opponent_win_prob": 0.5477713953686922,
+          "is_winner": true,
+          "opponent_slug": "johannes-gronborg",
+          "opponent_hist_score_share": 0.4397114867703103
+        },
+        {
+          "game_id": 558,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Johannes Nordenhaag",
+          "score": 5,
+          "score_share": 0.35714285714285715,
+          "win_prob": 0.4794157031075971,
+          "opponent_name": "Bj\u00f6rn Berglund",
+          "opponent_score": 9,
+          "opponent_score_share": 0.6428571428571429,
+          "opponent_win_prob": 0.5205842968924028,
+          "is_winner": false,
+          "opponent_slug": "bjorn-berglund",
+          "opponent_hist_score_share": 0.5384795542148484
+        },
+        {
+          "game_id": 599,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Johannes Nordenhaag",
+          "score": 9,
+          "score_share": 0.9,
+          "win_prob": 0.48337523651002057,
+          "opponent_name": "Sussie R\u00e5dis",
+          "opponent_score": 1,
+          "opponent_score_share": 0.1,
+          "opponent_win_prob": 0.5166247634899794,
+          "is_winner": true,
+          "opponent_slug": "sussie-radis",
+          "opponent_hist_score_share": 0.3569078633784516
+        },
+        {
+          "game_id": 628,
+          "year": 2022,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p2",
+          "name": "Johannes Nordenhaag",
+          "score": 10,
+          "score_share": 0.5882352941176471,
+          "win_prob": 0.16815733333671368,
+          "opponent_name": "Theodore Ripman",
+          "opponent_score": 7,
+          "opponent_score_share": 0.4117647058823529,
+          "opponent_win_prob": 0.8318426666632863,
+          "is_winner": true,
+          "opponent_slug": "theodore-ripman",
+          "opponent_hist_score_share": 0.5684301946084984
+        },
+        {
+          "game_id": 642,
+          "year": 2022,
+          "stage": "\u00e5ttondelsfinal",
+          "stage_level": 2,
+          "winner": "p1",
+          "name": "Johannes Nordenhaag",
+          "score": 10,
+          "score_share": 0.625,
+          "win_prob": 0.5168296840596134,
+          "opponent_name": "Jon Jeppson",
+          "opponent_score": 6,
+          "opponent_score_share": 0.375,
+          "opponent_win_prob": 0.4831703159403866,
+          "is_winner": true,
+          "opponent_slug": "jon-jeppson",
+          "opponent_hist_score_share": 0.5849962863933452
+        },
+        {
+          "game_id": 649,
+          "year": 2022,
+          "stage": "kvartsfinal",
+          "stage_level": 3,
+          "winner": "p2",
+          "name": "Johannes Nordenhaag",
+          "score": 6,
+          "score_share": 0.35294117647058826,
+          "win_prob": 0.2900088429283172,
+          "opponent_name": "Gabriel Nordenankar",
+          "opponent_score": 11,
+          "opponent_score_share": 0.6470588235294118,
+          "opponent_win_prob": 0.7099911570716828,
+          "is_winner": false,
+          "opponent_slug": "gabriel-nordenankar",
+          "opponent_hist_score_share": 0.6515913176295751
+        }
+      ],
+      "n_games": 6,
+      "n_wins": 4
+    }
+  ],
+  "best_stage": "kvartsfinal",
+  "best_stage_years": [
+    2022
+  ]
+}

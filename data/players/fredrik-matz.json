@@ -1,0 +1,129 @@
+{
+  "n_games": 3,
+  "score_share": 0.7102564102564103,
+  "n_wins": 2,
+  "years": [
+    2022
+  ],
+  "win_rate": 0.6666666666666666,
+  "opponent_score_share": 0.3605243379776751,
+  "skill": 135.64537216261115,
+  "skill_sigma": 59.719192267294304,
+  "name": "Fredrik Matz",
+  "slug": "fredrik-matz",
+  "skill_rank": 48.0,
+  "skill_rank_pct": 48.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      null
+    ],
+    [
+      2016,
+      null
+    ],
+    [
+      2017,
+      null
+    ],
+    [
+      2018,
+      null
+    ],
+    [
+      2019,
+      null
+    ],
+    [
+      2020,
+      null
+    ],
+    [
+      2021,
+      null
+    ],
+    [
+      2022,
+      136.0
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2022,
+      "last_game": {
+        "opponent_name": "Hilda Dahlberg",
+        "opponent_slug": "hilda-dahlberg",
+        "score": 3,
+        "opponent_score": 10,
+        "is_winner": false,
+        "stage": "sextondelsfinal"
+      },
+      "games": [
+        {
+          "game_id": 569,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Fredrik Matz",
+          "score": 9,
+          "score_share": 1.0,
+          "win_prob": 0.7822207654025355,
+          "opponent_name": "Kajsa Hallberg-Nor.",
+          "opponent_score": 0,
+          "opponent_score_share": 0.0,
+          "opponent_win_prob": 0.2177792345974645,
+          "is_winner": true,
+          "opponent_slug": "kajsa-hallberg-nor",
+          "opponent_hist_score_share": 0.23370785825536958
+        },
+        {
+          "game_id": 591,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Fredrik Matz",
+          "score": 9,
+          "score_share": 0.9,
+          "win_prob": 0.32196864771118994,
+          "opponent_name": "Jessica Johansson",
+          "opponent_score": 1,
+          "opponent_score_share": 0.1,
+          "opponent_win_prob": 0.6780313522888101,
+          "is_winner": true,
+          "opponent_slug": "jessica-johansson",
+          "opponent_hist_score_share": 0.3666666666666667
+        },
+        {
+          "game_id": 639,
+          "year": 2022,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p2",
+          "name": "Fredrik Matz",
+          "score": 3,
+          "score_share": 0.23076923076923078,
+          "win_prob": 0.7109771652272739,
+          "opponent_name": "Hilda Dahlberg",
+          "opponent_score": 10,
+          "opponent_score_share": 0.7692307692307693,
+          "opponent_win_prob": 0.28902283477272606,
+          "is_winner": false,
+          "opponent_slug": "hilda-dahlberg",
+          "opponent_hist_score_share": 0.481198489010989
+        }
+      ],
+      "n_games": 3,
+      "n_wins": 2
+    }
+  ],
+  "best_stage": "sextondelsfinal",
+  "best_stage_years": [
+    2022
+  ]
+}

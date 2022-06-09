@@ -11,13 +11,13 @@
     2019
   ],
   "win_rate": 0.55,
-  "opponent_score_share": 0.5345335766384409,
+  "opponent_score_share": 0.5367140078740864,
   "skill": 149.25388905616194,
   "skill_sigma": 26.515541310620893,
   "name": "Cissi Hellman",
   "slug": "cissi-hellman",
-  "skill_rank": 32.0,
-  "skill_rank_pct": 32.0,
+  "skill_rank": 36.0,
+  "skill_rank_pct": 36.0,
   "skill_history": [
     [
       2011,
@@ -49,6 +49,10 @@
     ],
     [
       2021,
+      null
+    ],
+    [
+      2022,
       null
     ]
   ],
@@ -98,7 +102,7 @@
           "opponent_win_prob": 0.36814674042956597,
           "is_winner": false,
           "opponent_slug": "gabriel-nordenankar",
-          "opponent_hist_score_share": 0.6387546156727935
+          "opponent_hist_score_share": 0.6515913176295751
         },
         {
           "game_id": 15,
@@ -152,7 +156,7 @@
           "opponent_win_prob": 0.4547359683119315,
           "is_winner": false,
           "opponent_slug": "erik-nordenankar",
-          "opponent_hist_score_share": 0.6925923706869999
+          "opponent_hist_score_share": 0.6815916514882377
         }
       ],
       "n_games": 5,
@@ -185,7 +189,7 @@
           "opponent_win_prob": 0.3818583703955757,
           "is_winner": true,
           "opponent_slug": "theodore-ripman",
-          "opponent_hist_score_share": 0.5584493013252412
+          "opponent_hist_score_share": 0.5684301946084984
         },
         {
           "game_id": 31,
@@ -203,7 +207,7 @@
           "opponent_win_prob": 0.2414320038312941,
           "is_winner": false,
           "opponent_slug": "theodore-ripman",
-          "opponent_hist_score_share": 0.5584493013252412
+          "opponent_hist_score_share": 0.5684301946084984
         }
       ],
       "n_games": 2,
@@ -236,7 +240,7 @@
           "opponent_win_prob": 0.7648104153723081,
           "is_winner": true,
           "opponent_slug": "erik-nordenankar",
-          "opponent_hist_score_share": 0.6925923706869999
+          "opponent_hist_score_share": 0.6815916514882377
         },
         {
           "game_id": 50,
@@ -392,7 +396,7 @@
           "opponent_win_prob": 0.304157281117395,
           "is_winner": false,
           "opponent_slug": "robin-fogelberg",
-          "opponent_hist_score_share": 0.5474311979729937
+          "opponent_hist_score_share": 0.5883273927718372
         }
       ],
       "n_games": 5,
@@ -425,7 +429,7 @@
           "opponent_win_prob": 0.3407379424853705,
           "is_winner": false,
           "opponent_slug": "alexander-starfelt",
-          "opponent_hist_score_share": 0.5512412467133828
+          "opponent_hist_score_share": 0.5523920473153514
         },
         {
           "game_id": 327,
@@ -497,7 +501,7 @@
           "opponent_win_prob": 0.3947350227112928,
           "is_winner": false,
           "opponent_slug": "robeson",
-          "opponent_hist_score_share": 0.5907463227674689
+          "opponent_hist_score_share": 0.5815109019537957
         }
       ],
       "n_games": 5,

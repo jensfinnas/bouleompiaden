@@ -1,19 +1,20 @@
 {
-  "n_games": 7,
-  "score_share": 0.550949050949051,
+  "n_games": 9,
+  "score_share": 0.5023865023865024,
   "n_wins": 4,
   "years": [
     2020,
-    2021
+    2021,
+    2022
   ],
-  "win_rate": 0.5714285714285714,
-  "opponent_score_share": 0.47347579810882234,
-  "skill": 145.77025241259417,
-  "skill_sigma": 41.205106384025555,
+  "win_rate": 0.4444444444444444,
+  "opponent_score_share": 0.47910410820570853,
+  "skill": 118.9600290013378,
+  "skill_sigma": 37.791907886716956,
   "name": "Tim Samuelsson",
   "slug": "tim-samuelsson",
-  "skill_rank": 33.0,
-  "skill_rank_pct": 33.0,
+  "skill_rank": 63.0,
+  "skill_rank_pct": 63.0,
   "skill_history": [
     [
       2011,
@@ -46,6 +47,10 @@
     [
       2021,
       146.0
+    ],
+    [
+      2022,
+      119.0
     ]
   ],
   "tournaments": [
@@ -163,7 +168,7 @@
           "opponent_win_prob": 0.6032839148629763,
           "is_winner": true,
           "opponent_slug": "alexander-starfelt",
-          "opponent_hist_score_share": 0.5512412467133828
+          "opponent_hist_score_share": 0.5523920473153514
         },
         {
           "game_id": 458,
@@ -199,11 +204,62 @@
           "opponent_win_prob": 0.3378666717919161,
           "is_winner": false,
           "opponent_slug": "erik-numan",
-          "opponent_hist_score_share": 0.533860852033121
+          "opponent_hist_score_share": 0.509236211558193
         }
       ],
       "n_games": 3,
       "n_wins": 2
+    },
+    {
+      "year": 2022,
+      "last_game": {
+        "opponent_name": "Sebastian Schneider",
+        "opponent_slug": "sebastian-schneider",
+        "score": 4,
+        "opponent_score": 9,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "games": [
+        {
+          "game_id": 617,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Tim Samuelsson",
+          "score": 5,
+          "score_share": 0.35714285714285715,
+          "win_prob": 0.7292985293631098,
+          "opponent_name": "Amanda Engstr\u00f6m",
+          "opponent_score": 9,
+          "opponent_score_share": 0.6428571428571429,
+          "opponent_win_prob": 0.2707014706368902,
+          "is_winner": false,
+          "opponent_slug": "amanda-engstrom",
+          "opponent_hist_score_share": 0.45617323852617975
+        },
+        {
+          "game_id": 589,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Tim Samuelsson",
+          "score": 4,
+          "score_share": 0.3076923076923077,
+          "win_prob": 0.4310110280844057,
+          "opponent_name": "Sebastian Schneider",
+          "opponent_score": 9,
+          "opponent_score_share": 0.6923076923076923,
+          "opponent_win_prob": 0.5689889719155943,
+          "is_winner": false,
+          "opponent_slug": "sebastian-schneider",
+          "opponent_hist_score_share": 0.5649069884364002
+        }
+      ],
+      "n_games": 2,
+      "n_wins": 0
     }
   ],
   "best_stage": "\u00e5ttondelsfinal",

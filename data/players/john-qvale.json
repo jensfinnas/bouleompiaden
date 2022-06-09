@@ -1,21 +1,22 @@
 {
-  "n_games": 8,
-  "score_share": 0.318958818958819,
-  "n_wins": 0,
+  "n_games": 11,
+  "score_share": 0.36102849171030993,
+  "n_wins": 1,
   "years": [
     2016,
     2018,
     2019,
-    2021
+    2021,
+    2022
   ],
-  "win_rate": 0.0,
-  "opponent_score_share": 0.5173702167067784,
-  "skill": -56.42418259369023,
-  "skill_sigma": 53.96891717667812,
+  "win_rate": 0.09090909090909091,
+  "opponent_score_share": 0.49820708602196684,
+  "skill": -33.13949434190344,
+  "skill_sigma": 47.327488110135185,
   "name": "John Qvale",
   "slug": "john-qvale",
-  "skill_rank": 141.0,
-  "skill_rank_pct": 141.0,
+  "skill_rank": 152.0,
+  "skill_rank_pct": 152.0,
   "skill_history": [
     [
       2011,
@@ -48,6 +49,10 @@
     [
       2021,
       -56.0
+    ],
+    [
+      2022,
+      -33.0
     ]
   ],
   "tournaments": [
@@ -129,7 +134,7 @@
           "opponent_win_prob": 0.7394275726837276,
           "is_winner": false,
           "opponent_slug": "alexander-starfelt",
-          "opponent_hist_score_share": 0.5512412467133828
+          "opponent_hist_score_share": 0.5523920473153514
         },
         {
           "game_id": 163,
@@ -198,7 +203,7 @@
           "opponent_win_prob": 0.6478291389742045,
           "is_winner": false,
           "opponent_slug": "jakob-gustafsson",
-          "opponent_hist_score_share": 0.4505012589905638
+          "opponent_hist_score_share": 0.4453114287673111
         }
       ],
       "n_games": 2,
@@ -254,11 +259,81 @@
       ],
       "n_games": 2,
       "n_wins": 0
+    },
+    {
+      "year": 2022,
+      "last_game": {
+        "opponent_name": "Heiv Sarban",
+        "opponent_slug": "heiv-sarban",
+        "score": 10,
+        "opponent_score": 6,
+        "is_winner": true,
+        "stage": "gruppspel"
+      },
+      "games": [
+        {
+          "game_id": 574,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "John Qvale",
+          "score": 5,
+          "score_share": 0.35714285714285715,
+          "win_prob": 0.013564095218133532,
+          "opponent_name": "Alexander Starfelt",
+          "opponent_score": 9,
+          "opponent_score_share": 0.6428571428571429,
+          "opponent_win_prob": 0.9864359047818665,
+          "is_winner": false,
+          "opponent_slug": "alexander-starfelt",
+          "opponent_hist_score_share": 0.5523920473153514
+        },
+        {
+          "game_id": 621,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "John Qvale",
+          "score": 7,
+          "score_share": 0.4375,
+          "win_prob": 0.05408869279972739,
+          "opponent_name": "Hilda Dahlberg",
+          "opponent_score": 9,
+          "opponent_score_share": 0.5625,
+          "opponent_win_prob": 0.9459113072002726,
+          "is_winner": false,
+          "opponent_slug": "hilda-dahlberg",
+          "opponent_hist_score_share": 0.481198489010989
+        },
+        {
+          "game_id": 605,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "John Qvale",
+          "score": 10,
+          "score_share": 0.625,
+          "win_prob": 0.35750842144827577,
+          "opponent_name": "Heiv Sarban",
+          "opponent_score": 6,
+          "opponent_score_share": 0.375,
+          "opponent_win_prob": 0.6424915785517242,
+          "is_winner": true,
+          "opponent_slug": "heiv-sarban",
+          "opponent_hist_score_share": 0.31176470588235294
+        }
+      ],
+      "n_games": 3,
+      "n_wins": 1
     }
   ],
   "best_stage": "gruppspel",
   "best_stage_years": [
     2016,
+    2022,
     2018,
     2019,
     2021

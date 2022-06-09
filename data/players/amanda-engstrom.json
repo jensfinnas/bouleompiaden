@@ -1,0 +1,165 @@
+{
+  "n_games": 5,
+  "score_share": 0.45617323852617975,
+  "n_wins": 3,
+  "years": [
+    2022
+  ],
+  "win_rate": 0.6,
+  "opponent_score_share": 0.5325869056368907,
+  "skill": 163.23719761372638,
+  "skill_sigma": 45.35339274953068,
+  "name": "Amanda Engstr\u00f6m",
+  "slug": "amanda-engstrom",
+  "skill_rank": 26.0,
+  "skill_rank_pct": 26.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      null
+    ],
+    [
+      2016,
+      null
+    ],
+    [
+      2017,
+      null
+    ],
+    [
+      2018,
+      null
+    ],
+    [
+      2019,
+      null
+    ],
+    [
+      2020,
+      null
+    ],
+    [
+      2021,
+      null
+    ],
+    [
+      2022,
+      163.0
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2022,
+      "last_game": {
+        "opponent_name": "Robin Fogelberg",
+        "opponent_slug": "robin-fogelberg",
+        "score": 2,
+        "opponent_score": 11,
+        "is_winner": false,
+        "stage": "kvartsfinal"
+      },
+      "games": [
+        {
+          "game_id": 568,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Amanda Engstr\u00f6m",
+          "score": 4,
+          "score_share": 0.3076923076923077,
+          "win_prob": 0.2624146212846123,
+          "opponent_name": "Pelle Dovborg",
+          "opponent_score": 9,
+          "opponent_score_share": 0.6923076923076923,
+          "opponent_win_prob": 0.7375853787153877,
+          "is_winner": false,
+          "opponent_slug": "pelle-dovborg",
+          "opponent_hist_score_share": 0.5626206537570174
+        },
+        {
+          "game_id": 617,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Amanda Engstr\u00f6m",
+          "score": 9,
+          "score_share": 0.6428571428571429,
+          "win_prob": 0.2707014706368902,
+          "opponent_name": "Tim Samuelsson",
+          "opponent_score": 5,
+          "opponent_score_share": 0.35714285714285715,
+          "opponent_win_prob": 0.7292985293631098,
+          "is_winner": true,
+          "opponent_slug": "tim-samuelsson",
+          "opponent_hist_score_share": 0.5023865023865024
+        },
+        {
+          "game_id": 636,
+          "year": 2022,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p2",
+          "name": "Amanda Engstr\u00f6m",
+          "score": 10,
+          "score_share": 0.5882352941176471,
+          "win_prob": 0.6257083325286847,
+          "opponent_name": "Jacob Stenman",
+          "opponent_score": 7,
+          "opponent_score_share": 0.4117647058823529,
+          "opponent_win_prob": 0.3742916674713152,
+          "is_winner": true,
+          "opponent_slug": "jacob-stenman",
+          "opponent_hist_score_share": 0.44469299083269664
+        },
+        {
+          "game_id": 646,
+          "year": 2022,
+          "stage": "\u00e5ttondelsfinal",
+          "stage_level": 2,
+          "winner": "p2",
+          "name": "Amanda Engstr\u00f6m",
+          "score": 10,
+          "score_share": 0.5882352941176471,
+          "win_prob": 0.3310015099815806,
+          "opponent_name": "Sebastian Schneider",
+          "opponent_score": 7,
+          "opponent_score_share": 0.4117647058823529,
+          "opponent_win_prob": 0.6689984900184194,
+          "is_winner": true,
+          "opponent_slug": "sebastian-schneider",
+          "opponent_hist_score_share": 0.5649069884364002
+        },
+        {
+          "game_id": 651,
+          "year": 2022,
+          "stage": "kvartsfinal",
+          "stage_level": 3,
+          "winner": "p2",
+          "name": "Amanda Engstr\u00f6m",
+          "score": 2,
+          "score_share": 0.15384615384615385,
+          "win_prob": 0.6561730172709817,
+          "opponent_name": "Robin Fogelberg",
+          "opponent_score": 11,
+          "opponent_score_share": 0.8461538461538461,
+          "opponent_win_prob": 0.34382698272901835,
+          "is_winner": false,
+          "opponent_slug": "robin-fogelberg",
+          "opponent_hist_score_share": 0.5883273927718372
+        }
+      ],
+      "n_games": 5,
+      "n_wins": 3
+    }
+  ],
+  "best_stage": "kvartsfinal",
+  "best_stage_years": [
+    2022
+  ]
+}

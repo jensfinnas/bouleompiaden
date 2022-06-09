@@ -6,13 +6,13 @@
     2019
   ],
   "win_rate": 0.0,
-  "opponent_score_share": 0.5469345551372309,
+  "opponent_score_share": 0.5519250017788595,
   "skill": 12.171755924354164,
   "skill_sigma": 70.96224863449702,
   "name": "Frida Danielsson",
   "slug": "frida-danielsson",
-  "skill_rank": 118.0,
-  "skill_rank_pct": 118.0,
+  "skill_rank": 132.0,
+  "skill_rank_pct": 132.0,
   "skill_history": [
     [
       2011,
@@ -45,6 +45,10 @@
     [
       2021,
       null
+    ],
+    [
+      2022,
+      null
     ]
   ],
   "tournaments": [
@@ -75,7 +79,7 @@
           "opponent_win_prob": 0.6987151905676268,
           "is_winner": false,
           "opponent_slug": "theodore-ripman",
-          "opponent_hist_score_share": 0.5584493013252412
+          "opponent_hist_score_share": 0.5684301946084984
         },
         {
           "game_id": 305,

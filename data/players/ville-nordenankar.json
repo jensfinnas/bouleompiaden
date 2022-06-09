@@ -1,22 +1,23 @@
 {
-  "n_games": 14,
-  "score_share": 0.4128117913832199,
+  "n_games": 16,
+  "score_share": 0.39991770382395375,
   "n_wins": 6,
   "years": [
     2017,
     2018,
     2019,
     2020,
-    2021
+    2021,
+    2022
   ],
-  "win_rate": 0.42857142857142855,
-  "opponent_score_share": 0.5577470672749193,
-  "skill": 107.76092818796256,
-  "skill_sigma": 31.931521973023564,
+  "win_rate": 0.375,
+  "opponent_score_share": 0.5501025432056715,
+  "skill": 91.9511675035947,
+  "skill_sigma": 30.021898877473966,
   "name": "Ville Nordenankar",
   "slug": "ville-nordenankar",
-  "skill_rank": 67.0,
-  "skill_rank_pct": 67.0,
+  "skill_rank": 83.0,
+  "skill_rank_pct": 83.0,
   "skill_history": [
     [
       2011,
@@ -49,6 +50,10 @@
     [
       2021,
       108.0
+    ],
+    [
+      2022,
+      92.0
     ]
   ],
   "tournaments": [
@@ -79,7 +84,7 @@
           "opponent_win_prob": 0.6892218234414531,
           "is_winner": true,
           "opponent_slug": "johan-kjell",
-          "opponent_hist_score_share": 0.5761679966633527
+          "opponent_hist_score_share": 0.580606891524278
         },
         {
           "game_id": 103,
@@ -97,7 +102,7 @@
           "opponent_win_prob": 0.38425397243046266,
           "is_winner": true,
           "opponent_slug": "jerker-karlsson",
-          "opponent_hist_score_share": 0.5206712624981856
+          "opponent_hist_score_share": 0.5304547767047768
         },
         {
           "game_id": 130,
@@ -133,7 +138,7 @@
           "opponent_win_prob": 0.27734874999558495,
           "is_winner": false,
           "opponent_slug": "erik-nordenankar",
-          "opponent_hist_score_share": 0.6925923706869999
+          "opponent_hist_score_share": 0.6815916514882377
         }
       ],
       "n_games": 4,
@@ -220,7 +225,7 @@
           "opponent_win_prob": 0.674002837821399,
           "is_winner": false,
           "opponent_slug": "gabriel-nordenankar",
-          "opponent_hist_score_share": 0.6387546156727935
+          "opponent_hist_score_share": 0.6515913176295751
         }
       ],
       "n_games": 4,
@@ -304,7 +309,7 @@
           "opponent_win_prob": 0.3958118333291645,
           "is_winner": false,
           "opponent_slug": "pelle-dovborg",
-          "opponent_hist_score_share": 0.5669484926837869
+          "opponent_hist_score_share": 0.5626206537570174
         },
         {
           "game_id": 396,
@@ -355,7 +360,7 @@
           "opponent_win_prob": 0.5613699941118211,
           "is_winner": false,
           "opponent_slug": "magnus-enlund",
-          "opponent_hist_score_share": 0.5759506833036245
+          "opponent_hist_score_share": 0.5090642472995414
         },
         {
           "game_id": 504,
@@ -373,7 +378,58 @@
           "opponent_win_prob": 0.3419736407474662,
           "is_winner": false,
           "opponent_slug": "hilda-dahlberg",
-          "opponent_hist_score_share": 0.43452380952380953
+          "opponent_hist_score_share": 0.481198489010989
+        }
+      ],
+      "n_games": 2,
+      "n_wins": 0
+    },
+    {
+      "year": 2022,
+      "last_game": {
+        "opponent_name": "Linda Tran",
+        "opponent_slug": "linda-tran",
+        "score": 7,
+        "opponent_score": 9,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "games": [
+        {
+          "game_id": 560,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Ville Nordenankar",
+          "score": 2,
+          "score_share": 0.18181818181818182,
+          "win_prob": 0.34801277140677417,
+          "opponent_name": "Jon Jeppson",
+          "opponent_score": 9,
+          "opponent_score_share": 0.8181818181818182,
+          "opponent_win_prob": 0.6519872285932258,
+          "is_winner": false,
+          "opponent_slug": "jon-jeppson",
+          "opponent_hist_score_share": 0.5849962863933452
+        },
+        {
+          "game_id": 600,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Ville Nordenankar",
+          "score": 7,
+          "score_share": 0.4375,
+          "win_prob": 0.6819624225737166,
+          "opponent_name": "Linda Tran",
+          "opponent_score": 9,
+          "opponent_score_share": 0.5625,
+          "opponent_win_prob": 0.31803757742628336,
+          "is_winner": false,
+          "opponent_slug": "linda-tran",
+          "opponent_hist_score_share": 0.4166666666666667
         }
       ],
       "n_games": 2,

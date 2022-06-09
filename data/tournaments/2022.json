@@ -1,0 +1,386 @@
+{
+  "year": 2022,
+  "playoff": [
+    {
+      "stage": "sextondelsfinal",
+      "games": [
+        {
+          "p1_name": "Olle Strandberg",
+          "p2_name": "Carl Rother-Schirren",
+          "p1_score": 10,
+          "p2_score": 9,
+          "winner": "p1"
+        },
+        {
+          "p1_name": "Richard Printz",
+          "p2_name": "Erik Nordenankar",
+          "p1_score": 7,
+          "p2_score": 10,
+          "winner": "p2"
+        },
+        {
+          "p1_name": "Hannes Jordan",
+          "p2_name": "Jerker Karlsson",
+          "p1_score": 10,
+          "p2_score": 5,
+          "winner": "p1"
+        },
+        {
+          "p1_name": "Richard Olsen",
+          "p2_name": "Patrik J\u00e4rg\u00e5rden",
+          "p1_score": 10,
+          "p2_score": 4,
+          "winner": "p1"
+        },
+        {
+          "p1_name": "Theodore Ripman",
+          "p2_name": "Johannes Nordenhaag",
+          "p1_score": 7,
+          "p2_score": 10,
+          "winner": "p2"
+        },
+        {
+          "p1_name": "Jakob Gudmundsson",
+          "p2_name": "Jon Jeppson",
+          "p1_score": 8,
+          "p2_score": 10,
+          "winner": "p2"
+        },
+        {
+          "p1_name": "Alexander Starfelt",
+          "p2_name": "Emma Bergmark",
+          "p1_score": 9,
+          "p2_score": 10,
+          "winner": "p2"
+        },
+        {
+          "p1_name": "Gabriel Nordenankar",
+          "p2_name": "Johanna R\u00e5dstr\u00f6m",
+          "p1_score": 10,
+          "p2_score": 6,
+          "winner": "p1"
+        },
+        {
+          "p1_name": "Benjamin Ger. Hed.",
+          "p2_name": "Erik Numan",
+          "p1_score": 9,
+          "p2_score": 10,
+          "winner": "p2"
+        },
+        {
+          "p1_name": "Jakob Gustafsson",
+          "p2_name": "Johan Kjell",
+          "p1_score": 2,
+          "p2_score": 11,
+          "winner": "p2"
+        },
+        {
+          "p1_name": "Pelle Dovborg",
+          "p2_name": "Filippa Berencreutz",
+          "p1_score": 10,
+          "p2_score": 7,
+          "winner": "p1"
+        },
+        {
+          "p1_name": "Johan Ekman",
+          "p2_name": "Calle Buddee Roos",
+          "p1_score": 10,
+          "p2_score": 4,
+          "winner": "p1"
+        },
+        {
+          "p1_name": "Jacob Stenman",
+          "p2_name": "Amanda Engstr\u00f6m",
+          "p1_score": 7,
+          "p2_score": 10,
+          "winner": "p2"
+        },
+        {
+          "p1_name": "Sebastian Schneider",
+          "p2_name": "Hasse Hallgren",
+          "p1_score": 10,
+          "p2_score": 8,
+          "winner": "p1"
+        },
+        {
+          "p1_name": "Robeson",
+          "p2_name": "Robin Fogelberg",
+          "p1_score": 6,
+          "p2_score": 10,
+          "winner": "p2"
+        },
+        {
+          "p1_name": "Fredrik Matz",
+          "p2_name": "Hilda Dahlberg",
+          "p1_score": 3,
+          "p2_score": 10,
+          "winner": "p2"
+        }
+      ]
+    },
+    {
+      "stage": "\u00e5ttondelsfinal",
+      "games": [
+        {
+          "p1_name": "Carl Rother-Schirren",
+          "p2_name": "Erik Nordenankar",
+          "p1_score": 5,
+          "p2_score": 10,
+          "winner": "p2"
+        },
+        {
+          "p1_name": "Hannes Jordan",
+          "p2_name": "Richard Olsen",
+          "p1_score": 10,
+          "p2_score": 4,
+          "winner": "p1"
+        },
+        {
+          "p1_name": "Johannes Nordenhaag",
+          "p2_name": "Jon Jeppson",
+          "p1_score": 10,
+          "p2_score": 6,
+          "winner": "p1"
+        },
+        {
+          "p1_name": "Emma Bergmark",
+          "p2_name": "Gabriel Nordenankar",
+          "p1_score": 4,
+          "p2_score": 10,
+          "winner": "p2"
+        },
+        {
+          "p1_name": "Erik Numan",
+          "p2_name": "Johan Kjell",
+          "p1_score": 10,
+          "p2_score": 4,
+          "winner": "p1"
+        },
+        {
+          "p1_name": "Pelle Dovborg",
+          "p2_name": "Johan Ekman",
+          "p1_score": 10,
+          "p2_score": 6,
+          "winner": "p1"
+        },
+        {
+          "p1_name": "Sebastian Schneider",
+          "p2_name": "Amanda Engstr\u00f6m",
+          "p1_score": 7,
+          "p2_score": 10,
+          "winner": "p2"
+        },
+        {
+          "p1_name": "Robin Fogelberg",
+          "p2_name": "Hilda Dahlberg",
+          "p1_score": 11,
+          "p2_score": 3,
+          "winner": "p1"
+        }
+      ]
+    },
+    {
+      "stage": "kvartsfinal",
+      "games": [
+        {
+          "p1_name": "Erik Nordenankar",
+          "p2_name": "Hannes Jordan",
+          "p1_score": 12,
+          "p2_score": 5,
+          "winner": "p1"
+        },
+        {
+          "p1_name": "Johannes Nordenhaag",
+          "p2_name": "Gabriel Nordenankar",
+          "p1_score": 6,
+          "p2_score": 11,
+          "winner": "p2"
+        },
+        {
+          "p1_name": "Erik Numan",
+          "p2_name": "Pelle Dovborg",
+          "p1_score": 7,
+          "p2_score": 11,
+          "winner": "p2"
+        },
+        {
+          "p1_name": "Amanda Engstr\u00f6m",
+          "p2_name": "Robin Fogelberg",
+          "p1_score": 2,
+          "p2_score": 11,
+          "winner": "p2"
+        }
+      ]
+    },
+    {
+      "stage": "semifinal",
+      "games": [
+        {
+          "p1_name": "Erik Nordenankar",
+          "p2_name": "Gabriel Nordenankar",
+          "p1_score": 1,
+          "p2_score": 11,
+          "winner": "p2"
+        },
+        {
+          "p1_name": "Pelle Dovborg",
+          "p2_name": "Robin Fogelberg",
+          "p1_score": 4,
+          "p2_score": 11,
+          "winner": "p2"
+        }
+      ]
+    },
+    {
+      "stage": "bronsmatch",
+      "games": [
+        {
+          "p1_name": "Pelle Dovborg",
+          "p2_name": "Erik Nordenankar",
+          "p1_score": 12,
+          "p2_score": 13,
+          "winner": "p2"
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "games": [
+        {
+          "p1_name": "Gabriel Nordenankar",
+          "p2_name": "Robin Fogelberg",
+          "p1_score": 13,
+          "p2_score": 12,
+          "winner": "p1"
+        }
+      ]
+    }
+  ],
+  "gold": "Gabriel Nordenankar",
+  "silver": "Robin Fogelberg",
+  "bronze": "Erik Nordenankar",
+  "top_performers": [
+    {
+      "name": "Johan Ekman",
+      "performance": 0.4869833136402355
+    },
+    {
+      "name": "Hannes Jordan",
+      "performance": 0.4472510424177569
+    },
+    {
+      "name": "Jacob Stenman",
+      "performance": 0.40376001514263593
+    },
+    {
+      "name": "Hasse Hallgren",
+      "performance": 0.3092978162291583
+    },
+    {
+      "name": "Johanna R\u00e5dstr\u00f6m",
+      "performance": 0.2947178773034274
+    },
+    {
+      "name": "Johannes Nordenhaag",
+      "performance": 0.2683307659044051
+    },
+    {
+      "name": "Olle Strandberg",
+      "performance": 0.25970976302339943
+    },
+    {
+      "name": "Robin Fogelberg",
+      "performance": 0.25489691125414227
+    },
+    {
+      "name": "Erik Numan",
+      "performance": 0.24965396523336042
+    },
+    {
+      "name": "Richard Printz",
+      "performance": 0.23262896861321133
+    },
+    {
+      "name": "Jakob Gustafsson",
+      "performance": 0.2283560426597797
+    },
+    {
+      "name": "John Qvale",
+      "performance": 0.19161293017795444
+    },
+    {
+      "name": "Gabriel Nordenankar",
+      "performance": 0.18305342209000283
+    },
+    {
+      "name": "Amanda Engstr\u00f6m",
+      "performance": 0.1708002096594501
+    },
+    {
+      "name": "Hilda Dahlberg",
+      "performance": 0.10006684330660906
+    }
+  ],
+  "top_low_prob_winners": [
+    {
+      "winner_name": "Jacob Stenman",
+      "loser_name": "Lovisa Birgersson",
+      "winner_win_prob": 0.06460333925542913,
+      "stage": "gruppspel"
+    },
+    {
+      "winner_name": "Johanna R\u00e5dstr\u00f6m",
+      "loser_name": "Gustaf Berencreutz",
+      "winner_win_prob": 0.10969591506346099,
+      "stage": "gruppspel"
+    },
+    {
+      "winner_name": "Johannes Nordenhaag",
+      "loser_name": "Theodore Ripman",
+      "winner_win_prob": 0.16815733333671368,
+      "stage": "sextondelsfinal"
+    },
+    {
+      "winner_name": "Robin Fogelberg",
+      "loser_name": "Robeson",
+      "winner_win_prob": 0.18544472874466422,
+      "stage": "sextondelsfinal"
+    },
+    {
+      "winner_name": "Johan Ekman",
+      "loser_name": "Robin Fogelberg",
+      "winner_win_prob": 0.19400947266790994,
+      "stage": "gruppspel"
+    },
+    {
+      "winner_name": "Hasse Hallgren",
+      "loser_name": "Linda Tran",
+      "winner_win_prob": 0.21578966000955313,
+      "stage": "gruppspel"
+    },
+    {
+      "winner_name": "Gustaf Berencreutz",
+      "loser_name": "Johan Johnson",
+      "winner_win_prob": 0.23442249645466284,
+      "stage": "gruppspel"
+    },
+    {
+      "winner_name": "Johan Ekman",
+      "loser_name": "Calle Buddee Roos",
+      "winner_win_prob": 0.23713456840256772,
+      "stage": "sextondelsfinal"
+    },
+    {
+      "winner_name": "Erik Numan",
+      "loser_name": "Benjamin Ger. Hed.",
+      "winner_win_prob": 0.23840364879838272,
+      "stage": "sextondelsfinal"
+    },
+    {
+      "winner_name": "Emma Bergmark",
+      "loser_name": "Alexander Starfelt",
+      "winner_win_prob": 0.24078179004379352,
+      "stage": "sextondelsfinal"
+    }
+  ]
+}

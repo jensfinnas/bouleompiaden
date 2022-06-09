@@ -1,19 +1,20 @@
 {
-  "n_games": 4,
-  "score_share": 0.5,
-  "n_wins": 2,
+  "n_games": 9,
+  "score_share": 0.4993908382066278,
+  "n_wins": 4,
   "years": [
     2020,
-    2021
+    2021,
+    2022
   ],
-  "win_rate": 0.5,
-  "opponent_score_share": 0.4886179973154763,
-  "skill": 129.54991379743245,
-  "skill_sigma": 49.414487328609354,
+  "win_rate": 0.4444444444444444,
+  "opponent_score_share": 0.4960802105242399,
+  "skill": 126.30164946285349,
+  "skill_sigma": 38.294001858922904,
   "name": "Carl Rother-Schirren",
   "slug": "carl-rother-schirren",
-  "skill_rank": 47.0,
-  "skill_rank_pct": 47.0,
+  "skill_rank": 56.0,
+  "skill_rank_pct": 56.0,
   "skill_history": [
     [
       2011,
@@ -46,6 +47,10 @@
     [
       2021,
       130.0
+    ],
+    [
+      2022,
+      126.0
     ]
   ],
   "tournaments": [
@@ -76,7 +81,7 @@
           "opponent_win_prob": 0.7144185616213597,
           "is_winner": false,
           "opponent_slug": "robin-linderborg",
-          "opponent_hist_score_share": 0.5582165616829482
+          "opponent_hist_score_share": 0.5497140012765013
         },
         {
           "game_id": 398,
@@ -127,7 +132,7 @@
           "opponent_win_prob": 0.7064762014413488,
           "is_winner": true,
           "opponent_slug": "hannes-jordan",
-          "opponent_hist_score_share": 0.4937004662004662
+          "opponent_hist_score_share": 0.5230629419600008
         },
         {
           "game_id": 454,
@@ -150,11 +155,115 @@
       ],
       "n_games": 2,
       "n_wins": 2
+    },
+    {
+      "year": 2022,
+      "last_game": {
+        "opponent_name": "Erik Nordenankar",
+        "opponent_slug": "erik-nordenankar",
+        "score": 5,
+        "opponent_score": 10,
+        "is_winner": false,
+        "stage": "\u00e5ttondelsfinal"
+      },
+      "games": [
+        {
+          "game_id": 577,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Carl Rother-Schirren",
+          "score": 11,
+          "score_share": 0.6875,
+          "win_prob": 0.770129749012818,
+          "opponent_name": "Anders Kjell",
+          "opponent_score": 5,
+          "opponent_score_share": 0.3125,
+          "opponent_win_prob": 0.22987025098718192,
+          "is_winner": true,
+          "opponent_slug": "anders-kjell",
+          "opponent_hist_score_share": 0.22865384615384618
+        },
+        {
+          "game_id": 595,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Carl Rother-Schirren",
+          "score": 5,
+          "score_share": 0.35714285714285715,
+          "win_prob": 0.30859243427301125,
+          "opponent_name": "Jakob Gudmundsson",
+          "opponent_score": 9,
+          "opponent_score_share": 0.6428571428571429,
+          "opponent_win_prob": 0.6914075657269887,
+          "is_winner": false,
+          "opponent_slug": "jakob-gudmundsson",
+          "opponent_hist_score_share": 0.5624338624338624
+        },
+        {
+          "game_id": 622,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Carl Rother-Schirren",
+          "score": 9,
+          "score_share": 0.6428571428571429,
+          "win_prob": 0.5419964220087503,
+          "opponent_name": "Caroline Verst\u00e4ndig",
+          "opponent_score": 5,
+          "opponent_score_share": 0.35714285714285715,
+          "opponent_win_prob": 0.4580035779912497,
+          "is_winner": true,
+          "opponent_slug": "caroline-verstandig",
+          "opponent_hist_score_share": 0.3561242678889738
+        },
+        {
+          "game_id": 624,
+          "year": 2022,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p1",
+          "name": "Carl Rother-Schirren",
+          "score": 9,
+          "score_share": 0.47368421052631576,
+          "win_prob": 0.2911118708337821,
+          "opponent_name": "Olle Strandberg",
+          "opponent_score": 10,
+          "opponent_score_share": 0.5263157894736842,
+          "opponent_win_prob": 0.7088881291662179,
+          "is_winner": false,
+          "opponent_slug": "olle-strandberg",
+          "opponent_hist_score_share": 0.6605863621382464
+        },
+        {
+          "game_id": 640,
+          "year": 2022,
+          "stage": "\u00e5ttondelsfinal",
+          "stage_level": 2,
+          "winner": "p2",
+          "name": "Carl Rother-Schirren",
+          "score": 5,
+          "score_share": 0.3333333333333333,
+          "win_prob": 0.14684729023860368,
+          "opponent_name": "Erik Nordenankar",
+          "opponent_score": 10,
+          "opponent_score_share": 0.6666666666666666,
+          "opponent_win_prob": 0.8531527097613963,
+          "is_winner": false,
+          "opponent_slug": "erik-nordenankar",
+          "opponent_hist_score_share": 0.6815916514882377
+        }
+      ],
+      "n_games": 5,
+      "n_wins": 2
     }
   ],
-  "best_stage": "gruppspel",
+  "best_stage": "\u00e5ttondelsfinal",
   "best_stage_years": [
-    2020,
-    2021
+    2022
   ]
 }

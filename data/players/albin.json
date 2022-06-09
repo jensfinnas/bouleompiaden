@@ -1,0 +1,129 @@
+{
+  "n_games": 3,
+  "score_share": 0.4831501831501832,
+  "n_wins": 1,
+  "years": [
+    2022
+  ],
+  "win_rate": 0.3333333333333333,
+  "opponent_score_share": 0.5240813912545939,
+  "skill": 70.13708081714128,
+  "skill_sigma": 61.70181815969178,
+  "name": "Albin",
+  "slug": "albin",
+  "skill_rank": 96.0,
+  "skill_rank_pct": 96.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      null
+    ],
+    [
+      2016,
+      null
+    ],
+    [
+      2017,
+      null
+    ],
+    [
+      2018,
+      null
+    ],
+    [
+      2019,
+      null
+    ],
+    [
+      2020,
+      null
+    ],
+    [
+      2021,
+      null
+    ],
+    [
+      2022,
+      70.0
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2022,
+      "last_game": {
+        "opponent_name": "Richard Olsen",
+        "opponent_slug": "richard-olsen",
+        "score": 5,
+        "opponent_score": 9,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "games": [
+        {
+          "game_id": 601,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Albin",
+          "score": 9,
+          "score_share": 0.6923076923076923,
+          "win_prob": 0.5444747610001553,
+          "opponent_name": "Sofia \u00d6rning",
+          "opponent_score": 4,
+          "opponent_score_share": 0.3076923076923077,
+          "opponent_win_prob": 0.45552523899984465,
+          "is_winner": true,
+          "opponent_slug": "sofia-orning",
+          "opponent_hist_score_share": 0.40345667857922757
+        },
+        {
+          "game_id": 613,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Albin",
+          "score": 6,
+          "score_share": 0.4,
+          "win_prob": 0.352350301839377,
+          "opponent_name": "Jon Jeppson",
+          "opponent_score": 9,
+          "opponent_score_share": 0.6,
+          "opponent_win_prob": 0.647649698160623,
+          "is_winner": false,
+          "opponent_slug": "jon-jeppson",
+          "opponent_hist_score_share": 0.5849962863933452
+        },
+        {
+          "game_id": 563,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Albin",
+          "score": 5,
+          "score_share": 0.35714285714285715,
+          "win_prob": 0.49999998499999976,
+          "opponent_name": "Richard Olsen",
+          "opponent_score": 9,
+          "opponent_score_share": 0.6428571428571429,
+          "opponent_win_prob": 0.5000000150000002,
+          "is_winner": false,
+          "opponent_slug": "richard-olsen",
+          "opponent_hist_score_share": 0.5837912087912087
+        }
+      ],
+      "n_games": 3,
+      "n_wins": 1
+    }
+  ],
+  "best_stage": "gruppspel",
+  "best_stage_years": [
+    2022
+  ]
+}

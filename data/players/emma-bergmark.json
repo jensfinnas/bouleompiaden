@@ -1,15 +1,16 @@
 {
-  "n_games": 5,
-  "score_share": 0.4026923076923077,
-  "n_wins": 2,
+  "n_games": 8,
+  "score_share": 0.40318645170618855,
+  "n_wins": 3,
   "years": [
     2020,
-    2021
+    2021,
+    2022
   ],
-  "win_rate": 0.4,
-  "opponent_score_share": 0.48740016744766856,
-  "skill": 111.67519482445633,
-  "skill_sigma": 45.55608207147605,
+  "win_rate": 0.375,
+  "opponent_score_share": 0.5327765283075622,
+  "skill": 122.80707789796342,
+  "skill_sigma": 38.12013720131995,
   "name": "Emma Bergmark",
   "slug": "emma-bergmark",
   "skill_rank": 59.0,
@@ -46,6 +47,10 @@
     [
       2021,
       112.0
+    ],
+    [
+      2022,
+      123.0
     ]
   ],
   "tournaments": [
@@ -76,7 +81,7 @@
           "opponent_win_prob": 0.788913628118646,
           "is_winner": true,
           "opponent_slug": "gabriel-nordenankar",
-          "opponent_hist_score_share": 0.6387546156727935
+          "opponent_hist_score_share": 0.6515913176295751
         },
         {
           "game_id": 382,
@@ -94,7 +99,7 @@
           "opponent_win_prob": 0.5000000150000002,
           "is_winner": true,
           "opponent_slug": "heiv-sarban",
-          "opponent_hist_score_share": 0.2801470588235294
+          "opponent_hist_score_share": 0.31176470588235294
         },
         {
           "game_id": 424,
@@ -145,7 +150,7 @@
           "opponent_win_prob": 0.23105945723671417,
           "is_winner": false,
           "opponent_slug": "filippa-berencreutz",
-          "opponent_hist_score_share": 0.45041478129713425
+          "opponent_hist_score_share": 0.4869061085972851
         },
         {
           "game_id": 503,
@@ -163,15 +168,84 @@
           "opponent_win_prob": 0.10223878690525763,
           "is_winner": false,
           "opponent_slug": "erik-numan",
-          "opponent_hist_score_share": 0.533860852033121
+          "opponent_hist_score_share": 0.509236211558193
         }
       ],
       "n_games": 2,
       "n_wins": 0
+    },
+    {
+      "year": 2022,
+      "last_game": {
+        "opponent_name": "Gabriel Nordenankar",
+        "opponent_slug": "gabriel-nordenankar",
+        "score": 4,
+        "opponent_score": 10,
+        "is_winner": false,
+        "stage": "\u00e5ttondelsfinal"
+      },
+      "games": [
+        {
+          "game_id": 567,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Emma Bergmark",
+          "score": 6,
+          "score_share": 0.4,
+          "win_prob": 0.5355969015895098,
+          "opponent_name": "Sebastian Schneider",
+          "opponent_score": 9,
+          "opponent_score_share": 0.6,
+          "opponent_win_prob": 0.4644030984104902,
+          "is_winner": false,
+          "opponent_slug": "sebastian-schneider",
+          "opponent_hist_score_share": 0.5649069884364002
+        },
+        {
+          "game_id": 630,
+          "year": 2022,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p2",
+          "name": "Emma Bergmark",
+          "score": 10,
+          "score_share": 0.5263157894736842,
+          "win_prob": 0.24078179004379352,
+          "opponent_name": "Alexander Starfelt",
+          "opponent_score": 9,
+          "opponent_score_share": 0.47368421052631576,
+          "opponent_win_prob": 0.7592182099562065,
+          "is_winner": true,
+          "opponent_slug": "alexander-starfelt",
+          "opponent_hist_score_share": 0.5523920473153514
+        },
+        {
+          "game_id": 643,
+          "year": 2022,
+          "stage": "\u00e5ttondelsfinal",
+          "stage_level": 2,
+          "winner": "p2",
+          "name": "Emma Bergmark",
+          "score": 4,
+          "score_share": 0.2857142857142857,
+          "win_prob": 0.09439141927525431,
+          "opponent_name": "Gabriel Nordenankar",
+          "opponent_score": 10,
+          "opponent_score_share": 0.7142857142857143,
+          "opponent_win_prob": 0.9056085807247457,
+          "is_winner": false,
+          "opponent_slug": "gabriel-nordenankar",
+          "opponent_hist_score_share": 0.6515913176295751
+        }
+      ],
+      "n_games": 3,
+      "n_wins": 1
     }
   ],
-  "best_stage": "sextondelsfinal",
+  "best_stage": "\u00e5ttondelsfinal",
   "best_stage_years": [
-    2020
+    2022
   ]
 }

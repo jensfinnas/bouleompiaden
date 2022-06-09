@@ -11,8 +11,8 @@
   "skill_sigma": 77.13335364641657,
   "name": "Sofia S\u00f6derberg",
   "slug": "sofia-soderberg",
-  "skill_rank": 110.0,
-  "skill_rank_pct": 110.0,
+  "skill_rank": 124.0,
+  "skill_rank_pct": 124.0,
   "skill_history": [
     [
       2011,
@@ -44,6 +44,10 @@
     ],
     [
       2021,
+      null
+    ],
+    [
+      2022,
       null
     ]
   ],

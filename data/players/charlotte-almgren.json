@@ -1,18 +1,19 @@
 {
-  "n_games": 2,
-  "score_share": 0.17857142857142858,
+  "n_games": 4,
+  "score_share": 0.1392857142857143,
   "n_wins": 0,
   "years": [
-    2020
+    2020,
+    2022
   ],
   "win_rate": 0.0,
-  "opponent_score_share": 0.4974528254629358,
-  "skill": -9.59141084916483,
-  "skill_sigma": 68.83911009685247,
+  "opponent_score_share": 0.5018420537190962,
+  "skill": -25.398745490806803,
+  "skill_sigma": 61.039863154675544,
   "name": "Charlotte Almgren",
   "slug": "charlotte-almgren",
-  "skill_rank": 132.0,
-  "skill_rank_pct": 132.0,
+  "skill_rank": 150.0,
+  "skill_rank_pct": 150.0,
   "skill_history": [
     [
       2011,
@@ -45,6 +46,10 @@
     [
       2021,
       null
+    ],
+    [
+      2022,
+      -25.0
     ]
   ],
   "tournaments": [
@@ -75,7 +80,7 @@
           "opponent_win_prob": 0.3259631640445042,
           "is_winner": false,
           "opponent_slug": "sofia-orning",
-          "opponent_hist_score_share": 0.4190329941708618
+          "opponent_hist_score_share": 0.40345667857922757
         },
         {
           "game_id": 399,
@@ -98,10 +103,62 @@
       ],
       "n_games": 2,
       "n_wins": 0
+    },
+    {
+      "year": 2022,
+      "last_game": {
+        "opponent_name": "Robin Fogelberg",
+        "opponent_slug": "robin-fogelberg",
+        "score": 1,
+        "opponent_score": 9,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "games": [
+        {
+          "game_id": 556,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Charlotte Almgren",
+          "score": 1,
+          "score_share": 0.1,
+          "win_prob": 0.13251993105771995,
+          "opponent_name": "Johannes Gr\u00f6nborg",
+          "opponent_score": 9,
+          "opponent_score_share": 0.9,
+          "opponent_win_prob": 0.86748006894228,
+          "is_winner": false,
+          "opponent_slug": "johannes-gronborg",
+          "opponent_hist_score_share": 0.4397114867703103
+        },
+        {
+          "game_id": 598,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Charlotte Almgren",
+          "score": 1,
+          "score_share": 0.1,
+          "win_prob": 0.05342139837520691,
+          "opponent_name": "Robin Fogelberg",
+          "opponent_score": 9,
+          "opponent_score_share": 0.9,
+          "opponent_win_prob": 0.9465786016247931,
+          "is_winner": false,
+          "opponent_slug": "robin-fogelberg",
+          "opponent_hist_score_share": 0.5883273927718372
+        }
+      ],
+      "n_games": 2,
+      "n_wins": 0
     }
   ],
   "best_stage": "gruppspel",
   "best_stage_years": [
-    2020
+    2020,
+    2022
   ]
 }

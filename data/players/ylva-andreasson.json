@@ -7,13 +7,13 @@
     2018
   ],
   "win_rate": 0.42857142857142855,
-  "opponent_score_share": 0.434230582925811,
+  "opponent_score_share": 0.43586532535568884,
   "skill": 76.689103762065,
   "skill_sigma": 46.61569476253359,
   "name": "Ylva Andr\u00e9asson",
   "slug": "ylva-andreasson",
-  "skill_rank": 83.0,
-  "skill_rank_pct": 83.0,
+  "skill_rank": 93.0,
+  "skill_rank_pct": 93.0,
   "skill_history": [
     [
       2011,
@@ -46,6 +46,10 @@
     [
       2021,
       null
+    ],
+    [
+      2022,
+      null
     ]
   ],
   "tournaments": [
@@ -76,7 +80,7 @@
           "opponent_win_prob": 0.49999998499999976,
           "is_winner": false,
           "opponent_slug": "jacob-stenman",
-          "opponent_hist_score_share": 0.3577272727272728
+          "opponent_hist_score_share": 0.44469299083269664
         },
         {
           "game_id": 128,
@@ -88,13 +92,13 @@
           "score": 4,
           "score_share": 0.36363636363636365,
           "win_prob": 0.42532926863358955,
-          "opponent_name": "Mathilda Hansson",
+          "opponent_name": "Mathilda Gr\u00f6nborg",
           "opponent_score": 7,
           "opponent_score_share": 0.6363636363636364,
           "opponent_win_prob": 0.5746707313664104,
           "is_winner": false,
-          "opponent_slug": "mathilda-hansson",
-          "opponent_hist_score_share": 0.44249639249639244
+          "opponent_slug": "mathilda-gronborg",
+          "opponent_hist_score_share": 0.3719416386083052
         },
         {
           "game_id": 113,
@@ -145,7 +149,7 @@
           "opponent_win_prob": 0.4370624547831621,
           "is_winner": true,
           "opponent_slug": "frida-ohrn",
-          "opponent_hist_score_share": 0.39154768842268833
+          "opponent_hist_score_share": 0.39508248162094317
         },
         {
           "game_id": 168,
@@ -163,7 +167,7 @@
           "opponent_win_prob": 0.7392798344235683,
           "is_winner": false,
           "opponent_slug": "robin-linderborg",
-          "opponent_hist_score_share": 0.5582165616829482
+          "opponent_hist_score_share": 0.5497140012765013
         },
         {
           "game_id": 206,

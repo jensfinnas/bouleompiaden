@@ -1,20 +1,21 @@
 {
-  "n_games": 8,
-  "score_share": 0.3748112998112998,
+  "n_games": 10,
+  "score_share": 0.3569078633784516,
   "n_wins": 2,
   "years": [
     2018,
     2019,
-    2021
+    2021,
+    2022
   ],
-  "win_rate": 0.25,
-  "opponent_score_share": 0.5105853511616845,
-  "skill": 46.28721691824576,
-  "skill_sigma": 44.53413873866236,
+  "win_rate": 0.2,
+  "opponent_score_share": 0.5243046759813671,
+  "skill": 30.950593330070298,
+  "skill_sigma": 41.62894253879294,
   "name": "Sussie R\u00e5dis",
   "slug": "sussie-radis",
-  "skill_rank": 102.0,
-  "skill_rank_pct": 102.0,
+  "skill_rank": 122.0,
+  "skill_rank_pct": 122.0,
   "skill_history": [
     [
       2011,
@@ -47,6 +48,10 @@
     [
       2021,
       46.0
+    ],
+    [
+      2022,
+      31.0
     ]
   ],
   "tournaments": [
@@ -77,7 +82,7 @@
           "opponent_win_prob": 0.4983978702264515,
           "is_winner": true,
           "opponent_slug": "bjorn-berglund",
-          "opponent_hist_score_share": 0.5564327761018938
+          "opponent_hist_score_share": 0.5384795542148484
         },
         {
           "game_id": 210,
@@ -113,7 +118,7 @@
           "opponent_win_prob": 0.5000000150000002,
           "is_winner": false,
           "opponent_slug": "robin-fogelberg",
-          "opponent_hist_score_share": 0.5474311979729937
+          "opponent_hist_score_share": 0.5883273927718372
         },
         {
           "game_id": 228,
@@ -131,7 +136,7 @@
           "opponent_win_prob": 0.6097773683668639,
           "is_winner": false,
           "opponent_slug": "robin-linderborg",
-          "opponent_hist_score_share": 0.5582165616829482
+          "opponent_hist_score_share": 0.5497140012765013
         }
       ],
       "n_games": 4,
@@ -215,7 +220,7 @@
           "opponent_win_prob": 0.8272753941545333,
           "is_winner": false,
           "opponent_slug": "johan-johnson",
-          "opponent_hist_score_share": 0.45725227591036416
+          "opponent_hist_score_share": 0.4716205363264187
         },
         {
           "game_id": 507,
@@ -233,7 +238,58 @@
           "opponent_win_prob": 0.500653330504206,
           "is_winner": false,
           "opponent_slug": "calle-buddee-roos",
-          "opponent_hist_score_share": 0.5248308270676691
+          "opponent_hist_score_share": 0.5140866873065015
+        }
+      ],
+      "n_games": 2,
+      "n_wins": 0
+    },
+    {
+      "year": 2022,
+      "last_game": {
+        "opponent_name": "Johannes Nordenhaag",
+        "opponent_slug": "johannes-nordenhaag",
+        "score": 1,
+        "opponent_score": 9,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "games": [
+        {
+          "game_id": 559,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Sussie R\u00e5dis",
+          "score": 8,
+          "score_share": 0.47058823529411764,
+          "win_prob": 0.028298165271964548,
+          "opponent_name": "Robeson",
+          "opponent_score": 9,
+          "opponent_score_share": 0.5294117647058824,
+          "opponent_win_prob": 0.9717018347280355,
+          "is_winner": false,
+          "opponent_slug": "robeson",
+          "opponent_hist_score_share": 0.5815109019537957
+        },
+        {
+          "game_id": 599,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Sussie R\u00e5dis",
+          "score": 1,
+          "score_share": 0.1,
+          "win_prob": 0.5166247634899794,
+          "opponent_name": "Johannes Nordenhaag",
+          "opponent_score": 9,
+          "opponent_score_share": 0.9,
+          "opponent_win_prob": 0.48337523651002057,
+          "is_winner": false,
+          "opponent_slug": "johannes-nordenhaag",
+          "opponent_hist_score_share": 0.5587885154061625
         }
       ],
       "n_games": 2,

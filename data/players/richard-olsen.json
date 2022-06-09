@@ -1,0 +1,147 @@
+{
+  "n_games": 4,
+  "score_share": 0.5837912087912087,
+  "n_wins": 3,
+  "years": [
+    2022
+  ],
+  "win_rate": 0.75,
+  "opponent_score_share": 0.48710944624547564,
+  "skill": 154.81435241728147,
+  "skill_sigma": 54.04146763911961,
+  "name": "Richard Olsen",
+  "slug": "richard-olsen",
+  "skill_rank": 32.0,
+  "skill_rank_pct": 32.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      null
+    ],
+    [
+      2016,
+      null
+    ],
+    [
+      2017,
+      null
+    ],
+    [
+      2018,
+      null
+    ],
+    [
+      2019,
+      null
+    ],
+    [
+      2020,
+      null
+    ],
+    [
+      2021,
+      null
+    ],
+    [
+      2022,
+      155.0
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2022,
+      "last_game": {
+        "opponent_name": "Hannes Jordan",
+        "opponent_slug": "hannes-jordan",
+        "score": 4,
+        "opponent_score": 10,
+        "is_winner": false,
+        "stage": "\u00e5ttondelsfinal"
+      },
+      "games": [
+        {
+          "game_id": 586,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Richard Olsen",
+          "score": 9,
+          "score_share": 0.6923076923076923,
+          "win_prob": 0.8239346576105882,
+          "opponent_name": "Hasse Hallgren",
+          "opponent_score": 4,
+          "opponent_score_share": 0.3076923076923077,
+          "opponent_win_prob": 0.17606534238941182,
+          "is_winner": true,
+          "opponent_slug": "hasse-hallgren",
+          "opponent_hist_score_share": 0.3431332556332556
+        },
+        {
+          "game_id": 563,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Richard Olsen",
+          "score": 9,
+          "score_share": 0.6428571428571429,
+          "win_prob": 0.5000000150000002,
+          "opponent_name": "Albin",
+          "opponent_score": 5,
+          "opponent_score_share": 0.35714285714285715,
+          "opponent_win_prob": 0.49999998499999976,
+          "is_winner": true,
+          "opponent_slug": "albin",
+          "opponent_hist_score_share": 0.4831501831501832
+        },
+        {
+          "game_id": 627,
+          "year": 2022,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p1",
+          "name": "Richard Olsen",
+          "score": 10,
+          "score_share": 0.7142857142857143,
+          "win_prob": 0.5906542757603792,
+          "opponent_name": "Patrik J\u00e4rg\u00e5rden",
+          "opponent_score": 4,
+          "opponent_score_share": 0.2857142857142857,
+          "opponent_win_prob": 0.4093457242396208,
+          "is_winner": true,
+          "opponent_slug": "patrik-jargarden",
+          "opponent_hist_score_share": 0.599091404238463
+        },
+        {
+          "game_id": 641,
+          "year": 2022,
+          "stage": "\u00e5ttondelsfinal",
+          "stage_level": 2,
+          "winner": "p1",
+          "name": "Richard Olsen",
+          "score": 4,
+          "score_share": 0.2857142857142857,
+          "win_prob": 0.7149560987561758,
+          "opponent_name": "Hannes Jordan",
+          "opponent_score": 10,
+          "opponent_score_share": 0.7142857142857143,
+          "opponent_win_prob": 0.28504390124382417,
+          "is_winner": false,
+          "opponent_slug": "hannes-jordan",
+          "opponent_hist_score_share": 0.5230629419600008
+        }
+      ],
+      "n_games": 4,
+      "n_wins": 3
+    }
+  ],
+  "best_stage": "\u00e5ttondelsfinal",
+  "best_stage_years": [
+    2022
+  ]
+}
