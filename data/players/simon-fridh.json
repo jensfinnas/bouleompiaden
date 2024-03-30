@@ -1,0 +1,133 @@
+{
+  "n_games": 3,
+  "score_share": 0.6496503496503497,
+  "n_wins": 2,
+  "years": [
+    2023
+  ],
+  "win_rate": 0.6666666666666666,
+  "opponent_score_share": 0.5297602269833181,
+  "skill": 162.9910689030363,
+  "skill_sigma": 53.867090841934946,
+  "name": "Simon Fridh",
+  "slug": "simon-fridh",
+  "skill_rank": 29.0,
+  "skill_rank_pct": 29.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      null
+    ],
+    [
+      2016,
+      null
+    ],
+    [
+      2017,
+      null
+    ],
+    [
+      2018,
+      null
+    ],
+    [
+      2019,
+      null
+    ],
+    [
+      2020,
+      null
+    ],
+    [
+      2021,
+      null
+    ],
+    [
+      2022,
+      null
+    ],
+    [
+      2023,
+      163.0
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2023,
+      "last_game": {
+        "opponent_name": "Jonas Nygren",
+        "opponent_slug": "jonas-nygren",
+        "score": 3,
+        "opponent_score": 10,
+        "is_winner": false,
+        "stage": "sextondelsfinal"
+      },
+      "games": [
+        {
+          "game_id": 657,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Simon Fridh",
+          "score": 9,
+          "score_share": 0.9,
+          "win_prob": 0.35025981312682786,
+          "opponent_name": "Alexander Starfelt",
+          "opponent_score": 1,
+          "opponent_score_share": 0.1,
+          "opponent_win_prob": 0.6497401868731721,
+          "is_winner": true,
+          "opponent_slug": "alexander-starfelt",
+          "opponent_hist_score_share": 0.5337973093298171
+        },
+        {
+          "game_id": 688,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Simon Fridh",
+          "score": 9,
+          "score_share": 0.8181818181818182,
+          "win_prob": 0.5394404702428792,
+          "opponent_name": "Jakob Gudmundsson",
+          "opponent_score": 2,
+          "opponent_score_share": 0.18181818181818182,
+          "opponent_win_prob": 0.4605595297571207,
+          "is_winner": true,
+          "opponent_slug": "jakob-gudmundsson",
+          "opponent_hist_score_share": 0.48931564467278754
+        },
+        {
+          "game_id": 743,
+          "year": 2023,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p2",
+          "name": "Simon Fridh",
+          "score": 3,
+          "score_share": 0.23076923076923078,
+          "win_prob": 0.8227903483759389,
+          "opponent_name": "Jonas Nygren",
+          "opponent_score": 10,
+          "opponent_score_share": 0.7692307692307693,
+          "opponent_win_prob": 0.1772096516240611,
+          "is_winner": false,
+          "opponent_slug": "jonas-nygren",
+          "opponent_hist_score_share": 0.5661677269473498
+        }
+      ],
+      "n_games": 3,
+      "n_wins": 2
+    }
+  ],
+  "best_stage": "sextondelsfinal",
+  "best_stage_years": [
+    2023
+  ]
+}

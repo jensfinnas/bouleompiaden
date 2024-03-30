@@ -9,13 +9,13 @@
     2022
   ],
   "win_rate": 0.2,
-  "opponent_score_share": 0.5243046759813671,
+  "opponent_score_share": 0.5312693722219308,
   "skill": 30.950593330070298,
   "skill_sigma": 41.62894253879294,
   "name": "Sussie R\u00e5dis",
   "slug": "sussie-radis",
-  "skill_rank": 122.0,
-  "skill_rank_pct": 122.0,
+  "skill_rank": 129.0,
+  "skill_rank_pct": 129.0,
   "skill_history": [
     [
       2011,
@@ -52,6 +52,10 @@
     [
       2022,
       31.0
+    ],
+    [
+      2023,
+      null
     ]
   ],
   "tournaments": [
@@ -66,6 +70,24 @@
         "stage": "sextondelsfinal"
       },
       "games": [
+        {
+          "game_id": 149,
+          "year": 2018,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Sussie R\u00e5dis",
+          "score": 3,
+          "score_share": 0.2727272727272727,
+          "win_prob": 0.49999998499999976,
+          "opponent_name": "Robin Fogelberg",
+          "opponent_score": 8,
+          "opponent_score_share": 0.7272727272727273,
+          "opponent_win_prob": 0.5000000150000002,
+          "is_winner": false,
+          "opponent_slug": "robin-fogelberg",
+          "opponent_hist_score_share": 0.5605132591422913
+        },
         {
           "game_id": 189,
           "year": 2018,
@@ -82,7 +104,7 @@
           "opponent_win_prob": 0.4983978702264515,
           "is_winner": true,
           "opponent_slug": "bjorn-berglund",
-          "opponent_hist_score_share": 0.5384795542148484
+          "opponent_hist_score_share": 0.5912036941816353
         },
         {
           "game_id": 210,
@@ -103,24 +125,6 @@
           "opponent_hist_score_share": 0.4611111111111111
         },
         {
-          "game_id": 149,
-          "year": 2018,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p1",
-          "name": "Sussie R\u00e5dis",
-          "score": 3,
-          "score_share": 0.2727272727272727,
-          "win_prob": 0.49999998499999976,
-          "opponent_name": "Robin Fogelberg",
-          "opponent_score": 8,
-          "opponent_score_share": 0.7272727272727273,
-          "opponent_win_prob": 0.5000000150000002,
-          "is_winner": false,
-          "opponent_slug": "robin-fogelberg",
-          "opponent_hist_score_share": 0.5883273927718372
-        },
-        {
           "game_id": 228,
           "year": 2018,
           "stage": "sextondelsfinal",
@@ -136,7 +140,7 @@
           "opponent_win_prob": 0.6097773683668639,
           "is_winner": false,
           "opponent_slug": "robin-linderborg",
-          "opponent_hist_score_share": 0.5497140012765013
+          "opponent_hist_score_share": 0.569941409165547
         }
       ],
       "n_games": 4,
@@ -169,7 +173,7 @@
           "opponent_win_prob": 0.41466315290630584,
           "is_winner": false,
           "opponent_slug": "mina-kheirkhah",
-          "opponent_hist_score_share": 0.4432545173186885
+          "opponent_hist_score_share": 0.44838664603370487
         },
         {
           "game_id": 308,
@@ -187,7 +191,7 @@
           "opponent_win_prob": 0.8406544240364725,
           "is_winner": false,
           "opponent_slug": "jens-hultkrans",
-          "opponent_hist_score_share": 0.5361535421278069
+          "opponent_hist_score_share": 0.5241481013539837
         }
       ],
       "n_games": 2,
@@ -220,7 +224,7 @@
           "opponent_win_prob": 0.8272753941545333,
           "is_winner": false,
           "opponent_slug": "johan-johnson",
-          "opponent_hist_score_share": 0.4716205363264187
+          "opponent_hist_score_share": 0.4769825109530992
         },
         {
           "game_id": 507,
@@ -238,7 +242,7 @@
           "opponent_win_prob": 0.500653330504206,
           "is_winner": false,
           "opponent_slug": "calle-buddee-roos",
-          "opponent_hist_score_share": 0.5140866873065015
+          "opponent_hist_score_share": 0.5118507051943585
         }
       ],
       "n_games": 2,
@@ -271,7 +275,7 @@
           "opponent_win_prob": 0.9717018347280355,
           "is_winner": false,
           "opponent_slug": "robeson",
-          "opponent_hist_score_share": 0.5815109019537957
+          "opponent_hist_score_share": 0.5697854480774457
         },
         {
           "game_id": 599,
@@ -289,7 +293,7 @@
           "opponent_win_prob": 0.48337523651002057,
           "is_winner": false,
           "opponent_slug": "johannes-nordenhaag",
-          "opponent_hist_score_share": 0.5587885154061625
+          "opponent_hist_score_share": 0.5987708370061311
         }
       ],
       "n_games": 2,

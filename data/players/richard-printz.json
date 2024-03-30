@@ -1,18 +1,19 @@
 {
-  "n_games": 3,
-  "score_share": 0.5012254901960783,
-  "n_wins": 2,
+  "n_games": 7,
+  "score_share": 0.5710272570566689,
+  "n_wins": 5,
   "years": [
-    2022
+    2022,
+    2023
   ],
-  "win_rate": 0.6666666666666666,
-  "opponent_score_share": 0.625756663427659,
-  "skill": 203.26854860343926,
-  "skill_sigma": 51.43912709931686,
+  "win_rate": 0.7142857142857143,
+  "opponent_score_share": 0.5348213634853037,
+  "skill": 214.42055187658556,
+  "skill_sigma": 40.549587734267085,
   "name": "Richard Printz",
   "slug": "richard-printz",
-  "skill_rank": 9.0,
-  "skill_rank_pct": 9.0,
+  "skill_rank": 6.0,
+  "skill_rank_pct": 6.0,
   "skill_history": [
     [
       2011,
@@ -49,6 +50,10 @@
     [
       2022,
       203.0
+    ],
+    [
+      2023,
+      214.0
     ]
   ],
   "tournaments": [
@@ -63,24 +68,6 @@
         "stage": "sextondelsfinal"
       },
       "games": [
-        {
-          "game_id": 592,
-          "year": 2022,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p1",
-          "name": "Richard Printz",
-          "score": 9,
-          "score_share": 0.5294117647058824,
-          "win_prob": 0.391150163012507,
-          "opponent_name": "Erik Nordenankar",
-          "opponent_score": 8,
-          "opponent_score_share": 0.47058823529411764,
-          "opponent_win_prob": 0.6088498369874931,
-          "is_winner": true,
-          "opponent_slug": "erik-nordenankar",
-          "opponent_hist_score_share": 0.6815916514882377
-        },
         {
           "game_id": 571,
           "year": 2022,
@@ -97,7 +84,25 @@
           "opponent_win_prob": 0.6964458351200851,
           "is_winner": true,
           "opponent_slug": "calle-buddee-roos",
-          "opponent_hist_score_share": 0.5140866873065015
+          "opponent_hist_score_share": 0.5118507051943585
+        },
+        {
+          "game_id": 592,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Richard Printz",
+          "score": 9,
+          "score_share": 0.5294117647058824,
+          "win_prob": 0.391150163012507,
+          "opponent_name": "Erik Nordenankar",
+          "opponent_score": 8,
+          "opponent_score_share": 0.47058823529411764,
+          "opponent_win_prob": 0.6088498369874931,
+          "is_winner": true,
+          "opponent_slug": "erik-nordenankar",
+          "opponent_hist_score_share": 0.679882946820159
         },
         {
           "game_id": 625,
@@ -115,15 +120,102 @@
           "opponent_win_prob": 0.39259123373205584,
           "is_winner": false,
           "opponent_slug": "erik-nordenankar",
-          "opponent_hist_score_share": 0.6815916514882377
+          "opponent_hist_score_share": 0.679882946820159
         }
       ],
       "n_games": 3,
       "n_wins": 2
+    },
+    {
+      "year": 2023,
+      "last_game": {
+        "opponent_name": "Gabriel Nordenankar",
+        "opponent_slug": "gabriel-nordenankar",
+        "score": 3,
+        "opponent_score": 10,
+        "is_winner": false,
+        "stage": "\u00e5ttondelsfinal"
+      },
+      "games": [
+        {
+          "game_id": 694,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Richard Printz",
+          "score": 9,
+          "score_share": 0.9,
+          "win_prob": 0.7620531372706388,
+          "opponent_name": "Emma Frenn\u00e5s",
+          "opponent_score": 1,
+          "opponent_score_share": 0.1,
+          "opponent_win_prob": 0.23794686272936116,
+          "is_winner": true,
+          "opponent_slug": "emma-frennas",
+          "opponent_hist_score_share": 0.38115842490842494
+        },
+        {
+          "game_id": 668,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Richard Printz",
+          "score": 9,
+          "score_share": 0.5294117647058824,
+          "win_prob": 0.7815389177733065,
+          "opponent_name": "Erika Andersson",
+          "opponent_score": 8,
+          "opponent_score_share": 0.47058823529411764,
+          "opponent_win_prob": 0.21846108222669347,
+          "is_winner": true,
+          "opponent_slug": "erika-andersson",
+          "opponent_hist_score_share": 0.3891402714932127
+        },
+        {
+          "game_id": 749,
+          "year": 2023,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p1",
+          "name": "Richard Printz",
+          "score": 10,
+          "score_share": 0.8333333333333334,
+          "win_prob": 0.7893746243575872,
+          "opponent_name": "Jakob Gustafsson",
+          "opponent_score": 2,
+          "opponent_score_share": 0.16666666666666666,
+          "opponent_win_prob": 0.2106253756424128,
+          "is_winner": true,
+          "opponent_slug": "jakob-gustafsson",
+          "opponent_hist_score_share": 0.45099657967305024
+        },
+        {
+          "game_id": 758,
+          "year": 2023,
+          "stage": "\u00e5ttondelsfinal",
+          "stage_level": 2,
+          "winner": "p1",
+          "name": "Richard Printz",
+          "score": 3,
+          "score_share": 0.23076923076923078,
+          "win_prob": 0.41581773945139877,
+          "opponent_name": "Gabriel Nordenankar",
+          "opponent_score": 10,
+          "opponent_score_share": 0.7692307692307693,
+          "opponent_win_prob": 0.5841822605486012,
+          "is_winner": false,
+          "opponent_slug": "gabriel-nordenankar",
+          "opponent_hist_score_share": 0.6508376694877611
+        }
+      ],
+      "n_games": 4,
+      "n_wins": 3
     }
   ],
-  "best_stage": "sextondelsfinal",
+  "best_stage": "\u00e5ttondelsfinal",
   "best_stage_years": [
-    2022
+    2023
   ]
 }

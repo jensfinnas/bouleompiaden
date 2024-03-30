@@ -1,18 +1,19 @@
 {
-  "n_games": 3,
-  "score_share": 0.5179738562091504,
-  "n_wins": 1,
+  "n_games": 11,
+  "score_share": 0.5661677269473498,
+  "n_wins": 8,
   "years": [
-    2021
+    2021,
+    2023
   ],
-  "win_rate": 0.3333333333333333,
-  "opponent_score_share": 0.4283327049843855,
-  "skill": 65.56035571183622,
-  "skill_sigma": 62.896176952234455,
+  "win_rate": 0.7272727272727273,
+  "opponent_score_share": 0.522215034680054,
+  "skill": 220.59584080472402,
+  "skill_sigma": 31.343695743071706,
   "name": "Jonas Nygren",
   "slug": "jonas-nygren",
-  "skill_rank": 97.0,
-  "skill_rank_pct": 97.0,
+  "skill_rank": 4.0,
+  "skill_rank_pct": 4.0,
   "skill_history": [
     [
       2011,
@@ -49,38 +50,24 @@
     [
       2022,
       null
+    ],
+    [
+      2023,
+      221.0
     ]
   ],
   "tournaments": [
     {
       "year": 2021,
       "last_game": {
-        "opponent_name": "Anna Malmqvist",
-        "opponent_slug": "anna-malmqvist",
-        "score": 9,
-        "opponent_score": 3,
-        "is_winner": true,
+        "opponent_name": "Theodore Ripman",
+        "opponent_slug": "theodore-ripman",
+        "score": 5,
+        "opponent_score": 10,
+        "is_winner": false,
         "stage": "gruppspel"
       },
       "games": [
-        {
-          "game_id": 513,
-          "year": 2021,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p1",
-          "name": "Jonas Nygren",
-          "score": 5,
-          "score_share": 0.3333333333333333,
-          "win_prob": 0.12582521717715545,
-          "opponent_name": "Theodore Ripman",
-          "opponent_score": 10,
-          "opponent_score_share": 0.6666666666666666,
-          "opponent_win_prob": 0.8741747828228446,
-          "is_winner": false,
-          "opponent_slug": "theodore-ripman",
-          "opponent_hist_score_share": 0.5684301946084984
-        },
         {
           "game_id": 465,
           "year": 2021,
@@ -97,7 +84,7 @@
           "opponent_win_prob": 0.4849259404541016,
           "is_winner": false,
           "opponent_slug": "johan-ekman",
-          "opponent_hist_score_share": 0.5006588294355674
+          "opponent_hist_score_share": 0.49987388755035816
         },
         {
           "game_id": 502,
@@ -116,14 +103,191 @@
           "is_winner": true,
           "opponent_slug": "anna-malmqvist",
           "opponent_hist_score_share": 0.2159090909090909
+        },
+        {
+          "game_id": 513,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Jonas Nygren",
+          "score": 5,
+          "score_share": 0.3333333333333333,
+          "win_prob": 0.12582521717715545,
+          "opponent_name": "Theodore Ripman",
+          "opponent_score": 10,
+          "opponent_score_share": 0.6666666666666666,
+          "opponent_win_prob": 0.8741747828228446,
+          "is_winner": false,
+          "opponent_slug": "theodore-ripman",
+          "opponent_hist_score_share": 0.5597932488790567
         }
       ],
       "n_games": 3,
       "n_wins": 1
+    },
+    {
+      "year": 2023,
+      "last_game": {
+        "opponent_name": "Gabriel Nordenankar",
+        "opponent_slug": "gabriel-nordenankar",
+        "score": 13,
+        "opponent_score": 6,
+        "is_winner": true,
+        "stage": "vinnare"
+      },
+      "games": [
+        {
+          "game_id": 682,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Jonas Nygren",
+          "score": 9,
+          "score_share": 0.5294117647058824,
+          "win_prob": 0.22514758658420275,
+          "opponent_name": "Calle Buddee Roos",
+          "opponent_score": 8,
+          "opponent_score_share": 0.47058823529411764,
+          "opponent_win_prob": 0.7748524134157972,
+          "is_winner": true,
+          "opponent_slug": "calle-buddee-roos",
+          "opponent_hist_score_share": 0.5118507051943585
+        },
+        {
+          "game_id": 701,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Jonas Nygren",
+          "score": 0,
+          "score_share": 0.0,
+          "win_prob": 0.1931441191120054,
+          "opponent_name": "Benjamin Ger. Hed.",
+          "opponent_score": 9,
+          "opponent_score_share": 1.0,
+          "opponent_win_prob": 0.8068558808879946,
+          "is_winner": false,
+          "opponent_slug": "benjamin-ger-hed",
+          "opponent_hist_score_share": 0.614286949352186
+        },
+        {
+          "game_id": 733,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Jonas Nygren",
+          "score": 10,
+          "score_share": 0.9090909090909091,
+          "win_prob": 0.5871746859340023,
+          "opponent_name": "Bror Nordenankar",
+          "opponent_score": 1,
+          "opponent_score_share": 0.09090909090909091,
+          "opponent_win_prob": 0.41282531406599765,
+          "is_winner": true,
+          "opponent_slug": "bror-nordenankar",
+          "opponent_hist_score_share": 0.3328671328671329
+        },
+        {
+          "game_id": 743,
+          "year": 2023,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p2",
+          "name": "Jonas Nygren",
+          "score": 10,
+          "score_share": 0.7692307692307693,
+          "win_prob": 0.1772096516240611,
+          "opponent_name": "Simon Fridh",
+          "opponent_score": 3,
+          "opponent_score_share": 0.23076923076923078,
+          "opponent_win_prob": 0.8227903483759389,
+          "is_winner": true,
+          "opponent_slug": "simon-fridh",
+          "opponent_hist_score_share": 0.6496503496503497
+        },
+        {
+          "game_id": 755,
+          "year": 2023,
+          "stage": "\u00e5ttondelsfinal",
+          "stage_level": 2,
+          "winner": "p2",
+          "name": "Jonas Nygren",
+          "score": 11,
+          "score_share": 0.6470588235294118,
+          "win_prob": 0.47161269547640017,
+          "opponent_name": "Magnus Enlund",
+          "opponent_score": 6,
+          "opponent_score_share": 0.35294117647058826,
+          "opponent_win_prob": 0.5283873045235998,
+          "is_winner": true,
+          "opponent_slug": "magnus-enlund",
+          "opponent_hist_score_share": 0.5507322617051125
+        },
+        {
+          "game_id": 761,
+          "year": 2023,
+          "stage": "kvartsfinal",
+          "stage_level": 3,
+          "winner": "p2",
+          "name": "Jonas Nygren",
+          "score": 11,
+          "score_share": 0.6111111111111112,
+          "win_prob": 0.330776918730444,
+          "opponent_name": "Theodore Ripman",
+          "opponent_score": 7,
+          "opponent_score_share": 0.3888888888888889,
+          "opponent_win_prob": 0.669223081269556,
+          "is_winner": true,
+          "opponent_slug": "theodore-ripman",
+          "opponent_hist_score_share": 0.5597932488790567
+        },
+        {
+          "game_id": 764,
+          "year": 2023,
+          "stage": "semifinal",
+          "stage_level": 4,
+          "winner": "p2",
+          "name": "Jonas Nygren",
+          "score": 11,
+          "score_share": 0.5238095238095238,
+          "win_prob": 0.39632337273030604,
+          "opponent_name": "Johannes Nordenhaag",
+          "opponent_score": 10,
+          "opponent_score_share": 0.47619047619047616,
+          "opponent_win_prob": 0.603676627269694,
+          "is_winner": true,
+          "opponent_slug": "johannes-nordenhaag",
+          "opponent_hist_score_share": 0.5987708370061311
+        },
+        {
+          "game_id": 767,
+          "year": 2023,
+          "stage": "vinnare",
+          "stage_level": 8,
+          "winner": "p1",
+          "name": "Jonas Nygren",
+          "score": 13,
+          "score_share": 0.6842105263157895,
+          "win_prob": 0.2640575539562688,
+          "opponent_name": "Gabriel Nordenankar",
+          "opponent_score": 6,
+          "opponent_score_share": 0.3157894736842105,
+          "opponent_win_prob": 0.7359424460437312,
+          "is_winner": true,
+          "opponent_slug": "gabriel-nordenankar",
+          "opponent_hist_score_share": 0.6508376694877611
+        }
+      ],
+      "n_games": 8,
+      "n_wins": 7
     }
   ],
-  "best_stage": "gruppspel",
+  "best_stage": "vinnare",
   "best_stage_years": [
-    2021
+    2023
   ]
 }

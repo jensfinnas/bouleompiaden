@@ -1,0 +1,115 @@
+{
+  "n_games": 2,
+  "score_share": 0.3891402714932127,
+  "n_wins": 0,
+  "years": [
+    2023
+  ],
+  "win_rate": 0.0,
+  "opponent_score_share": 0.5344462083897069,
+  "skill": 45.977934425774464,
+  "skill_sigma": 75.09079614545671,
+  "name": "Erika Andersson",
+  "slug": "erika-andersson",
+  "skill_rank": 117.0,
+  "skill_rank_pct": 117.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      null
+    ],
+    [
+      2016,
+      null
+    ],
+    [
+      2017,
+      null
+    ],
+    [
+      2018,
+      null
+    ],
+    [
+      2019,
+      null
+    ],
+    [
+      2020,
+      null
+    ],
+    [
+      2021,
+      null
+    ],
+    [
+      2022,
+      null
+    ],
+    [
+      2023,
+      46.0
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2023,
+      "last_game": {
+        "opponent_name": "Erik Numan",
+        "opponent_slug": "erik-numan",
+        "score": 4,
+        "opponent_score": 9,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "games": [
+        {
+          "game_id": 668,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Erika Andersson",
+          "score": 8,
+          "score_share": 0.47058823529411764,
+          "win_prob": 0.21846108222669347,
+          "opponent_name": "Richard Printz",
+          "opponent_score": 9,
+          "opponent_score_share": 0.5294117647058824,
+          "opponent_win_prob": 0.7815389177733065,
+          "is_winner": false,
+          "opponent_slug": "richard-printz",
+          "opponent_hist_score_share": 0.5710272570566689
+        },
+        {
+          "game_id": 710,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Erika Andersson",
+          "score": 4,
+          "score_share": 0.3076923076923077,
+          "win_prob": 0.22935776783979786,
+          "opponent_name": "Erik Numan",
+          "opponent_score": 9,
+          "opponent_score_share": 0.6923076923076923,
+          "opponent_win_prob": 0.7706422321602021,
+          "is_winner": false,
+          "opponent_slug": "erik-numan",
+          "opponent_hist_score_share": 0.49786515972274487
+        }
+      ],
+      "n_games": 2,
+      "n_wins": 0
+    }
+  ],
+  "best_stage": "gruppspel",
+  "best_stage_years": [
+    2023
+  ]
+}

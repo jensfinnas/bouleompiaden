@@ -9,13 +9,13 @@
     2021
   ],
   "win_rate": 0.5333333333333333,
-  "opponent_score_share": 0.46861420679810906,
+  "opponent_score_share": 0.4677410175675248,
   "skill": 120.44854751978392,
   "skill_sigma": 31.208256527014086,
   "name": "Jesper Kronholm",
   "slug": "jesper-kronholm",
-  "skill_rank": 61.0,
-  "skill_rank_pct": 61.0,
+  "skill_rank": 67.0,
+  "skill_rank_pct": 67.0,
   "skill_history": [
     [
       2011,
@@ -52,6 +52,10 @@
     [
       2022,
       null
+    ],
+    [
+      2023,
+      null
     ]
   ],
   "tournaments": [
@@ -82,7 +86,7 @@
           "opponent_win_prob": 0.5769540220073763,
           "is_winner": true,
           "opponent_slug": "theodore-ripman",
-          "opponent_hist_score_share": 0.5684301946084984
+          "opponent_hist_score_share": 0.5597932488790567
         },
         {
           "game_id": 102,
@@ -100,7 +104,7 @@
           "opponent_win_prob": 0.3486250642201249,
           "is_winner": true,
           "opponent_slug": "johan-ekman",
-          "opponent_hist_score_share": 0.5006588294355674
+          "opponent_hist_score_share": 0.49987388755035816
         },
         {
           "game_id": 130,
@@ -118,7 +122,7 @@
           "opponent_win_prob": 0.5439878720587736,
           "is_winner": false,
           "opponent_slug": "ville-nordenankar",
-          "opponent_hist_score_share": 0.39991770382395375
+          "opponent_hist_score_share": 0.4288546176046176
         }
       ],
       "n_games": 3,
@@ -136,24 +140,6 @@
       },
       "games": [
         {
-          "game_id": 193,
-          "year": 2018,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p1",
-          "name": "Jesper Kronholm",
-          "score": 8,
-          "score_share": 0.8888888888888888,
-          "win_prob": 0.9000624329769347,
-          "opponent_name": "Kajsa Hallberg-Nor.",
-          "opponent_score": 1,
-          "opponent_score_share": 0.1111111111111111,
-          "opponent_win_prob": 0.09993756702306533,
-          "is_winner": true,
-          "opponent_slug": "kajsa-hallberg-nor",
-          "opponent_hist_score_share": 0.23370785825536958
-        },
-        {
           "game_id": 156,
           "year": 2018,
           "stage": "gruppspel",
@@ -169,7 +155,25 @@
           "opponent_win_prob": 0.29974799444214173,
           "is_winner": false,
           "opponent_slug": "estrid",
-          "opponent_hist_score_share": 0.6307361168816277
+          "opponent_hist_score_share": 0.6307361168816278
+        },
+        {
+          "game_id": 193,
+          "year": 2018,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Jesper Kronholm",
+          "score": 8,
+          "score_share": 0.8888888888888888,
+          "win_prob": 0.9000624329769347,
+          "opponent_name": "Kajsa Hallberg-Nor.",
+          "opponent_score": 1,
+          "opponent_score_share": 0.1111111111111111,
+          "opponent_win_prob": 0.09993756702306533,
+          "is_winner": true,
+          "opponent_slug": "kajsa-hallberg-nor",
+          "opponent_hist_score_share": 0.24588014382132029
         },
         {
           "game_id": 214,
@@ -187,7 +191,7 @@
           "opponent_win_prob": 0.35618095766636415,
           "is_winner": true,
           "opponent_slug": "mina-kheirkhah",
-          "opponent_hist_score_share": 0.4432545173186885
+          "opponent_hist_score_share": 0.44838664603370487
         },
         {
           "game_id": 217,
@@ -205,7 +209,7 @@
           "opponent_win_prob": 0.43099995104329003,
           "is_winner": false,
           "opponent_slug": "cissi-hellman",
-          "opponent_hist_score_share": 0.48071302791411474
+          "opponent_hist_score_share": 0.48071302791411485
         }
       ],
       "n_games": 4,
@@ -222,24 +226,6 @@
         "stage": "\u00e5ttondelsfinal"
       },
       "games": [
-        {
-          "game_id": 280,
-          "year": 2019,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p1",
-          "name": "Jesper Kronholm",
-          "score": 4,
-          "score_share": 0.2857142857142857,
-          "win_prob": 0.391730337589008,
-          "opponent_name": "Jakob Lien",
-          "opponent_score": 10,
-          "opponent_score_share": 0.7142857142857143,
-          "opponent_win_prob": 0.608269662410992,
-          "is_winner": false,
-          "opponent_slug": "jakob-lien",
-          "opponent_hist_score_share": 0.5680243456458289
-        },
         {
           "game_id": 249,
           "year": 2019,
@@ -274,7 +260,25 @@
           "opponent_win_prob": 0.2817508787638764,
           "is_winner": true,
           "opponent_slug": "olle-nyren",
-          "opponent_hist_score_share": 0.3719047619047619
+          "opponent_hist_score_share": 0.32150706436420723
+        },
+        {
+          "game_id": 280,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Jesper Kronholm",
+          "score": 4,
+          "score_share": 0.2857142857142857,
+          "win_prob": 0.391730337589008,
+          "opponent_name": "Jakob Lien",
+          "opponent_score": 10,
+          "opponent_score_share": 0.7142857142857143,
+          "opponent_win_prob": 0.608269662410992,
+          "is_winner": false,
+          "opponent_slug": "jakob-lien",
+          "opponent_hist_score_share": 0.568024345645829
         },
         {
           "game_id": 340,
@@ -310,7 +314,7 @@
           "opponent_win_prob": 0.4059175313486369,
           "is_winner": false,
           "opponent_slug": "pelle-dovborg",
-          "opponent_hist_score_share": 0.5626206537570174
+          "opponent_hist_score_share": 0.5687558814642149
         }
       ],
       "n_games": 5,
@@ -319,31 +323,31 @@
     {
       "year": 2021,
       "last_game": {
-        "opponent_name": "Hasse Hallgren",
-        "opponent_slug": "hasse-hallgren",
-        "score": 9,
-        "opponent_score": 0,
-        "is_winner": true,
+        "opponent_name": "Gabriel Nordenankar",
+        "opponent_slug": "gabriel-nordenankar",
+        "score": 8,
+        "opponent_score": 9,
+        "is_winner": false,
         "stage": "gruppspel"
       },
       "games": [
         {
-          "game_id": 495,
+          "game_id": 479,
           "year": 2021,
           "stage": "gruppspel",
           "stage_level": 0,
           "winner": "p1",
           "name": "Jesper Kronholm",
-          "score": 8,
-          "score_share": 0.47058823529411764,
-          "win_prob": 0.15244921205375084,
-          "opponent_name": "Gabriel Nordenankar",
-          "opponent_score": 9,
-          "opponent_score_share": 0.5294117647058824,
-          "opponent_win_prob": 0.8475507879462492,
-          "is_winner": false,
-          "opponent_slug": "gabriel-nordenankar",
-          "opponent_hist_score_share": 0.6515913176295751
+          "score": 9,
+          "score_share": 1.0,
+          "win_prob": 0.8495183240682103,
+          "opponent_name": "Hasse Hallgren",
+          "opponent_score": 0,
+          "opponent_score_share": 0.0,
+          "opponent_win_prob": 0.15048167593178974,
+          "is_winner": true,
+          "opponent_slug": "hasse-hallgren",
+          "opponent_hist_score_share": 0.33823209470268295
         },
         {
           "game_id": 522,
@@ -361,25 +365,25 @@
           "opponent_win_prob": 0.288771144795017,
           "is_winner": false,
           "opponent_slug": "julius-jorborg",
-          "opponent_hist_score_share": 0.44598794063079783
+          "opponent_hist_score_share": 0.4459879406307978
         },
         {
-          "game_id": 479,
+          "game_id": 495,
           "year": 2021,
           "stage": "gruppspel",
           "stage_level": 0,
           "winner": "p1",
           "name": "Jesper Kronholm",
-          "score": 9,
-          "score_share": 1.0,
-          "win_prob": 0.8495183240682103,
-          "opponent_name": "Hasse Hallgren",
-          "opponent_score": 0,
-          "opponent_score_share": 0.0,
-          "opponent_win_prob": 0.15048167593178974,
-          "is_winner": true,
-          "opponent_slug": "hasse-hallgren",
-          "opponent_hist_score_share": 0.3431332556332556
+          "score": 8,
+          "score_share": 0.47058823529411764,
+          "win_prob": 0.15244921205375084,
+          "opponent_name": "Gabriel Nordenankar",
+          "opponent_score": 9,
+          "opponent_score_share": 0.5294117647058824,
+          "opponent_win_prob": 0.8475507879462492,
+          "is_winner": false,
+          "opponent_slug": "gabriel-nordenankar",
+          "opponent_hist_score_share": 0.6508376694877611
         }
       ],
       "n_games": 3,
@@ -388,7 +392,7 @@
   ],
   "best_stage": "\u00e5ttondelsfinal",
   "best_stage_years": [
-    2019,
-    2017
+    2017,
+    2019
   ]
 }

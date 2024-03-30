@@ -1,19 +1,20 @@
 {
-  "n_games": 7,
-  "score_share": 0.4618373689802261,
-  "n_wins": 3,
+  "n_games": 11,
+  "score_share": 0.4924649845104391,
+  "n_wins": 5,
   "years": [
     2019,
-    2022
+    2022,
+    2023
   ],
-  "win_rate": 0.42857142857142855,
-  "opponent_score_share": 0.5425390033460261,
-  "skill": 121.17299332566297,
-  "skill_sigma": 45.660278019551086,
+  "win_rate": 0.45454545454545453,
+  "opponent_score_share": 0.5026245718093717,
+  "skill": 125.38508380424312,
+  "skill_sigma": 36.6074786185759,
   "name": "Martha Brauer",
   "slug": "martha-brauer",
-  "skill_rank": 60.0,
-  "skill_rank_pct": 60.0,
+  "skill_rank": 62.0,
+  "skill_rank_pct": 62.0,
   "skill_history": [
     [
       2011,
@@ -50,6 +51,10 @@
     [
       2022,
       121.0
+    ],
+    [
+      2023,
+      125.0
     ]
   ],
   "tournaments": [
@@ -64,6 +69,24 @@
         "stage": "sextondelsfinal"
       },
       "games": [
+        {
+          "game_id": 315,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Martha Brauer",
+          "score": 8,
+          "score_share": 0.8888888888888888,
+          "win_prob": 0.6496657382899917,
+          "opponent_name": "Linnea Karlsson",
+          "opponent_score": 1,
+          "opponent_score_share": 0.1111111111111111,
+          "opponent_win_prob": 0.35033426171000825,
+          "is_winner": true,
+          "opponent_slug": "linnea-karlsson",
+          "opponent_hist_score_share": 0.41644034165963995
+        },
         {
           "game_id": 255,
           "year": 2019,
@@ -80,7 +103,7 @@
           "opponent_win_prob": 0.4590408880560928,
           "is_winner": true,
           "opponent_slug": "pelle-dovborg",
-          "opponent_hist_score_share": 0.5626206537570174
+          "opponent_hist_score_share": 0.5687558814642149
         },
         {
           "game_id": 283,
@@ -98,25 +121,7 @@
           "opponent_win_prob": 0.690049356141634,
           "is_winner": false,
           "opponent_slug": "estrid",
-          "opponent_hist_score_share": 0.6307361168816277
-        },
-        {
-          "game_id": 315,
-          "year": 2019,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p1",
-          "name": "Martha Brauer",
-          "score": 8,
-          "score_share": 0.8888888888888888,
-          "win_prob": 0.6496657382899917,
-          "opponent_name": "Linnea Karlsson",
-          "opponent_score": 1,
-          "opponent_score_share": 0.1111111111111111,
-          "opponent_win_prob": 0.35033426171000825,
-          "is_winner": true,
-          "opponent_slug": "linnea-karlsson",
-          "opponent_hist_score_share": 0.4164403416596399
+          "opponent_hist_score_share": 0.6307361168816278
         },
         {
           "game_id": 341,
@@ -134,7 +139,7 @@
           "opponent_win_prob": 0.7319924366779083,
           "is_winner": false,
           "opponent_slug": "edvin-lindsten",
-          "opponent_hist_score_share": 0.5706356991424866
+          "opponent_hist_score_share": 0.5674037929616024
         }
       ],
       "n_games": 4,
@@ -167,7 +172,7 @@
           "opponent_win_prob": 0.8255957969583059,
           "is_winner": false,
           "opponent_slug": "gabriel-nordenankar",
-          "opponent_hist_score_share": 0.6515913176295751
+          "opponent_hist_score_share": 0.6508376694877611
         },
         {
           "game_id": 623,
@@ -185,7 +190,7 @@
           "opponent_win_prob": 0.6124300633079092,
           "is_winner": false,
           "opponent_slug": "jerker-karlsson",
-          "opponent_hist_score_share": 0.5304547767047768
+          "opponent_hist_score_share": 0.5216255545801
         },
         {
           "game_id": 579,
@@ -208,10 +213,98 @@
       ],
       "n_games": 3,
       "n_wins": 1
+    },
+    {
+      "year": 2023,
+      "last_game": {
+        "opponent_name": "Benjamin Ger. Hed.",
+        "opponent_slug": "benjamin-ger-hed",
+        "score": 4,
+        "opponent_score": 10,
+        "is_winner": false,
+        "stage": "sextondelsfinal"
+      },
+      "games": [
+        {
+          "game_id": 671,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Martha Brauer",
+          "score": 7,
+          "score_share": 0.4375,
+          "win_prob": 0.28965678070109924,
+          "opponent_name": "Robin Fogelberg",
+          "opponent_score": 9,
+          "opponent_score_share": 0.5625,
+          "opponent_win_prob": 0.7103432192989008,
+          "is_winner": false,
+          "opponent_slug": "robin-fogelberg",
+          "opponent_hist_score_share": 0.5605132591422913
+        },
+        {
+          "game_id": 711,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Martha Brauer",
+          "score": 9,
+          "score_share": 0.8181818181818182,
+          "win_prob": 0.7360702758219952,
+          "opponent_name": "Frej M\u00e5rtensson",
+          "opponent_score": 2,
+          "opponent_score_share": 0.18181818181818182,
+          "opponent_win_prob": 0.2639297241780047,
+          "is_winner": true,
+          "opponent_slug": "frej-martensson",
+          "opponent_hist_score_share": 0.18181818181818182
+        },
+        {
+          "game_id": 726,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Martha Brauer",
+          "score": 9,
+          "score_share": 0.6428571428571429,
+          "win_prob": 0.4559018231105727,
+          "opponent_name": "Emma Frenn\u00e5s",
+          "opponent_score": 5,
+          "opponent_score_share": 0.35714285714285715,
+          "opponent_win_prob": 0.5440981768894273,
+          "is_winner": true,
+          "opponent_slug": "emma-frennas",
+          "opponent_hist_score_share": 0.38115842490842494
+        },
+        {
+          "game_id": 744,
+          "year": 2023,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p1",
+          "name": "Martha Brauer",
+          "score": 4,
+          "score_share": 0.2857142857142857,
+          "win_prob": 0.2129860432254862,
+          "opponent_name": "Benjamin Ger. Hed.",
+          "opponent_score": 10,
+          "opponent_score_share": 0.7142857142857143,
+          "opponent_win_prob": 0.7870139567745138,
+          "is_winner": false,
+          "opponent_slug": "benjamin-ger-hed",
+          "opponent_hist_score_share": 0.614286949352186
+        }
+      ],
+      "n_games": 4,
+      "n_wins": 2
     }
   ],
   "best_stage": "sextondelsfinal",
   "best_stage_years": [
-    2019
+    2019,
+    2023
   ]
 }

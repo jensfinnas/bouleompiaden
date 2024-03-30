@@ -1,19 +1,19 @@
 {
   "n_games": 7,
-  "score_share": 0.5672184957899244,
+  "score_share": 0.5672184957899243,
   "n_wins": 4,
   "years": [
     2017,
     2018
   ],
   "win_rate": 0.5714285714285714,
-  "opponent_score_share": 0.5136444161317589,
+  "opponent_score_share": 0.512678004577195,
   "skill": 129.10117675240986,
   "skill_sigma": 43.652678330858585,
   "name": "Josefin Asplund",
   "slug": "josefin-asplund",
-  "skill_rank": 53.0,
-  "skill_rank_pct": 53.0,
+  "skill_rank": 56.0,
+  "skill_rank_pct": 56.0,
   "skill_history": [
     [
       2011,
@@ -49,6 +49,10 @@
     ],
     [
       2022,
+      null
+    ],
+    [
+      2023,
       null
     ]
   ],
@@ -98,7 +102,7 @@
           "opponent_win_prob": 0.5957031286534087,
           "is_winner": true,
           "opponent_slug": "julius-jorborg",
-          "opponent_hist_score_share": 0.44598794063079783
+          "opponent_hist_score_share": 0.4459879406307978
         },
         {
           "game_id": 134,
@@ -116,7 +120,7 @@
           "opponent_win_prob": 0.29837885800427755,
           "is_winner": true,
           "opponent_slug": "sofia-ahlstrom",
-          "opponent_hist_score_share": 0.471474358974359
+          "opponent_hist_score_share": 0.47147435897435896
         },
         {
           "game_id": 139,
@@ -134,7 +138,7 @@
           "opponent_win_prob": 0.26890284525692515,
           "is_winner": false,
           "opponent_slug": "jerker-karlsson",
-          "opponent_hist_score_share": 0.5304547767047768
+          "opponent_hist_score_share": 0.5216255545801
         }
       ],
       "n_games": 4,
@@ -143,31 +147,31 @@
     {
       "year": 2018,
       "last_game": {
-        "opponent_name": "Lovisa Birgersson",
-        "opponent_slug": "lovisa-birgersson",
-        "score": 7,
-        "opponent_score": 5,
-        "is_winner": true,
+        "opponent_name": "Jakob Lien",
+        "opponent_slug": "jakob-lien",
+        "score": 3,
+        "opponent_score": 8,
+        "is_winner": false,
         "stage": "gruppspel"
       },
       "games": [
         {
-          "game_id": 211,
+          "game_id": 164,
           "year": 2018,
           "stage": "gruppspel",
           "stage_level": 0,
-          "winner": "p2",
+          "winner": "p1",
           "name": "Josefin Asplund",
-          "score": 3,
-          "score_share": 0.2727272727272727,
-          "win_prob": 0.3838402254686039,
-          "opponent_name": "Jakob Lien",
-          "opponent_score": 8,
-          "opponent_score_share": 0.7272727272727273,
-          "opponent_win_prob": 0.616159774531396,
-          "is_winner": false,
-          "opponent_slug": "jakob-lien",
-          "opponent_hist_score_share": 0.5680243456458289
+          "score": 7,
+          "score_share": 0.5833333333333334,
+          "win_prob": 0.8228905264247002,
+          "opponent_name": "Lovisa Birgersson",
+          "opponent_score": 5,
+          "opponent_score_share": 0.4166666666666667,
+          "opponent_win_prob": 0.17710947357529983,
+          "is_winner": true,
+          "opponent_slug": "lovisa-birgersson",
+          "opponent_hist_score_share": 0.5781180669288086
         },
         {
           "game_id": 183,
@@ -188,22 +192,22 @@
           "opponent_hist_score_share": 0.5017578826402356
         },
         {
-          "game_id": 164,
+          "game_id": 211,
           "year": 2018,
           "stage": "gruppspel",
           "stage_level": 0,
-          "winner": "p1",
+          "winner": "p2",
           "name": "Josefin Asplund",
-          "score": 7,
-          "score_share": 0.5833333333333334,
-          "win_prob": 0.8228905264247002,
-          "opponent_name": "Lovisa Birgersson",
-          "opponent_score": 5,
-          "opponent_score_share": 0.4166666666666667,
-          "opponent_win_prob": 0.17710947357529983,
-          "is_winner": true,
-          "opponent_slug": "lovisa-birgersson",
-          "opponent_hist_score_share": 0.5760537256860787
+          "score": 3,
+          "score_share": 0.2727272727272727,
+          "win_prob": 0.3838402254686039,
+          "opponent_name": "Jakob Lien",
+          "opponent_score": 8,
+          "opponent_score_share": 0.7272727272727273,
+          "opponent_win_prob": 0.616159774531396,
+          "is_winner": false,
+          "opponent_slug": "jakob-lien",
+          "opponent_hist_score_share": 0.568024345645829
         }
       ],
       "n_games": 3,

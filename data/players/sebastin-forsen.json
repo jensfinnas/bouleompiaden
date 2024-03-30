@@ -7,13 +7,13 @@
     2019
   ],
   "win_rate": 0.5,
-  "opponent_score_share": 0.5453874048281571,
+  "opponent_score_share": 0.5455217640876472,
   "skill": 88.73498089421172,
   "skill_sigma": 46.283094482429824,
   "name": "Sebastin Fors\u00e9n",
   "slug": "sebastin-forsen",
-  "skill_rank": 84.0,
-  "skill_rank_pct": 84.0,
+  "skill_rank": 90.0,
+  "skill_rank_pct": 90.0,
   "skill_history": [
     [
       2011,
@@ -49,6 +49,10 @@
     ],
     [
       2022,
+      null
+    ],
+    [
+      2023,
       null
     ]
   ],
@@ -98,7 +102,7 @@
           "opponent_win_prob": 0.44749334811055524,
           "is_winner": true,
           "opponent_slug": "robeson",
-          "opponent_hist_score_share": 0.5815109019537957
+          "opponent_hist_score_share": 0.5697854480774457
         },
         {
           "game_id": 226,
@@ -116,7 +120,7 @@
           "opponent_win_prob": 0.19008845997894508,
           "is_winner": false,
           "opponent_slug": "johan-kjell",
-          "opponent_hist_score_share": 0.580606891524278
+          "opponent_hist_score_share": 0.5870032732503708
         }
       ],
       "n_games": 3,
@@ -125,31 +129,31 @@
     {
       "year": 2019,
       "last_game": {
-        "opponent_name": "Linnea Karlsson",
-        "opponent_slug": "linnea-karlsson",
-        "score": 8,
-        "opponent_score": 0,
-        "is_winner": true,
+        "opponent_name": "Love Andr\u00e9asson",
+        "opponent_slug": "love-andreasson",
+        "score": 0,
+        "opponent_score": 9,
+        "is_winner": false,
         "stage": "gruppspel"
       },
       "games": [
         {
-          "game_id": 291,
+          "game_id": 271,
           "year": 2019,
           "stage": "gruppspel",
           "stage_level": 0,
           "winner": "p1",
           "name": "Sebastin Fors\u00e9n",
-          "score": 0,
-          "score_share": 0.0,
-          "win_prob": 0.37472574511143264,
-          "opponent_name": "Love Andr\u00e9asson",
-          "opponent_score": 9,
-          "opponent_score_share": 1.0,
-          "opponent_win_prob": 0.6252742548885674,
-          "is_winner": false,
-          "opponent_slug": "love-andreasson",
-          "opponent_hist_score_share": 0.5925543702329417
+          "score": 8,
+          "score_share": 1.0,
+          "win_prob": 0.5478158774510304,
+          "opponent_name": "Linnea Karlsson",
+          "opponent_score": 0,
+          "opponent_score_share": 0.0,
+          "opponent_win_prob": 0.45218412254896956,
+          "is_winner": true,
+          "opponent_slug": "linnea-karlsson",
+          "opponent_hist_score_share": 0.41644034165963995
         },
         {
           "game_id": 323,
@@ -167,25 +171,25 @@
           "opponent_win_prob": 0.3852571532770148,
           "is_winner": false,
           "opponent_slug": "pelle-dovborg",
-          "opponent_hist_score_share": 0.5626206537570174
+          "opponent_hist_score_share": 0.5687558814642149
         },
         {
-          "game_id": 271,
+          "game_id": 291,
           "year": 2019,
           "stage": "gruppspel",
           "stage_level": 0,
           "winner": "p1",
           "name": "Sebastin Fors\u00e9n",
-          "score": 8,
-          "score_share": 1.0,
-          "win_prob": 0.5478158774510304,
-          "opponent_name": "Linnea Karlsson",
-          "opponent_score": 0,
-          "opponent_score_share": 0.0,
-          "opponent_win_prob": 0.45218412254896956,
-          "is_winner": true,
-          "opponent_slug": "linnea-karlsson",
-          "opponent_hist_score_share": 0.4164403416596399
+          "score": 0,
+          "score_share": 0.0,
+          "win_prob": 0.37472574511143264,
+          "opponent_name": "Love Andr\u00e9asson",
+          "opponent_score": 9,
+          "opponent_score_share": 1.0,
+          "opponent_win_prob": 0.6252742548885674,
+          "is_winner": false,
+          "opponent_slug": "love-andreasson",
+          "opponent_hist_score_share": 0.5925543702329417
         }
       ],
       "n_games": 3,

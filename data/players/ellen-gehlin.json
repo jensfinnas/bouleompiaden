@@ -1,0 +1,133 @@
+{
+  "n_games": 3,
+  "score_share": 0.2708333333333333,
+  "n_wins": 1,
+  "years": [
+    2023
+  ],
+  "win_rate": 0.3333333333333333,
+  "opponent_score_share": 0.48856373836766,
+  "skill": 69.21707398272395,
+  "skill_sigma": 61.43586847713558,
+  "name": "Ellen Gehlin",
+  "slug": "ellen-gehlin",
+  "skill_rank": 102.0,
+  "skill_rank_pct": 102.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      null
+    ],
+    [
+      2016,
+      null
+    ],
+    [
+      2017,
+      null
+    ],
+    [
+      2018,
+      null
+    ],
+    [
+      2019,
+      null
+    ],
+    [
+      2020,
+      null
+    ],
+    [
+      2021,
+      null
+    ],
+    [
+      2022,
+      null
+    ],
+    [
+      2023,
+      69.0
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2023,
+      "last_game": {
+        "opponent_name": "Karolina Widerstr\u00f6m",
+        "opponent_slug": "karolina-widerstrom",
+        "score": 0,
+        "opponent_score": 9,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "games": [
+        {
+          "game_id": 685,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Ellen Gehlin",
+          "score": 3,
+          "score_share": 0.25,
+          "win_prob": 0.36469530778280923,
+          "opponent_name": "Jakob Gustafsson",
+          "opponent_score": 9,
+          "opponent_score_share": 0.75,
+          "opponent_win_prob": 0.6353046922171908,
+          "is_winner": false,
+          "opponent_slug": "jakob-gustafsson",
+          "opponent_hist_score_share": 0.45099657967305024
+        },
+        {
+          "game_id": 718,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Ellen Gehlin",
+          "score": 9,
+          "score_share": 0.5625,
+          "win_prob": 0.5868948787111844,
+          "opponent_name": "Sofia \u00d6rning",
+          "opponent_score": 7,
+          "opponent_score_share": 0.4375,
+          "opponent_win_prob": 0.4131051212888156,
+          "is_winner": true,
+          "opponent_slug": "sofia-orning",
+          "opponent_hist_score_share": 0.38998601072130484
+        },
+        {
+          "game_id": 735,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Ellen Gehlin",
+          "score": 0,
+          "score_share": 0.0,
+          "win_prob": 0.38781073506058583,
+          "opponent_name": "Karolina Widerstr\u00f6m",
+          "opponent_score": 9,
+          "opponent_score_share": 1.0,
+          "opponent_win_prob": 0.6121892649394142,
+          "is_winner": false,
+          "opponent_slug": "karolina-widerstrom",
+          "opponent_hist_score_share": 0.6247086247086248
+        }
+      ],
+      "n_games": 3,
+      "n_wins": 1
+    }
+  ],
+  "best_stage": "gruppspel",
+  "best_stage_years": [
+    2023
+  ]
+}

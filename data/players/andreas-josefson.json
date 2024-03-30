@@ -1,20 +1,21 @@
 {
-  "n_games": 7,
-  "score_share": 0.41695652620022366,
+  "n_games": 9,
+  "score_share": 0.396521742600174,
   "n_wins": 2,
   "years": [
     2011,
     2012,
-    2021
+    2021,
+    2023
   ],
-  "win_rate": 0.2857142857142857,
-  "opponent_score_share": 0.5781234778619568,
-  "skill": 59.038558278111914,
-  "skill_sigma": 48.14230891327743,
+  "win_rate": 0.2222222222222222,
+  "opponent_score_share": 0.5785917712509799,
+  "skill": 52.17035205042871,
+  "skill_sigma": 45.07040691313938,
   "name": "Andreas Josefson",
   "slug": "andreas-josefson",
-  "skill_rank": 105.0,
-  "skill_rank_pct": 105.0,
+  "skill_rank": 112.0,
+  "skill_rank_pct": 112.0,
   "skill_history": [
     [
       2011,
@@ -51,6 +52,10 @@
     [
       2022,
       null
+    ],
+    [
+      2023,
+      52.0
     ]
   ],
   "tournaments": [
@@ -81,7 +86,7 @@
           "opponent_win_prob": 0.8036286847058723,
           "is_winner": true,
           "opponent_slug": "gabriel-nordenankar",
-          "opponent_hist_score_share": 0.6515913176295751
+          "opponent_hist_score_share": 0.6508376694877611
         },
         {
           "game_id": 1,
@@ -99,7 +104,7 @@
           "opponent_win_prob": 0.5000000150000002,
           "is_winner": false,
           "opponent_slug": "cissi-hellman",
-          "opponent_hist_score_share": 0.48071302791411474
+          "opponent_hist_score_share": 0.48071302791411485
         },
         {
           "game_id": 13,
@@ -117,7 +122,7 @@
           "opponent_win_prob": 0.4028192866931639,
           "is_winner": false,
           "opponent_slug": "erik-nordenankar",
-          "opponent_hist_score_share": 0.6815916514882377
+          "opponent_hist_score_share": 0.679882946820159
         }
       ],
       "n_games": 3,
@@ -168,7 +173,7 @@
           "opponent_win_prob": 0.38989038244141544,
           "is_winner": true,
           "opponent_slug": "richard-ekman",
-          "opponent_hist_score_share": 0.6032088282088284
+          "opponent_hist_score_share": 0.6032088282088282
         }
       ],
       "n_games": 2,
@@ -177,32 +182,14 @@
     {
       "year": 2021,
       "last_game": {
-        "opponent_name": "P\u00e4r D\u00e4lborg",
-        "opponent_slug": "par-dalborg",
-        "score": 8,
+        "opponent_name": "Pelle Dovborg",
+        "opponent_slug": "pelle-dovborg",
+        "score": 5,
         "opponent_score": 9,
         "is_winner": false,
         "stage": "gruppspel"
       },
       "games": [
-        {
-          "game_id": 451,
-          "year": 2021,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p1",
-          "name": "Andreas Josefson",
-          "score": 5,
-          "score_share": 0.35714285714285715,
-          "win_prob": 0.16268994428958417,
-          "opponent_name": "Pelle Dovborg",
-          "opponent_score": 9,
-          "opponent_score_share": 0.6428571428571429,
-          "opponent_win_prob": 0.8373100557104158,
-          "is_winner": false,
-          "opponent_slug": "pelle-dovborg",
-          "opponent_hist_score_share": 0.5626206537570174
-        },
         {
           "game_id": 496,
           "year": 2021,
@@ -220,6 +207,75 @@
           "is_winner": false,
           "opponent_slug": "par-dalborg",
           "opponent_hist_score_share": 0.4209558823529412
+        },
+        {
+          "game_id": 451,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Andreas Josefson",
+          "score": 5,
+          "score_share": 0.35714285714285715,
+          "win_prob": 0.16268994428958417,
+          "opponent_name": "Pelle Dovborg",
+          "opponent_score": 9,
+          "opponent_score_share": 0.6428571428571429,
+          "opponent_win_prob": 0.8373100557104158,
+          "is_winner": false,
+          "opponent_slug": "pelle-dovborg",
+          "opponent_hist_score_share": 0.5687558814642149
+        }
+      ],
+      "n_games": 2,
+      "n_wins": 0
+    },
+    {
+      "year": 2023,
+      "last_game": {
+        "opponent_name": "Robeson",
+        "opponent_slug": "robeson",
+        "score": 3,
+        "opponent_score": 9,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "games": [
+        {
+          "game_id": 678,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Andreas Josefson",
+          "score": 6,
+          "score_share": 0.4,
+          "win_prob": 0.07783679379188282,
+          "opponent_name": "Johan Kjell",
+          "opponent_score": 9,
+          "opponent_score_share": 0.6,
+          "opponent_win_prob": 0.9221632062081172,
+          "is_winner": false,
+          "opponent_slug": "johan-kjell",
+          "opponent_hist_score_share": 0.5870032732503708
+        },
+        {
+          "game_id": 715,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Andreas Josefson",
+          "score": 3,
+          "score_share": 0.25,
+          "win_prob": 0.05212467985732514,
+          "opponent_name": "Robeson",
+          "opponent_score": 9,
+          "opponent_score_share": 0.75,
+          "opponent_win_prob": 0.9478753201426748,
+          "is_winner": false,
+          "opponent_slug": "robeson",
+          "opponent_hist_score_share": 0.5697854480774457
         }
       ],
       "n_games": 2,

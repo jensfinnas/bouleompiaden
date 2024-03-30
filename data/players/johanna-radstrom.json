@@ -13,13 +13,13 @@
     2022
   ],
   "win_rate": 0.17647058823529413,
-  "opponent_score_share": 0.5083482579355314,
+  "opponent_score_share": 0.5054463767165486,
   "skill": 2.4596835283782847,
   "skill_sigma": 37.592522257149675,
   "name": "Johanna R\u00e5dstr\u00f6m",
   "slug": "johanna-radstrom",
-  "skill_rank": 142.0,
-  "skill_rank_pct": 142.0,
+  "skill_rank": 156.0,
+  "skill_rank_pct": 156.0,
   "skill_history": [
     [
       2011,
@@ -56,6 +56,10 @@
     [
       2022,
       2.0
+    ],
+    [
+      2023,
+      null
     ]
   ],
   "tournaments": [
@@ -113,32 +117,14 @@
     {
       "year": 2016,
       "last_game": {
-        "opponent_name": "Richard Ekman",
-        "opponent_slug": "richard-ekman",
-        "score": 2,
-        "opponent_score": 7,
-        "is_winner": false,
+        "opponent_name": "Sofia R\u00e5dstr\u00f6m",
+        "opponent_slug": "sofia-radstrom",
+        "score": 7,
+        "opponent_score": 3,
+        "is_winner": true,
         "stage": "gruppspel"
       },
       "games": [
-        {
-          "game_id": 52,
-          "year": 2016,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p2",
-          "name": "Johanna R\u00e5dstr\u00f6m",
-          "score": 7,
-          "score_share": 0.7,
-          "win_prob": 0.8127407776407847,
-          "opponent_name": "Sofia R\u00e5dstr\u00f6m",
-          "opponent_score": 3,
-          "opponent_score_share": 0.3,
-          "opponent_win_prob": 0.18725922235921538,
-          "is_winner": true,
-          "opponent_slug": "sofia-radstrom",
-          "opponent_hist_score_share": 0.343188184364655
-        },
         {
           "game_id": 67,
           "year": 2016,
@@ -155,7 +141,25 @@
           "opponent_win_prob": 0.28193556281956833,
           "is_winner": false,
           "opponent_slug": "richard-ekman",
-          "opponent_hist_score_share": 0.6032088282088284
+          "opponent_hist_score_share": 0.6032088282088282
+        },
+        {
+          "game_id": 52,
+          "year": 2016,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Johanna R\u00e5dstr\u00f6m",
+          "score": 7,
+          "score_share": 0.7,
+          "win_prob": 0.8127407776407847,
+          "opponent_name": "Sofia R\u00e5dstr\u00f6m",
+          "opponent_score": 3,
+          "opponent_score_share": 0.3,
+          "opponent_win_prob": 0.18725922235921538,
+          "is_winner": true,
+          "opponent_slug": "sofia-radstrom",
+          "opponent_hist_score_share": 0.33582760376878024
         }
       ],
       "n_games": 2,
@@ -188,7 +192,7 @@
           "opponent_win_prob": 0.36613798551426757,
           "is_winner": false,
           "opponent_slug": "tobe-welander",
-          "opponent_hist_score_share": 0.48502616664381376
+          "opponent_hist_score_share": 0.48502616664381365
         },
         {
           "game_id": 117,
@@ -257,7 +261,7 @@
           "opponent_win_prob": 0.7508247564989103,
           "is_winner": false,
           "opponent_slug": "robeson",
-          "opponent_hist_score_share": 0.5815109019537957
+          "opponent_hist_score_share": 0.5697854480774457
         }
       ],
       "n_games": 2,
@@ -308,7 +312,7 @@
           "opponent_win_prob": 0.9613713961889544,
           "is_winner": false,
           "opponent_slug": "robin-fogelberg",
-          "opponent_hist_score_share": 0.5883273927718372
+          "opponent_hist_score_share": 0.5605132591422913
         }
       ],
       "n_games": 2,
@@ -317,32 +321,14 @@
     {
       "year": 2020,
       "last_game": {
-        "opponent_name": "Jon Jeppson",
-        "opponent_slug": "jon-jeppson",
-        "score": 0,
+        "opponent_name": "Robeson",
+        "opponent_slug": "robeson",
+        "score": 8,
         "opponent_score": 9,
         "is_winner": false,
         "stage": "gruppspel"
       },
       "games": [
-        {
-          "game_id": 400,
-          "year": 2020,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p2",
-          "name": "Johanna R\u00e5dstr\u00f6m",
-          "score": 8,
-          "score_share": 0.47058823529411764,
-          "win_prob": 0.018011549782338265,
-          "opponent_name": "Robeson",
-          "opponent_score": 9,
-          "opponent_score_share": 0.5294117647058824,
-          "opponent_win_prob": 0.9819884502176617,
-          "is_winner": false,
-          "opponent_slug": "robeson",
-          "opponent_hist_score_share": 0.5815109019537957
-        },
         {
           "game_id": 368,
           "year": 2020,
@@ -359,7 +345,25 @@
           "opponent_win_prob": 0.8077914640938769,
           "is_winner": false,
           "opponent_slug": "jon-jeppson",
-          "opponent_hist_score_share": 0.5849962863933452
+          "opponent_hist_score_share": 0.5966064708711767
+        },
+        {
+          "game_id": 400,
+          "year": 2020,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Johanna R\u00e5dstr\u00f6m",
+          "score": 8,
+          "score_share": 0.47058823529411764,
+          "win_prob": 0.018011549782338265,
+          "opponent_name": "Robeson",
+          "opponent_score": 9,
+          "opponent_score_share": 0.5294117647058824,
+          "opponent_win_prob": 0.9819884502176617,
+          "is_winner": false,
+          "opponent_slug": "robeson",
+          "opponent_hist_score_share": 0.5697854480774457
         }
       ],
       "n_games": 2,
@@ -392,7 +396,7 @@
           "opponent_win_prob": 0.9487553101304522,
           "is_winner": false,
           "opponent_slug": "patrik-jargarden",
-          "opponent_hist_score_share": 0.599091404238463
+          "opponent_hist_score_share": 0.5770206146431636
         },
         {
           "game_id": 500,
@@ -443,7 +447,7 @@
           "opponent_win_prob": 0.9962709379937241,
           "is_winner": false,
           "opponent_slug": "benjamin-ger-hed",
-          "opponent_hist_score_share": 0.5937790548374914
+          "opponent_hist_score_share": 0.614286949352186
         },
         {
           "game_id": 609,
@@ -479,7 +483,7 @@
           "opponent_win_prob": 0.997578608980019,
           "is_winner": false,
           "opponent_slug": "gabriel-nordenankar",
-          "opponent_hist_score_share": 0.6515913176295751
+          "opponent_hist_score_share": 0.6508376694877611
         }
       ],
       "n_games": 3,

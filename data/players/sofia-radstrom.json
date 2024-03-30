@@ -1,7 +1,7 @@
 {
-  "n_games": 17,
-  "score_share": 0.343188184364655,
-  "n_wins": 4,
+  "n_games": 20,
+  "score_share": 0.33582760376878024,
+  "n_wins": 5,
   "years": [
     2011,
     2012,
@@ -9,16 +9,17 @@
     2017,
     2018,
     2019,
-    2021
+    2021,
+    2023
   ],
-  "win_rate": 0.23529411764705882,
-  "opponent_score_share": 0.5240394278159034,
-  "skill": 46.435739759557045,
-  "skill_sigma": 32.38458682470913,
+  "win_rate": 0.25,
+  "opponent_score_share": 0.5193517333592961,
+  "skill": 50.087154665615365,
+  "skill_sigma": 30.346829548227774,
   "name": "Sofia R\u00e5dstr\u00f6m",
   "slug": "sofia-radstrom",
-  "skill_rank": 112.0,
-  "skill_rank_pct": 112.0,
+  "skill_rank": 114.0,
+  "skill_rank_pct": 114.0,
   "skill_history": [
     [
       2011,
@@ -55,38 +56,24 @@
     [
       2022,
       null
+    ],
+    [
+      2023,
+      50.0
     ]
   ],
   "tournaments": [
     {
       "year": 2011,
       "last_game": {
-        "opponent_name": "Jakob Lien",
-        "opponent_slug": "jakob-lien",
-        "score": 2,
+        "opponent_name": "Erik Nordenankar",
+        "opponent_slug": "erik-nordenankar",
+        "score": 0,
         "opponent_score": 8,
         "is_winner": false,
         "stage": "gruppspel"
       },
       "games": [
-        {
-          "game_id": 11,
-          "year": 2011,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p1",
-          "name": "Sofia R\u00e5dstr\u00f6m",
-          "score": 0,
-          "score_share": 0.0,
-          "win_prob": 0.5300335720391011,
-          "opponent_name": "Erik Nordenankar",
-          "opponent_score": 8,
-          "opponent_score_share": 1.0,
-          "opponent_win_prob": 0.46996642796089894,
-          "is_winner": false,
-          "opponent_slug": "erik-nordenankar",
-          "opponent_hist_score_share": 0.6815916514882377
-        },
         {
           "game_id": 7,
           "year": 2011,
@@ -103,7 +90,25 @@
           "opponent_win_prob": 0.631853259570434,
           "is_winner": false,
           "opponent_slug": "jakob-lien",
-          "opponent_hist_score_share": 0.5680243456458289
+          "opponent_hist_score_share": 0.568024345645829
+        },
+        {
+          "game_id": 11,
+          "year": 2011,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Sofia R\u00e5dstr\u00f6m",
+          "score": 0,
+          "score_share": 0.0,
+          "win_prob": 0.5300335720391011,
+          "opponent_name": "Erik Nordenankar",
+          "opponent_score": 8,
+          "opponent_score_share": 1.0,
+          "opponent_win_prob": 0.46996642796089894,
+          "is_winner": false,
+          "opponent_slug": "erik-nordenankar",
+          "opponent_hist_score_share": 0.679882946820159
         }
       ],
       "n_games": 2,
@@ -136,7 +141,7 @@
           "opponent_win_prob": 0.8086092267889067,
           "is_winner": false,
           "opponent_slug": "jakob-lien",
-          "opponent_hist_score_share": 0.5680243456458289
+          "opponent_hist_score_share": 0.568024345645829
         },
         {
           "game_id": 27,
@@ -154,7 +159,7 @@
           "opponent_win_prob": 0.7622531274724101,
           "is_winner": false,
           "opponent_slug": "frida-ohrn",
-          "opponent_hist_score_share": 0.39508248162094317
+          "opponent_hist_score_share": 0.4007381507381507
         }
       ],
       "n_games": 2,
@@ -205,7 +210,7 @@
           "opponent_win_prob": 0.6274094620144768,
           "is_winner": false,
           "opponent_slug": "richard-ekman",
-          "opponent_hist_score_share": 0.6032088282088284
+          "opponent_hist_score_share": 0.6032088282088282
         }
       ],
       "n_games": 2,
@@ -238,7 +243,7 @@
           "opponent_win_prob": 0.9949353798192884,
           "is_winner": false,
           "opponent_slug": "gabriel-nordenankar",
-          "opponent_hist_score_share": 0.6515913176295751
+          "opponent_hist_score_share": 0.6508376694877611
         },
         {
           "game_id": 115,
@@ -274,7 +279,7 @@
           "opponent_win_prob": 0.918976722592163,
           "is_winner": true,
           "opponent_slug": "julius-jorborg",
-          "opponent_hist_score_share": 0.44598794063079783
+          "opponent_hist_score_share": 0.4459879406307978
         },
         {
           "game_id": 132,
@@ -292,7 +297,7 @@
           "opponent_win_prob": 0.7496693152221887,
           "is_winner": false,
           "opponent_slug": "richard-ekman",
-          "opponent_hist_score_share": 0.6032088282088284
+          "opponent_hist_score_share": 0.6032088282088282
         }
       ],
       "n_games": 4,
@@ -325,7 +330,7 @@
           "opponent_win_prob": 0.7200726444006327,
           "is_winner": false,
           "opponent_slug": "olle-strandberg",
-          "opponent_hist_score_share": 0.6605863621382464
+          "opponent_hist_score_share": 0.6605863621382463
         },
         {
           "game_id": 191,
@@ -343,7 +348,7 @@
           "opponent_win_prob": 0.6068926238119271,
           "is_winner": false,
           "opponent_slug": "jens-hultkrans",
-          "opponent_hist_score_share": 0.5361535421278069
+          "opponent_hist_score_share": 0.5241481013539837
         }
       ],
       "n_games": 2,
@@ -361,24 +366,6 @@
       },
       "games": [
         {
-          "game_id": 281,
-          "year": 2019,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p2",
-          "name": "Sofia R\u00e5dstr\u00f6m",
-          "score": 8,
-          "score_share": 0.5333333333333333,
-          "win_prob": 0.18224123025661831,
-          "opponent_name": "Richard Ekman",
-          "opponent_score": 7,
-          "opponent_score_share": 0.4666666666666667,
-          "opponent_win_prob": 0.8177587697433817,
-          "is_winner": true,
-          "opponent_slug": "richard-ekman",
-          "opponent_hist_score_share": 0.6032088282088284
-        },
-        {
           "game_id": 251,
           "year": 2019,
           "stage": "gruppspel",
@@ -394,7 +381,25 @@
           "opponent_win_prob": 0.8652484067926568,
           "is_winner": true,
           "opponent_slug": "mathilda-gronborg",
-          "opponent_hist_score_share": 0.3719416386083052
+          "opponent_hist_score_share": 0.37194163860830526
+        },
+        {
+          "game_id": 281,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Sofia R\u00e5dstr\u00f6m",
+          "score": 8,
+          "score_share": 0.5333333333333333,
+          "win_prob": 0.18224123025661831,
+          "opponent_name": "Richard Ekman",
+          "opponent_score": 7,
+          "opponent_score_share": 0.4666666666666667,
+          "opponent_win_prob": 0.8177587697433817,
+          "is_winner": true,
+          "opponent_slug": "richard-ekman",
+          "opponent_hist_score_share": 0.6032088282088282
         },
         {
           "game_id": 333,
@@ -412,7 +417,7 @@
           "opponent_win_prob": 0.9241817704660891,
           "is_winner": false,
           "opponent_slug": "jens-hultkrans",
-          "opponent_hist_score_share": 0.5361535421278069
+          "opponent_hist_score_share": 0.5241481013539837
         }
       ],
       "n_games": 3,
@@ -421,14 +426,32 @@
     {
       "year": 2021,
       "last_game": {
-        "opponent_name": "Kusha Bahrami",
-        "opponent_slug": "kusha-bahrami",
+        "opponent_name": "Hannes Jordan",
+        "opponent_slug": "hannes-jordan",
         "score": 3,
         "opponent_score": 9,
         "is_winner": false,
         "stage": "gruppspel"
       },
       "games": [
+        {
+          "game_id": 497,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Sofia R\u00e5dstr\u00f6m",
+          "score": 3,
+          "score_share": 0.25,
+          "win_prob": 0.2464094199160878,
+          "opponent_name": "Kusha Bahrami",
+          "opponent_score": 9,
+          "opponent_score_share": 0.75,
+          "opponent_win_prob": 0.7535905800839122,
+          "is_winner": false,
+          "opponent_slug": "kusha-bahrami",
+          "opponent_hist_score_share": 0.4663222959638401
+        },
         {
           "game_id": 453,
           "year": 2021,
@@ -446,28 +469,79 @@
           "is_winner": false,
           "opponent_slug": "hannes-jordan",
           "opponent_hist_score_share": 0.5230629419600008
-        },
-        {
-          "game_id": 497,
-          "year": 2021,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p2",
-          "name": "Sofia R\u00e5dstr\u00f6m",
-          "score": 3,
-          "score_share": 0.25,
-          "win_prob": 0.2464094199160878,
-          "opponent_name": "Kusha Bahrami",
-          "opponent_score": 9,
-          "opponent_score_share": 0.75,
-          "opponent_win_prob": 0.7535905800839122,
-          "is_winner": false,
-          "opponent_slug": "kusha-bahrami",
-          "opponent_hist_score_share": 0.466840675664205
         }
       ],
       "n_games": 2,
       "n_wins": 0
+    },
+    {
+      "year": 2023,
+      "last_game": {
+        "opponent_name": "Johan Kjell",
+        "opponent_slug": "johan-kjell",
+        "score": 0,
+        "opponent_score": 9,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "games": [
+        {
+          "game_id": 676,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Sofia R\u00e5dstr\u00f6m",
+          "score": 6,
+          "score_share": 0.35294117647058826,
+          "win_prob": 0.11452205377308815,
+          "opponent_name": "Filippa Berencreutz",
+          "opponent_score": 11,
+          "opponent_score_share": 0.6470588235294118,
+          "opponent_win_prob": 0.8854779462269119,
+          "is_winner": false,
+          "opponent_slug": "filippa-berencreutz",
+          "opponent_hist_score_share": 0.5345458055016878
+        },
+        {
+          "game_id": 714,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Sofia R\u00e5dstr\u00f6m",
+          "score": 9,
+          "score_share": 0.5294117647058824,
+          "win_prob": 0.4516604716219679,
+          "opponent_name": "Stina Vass",
+          "opponent_score": 8,
+          "opponent_score_share": 0.47058823529411764,
+          "opponent_win_prob": 0.5483395283780321,
+          "is_winner": true,
+          "opponent_slug": "stina-vass",
+          "opponent_hist_score_share": 0.37815126050420167
+        },
+        {
+          "game_id": 731,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Sofia R\u00e5dstr\u00f6m",
+          "score": 0,
+          "score_share": 0.0,
+          "win_prob": 0.05730110780666353,
+          "opponent_name": "Johan Kjell",
+          "opponent_score": 9,
+          "opponent_score_share": 1.0,
+          "opponent_win_prob": 0.9426988921933365,
+          "is_winner": false,
+          "opponent_slug": "johan-kjell",
+          "opponent_hist_score_share": 0.5870032732503708
+        }
+      ],
+      "n_games": 3,
+      "n_wins": 1
     }
   ],
   "best_stage": "\u00e5ttondelsfinal",

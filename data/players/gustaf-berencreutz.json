@@ -7,13 +7,13 @@
     2022
   ],
   "win_rate": 0.3333333333333333,
-  "opponent_score_share": 0.45519098708650363,
+  "opponent_score_share": 0.46287386659157376,
   "skill": 46.95782603989068,
   "skill_sigma": 42.76249848029465,
   "name": "Gustaf Berencreutz",
   "slug": "gustaf-berencreutz",
-  "skill_rank": 111.0,
-  "skill_rank_pct": 111.0,
+  "skill_rank": 116.0,
+  "skill_rank_pct": 116.0,
   "skill_history": [
     [
       2011,
@@ -50,6 +50,10 @@
     [
       2022,
       47.0
+    ],
+    [
+      2023,
+      null
     ]
   ],
   "tournaments": [
@@ -98,7 +102,7 @@
           "opponent_win_prob": 0.7795185975448553,
           "is_winner": false,
           "opponent_slug": "benjamin-ger-hed",
-          "opponent_hist_score_share": 0.5937790548374914
+          "opponent_hist_score_share": 0.614286949352186
         },
         {
           "game_id": 511,
@@ -116,7 +120,7 @@
           "opponent_win_prob": 0.6944958419091432,
           "is_winner": false,
           "opponent_slug": "robin-linderborg",
-          "opponent_hist_score_share": 0.5497140012765013
+          "opponent_hist_score_share": 0.569941409165547
         }
       ],
       "n_games": 3,
@@ -125,31 +129,31 @@
     {
       "year": 2022,
       "last_game": {
-        "opponent_name": "Johan Johnson",
-        "opponent_slug": "johan-johnson",
-        "score": 9,
-        "opponent_score": 6,
-        "is_winner": true,
+        "opponent_name": "Johanna R\u00e5dstr\u00f6m",
+        "opponent_slug": "johanna-radstrom",
+        "score": 4,
+        "opponent_score": 9,
+        "is_winner": false,
         "stage": "gruppspel"
       },
       "games": [
         {
-          "game_id": 609,
+          "game_id": 553,
           "year": 2022,
           "stage": "gruppspel",
           "stage_level": 0,
-          "winner": "p2",
+          "winner": "p1",
           "name": "Gustaf Berencreutz",
-          "score": 4,
-          "score_share": 0.3076923076923077,
-          "win_prob": 0.890304084936539,
-          "opponent_name": "Johanna R\u00e5dstr\u00f6m",
-          "opponent_score": 9,
-          "opponent_score_share": 0.6923076923076923,
-          "opponent_win_prob": 0.10969591506346099,
-          "is_winner": false,
-          "opponent_slug": "johanna-radstrom",
-          "opponent_hist_score_share": 0.33566966962295686
+          "score": 9,
+          "score_share": 0.6,
+          "win_prob": 0.23442249645466284,
+          "opponent_name": "Johan Johnson",
+          "opponent_score": 6,
+          "opponent_score_share": 0.4,
+          "opponent_win_prob": 0.7655775035453372,
+          "is_winner": true,
+          "opponent_slug": "johan-johnson",
+          "opponent_hist_score_share": 0.4769825109530992
         },
         {
           "game_id": 581,
@@ -167,25 +171,25 @@
           "opponent_win_prob": 0.3498249478453478,
           "is_winner": false,
           "opponent_slug": "jacob-stenman",
-          "opponent_hist_score_share": 0.44469299083269664
+          "opponent_hist_score_share": 0.44469299083269676
         },
         {
-          "game_id": 553,
+          "game_id": 609,
           "year": 2022,
           "stage": "gruppspel",
           "stage_level": 0,
-          "winner": "p1",
+          "winner": "p2",
           "name": "Gustaf Berencreutz",
-          "score": 9,
-          "score_share": 0.6,
-          "win_prob": 0.23442249645466284,
-          "opponent_name": "Johan Johnson",
-          "opponent_score": 6,
-          "opponent_score_share": 0.4,
-          "opponent_win_prob": 0.7655775035453372,
-          "is_winner": true,
-          "opponent_slug": "johan-johnson",
-          "opponent_hist_score_share": 0.4716205363264187
+          "score": 4,
+          "score_share": 0.3076923076923077,
+          "win_prob": 0.890304084936539,
+          "opponent_name": "Johanna R\u00e5dstr\u00f6m",
+          "opponent_score": 9,
+          "opponent_score_share": 0.6923076923076923,
+          "opponent_win_prob": 0.10969591506346099,
+          "is_winner": false,
+          "opponent_slug": "johanna-radstrom",
+          "opponent_hist_score_share": 0.33566966962295686
         }
       ],
       "n_games": 3,

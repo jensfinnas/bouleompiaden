@@ -1,21 +1,22 @@
 {
-  "n_games": 12,
-  "score_share": 0.46432872682872683,
-  "n_wins": 7,
+  "n_games": 16,
+  "score_share": 0.4777480332167832,
+  "n_wins": 10,
   "years": [
     2016,
     2018,
     2019,
-    2021
+    2021,
+    2023
   ],
-  "win_rate": 0.5833333333333334,
-  "opponent_score_share": 0.5045584558655898,
-  "skill": 163.5150413770966,
-  "skill_sigma": 34.36769362148477,
+  "win_rate": 0.625,
+  "opponent_score_share": 0.5101021649986779,
+  "skill": 181.4927323340512,
+  "skill_sigma": 28.676774709786383,
   "name": "Jens Finn\u00e4s",
   "slug": "jens-finnas",
-  "skill_rank": 25.0,
-  "skill_rank_pct": 25.0,
+  "skill_rank": 15.0,
+  "skill_rank_pct": 15.0,
   "skill_history": [
     [
       2011,
@@ -52,6 +53,10 @@
     [
       2022,
       null
+    ],
+    [
+      2023,
+      181.0
     ]
   ],
   "tournaments": [
@@ -82,7 +87,7 @@
           "opponent_win_prob": 0.5300335720391011,
           "is_winner": true,
           "opponent_slug": "john-qvale",
-          "opponent_hist_score_share": 0.36102849171030993
+          "opponent_hist_score_share": 0.3610284917103099
         },
         {
           "game_id": 54,
@@ -118,24 +123,6 @@
       },
       "games": [
         {
-          "game_id": 181,
-          "year": 2018,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p2",
-          "name": "Jens Finn\u00e4s",
-          "score": 7,
-          "score_share": 0.7,
-          "win_prob": 0.39423313548712424,
-          "opponent_name": "Kusha Bahrami",
-          "opponent_score": 3,
-          "opponent_score_share": 0.3,
-          "opponent_win_prob": 0.6057668645128758,
-          "is_winner": true,
-          "opponent_slug": "kusha-bahrami",
-          "opponent_hist_score_share": 0.466840675664205
-        },
-        {
           "game_id": 161,
           "year": 2018,
           "stage": "gruppspel",
@@ -152,6 +139,24 @@
           "is_winner": true,
           "opponent_slug": "joakim-lundin",
           "opponent_hist_score_share": 0.39805194805194805
+        },
+        {
+          "game_id": 181,
+          "year": 2018,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Jens Finn\u00e4s",
+          "score": 7,
+          "score_share": 0.7,
+          "win_prob": 0.39423313548712424,
+          "opponent_name": "Kusha Bahrami",
+          "opponent_score": 3,
+          "opponent_score_share": 0.3,
+          "opponent_win_prob": 0.6057668645128758,
+          "is_winner": true,
+          "opponent_slug": "kusha-bahrami",
+          "opponent_hist_score_share": 0.4663222959638401
         },
         {
           "game_id": 229,
@@ -187,22 +192,22 @@
       },
       "games": [
         {
-          "game_id": 294,
+          "game_id": 277,
           "year": 2019,
           "stage": "gruppspel",
           "stage_level": 0,
           "winner": "p1",
           "name": "Jens Finn\u00e4s",
-          "score": 5,
-          "score_share": 0.35714285714285715,
-          "win_prob": 0.1463842116170786,
-          "opponent_name": "Gabriel Nordenankar",
-          "opponent_score": 9,
-          "opponent_score_share": 0.6428571428571429,
-          "opponent_win_prob": 0.8536157883829214,
-          "is_winner": false,
-          "opponent_slug": "gabriel-nordenankar",
-          "opponent_hist_score_share": 0.6515913176295751
+          "score": 9,
+          "score_share": 0.6923076923076923,
+          "win_prob": 0.6857763477204726,
+          "opponent_name": "Edith S\u00f6derstr\u00f6m",
+          "opponent_score": 4,
+          "opponent_score_share": 0.3076923076923077,
+          "opponent_win_prob": 0.3142236522795274,
+          "is_winner": true,
+          "opponent_slug": "edith-soderstrom",
+          "opponent_hist_score_share": 0.26965811965811964
         },
         {
           "game_id": 326,
@@ -223,22 +228,22 @@
           "opponent_hist_score_share": 0.5230629419600008
         },
         {
-          "game_id": 277,
+          "game_id": 294,
           "year": 2019,
           "stage": "gruppspel",
           "stage_level": 0,
           "winner": "p1",
           "name": "Jens Finn\u00e4s",
-          "score": 9,
-          "score_share": 0.6923076923076923,
-          "win_prob": 0.6857763477204726,
-          "opponent_name": "Edith S\u00f6derstr\u00f6m",
-          "opponent_score": 4,
-          "opponent_score_share": 0.3076923076923077,
-          "opponent_win_prob": 0.3142236522795274,
-          "is_winner": true,
-          "opponent_slug": "edith-soderstrom",
-          "opponent_hist_score_share": 0.2696581196581197
+          "score": 5,
+          "score_share": 0.35714285714285715,
+          "win_prob": 0.1463842116170786,
+          "opponent_name": "Gabriel Nordenankar",
+          "opponent_score": 9,
+          "opponent_score_share": 0.6428571428571429,
+          "opponent_win_prob": 0.8536157883829214,
+          "is_winner": false,
+          "opponent_slug": "gabriel-nordenankar",
+          "opponent_hist_score_share": 0.6508376694877611
         },
         {
           "game_id": 338,
@@ -256,7 +261,7 @@
           "opponent_win_prob": 0.7355772749818881,
           "is_winner": false,
           "opponent_slug": "erik-nordenankar",
-          "opponent_hist_score_share": 0.6815916514882377
+          "opponent_hist_score_share": 0.679882946820159
         }
       ],
       "n_games": 4,
@@ -273,24 +278,6 @@
         "stage": "sextondelsfinal"
       },
       "games": [
-        {
-          "game_id": 480,
-          "year": 2021,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p2",
-          "name": "Jens Finn\u00e4s",
-          "score": 9,
-          "score_share": 0.5625,
-          "win_prob": 0.38348320562232807,
-          "opponent_name": "Pelle Dovborg",
-          "opponent_score": 7,
-          "opponent_score_share": 0.4375,
-          "opponent_win_prob": 0.6165167943776719,
-          "is_winner": true,
-          "opponent_slug": "pelle-dovborg",
-          "opponent_hist_score_share": 0.5626206537570174
-        },
         {
           "game_id": 452,
           "year": 2021,
@@ -310,6 +297,24 @@
           "opponent_hist_score_share": 0.4209558823529412
         },
         {
+          "game_id": 480,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Jens Finn\u00e4s",
+          "score": 9,
+          "score_share": 0.5625,
+          "win_prob": 0.38348320562232807,
+          "opponent_name": "Pelle Dovborg",
+          "opponent_score": 7,
+          "opponent_score_share": 0.4375,
+          "opponent_win_prob": 0.6165167943776719,
+          "is_winner": true,
+          "opponent_slug": "pelle-dovborg",
+          "opponent_hist_score_share": 0.5687558814642149
+        },
+        {
           "game_id": 536,
           "year": 2021,
           "stage": "sextondelsfinal",
@@ -325,17 +330,102 @@
           "opponent_win_prob": 0.5105272684206039,
           "is_winner": false,
           "opponent_slug": "pelle-dovborg",
-          "opponent_hist_score_share": 0.5626206537570174
+          "opponent_hist_score_share": 0.5687558814642149
         }
       ],
       "n_games": 3,
       "n_wins": 2
+    },
+    {
+      "year": 2023,
+      "last_game": {
+        "opponent_name": "Benjamin Ger. Hed.",
+        "opponent_slug": "benjamin-ger-hed",
+        "score": 4,
+        "opponent_score": 11,
+        "is_winner": false,
+        "stage": "\u00e5ttondelsfinal"
+      },
+      "games": [
+        {
+          "game_id": 661,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Jens Finn\u00e4s",
+          "score": 9,
+          "score_share": 0.6,
+          "win_prob": 0.44766990436856047,
+          "opponent_name": "Edvin Lindsten",
+          "opponent_score": 6,
+          "opponent_score_share": 0.4,
+          "opponent_win_prob": 0.5523300956314395,
+          "is_winner": true,
+          "opponent_slug": "edvin-lindsten",
+          "opponent_hist_score_share": 0.5674037929616024
+        },
+        {
+          "game_id": 690,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Jens Finn\u00e4s",
+          "score": 9,
+          "score_share": 0.6428571428571429,
+          "win_prob": 0.71703804696354,
+          "opponent_name": "Tim Samuelsson",
+          "opponent_score": 5,
+          "opponent_score_share": 0.35714285714285715,
+          "opponent_win_prob": 0.28296195303646005,
+          "is_winner": true,
+          "opponent_slug": "tim-samuelsson",
+          "opponent_hist_score_share": 0.5020184943261866
+        },
+        {
+          "game_id": 745,
+          "year": 2023,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p1",
+          "name": "Jens Finn\u00e4s",
+          "score": 9,
+          "score_share": 0.5625,
+          "win_prob": 0.5753605531796864,
+          "opponent_name": "Caroline Verst\u00e4ndig",
+          "opponent_score": 7,
+          "opponent_score_share": 0.4375,
+          "opponent_win_prob": 0.4246394468203136,
+          "is_winner": true,
+          "opponent_slug": "caroline-verstandig",
+          "opponent_hist_score_share": 0.41393421004765546
+        },
+        {
+          "game_id": 756,
+          "year": 2023,
+          "stage": "\u00e5ttondelsfinal",
+          "stage_level": 2,
+          "winner": "p1",
+          "name": "Jens Finn\u00e4s",
+          "score": 4,
+          "score_share": 0.26666666666666666,
+          "win_prob": 0.44396533557319007,
+          "opponent_name": "Benjamin Ger. Hed.",
+          "opponent_score": 11,
+          "opponent_score_share": 0.7333333333333333,
+          "opponent_win_prob": 0.5560346644268099,
+          "is_winner": false,
+          "opponent_slug": "benjamin-ger-hed",
+          "opponent_hist_score_share": 0.614286949352186
+        }
+      ],
+      "n_games": 4,
+      "n_wins": 3
     }
   ],
-  "best_stage": "sextondelsfinal",
+  "best_stage": "\u00e5ttondelsfinal",
   "best_stage_years": [
-    2019,
-    2018,
-    2021
+    2023
   ]
 }

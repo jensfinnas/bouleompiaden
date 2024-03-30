@@ -6,13 +6,13 @@
     2020
   ],
   "win_rate": 0.6666666666666666,
-  "opponent_score_share": 0.5281257741727653,
+  "opponent_score_share": 0.5260645405045697,
   "skill": 174.51206592201615,
   "skill_sigma": 55.1428832796544,
   "name": "Simon B\u00f6hm",
   "slug": "simon-bohm",
-  "skill_rank": 16.0,
-  "skill_rank_pct": 16.0,
+  "skill_rank": 18.0,
+  "skill_rank_pct": 18.0,
   "skill_history": [
     [
       2011,
@@ -49,6 +49,10 @@
     [
       2022,
       null
+    ],
+    [
+      2023,
+      null
     ]
   ],
   "tournaments": [
@@ -79,7 +83,7 @@
           "opponent_win_prob": 0.8112455291218227,
           "is_winner": true,
           "opponent_slug": "theodore-ripman",
-          "opponent_hist_score_share": 0.5684301946084984
+          "opponent_hist_score_share": 0.5597932488790567
         },
         {
           "game_id": 385,
@@ -97,7 +101,7 @@
           "opponent_win_prob": 0.1104791242566078,
           "is_winner": true,
           "opponent_slug": "jakob-gustafsson",
-          "opponent_hist_score_share": 0.4453114287673111
+          "opponent_hist_score_share": 0.45099657967305024
         },
         {
           "game_id": 423,
@@ -115,7 +119,7 @@
           "opponent_win_prob": 0.31126839385074545,
           "is_winner": false,
           "opponent_slug": "edvin-lindsten",
-          "opponent_hist_score_share": 0.5706356991424866
+          "opponent_hist_score_share": 0.5674037929616024
         }
       ],
       "n_games": 3,

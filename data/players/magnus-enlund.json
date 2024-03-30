@@ -1,20 +1,21 @@
 {
-  "n_games": 9,
-  "score_share": 0.5090642472995414,
-  "n_wins": 4,
+  "n_games": 13,
+  "score_share": 0.5507322617051125,
+  "n_wins": 7,
   "years": [
     2019,
     2021,
-    2022
+    2022,
+    2023
   ],
-  "win_rate": 0.4444444444444444,
-  "opponent_score_share": 0.4824536682498592,
-  "skill": 108.98892907095808,
-  "skill_sigma": 35.76169955629784,
+  "win_rate": 0.5384615384615384,
+  "opponent_score_share": 0.49803338158244703,
+  "skill": 148.81345688488346,
+  "skill_sigma": 28.350875163966602,
   "name": "Magnus Enlund",
   "slug": "magnus-enlund",
-  "skill_rank": 70.0,
-  "skill_rank_pct": 70.0,
+  "skill_rank": 39.0,
+  "skill_rank_pct": 39.0,
   "skill_history": [
     [
       2011,
@@ -51,6 +52,10 @@
     [
       2022,
       109.0
+    ],
+    [
+      2023,
+      149.0
     ]
   ],
   "tournaments": [
@@ -65,24 +70,6 @@
         "stage": "sextondelsfinal"
       },
       "games": [
-        {
-          "game_id": 282,
-          "year": 2019,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p2",
-          "name": "Magnus Enlund",
-          "score": 8,
-          "score_share": 0.7272727272727273,
-          "win_prob": 0.4041335358145538,
-          "opponent_name": "Jerker Karlsson",
-          "opponent_score": 3,
-          "opponent_score_share": 0.2727272727272727,
-          "opponent_win_prob": 0.5958664641854462,
-          "is_winner": true,
-          "opponent_slug": "jerker-karlsson",
-          "opponent_hist_score_share": 0.5304547767047768
-        },
         {
           "game_id": 253,
           "year": 2019,
@@ -99,7 +86,25 @@
           "opponent_win_prob": 0.3507244808427802,
           "is_winner": true,
           "opponent_slug": "robeson",
-          "opponent_hist_score_share": 0.5815109019537957
+          "opponent_hist_score_share": 0.5697854480774457
+        },
+        {
+          "game_id": 282,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Magnus Enlund",
+          "score": 8,
+          "score_share": 0.7272727272727273,
+          "win_prob": 0.4041335358145538,
+          "opponent_name": "Jerker Karlsson",
+          "opponent_score": 3,
+          "opponent_score_share": 0.2727272727272727,
+          "opponent_win_prob": 0.5958664641854462,
+          "is_winner": true,
+          "opponent_slug": "jerker-karlsson",
+          "opponent_hist_score_share": 0.5216255545801
         },
         {
           "game_id": 359,
@@ -117,7 +122,7 @@
           "opponent_win_prob": 0.19624854057213892,
           "is_winner": false,
           "opponent_slug": "kusha-bahrami",
-          "opponent_hist_score_share": 0.466840675664205
+          "opponent_hist_score_share": 0.4663222959638401
         }
       ],
       "n_games": 3,
@@ -126,31 +131,31 @@
     {
       "year": 2021,
       "last_game": {
-        "opponent_name": "Erik Numan",
-        "opponent_slug": "erik-numan",
-        "score": 6,
+        "opponent_name": "Johan Kjell",
+        "opponent_slug": "johan-kjell",
+        "score": 3,
         "opponent_score": 9,
         "is_winner": false,
         "stage": "gruppspel"
       },
       "games": [
         {
-          "game_id": 489,
+          "game_id": 517,
           "year": 2021,
           "stage": "gruppspel",
           "stage_level": 0,
-          "winner": "p1",
+          "winner": "p2",
           "name": "Magnus Enlund",
-          "score": 3,
-          "score_share": 0.25,
-          "win_prob": 0.3330699883856547,
-          "opponent_name": "Johan Kjell",
+          "score": 6,
+          "score_share": 0.4,
+          "win_prob": 0.7287116025233846,
+          "opponent_name": "Erik Numan",
           "opponent_score": 9,
-          "opponent_score_share": 0.75,
-          "opponent_win_prob": 0.6669300116143453,
+          "opponent_score_share": 0.6,
+          "opponent_win_prob": 0.2712883974766154,
           "is_winner": false,
-          "opponent_slug": "johan-kjell",
-          "opponent_hist_score_share": 0.580606891524278
+          "opponent_slug": "erik-numan",
+          "opponent_hist_score_share": 0.49786515972274487
         },
         {
           "game_id": 469,
@@ -168,25 +173,25 @@
           "opponent_win_prob": 0.4386300058881789,
           "is_winner": true,
           "opponent_slug": "ville-nordenankar",
-          "opponent_hist_score_share": 0.39991770382395375
+          "opponent_hist_score_share": 0.4288546176046176
         },
         {
-          "game_id": 517,
+          "game_id": 489,
           "year": 2021,
           "stage": "gruppspel",
           "stage_level": 0,
-          "winner": "p2",
+          "winner": "p1",
           "name": "Magnus Enlund",
-          "score": 6,
-          "score_share": 0.4,
-          "win_prob": 0.7287116025233846,
-          "opponent_name": "Erik Numan",
+          "score": 3,
+          "score_share": 0.25,
+          "win_prob": 0.3330699883856547,
+          "opponent_name": "Johan Kjell",
           "opponent_score": 9,
-          "opponent_score_share": 0.6,
-          "opponent_win_prob": 0.2712883974766154,
+          "opponent_score_share": 0.75,
+          "opponent_win_prob": 0.6669300116143453,
           "is_winner": false,
-          "opponent_slug": "erik-numan",
-          "opponent_hist_score_share": 0.509236211558193
+          "opponent_slug": "johan-kjell",
+          "opponent_hist_score_share": 0.5870032732503708
         }
       ],
       "n_games": 3,
@@ -195,9 +200,9 @@
     {
       "year": 2022,
       "last_game": {
-        "opponent_name": "Hilda Dahlberg",
-        "opponent_slug": "hilda-dahlberg",
-        "score": 0,
+        "opponent_name": "Filippa Berencreutz",
+        "opponent_slug": "filippa-berencreutz",
+        "score": 4,
         "opponent_score": 9,
         "is_winner": false,
         "stage": "gruppspel"
@@ -219,25 +224,7 @@
           "opponent_win_prob": 0.37205413643640695,
           "is_winner": true,
           "opponent_slug": "monica-harder",
-          "opponent_hist_score_share": 0.3054112554112554
-        },
-        {
-          "game_id": 620,
-          "year": 2022,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p1",
-          "name": "Magnus Enlund",
-          "score": 4,
-          "score_share": 0.3076923076923077,
-          "win_prob": 0.3665856338476786,
-          "opponent_name": "Filippa Berencreutz",
-          "opponent_score": 9,
-          "opponent_score_share": 0.6923076923076923,
-          "opponent_win_prob": 0.6334143661523214,
-          "is_winner": false,
-          "opponent_slug": "filippa-berencreutz",
-          "opponent_hist_score_share": 0.4869061085972851
+          "opponent_hist_score_share": 0.29126014041980425
         },
         {
           "game_id": 575,
@@ -256,14 +243,119 @@
           "is_winner": false,
           "opponent_slug": "hilda-dahlberg",
           "opponent_hist_score_share": 0.481198489010989
+        },
+        {
+          "game_id": 620,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Magnus Enlund",
+          "score": 4,
+          "score_share": 0.3076923076923077,
+          "win_prob": 0.3665856338476786,
+          "opponent_name": "Filippa Berencreutz",
+          "opponent_score": 9,
+          "opponent_score_share": 0.6923076923076923,
+          "opponent_win_prob": 0.6334143661523214,
+          "is_winner": false,
+          "opponent_slug": "filippa-berencreutz",
+          "opponent_hist_score_share": 0.5345458055016878
         }
       ],
       "n_games": 3,
       "n_wins": 1
+    },
+    {
+      "year": 2023,
+      "last_game": {
+        "opponent_name": "Jonas Nygren",
+        "opponent_slug": "jonas-nygren",
+        "score": 6,
+        "opponent_score": 11,
+        "is_winner": false,
+        "stage": "\u00e5ttondelsfinal"
+      },
+      "games": [
+        {
+          "game_id": 674,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Magnus Enlund",
+          "score": 9,
+          "score_share": 0.6,
+          "win_prob": 0.2639236787880498,
+          "opponent_name": "Jerker Karlsson",
+          "opponent_score": 6,
+          "opponent_score_share": 0.4,
+          "opponent_win_prob": 0.7360763212119502,
+          "is_winner": true,
+          "opponent_slug": "jerker-karlsson",
+          "opponent_hist_score_share": 0.5216255545801
+        },
+        {
+          "game_id": 697,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Magnus Enlund",
+          "score": 10,
+          "score_share": 0.625,
+          "win_prob": 0.17176752644068932,
+          "opponent_name": "Theodore Ripman",
+          "opponent_score": 6,
+          "opponent_score_share": 0.375,
+          "opponent_win_prob": 0.8282324735593107,
+          "is_winner": true,
+          "opponent_slug": "theodore-ripman",
+          "opponent_hist_score_share": 0.5597932488790567
+        },
+        {
+          "game_id": 742,
+          "year": 2023,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p1",
+          "name": "Magnus Enlund",
+          "score": 10,
+          "score_share": 1.0,
+          "win_prob": 0.5242072955852211,
+          "opponent_name": "Mina Kheirkhah",
+          "opponent_score": 0,
+          "opponent_score_share": 0.0,
+          "opponent_win_prob": 0.47579270441477894,
+          "is_winner": true,
+          "opponent_slug": "mina-kheirkhah",
+          "opponent_hist_score_share": 0.44838664603370487
+        },
+        {
+          "game_id": 755,
+          "year": 2023,
+          "stage": "\u00e5ttondelsfinal",
+          "stage_level": 2,
+          "winner": "p2",
+          "name": "Magnus Enlund",
+          "score": 6,
+          "score_share": 0.35294117647058826,
+          "win_prob": 0.5283873045235998,
+          "opponent_name": "Jonas Nygren",
+          "opponent_score": 11,
+          "opponent_score_share": 0.6470588235294118,
+          "opponent_win_prob": 0.47161269547640017,
+          "is_winner": false,
+          "opponent_slug": "jonas-nygren",
+          "opponent_hist_score_share": 0.5661677269473498
+        }
+      ],
+      "n_games": 4,
+      "n_wins": 3
     }
   ],
-  "best_stage": "sextondelsfinal",
+  "best_stage": "\u00e5ttondelsfinal",
   "best_stage_years": [
-    2019
+    2023
   ]
 }

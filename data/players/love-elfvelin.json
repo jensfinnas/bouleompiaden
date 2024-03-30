@@ -7,13 +7,13 @@
     2018
   ],
   "win_rate": 0.42857142857142855,
-  "opponent_score_share": 0.4784941378312146,
+  "opponent_score_share": 0.48136666521064125,
   "skill": 83.23915158295911,
   "skill_sigma": 44.060859547860005,
   "name": "Love Elfvelin",
   "slug": "love-elfvelin",
-  "skill_rank": 87.0,
-  "skill_rank_pct": 87.0,
+  "skill_rank": 93.0,
+  "skill_rank_pct": 93.0,
   "skill_history": [
     [
       2011,
@@ -50,20 +50,42 @@
     [
       2022,
       null
+    ],
+    [
+      2023,
+      null
     ]
   ],
   "tournaments": [
     {
       "year": 2017,
       "last_game": {
-        "opponent_name": "Richard Ekman",
-        "opponent_slug": "richard-ekman",
-        "score": 2,
-        "opponent_score": 7,
+        "opponent_name": "Jerker Karlsson",
+        "opponent_slug": "jerker-karlsson",
+        "score": 6,
+        "opponent_score": 8,
         "is_winner": false,
         "stage": "gruppspel"
       },
       "games": [
+        {
+          "game_id": 97,
+          "year": 2017,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Love Elfvelin",
+          "score": 2,
+          "score_share": 0.2222222222222222,
+          "win_prob": 0.6134876116457141,
+          "opponent_name": "Richard Ekman",
+          "opponent_score": 7,
+          "opponent_score_share": 0.7777777777777778,
+          "opponent_win_prob": 0.3865123883542859,
+          "is_winner": false,
+          "opponent_slug": "richard-ekman",
+          "opponent_hist_score_share": 0.6032088282088282
+        },
         {
           "game_id": 117,
           "year": 2017,
@@ -98,25 +120,7 @@
           "opponent_win_prob": 0.7327361552593394,
           "is_winner": false,
           "opponent_slug": "jerker-karlsson",
-          "opponent_hist_score_share": 0.5304547767047768
-        },
-        {
-          "game_id": 97,
-          "year": 2017,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p2",
-          "name": "Love Elfvelin",
-          "score": 2,
-          "score_share": 0.2222222222222222,
-          "win_prob": 0.6134876116457141,
-          "opponent_name": "Richard Ekman",
-          "opponent_score": 7,
-          "opponent_score_share": 0.7777777777777778,
-          "opponent_win_prob": 0.3865123883542859,
-          "is_winner": false,
-          "opponent_slug": "richard-ekman",
-          "opponent_hist_score_share": 0.6032088282088284
+          "opponent_hist_score_share": 0.5216255545801
         }
       ],
       "n_games": 3,
@@ -167,7 +171,7 @@
           "opponent_win_prob": 0.7049138611388897,
           "is_winner": false,
           "opponent_slug": "richard-ekman",
-          "opponent_hist_score_share": 0.6032088282088284
+          "opponent_hist_score_share": 0.6032088282088282
         },
         {
           "game_id": 207,
@@ -185,7 +189,7 @@
           "opponent_win_prob": 0.6107193432920597,
           "is_winner": true,
           "opponent_slug": "fanny-kjellner",
-          "opponent_hist_score_share": 0.4707491582491583
+          "opponent_hist_score_share": 0.47074915824915825
         },
         {
           "game_id": 220,
@@ -203,7 +207,7 @@
           "opponent_win_prob": 0.8975294400294883,
           "is_winner": false,
           "opponent_slug": "ville-nordenankar",
-          "opponent_hist_score_share": 0.39991770382395375
+          "opponent_hist_score_share": 0.4288546176046176
         }
       ],
       "n_games": 4,

@@ -1,0 +1,115 @@
+{
+  "n_games": 2,
+  "score_share": 0.37815126050420167,
+  "n_wins": 0,
+  "years": [
+    2023
+  ],
+  "win_rate": 0.0,
+  "opponent_score_share": 0.46621703731997843,
+  "skill": 5.0749646306378615,
+  "skill_sigma": 66.1850237967146,
+  "name": "Stina Vass",
+  "slug": "stina-vass",
+  "skill_rank": 154.0,
+  "skill_rank_pct": 154.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      null
+    ],
+    [
+      2016,
+      null
+    ],
+    [
+      2017,
+      null
+    ],
+    [
+      2018,
+      null
+    ],
+    [
+      2019,
+      null
+    ],
+    [
+      2020,
+      null
+    ],
+    [
+      2021,
+      null
+    ],
+    [
+      2022,
+      null
+    ],
+    [
+      2023,
+      5.0
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2023,
+      "last_game": {
+        "opponent_name": "Sofia R\u00e5dstr\u00f6m",
+        "opponent_slug": "sofia-radstrom",
+        "score": 8,
+        "opponent_score": 9,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "games": [
+        {
+          "game_id": 677,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Stina Vass",
+          "score": 4,
+          "score_share": 0.2857142857142857,
+          "win_prob": 0.33210682105821465,
+          "opponent_name": "Jon Jeppson",
+          "opponent_score": 10,
+          "opponent_score_share": 0.7142857142857143,
+          "opponent_win_prob": 0.6678931789417853,
+          "is_winner": false,
+          "opponent_slug": "jon-jeppson",
+          "opponent_hist_score_share": 0.5966064708711767
+        },
+        {
+          "game_id": 714,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Stina Vass",
+          "score": 8,
+          "score_share": 0.47058823529411764,
+          "win_prob": 0.5483395283780321,
+          "opponent_name": "Sofia R\u00e5dstr\u00f6m",
+          "opponent_score": 9,
+          "opponent_score_share": 0.5294117647058824,
+          "opponent_win_prob": 0.4516604716219679,
+          "is_winner": false,
+          "opponent_slug": "sofia-radstrom",
+          "opponent_hist_score_share": 0.33582760376878024
+        }
+      ],
+      "n_games": 2,
+      "n_wins": 0
+    }
+  ],
+  "best_stage": "gruppspel",
+  "best_stage_years": [
+    2023
+  ]
+}

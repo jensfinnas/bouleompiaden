@@ -1,21 +1,22 @@
 {
-  "n_games": 24,
-  "score_share": 0.5361535421278069,
-  "n_wins": 15,
+  "n_games": 27,
+  "score_share": 0.5241481013539837,
+  "n_wins": 17,
   "years": [
     2018,
     2019,
     2020,
-    2021
+    2021,
+    2023
   ],
-  "win_rate": 0.625,
-  "opponent_score_share": 0.49149900333382823,
-  "skill": 169.32116791498515,
-  "skill_sigma": 23.911880675254046,
+  "win_rate": 0.6296296296296297,
+  "opponent_score_share": 0.4857598373205185,
+  "skill": 167.896297052516,
+  "skill_sigma": 22.51976009531777,
   "name": "Jens Hultkrans",
   "slug": "jens-hultkrans",
-  "skill_rank": 20.0,
-  "skill_rank_pct": 20.0,
+  "skill_rank": 22.0,
+  "skill_rank_pct": 22.0,
   "skill_history": [
     [
       2011,
@@ -52,6 +53,10 @@
     [
       2022,
       null
+    ],
+    [
+      2023,
+      168.0
     ]
   ],
   "tournaments": [
@@ -66,6 +71,24 @@
         "stage": "final"
       },
       "games": [
+        {
+          "game_id": 153,
+          "year": 2018,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Jens Hultkrans",
+          "score": 4,
+          "score_share": 0.3333333333333333,
+          "win_prob": 0.5000000150000002,
+          "opponent_name": "Edith S\u00f6derstr\u00f6m",
+          "opponent_score": 8,
+          "opponent_score_share": 0.6666666666666666,
+          "opponent_win_prob": 0.49999998499999976,
+          "is_winner": false,
+          "opponent_slug": "edith-soderstrom",
+          "opponent_hist_score_share": 0.26965811965811964
+        },
         {
           "game_id": 191,
           "year": 2018,
@@ -82,7 +105,7 @@
           "opponent_win_prob": 0.3931073761880729,
           "is_winner": true,
           "opponent_slug": "sofia-radstrom",
-          "opponent_hist_score_share": 0.343188184364655
+          "opponent_hist_score_share": 0.33582760376878024
         },
         {
           "game_id": 212,
@@ -100,25 +123,7 @@
           "opponent_win_prob": 0.6783397251782558,
           "is_winner": false,
           "opponent_slug": "cissi-hellman",
-          "opponent_hist_score_share": 0.48071302791411474
-        },
-        {
-          "game_id": 153,
-          "year": 2018,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p2",
-          "name": "Jens Hultkrans",
-          "score": 4,
-          "score_share": 0.3333333333333333,
-          "win_prob": 0.5000000150000002,
-          "opponent_name": "Edith S\u00f6derstr\u00f6m",
-          "opponent_score": 8,
-          "opponent_score_share": 0.6666666666666666,
-          "opponent_win_prob": 0.49999998499999976,
-          "is_winner": false,
-          "opponent_slug": "edith-soderstrom",
-          "opponent_hist_score_share": 0.2696581196581197
+          "opponent_hist_score_share": 0.48071302791411485
         },
         {
           "game_id": 223,
@@ -136,7 +141,7 @@
           "opponent_win_prob": 0.740634566419925,
           "is_winner": true,
           "opponent_slug": "richard-ekman",
-          "opponent_hist_score_share": 0.6032088282088284
+          "opponent_hist_score_share": 0.6032088282088282
         },
         {
           "game_id": 235,
@@ -172,7 +177,7 @@
           "opponent_win_prob": 0.9083546347472962,
           "is_winner": true,
           "opponent_slug": "gabriel-nordenankar",
-          "opponent_hist_score_share": 0.6515913176295751
+          "opponent_hist_score_share": 0.6508376694877611
         },
         {
           "game_id": 244,
@@ -190,7 +195,7 @@
           "opponent_win_prob": 0.46764288542911053,
           "is_winner": true,
           "opponent_slug": "robin-fogelberg",
-          "opponent_hist_score_share": 0.5883273927718372
+          "opponent_hist_score_share": 0.5605132591422913
         },
         {
           "game_id": 247,
@@ -208,7 +213,7 @@
           "opponent_win_prob": 0.4423694693231517,
           "is_winner": false,
           "opponent_slug": "johan-kjell",
-          "opponent_hist_score_share": 0.580606891524278
+          "opponent_hist_score_share": 0.5870032732503708
         }
       ],
       "n_games": 8,
@@ -225,6 +230,24 @@
         "stage": "kvartsfinal"
       },
       "games": [
+        {
+          "game_id": 272,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Jens Hultkrans",
+          "score": 5,
+          "score_share": 0.38461538461538464,
+          "win_prob": 0.747237489656833,
+          "opponent_name": "Christian Steen",
+          "opponent_score": 8,
+          "opponent_score_share": 0.6153846153846154,
+          "opponent_win_prob": 0.252762510343167,
+          "is_winner": false,
+          "opponent_slug": "christian-steen",
+          "opponent_hist_score_share": 0.5038461538461538
+        },
         {
           "game_id": 308,
           "year": 2019,
@@ -259,25 +282,7 @@
           "opponent_win_prob": 0.31127709082970445,
           "is_winner": true,
           "opponent_slug": "viktor-garde",
-          "opponent_hist_score_share": 0.4444444444444445
-        },
-        {
-          "game_id": 272,
-          "year": 2019,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p2",
-          "name": "Jens Hultkrans",
-          "score": 5,
-          "score_share": 0.38461538461538464,
-          "win_prob": 0.747237489656833,
-          "opponent_name": "Christian Steen",
-          "opponent_score": 8,
-          "opponent_score_share": 0.6153846153846154,
-          "opponent_win_prob": 0.252762510343167,
-          "is_winner": false,
-          "opponent_slug": "christian-steen",
-          "opponent_hist_score_share": 0.5038461538461538
+          "opponent_hist_score_share": 0.4444444444444444
         },
         {
           "game_id": 333,
@@ -295,7 +300,7 @@
           "opponent_win_prob": 0.07581822953391092,
           "is_winner": true,
           "opponent_slug": "sofia-radstrom",
-          "opponent_hist_score_share": 0.343188184364655
+          "opponent_hist_score_share": 0.33582760376878024
         },
         {
           "game_id": 346,
@@ -313,7 +318,7 @@
           "opponent_win_prob": 0.3505374601745399,
           "is_winner": true,
           "opponent_slug": "alexander-starfelt",
-          "opponent_hist_score_share": 0.5523920473153514
+          "opponent_hist_score_share": 0.5337973093298171
         },
         {
           "game_id": 352,
@@ -331,7 +336,7 @@
           "opponent_win_prob": 0.43783700225105016,
           "is_winner": false,
           "opponent_slug": "benjamin-ger-hed",
-          "opponent_hist_score_share": 0.5937790548374914
+          "opponent_hist_score_share": 0.614286949352186
         }
       ],
       "n_games": 6,
@@ -348,42 +353,6 @@
         "stage": "kvartsfinal"
       },
       "games": [
-        {
-          "game_id": 390,
-          "year": 2020,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p1",
-          "name": "Jens Hultkrans",
-          "score": 5,
-          "score_share": 0.3333333333333333,
-          "win_prob": 0.6552314304009105,
-          "opponent_name": "Lovisa Birgersson",
-          "opponent_score": 10,
-          "opponent_score_share": 0.6666666666666666,
-          "opponent_win_prob": 0.3447685695990895,
-          "is_winner": false,
-          "opponent_slug": "lovisa-birgersson",
-          "opponent_hist_score_share": 0.5760537256860787
-        },
-        {
-          "game_id": 374,
-          "year": 2020,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p2",
-          "name": "Jens Hultkrans",
-          "score": 9,
-          "score_share": 0.6923076923076923,
-          "win_prob": 0.7368598218331868,
-          "opponent_name": "Tim Samuelsson",
-          "opponent_score": 4,
-          "opponent_score_share": 0.3076923076923077,
-          "opponent_win_prob": 0.2631401781668132,
-          "is_winner": true,
-          "opponent_slug": "tim-samuelsson",
-          "opponent_hist_score_share": 0.5023865023865024
-        },
         {
           "game_id": 413,
           "year": 2020,
@@ -403,6 +372,42 @@
           "opponent_hist_score_share": 0.46428571428571425
         },
         {
+          "game_id": 374,
+          "year": 2020,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Jens Hultkrans",
+          "score": 9,
+          "score_share": 0.6923076923076923,
+          "win_prob": 0.7368598218331868,
+          "opponent_name": "Tim Samuelsson",
+          "opponent_score": 4,
+          "opponent_score_share": 0.3076923076923077,
+          "opponent_win_prob": 0.2631401781668132,
+          "is_winner": true,
+          "opponent_slug": "tim-samuelsson",
+          "opponent_hist_score_share": 0.5020184943261866
+        },
+        {
+          "game_id": 390,
+          "year": 2020,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Jens Hultkrans",
+          "score": 5,
+          "score_share": 0.3333333333333333,
+          "win_prob": 0.6552314304009105,
+          "opponent_name": "Lovisa Birgersson",
+          "opponent_score": 10,
+          "opponent_score_share": 0.6666666666666666,
+          "opponent_win_prob": 0.3447685695990895,
+          "is_winner": false,
+          "opponent_slug": "lovisa-birgersson",
+          "opponent_hist_score_share": 0.5781180669288086
+        },
+        {
           "game_id": 419,
           "year": 2020,
           "stage": "sextondelsfinal",
@@ -418,7 +423,7 @@
           "opponent_win_prob": 0.5298698532805042,
           "is_winner": true,
           "opponent_slug": "patrik-jargarden",
-          "opponent_hist_score_share": 0.599091404238463
+          "opponent_hist_score_share": 0.5770206146431636
         },
         {
           "game_id": 436,
@@ -436,7 +441,7 @@
           "opponent_win_prob": 0.4432535633224018,
           "is_winner": true,
           "opponent_slug": "tim-samuelsson",
-          "opponent_hist_score_share": 0.5023865023865024
+          "opponent_hist_score_share": 0.5020184943261866
         },
         {
           "game_id": 443,
@@ -454,7 +459,7 @@
           "opponent_win_prob": 0.6034928624079564,
           "is_winner": false,
           "opponent_slug": "robeson",
-          "opponent_hist_score_share": 0.5815109019537957
+          "opponent_hist_score_share": 0.5697854480774457
         }
       ],
       "n_games": 6,
@@ -471,6 +476,24 @@
         "stage": "\u00e5ttondelsfinal"
       },
       "games": [
+        {
+          "game_id": 455,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Jens Hultkrans",
+          "score": 10,
+          "score_share": 0.6666666666666666,
+          "win_prob": 0.9858514406982334,
+          "opponent_name": "John Qvale",
+          "opponent_score": 5,
+          "opponent_score_share": 0.3333333333333333,
+          "opponent_win_prob": 0.014148559301766617,
+          "is_winner": true,
+          "opponent_slug": "john-qvale",
+          "opponent_hist_score_share": 0.3610284917103099
+        },
         {
           "game_id": 482,
           "year": 2021,
@@ -490,24 +513,6 @@
           "opponent_hist_score_share": 0.2980441862059509
         },
         {
-          "game_id": 455,
-          "year": 2021,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p1",
-          "name": "Jens Hultkrans",
-          "score": 10,
-          "score_share": 0.6666666666666666,
-          "win_prob": 0.9858514406982334,
-          "opponent_name": "John Qvale",
-          "opponent_score": 5,
-          "opponent_score_share": 0.3333333333333333,
-          "opponent_win_prob": 0.014148559301766617,
-          "is_winner": true,
-          "opponent_slug": "john-qvale",
-          "opponent_hist_score_share": 0.36102849171030993
-        },
-        {
           "game_id": 530,
           "year": 2021,
           "stage": "sextondelsfinal",
@@ -523,7 +528,7 @@
           "opponent_win_prob": 0.2141167107108064,
           "is_winner": true,
           "opponent_slug": "julius-jorborg",
-          "opponent_hist_score_share": 0.44598794063079783
+          "opponent_hist_score_share": 0.4459879406307978
         },
         {
           "game_id": 541,
@@ -541,11 +546,80 @@
           "opponent_win_prob": 0.7672650946962495,
           "is_winner": false,
           "opponent_slug": "gabriel-nordenankar",
-          "opponent_hist_score_share": 0.6515913176295751
+          "opponent_hist_score_share": 0.6508376694877611
         }
       ],
       "n_games": 4,
       "n_wins": 3
+    },
+    {
+      "year": 2023,
+      "last_game": {
+        "opponent_name": "Jon Jeppson",
+        "opponent_slug": "jon-jeppson",
+        "score": 2,
+        "opponent_score": 10,
+        "is_winner": false,
+        "stage": "sextondelsfinal"
+      },
+      "games": [
+        {
+          "game_id": 665,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Jens Hultkrans",
+          "score": 10,
+          "score_share": 0.5882352941176471,
+          "win_prob": 0.8919786968565911,
+          "opponent_name": "Monica Harder",
+          "opponent_score": 7,
+          "opponent_score_share": 0.4117647058823529,
+          "opponent_win_prob": 0.10802130314340885,
+          "is_winner": true,
+          "opponent_slug": "monica-harder",
+          "opponent_hist_score_share": 0.29126014041980425
+        },
+        {
+          "game_id": 692,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Jens Hultkrans",
+          "score": 9,
+          "score_share": 0.5294117647058824,
+          "win_prob": 0.7493980202088822,
+          "opponent_name": "Johan Ekman",
+          "opponent_score": 8,
+          "opponent_score_share": 0.47058823529411764,
+          "opponent_win_prob": 0.25060197979111776,
+          "is_winner": true,
+          "opponent_slug": "johan-ekman",
+          "opponent_hist_score_share": 0.49987388755035816
+        },
+        {
+          "game_id": 750,
+          "year": 2023,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p2",
+          "name": "Jens Hultkrans",
+          "score": 2,
+          "score_share": 0.16666666666666666,
+          "win_prob": 0.5421721649737528,
+          "opponent_name": "Jon Jeppson",
+          "opponent_score": 10,
+          "opponent_score_share": 0.8333333333333334,
+          "opponent_win_prob": 0.45782783502624724,
+          "is_winner": false,
+          "opponent_slug": "jon-jeppson",
+          "opponent_hist_score_share": 0.5966064708711767
+        }
+      ],
+      "n_games": 3,
+      "n_wins": 2
     }
   ],
   "best_stage": "final",

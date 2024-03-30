@@ -6,13 +6,13 @@
     2012
   ],
   "win_rate": 0.5,
-  "opponent_score_share": 0.430101257674787,
+  "opponent_score_share": 0.4190658628771373,
   "skill": 100.46829528188017,
   "skill_sigma": 75.58258811250447,
   "name": "Joel Danell",
   "slug": "joel-danell",
-  "skill_rank": 80.0,
-  "skill_rank_pct": 80.0,
+  "skill_rank": 86.0,
+  "skill_rank_pct": 86.0,
   "skill_history": [
     [
       2011,
@@ -49,6 +49,10 @@
     [
       2022,
       null
+    ],
+    [
+      2023,
+      null
     ]
   ],
   "tournaments": [
@@ -79,7 +83,7 @@
           "opponent_win_prob": 0.49999998499999976,
           "is_winner": false,
           "opponent_slug": "patrik-jargarden",
-          "opponent_hist_score_share": 0.599091404238463
+          "opponent_hist_score_share": 0.5770206146431636
         },
         {
           "game_id": 28,

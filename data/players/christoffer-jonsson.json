@@ -6,13 +6,13 @@
     2022
   ],
   "win_rate": 0.0,
-  "opponent_score_share": 0.45111480431333373,
+  "opponent_score_share": 0.4521106834342129,
   "skill": 9.965247202026777,
   "skill_sigma": 70.00604346234209,
   "name": "Christoffer Jonsson",
   "slug": "christoffer-jonsson",
-  "skill_rank": 136.0,
-  "skill_rank_pct": 136.0,
+  "skill_rank": 148.0,
+  "skill_rank_pct": 148.0,
   "skill_history": [
     [
       2011,
@@ -49,6 +49,10 @@
     [
       2022,
       10.0
+    ],
+    [
+      2023,
+      null
     ]
   ],
   "tournaments": [
@@ -97,7 +101,7 @@
           "opponent_win_prob": 0.5337978501087097,
           "is_winner": false,
           "opponent_slug": "emma-frennas",
-          "opponent_hist_score_share": 0.3791666666666667
+          "opponent_hist_score_share": 0.38115842490842494
         }
       ],
       "n_games": 2,

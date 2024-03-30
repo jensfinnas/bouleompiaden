@@ -1,18 +1,18 @@
 {
   "n_games": 4,
-  "score_share": 0.390307486631016,
+  "score_share": 0.39030748663101605,
   "n_wins": 2,
   "years": [
     2020
   ],
   "win_rate": 0.5,
-  "opponent_score_share": 0.5692202716873354,
+  "opponent_score_share": 0.5750730756975873,
   "skill": 150.3793402184042,
   "skill_sigma": 49.07582564549711,
   "name": "Lars T\u00f6rnkvist",
   "slug": "lars-tornkvist",
-  "skill_rank": 35.0,
-  "skill_rank_pct": 35.0,
+  "skill_rank": 37.0,
+  "skill_rank_pct": 37.0,
   "skill_history": [
     [
       2011,
@@ -49,6 +49,10 @@
     [
       2022,
       null
+    ],
+    [
+      2023,
+      null
     ]
   ],
   "tournaments": [
@@ -63,24 +67,6 @@
         "stage": "sextondelsfinal"
       },
       "games": [
-        {
-          "game_id": 415,
-          "year": 2020,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p2",
-          "name": "Lars T\u00f6rnkvist",
-          "score": 9,
-          "score_share": 0.5294117647058824,
-          "win_prob": 0.30268090805445547,
-          "opponent_name": "Edvin Lindsten",
-          "opponent_score": 8,
-          "opponent_score_share": 0.47058823529411764,
-          "opponent_win_prob": 0.6973190919455445,
-          "is_winner": true,
-          "opponent_slug": "edvin-lindsten",
-          "opponent_hist_score_share": 0.5706356991424866
-        },
         {
           "game_id": 379,
           "year": 2020,
@@ -97,7 +83,7 @@
           "opponent_win_prob": 0.7785944343434634,
           "is_winner": false,
           "opponent_slug": "benjamin-ger-hed",
-          "opponent_hist_score_share": 0.5937790548374914
+          "opponent_hist_score_share": 0.614286949352186
         },
         {
           "game_id": 404,
@@ -115,7 +101,25 @@
           "opponent_win_prob": 0.6364801335320873,
           "is_winner": true,
           "opponent_slug": "micke-leyi",
-          "opponent_hist_score_share": 0.5498456790123456
+          "opponent_hist_score_share": 0.5498456790123457
+        },
+        {
+          "game_id": 415,
+          "year": 2020,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Lars T\u00f6rnkvist",
+          "score": 9,
+          "score_share": 0.5294117647058824,
+          "win_prob": 0.30268090805445547,
+          "opponent_name": "Edvin Lindsten",
+          "opponent_score": 8,
+          "opponent_score_share": 0.47058823529411764,
+          "opponent_win_prob": 0.6973190919455445,
+          "is_winner": true,
+          "opponent_slug": "edvin-lindsten",
+          "opponent_hist_score_share": 0.5674037929616024
         },
         {
           "game_id": 431,
@@ -133,7 +137,7 @@
           "opponent_win_prob": 0.38155243167559905,
           "is_winner": false,
           "opponent_slug": "pelle-dovborg",
-          "opponent_hist_score_share": 0.5626206537570174
+          "opponent_hist_score_share": 0.5687558814642149
         }
       ],
       "n_games": 4,

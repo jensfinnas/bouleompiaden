@@ -6,13 +6,13 @@
     2019
   ],
   "win_rate": 0.6666666666666666,
-  "opponent_score_share": 0.5651575929517106,
+  "opponent_score_share": 0.5827323062739729,
   "skill": 137.98382676526975,
   "skill_sigma": 58.48142083789554,
   "name": "Alexander Bjerner",
   "slug": "alexander-bjerner",
-  "skill_rank": 45.0,
-  "skill_rank_pct": 45.0,
+  "skill_rank": 49.0,
+  "skill_rank_pct": 49.0,
   "skill_history": [
     [
       2011,
@@ -49,6 +49,10 @@
     [
       2022,
       null
+    ],
+    [
+      2023,
+      null
     ]
   ],
   "tournaments": [
@@ -63,6 +67,24 @@
         "stage": "sextondelsfinal"
       },
       "games": [
+        {
+          "game_id": 259,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Alexander Bjerner",
+          "score": 8,
+          "score_share": 0.6666666666666666,
+          "win_prob": 0.7337948891253743,
+          "opponent_name": "Bj\u00f6rn Berglund",
+          "opponent_score": 4,
+          "opponent_score_share": 0.3333333333333333,
+          "opponent_win_prob": 0.2662051108746257,
+          "is_winner": true,
+          "opponent_slug": "bjorn-berglund",
+          "opponent_hist_score_share": 0.5912036941816353
+        },
         {
           "game_id": 285,
           "year": 2019,
@@ -80,24 +102,6 @@
           "is_winner": true,
           "opponent_slug": "lotta-harder",
           "opponent_hist_score_share": 0.5641247641247641
-        },
-        {
-          "game_id": 259,
-          "year": 2019,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p1",
-          "name": "Alexander Bjerner",
-          "score": 8,
-          "score_share": 0.6666666666666666,
-          "win_prob": 0.7337948891253743,
-          "opponent_name": "Bj\u00f6rn Berglund",
-          "opponent_score": 4,
-          "opponent_score_share": 0.3333333333333333,
-          "opponent_win_prob": 0.2662051108746257,
-          "is_winner": true,
-          "opponent_slug": "bjorn-berglund",
-          "opponent_hist_score_share": 0.5384795542148484
         },
         {
           "game_id": 340,

@@ -1,6 +1,6 @@
 {
   "n_games": 19,
-  "score_share": 0.6605863621382464,
+  "score_share": 0.6605863621382463,
   "n_wins": 14,
   "years": [
     2018,
@@ -10,7 +10,7 @@
     2022
   ],
   "win_rate": 0.7368421052631579,
-  "opponent_score_share": 0.45505892392394726,
+  "opponent_score_share": 0.4501318997245658,
   "skill": 193.99030322720245,
   "skill_sigma": 27.617504055198662,
   "name": "Olle Strandberg",
@@ -53,6 +53,10 @@
     [
       2022,
       194.0
+    ],
+    [
+      2023,
+      null
     ]
   ],
   "tournaments": [
@@ -67,24 +71,6 @@
         "stage": "sextondelsfinal"
       },
       "games": [
-        {
-          "game_id": 152,
-          "year": 2018,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p2",
-          "name": "Olle Strandberg",
-          "score": 7,
-          "score_share": 0.7,
-          "win_prob": 0.7200726444006327,
-          "opponent_name": "Sofia R\u00e5dstr\u00f6m",
-          "opponent_score": 3,
-          "opponent_score_share": 0.3,
-          "opponent_win_prob": 0.27992735559936727,
-          "is_winner": true,
-          "opponent_slug": "sofia-radstrom",
-          "opponent_hist_score_share": 0.343188184364655
-        },
         {
           "game_id": 177,
           "year": 2018,
@@ -101,7 +87,25 @@
           "opponent_win_prob": 0.5414476945785429,
           "is_winner": true,
           "opponent_slug": "edith-soderstrom",
-          "opponent_hist_score_share": 0.2696581196581197
+          "opponent_hist_score_share": 0.26965811965811964
+        },
+        {
+          "game_id": 152,
+          "year": 2018,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Olle Strandberg",
+          "score": 7,
+          "score_share": 0.7,
+          "win_prob": 0.7200726444006327,
+          "opponent_name": "Sofia R\u00e5dstr\u00f6m",
+          "opponent_score": 3,
+          "opponent_score_share": 0.3,
+          "opponent_win_prob": 0.27992735559936727,
+          "is_winner": true,
+          "opponent_slug": "sofia-radstrom",
+          "opponent_hist_score_share": 0.33582760376878024
         },
         {
           "game_id": 216,
@@ -119,7 +123,7 @@
           "opponent_win_prob": 0.1577818677978704,
           "is_winner": false,
           "opponent_slug": "robin-fogelberg",
-          "opponent_hist_score_share": 0.5883273927718372
+          "opponent_hist_score_share": 0.5605132591422913
         }
       ],
       "n_games": 3,
@@ -137,24 +141,6 @@
       },
       "games": [
         {
-          "game_id": 300,
-          "year": 2019,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p2",
-          "name": "Olle Strandberg",
-          "score": 8,
-          "score_share": 0.8888888888888888,
-          "win_prob": 0.5678133536301253,
-          "opponent_name": "Hasse Hallgren",
-          "opponent_score": 1,
-          "opponent_score_share": 0.1111111111111111,
-          "opponent_win_prob": 0.43218664636987475,
-          "is_winner": true,
-          "opponent_slug": "hasse-hallgren",
-          "opponent_hist_score_share": 0.3431332556332556
-        },
-        {
           "game_id": 257,
           "year": 2019,
           "stage": "gruppspel",
@@ -170,7 +156,25 @@
           "opponent_win_prob": 0.46998599861135304,
           "is_winner": false,
           "opponent_slug": "viktor-garde",
-          "opponent_hist_score_share": 0.4444444444444445
+          "opponent_hist_score_share": 0.4444444444444444
+        },
+        {
+          "game_id": 300,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Olle Strandberg",
+          "score": 8,
+          "score_share": 0.8888888888888888,
+          "win_prob": 0.5678133536301253,
+          "opponent_name": "Hasse Hallgren",
+          "opponent_score": 1,
+          "opponent_score_share": 0.1111111111111111,
+          "opponent_win_prob": 0.43218664636987475,
+          "is_winner": true,
+          "opponent_slug": "hasse-hallgren",
+          "opponent_hist_score_share": 0.33823209470268295
         },
         {
           "game_id": 324,
@@ -293,7 +297,7 @@
           "opponent_win_prob": 0.579098494260329,
           "is_winner": true,
           "opponent_slug": "pelle-dovborg",
-          "opponent_hist_score_share": 0.5626206537570174
+          "opponent_hist_score_share": 0.5687558814642149
         },
         {
           "game_id": 450,
@@ -311,7 +315,7 @@
           "opponent_win_prob": 0.6263227251224954,
           "is_winner": false,
           "opponent_slug": "robeson",
-          "opponent_hist_score_share": 0.5815109019537957
+          "opponent_hist_score_share": 0.5697854480774457
         }
       ],
       "n_games": 6,
@@ -380,7 +384,7 @@
           "opponent_win_prob": 0.41965769949264864,
           "is_winner": true,
           "opponent_slug": "patrik-jargarden",
-          "opponent_hist_score_share": 0.599091404238463
+          "opponent_hist_score_share": 0.5770206146431636
         },
         {
           "game_id": 547,
@@ -398,7 +402,7 @@
           "opponent_win_prob": 0.6499632711725685,
           "is_winner": false,
           "opponent_slug": "robeson",
-          "opponent_hist_score_share": 0.5815109019537957
+          "opponent_hist_score_share": 0.5697854480774457
         }
       ],
       "n_games": 4,
@@ -431,7 +435,7 @@
           "opponent_win_prob": 0.1674515540701091,
           "is_winner": true,
           "opponent_slug": "monica-harder",
-          "opponent_hist_score_share": 0.3054112554112554
+          "opponent_hist_score_share": 0.29126014041980425
         },
         {
           "game_id": 594,
@@ -467,7 +471,7 @@
           "opponent_win_prob": 0.2911118708337821,
           "is_winner": true,
           "opponent_slug": "carl-rother-schirren",
-          "opponent_hist_score_share": 0.4993908382066278
+          "opponent_hist_score_share": 0.49939083820662766
         }
       ],
       "n_games": 3,

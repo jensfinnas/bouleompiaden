@@ -6,13 +6,13 @@
     2016
   ],
   "win_rate": 0.0,
-  "opponent_score_share": 0.4879865317972734,
+  "opponent_score_share": 0.48798653179727347,
   "skill": 25.23396074100435,
   "skill_sigma": 77.13335364641657,
   "name": "Sofia S\u00f6derberg",
   "slug": "sofia-soderberg",
-  "skill_rank": 124.0,
-  "skill_rank_pct": 124.0,
+  "skill_rank": 132.0,
+  "skill_rank_pct": 132.0,
   "skill_history": [
     [
       2011,
@@ -49,6 +49,10 @@
     [
       2022,
       null
+    ],
+    [
+      2023,
+      null
     ]
   ],
   "tournaments": [
@@ -79,7 +83,7 @@
           "opponent_win_prob": 0.9032925918812478,
           "is_winner": false,
           "opponent_slug": "jakob-lien",
-          "opponent_hist_score_share": 0.5680243456458289
+          "opponent_hist_score_share": 0.568024345645829
         },
         {
           "game_id": 57,

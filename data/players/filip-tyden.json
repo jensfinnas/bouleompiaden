@@ -6,7 +6,7 @@
     2012
   ],
   "win_rate": 1.0,
-  "opponent_score_share": 0.5712983867071373,
+  "opponent_score_share": 0.5672114299871271,
   "skill": 271.0261300539191,
   "skill_sigma": 52.79508455006538,
   "name": "Filip Tyd\u00e9n",
@@ -49,6 +49,10 @@
     [
       2022,
       null
+    ],
+    [
+      2023,
+      null
     ]
   ],
   "tournaments": [
@@ -63,24 +67,6 @@
         "stage": "vinnare"
       },
       "games": [
-        {
-          "game_id": 37,
-          "year": 2012,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p2",
-          "name": "Filip Tyd\u00e9n",
-          "score": 8,
-          "score_share": 0.6153846153846154,
-          "win_prob": 0.6402041273956629,
-          "opponent_name": "Andreas Josefson",
-          "opponent_score": 5,
-          "opponent_score_share": 0.38461538461538464,
-          "opponent_win_prob": 0.35979587260433704,
-          "is_winner": true,
-          "opponent_slug": "andreas-josefson",
-          "opponent_hist_score_share": 0.41695652620022366
-        },
         {
           "game_id": 21,
           "year": 2012,
@@ -97,7 +83,25 @@
           "opponent_win_prob": 0.5000000150000002,
           "is_winner": true,
           "opponent_slug": "richard-ekman",
-          "opponent_hist_score_share": 0.6032088282088284
+          "opponent_hist_score_share": 0.6032088282088282
+        },
+        {
+          "game_id": 37,
+          "year": 2012,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Filip Tyd\u00e9n",
+          "score": 8,
+          "score_share": 0.6153846153846154,
+          "win_prob": 0.6402041273956629,
+          "opponent_name": "Andreas Josefson",
+          "opponent_score": 5,
+          "opponent_score_share": 0.38461538461538464,
+          "opponent_win_prob": 0.35979587260433704,
+          "is_winner": true,
+          "opponent_slug": "andreas-josefson",
+          "opponent_hist_score_share": 0.396521742600174
         },
         {
           "game_id": 42,
@@ -133,7 +137,7 @@
           "opponent_win_prob": 0.3482177591986451,
           "is_winner": true,
           "opponent_slug": "jakob-lien",
-          "opponent_hist_score_share": 0.5680243456458289
+          "opponent_hist_score_share": 0.568024345645829
         },
         {
           "game_id": 48,

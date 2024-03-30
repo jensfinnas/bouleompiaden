@@ -1,18 +1,19 @@
 {
-  "n_games": 5,
-  "score_share": 0.45617323852617975,
-  "n_wins": 3,
+  "n_games": 8,
+  "score_share": 0.437681803490627,
+  "n_wins": 4,
   "years": [
-    2022
+    2022,
+    2023
   ],
-  "win_rate": 0.6,
-  "opponent_score_share": 0.5325869056368907,
-  "skill": 163.23719761372638,
-  "skill_sigma": 45.35339274953068,
+  "win_rate": 0.5,
+  "opponent_score_share": 0.49606998404787694,
+  "skill": 128.14823723134955,
+  "skill_sigma": 37.56788306964193,
   "name": "Amanda Engstr\u00f6m",
   "slug": "amanda-engstrom",
-  "skill_rank": 26.0,
-  "skill_rank_pct": 26.0,
+  "skill_rank": 57.0,
+  "skill_rank_pct": 57.0,
   "skill_history": [
     [
       2011,
@@ -49,6 +50,10 @@
     [
       2022,
       163.0
+    ],
+    [
+      2023,
+      128.0
     ]
   ],
   "tournaments": [
@@ -79,7 +84,7 @@
           "opponent_win_prob": 0.7375853787153877,
           "is_winner": false,
           "opponent_slug": "pelle-dovborg",
-          "opponent_hist_score_share": 0.5626206537570174
+          "opponent_hist_score_share": 0.5687558814642149
         },
         {
           "game_id": 617,
@@ -97,7 +102,7 @@
           "opponent_win_prob": 0.7292985293631098,
           "is_winner": true,
           "opponent_slug": "tim-samuelsson",
-          "opponent_hist_score_share": 0.5023865023865024
+          "opponent_hist_score_share": 0.5020184943261866
         },
         {
           "game_id": 636,
@@ -115,7 +120,7 @@
           "opponent_win_prob": 0.3742916674713152,
           "is_winner": true,
           "opponent_slug": "jacob-stenman",
-          "opponent_hist_score_share": 0.44469299083269664
+          "opponent_hist_score_share": 0.44469299083269676
         },
         {
           "game_id": 646,
@@ -151,11 +156,80 @@
           "opponent_win_prob": 0.34382698272901835,
           "is_winner": false,
           "opponent_slug": "robin-fogelberg",
-          "opponent_hist_score_share": 0.5883273927718372
+          "opponent_hist_score_share": 0.5605132591422913
         }
       ],
       "n_games": 5,
       "n_wins": 3
+    },
+    {
+      "year": 2023,
+      "last_game": {
+        "opponent_name": "Kajsa Hallberg-Nor.",
+        "opponent_slug": "kajsa-hallberg-nor",
+        "score": 9,
+        "opponent_score": 3,
+        "is_winner": true,
+        "stage": "gruppspel"
+      },
+      "games": [
+        {
+          "game_id": 700,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Amanda Engstr\u00f6m",
+          "score": 0,
+          "score_share": 0.0,
+          "win_prob": 0.5451190690794859,
+          "opponent_name": "Robin Linderborg",
+          "opponent_score": 11,
+          "opponent_score_share": 1.0,
+          "opponent_win_prob": 0.45488093092051407,
+          "is_winner": false,
+          "opponent_slug": "robin-linderborg",
+          "opponent_hist_score_share": 0.569941409165547
+        },
+        {
+          "game_id": 732,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Amanda Engstr\u00f6m",
+          "score": 8,
+          "score_share": 0.47058823529411764,
+          "win_prob": 0.5683294686816323,
+          "opponent_name": "Calle Buddee Roos",
+          "opponent_score": 9,
+          "opponent_score_share": 0.5294117647058824,
+          "opponent_win_prob": 0.43167053131836775,
+          "is_winner": false,
+          "opponent_slug": "calle-buddee-roos",
+          "opponent_hist_score_share": 0.5118507051943585
+        },
+        {
+          "game_id": 680,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Amanda Engstr\u00f6m",
+          "score": 9,
+          "score_share": 0.75,
+          "win_prob": 0.9660713405048342,
+          "opponent_name": "Kajsa Hallberg-Nor.",
+          "opponent_score": 3,
+          "opponent_score_share": 0.25,
+          "opponent_win_prob": 0.0339286594951658,
+          "is_winner": true,
+          "opponent_slug": "kajsa-hallberg-nor",
+          "opponent_hist_score_share": 0.24588014382132029
+        }
+      ],
+      "n_games": 3,
+      "n_wins": 1
     }
   ],
   "best_stage": "kvartsfinal",

@@ -1,0 +1,115 @@
+{
+  "n_games": 2,
+  "score_share": 0.18181818181818182,
+  "n_wins": 0,
+  "years": [
+    2023
+  ],
+  "win_rate": 0.0,
+  "opponent_score_share": 0.5418343393460372,
+  "skill": 14.305584719537988,
+  "skill_sigma": 68.51250238271892,
+  "name": "Frej M\u00e5rtensson",
+  "slug": "frej-martensson",
+  "skill_rank": 143.0,
+  "skill_rank_pct": 143.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      null
+    ],
+    [
+      2016,
+      null
+    ],
+    [
+      2017,
+      null
+    ],
+    [
+      2018,
+      null
+    ],
+    [
+      2019,
+      null
+    ],
+    [
+      2020,
+      null
+    ],
+    [
+      2021,
+      null
+    ],
+    [
+      2022,
+      null
+    ],
+    [
+      2023,
+      14.0
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2023,
+      "last_game": {
+        "opponent_name": "Martha Brauer",
+        "opponent_slug": "martha-brauer",
+        "score": 2,
+        "opponent_score": 9,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "games": [
+        {
+          "game_id": 670,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Frej M\u00e5rtensson",
+          "score": 2,
+          "score_share": 0.18181818181818182,
+          "win_prob": 0.491622033685865,
+          "opponent_name": "Bj\u00f6rn Berglund",
+          "opponent_score": 9,
+          "opponent_score_share": 0.8181818181818182,
+          "opponent_win_prob": 0.508377966314135,
+          "is_winner": false,
+          "opponent_slug": "bjorn-berglund",
+          "opponent_hist_score_share": 0.5912036941816353
+        },
+        {
+          "game_id": 711,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Frej M\u00e5rtensson",
+          "score": 2,
+          "score_share": 0.18181818181818182,
+          "win_prob": 0.2639297241780047,
+          "opponent_name": "Martha Brauer",
+          "opponent_score": 9,
+          "opponent_score_share": 0.8181818181818182,
+          "opponent_win_prob": 0.7360702758219952,
+          "is_winner": false,
+          "opponent_slug": "martha-brauer",
+          "opponent_hist_score_share": 0.4924649845104391
+        }
+      ],
+      "n_games": 2,
+      "n_wins": 0
+    }
+  ],
+  "best_stage": "gruppspel",
+  "best_stage_years": [
+    2023
+  ]
+}

@@ -6,13 +6,13 @@
     2021
   ],
   "win_rate": 0.3333333333333333,
-  "opponent_score_share": 0.4585656907337334,
+  "opponent_score_share": 0.45782036336301907,
   "skill": 52.268640253394594,
   "skill_sigma": 63.77939250092646,
   "name": "Joel Gustafsson",
   "slug": "joel-gustafsson",
-  "skill_rank": 108.0,
-  "skill_rank_pct": 108.0,
+  "skill_rank": 111.0,
+  "skill_rank_pct": 111.0,
   "skill_history": [
     [
       2011,
@@ -49,38 +49,24 @@
     [
       2022,
       null
+    ],
+    [
+      2023,
+      null
     ]
   ],
   "tournaments": [
     {
       "year": 2021,
       "last_game": {
-        "opponent_name": "Calle Buddee Roos",
-        "opponent_slug": "calle-buddee-roos",
-        "score": 7,
-        "opponent_score": 9,
+        "opponent_name": "Micke Leyi",
+        "opponent_slug": "micke-leyi",
+        "score": 4,
+        "opponent_score": 11,
         "is_winner": false,
         "stage": "gruppspel"
       },
       "games": [
-        {
-          "game_id": 492,
-          "year": 2021,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p1",
-          "name": "Joel Gustafsson",
-          "score": 4,
-          "score_share": 0.26666666666666666,
-          "win_prob": 0.4847472008741398,
-          "opponent_name": "Micke Leyi",
-          "opponent_score": 11,
-          "opponent_score_share": 0.7333333333333333,
-          "opponent_win_prob": 0.5152527991258602,
-          "is_winner": false,
-          "opponent_slug": "micke-leyi",
-          "opponent_hist_score_share": 0.5498456790123456
-        },
         {
           "game_id": 473,
           "year": 2021,
@@ -115,7 +101,25 @@
           "opponent_win_prob": 0.5885558131207747,
           "is_winner": false,
           "opponent_slug": "calle-buddee-roos",
-          "opponent_hist_score_share": 0.5140866873065015
+          "opponent_hist_score_share": 0.5118507051943585
+        },
+        {
+          "game_id": 492,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Joel Gustafsson",
+          "score": 4,
+          "score_share": 0.26666666666666666,
+          "win_prob": 0.4847472008741398,
+          "opponent_name": "Micke Leyi",
+          "opponent_score": 11,
+          "opponent_score_share": 0.7333333333333333,
+          "opponent_win_prob": 0.5152527991258602,
+          "is_winner": false,
+          "opponent_slug": "micke-leyi",
+          "opponent_hist_score_share": 0.5498456790123457
         }
       ],
       "n_games": 3,

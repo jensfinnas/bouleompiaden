@@ -1,21 +1,22 @@
 {
-  "n_games": 11,
-  "score_share": 0.4432545173186885,
-  "n_wins": 5,
+  "n_games": 15,
+  "score_share": 0.44838664603370487,
+  "n_wins": 7,
   "years": [
     2018,
     2019,
     2020,
-    2021
+    2021,
+    2023
   ],
-  "win_rate": 0.45454545454545453,
-  "opponent_score_share": 0.5158485834077671,
-  "skill": 138.68598831471922,
-  "skill_sigma": 33.08097462226162,
+  "win_rate": 0.4666666666666667,
+  "opponent_score_share": 0.49856648440419604,
+  "skill": 135.53280840443693,
+  "skill_sigma": 28.076721204334657,
   "name": "Mina Kheirkhah",
   "slug": "mina-kheirkhah",
-  "skill_rank": 44.0,
-  "skill_rank_pct": 44.0,
+  "skill_rank": 51.0,
+  "skill_rank_pct": 51.0,
   "skill_history": [
     [
       2011,
@@ -52,20 +53,42 @@
     [
       2022,
       null
+    ],
+    [
+      2023,
+      136.0
     ]
   ],
   "tournaments": [
     {
       "year": 2018,
       "last_game": {
-        "opponent_name": "Jesper Kronholm",
-        "opponent_slug": "jesper-kronholm",
-        "score": 4,
-        "opponent_score": 7,
+        "opponent_name": "Richard Ekman",
+        "opponent_slug": "richard-ekman",
+        "score": 1,
+        "opponent_score": 8,
         "is_winner": false,
         "stage": "gruppspel"
       },
       "games": [
+        {
+          "game_id": 214,
+          "year": 2018,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Mina Kheirkhah",
+          "score": 4,
+          "score_share": 0.36363636363636365,
+          "win_prob": 0.35618095766636415,
+          "opponent_name": "Jesper Kronholm",
+          "opponent_score": 7,
+          "opponent_score_share": 0.6363636363636364,
+          "opponent_win_prob": 0.6438190423336358,
+          "is_winner": false,
+          "opponent_slug": "jesper-kronholm",
+          "opponent_hist_score_share": 0.5928684605155193
+        },
         {
           "game_id": 171,
           "year": 2018,
@@ -100,25 +123,7 @@
           "opponent_win_prob": 0.3124430919936032,
           "is_winner": false,
           "opponent_slug": "richard-ekman",
-          "opponent_hist_score_share": 0.6032088282088284
-        },
-        {
-          "game_id": 214,
-          "year": 2018,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p2",
-          "name": "Mina Kheirkhah",
-          "score": 4,
-          "score_share": 0.36363636363636365,
-          "win_prob": 0.35618095766636415,
-          "opponent_name": "Jesper Kronholm",
-          "opponent_score": 7,
-          "opponent_score_share": 0.6363636363636364,
-          "opponent_win_prob": 0.6438190423336358,
-          "is_winner": false,
-          "opponent_slug": "jesper-kronholm",
-          "opponent_hist_score_share": 0.5928684605155193
+          "opponent_hist_score_share": 0.6032088282088282
         }
       ],
       "n_games": 3,
@@ -205,7 +210,7 @@
           "opponent_win_prob": 0.756010624602926,
           "is_winner": false,
           "opponent_slug": "estrid",
-          "opponent_hist_score_share": 0.6307361168816277
+          "opponent_hist_score_share": 0.6307361168816278
         }
       ],
       "n_games": 4,
@@ -238,7 +243,7 @@
           "opponent_win_prob": 0.2839021121928391,
           "is_winner": false,
           "opponent_slug": "filippa-berencreutz",
-          "opponent_hist_score_share": 0.4869061085972851
+          "opponent_hist_score_share": 0.5345458055016878
         },
         {
           "game_id": 370,
@@ -256,7 +261,7 @@
           "opponent_win_prob": 0.33438079461390013,
           "is_winner": false,
           "opponent_slug": "johan-johnson",
-          "opponent_hist_score_share": 0.4716205363264187
+          "opponent_hist_score_share": 0.4769825109530992
         }
       ],
       "n_games": 2,
@@ -289,7 +294,7 @@
           "opponent_win_prob": 0.822070313846803,
           "is_winner": true,
           "opponent_slug": "theodore-ripman",
-          "opponent_hist_score_share": 0.5684301946084984
+          "opponent_hist_score_share": 0.5597932488790567
         },
         {
           "game_id": 525,
@@ -307,11 +312,98 @@
           "opponent_win_prob": 0.5067130867947659,
           "is_winner": false,
           "opponent_slug": "robin-linderborg",
-          "opponent_hist_score_share": 0.5497140012765013
+          "opponent_hist_score_share": 0.569941409165547
         }
       ],
       "n_games": 2,
       "n_wins": 1
+    },
+    {
+      "year": 2023,
+      "last_game": {
+        "opponent_name": "Magnus Enlund",
+        "opponent_slug": "magnus-enlund",
+        "score": 0,
+        "opponent_score": 10,
+        "is_winner": false,
+        "stage": "sextondelsfinal"
+      },
+      "games": [
+        {
+          "game_id": 659,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Mina Kheirkhah",
+          "score": 9,
+          "score_share": 1.0,
+          "win_prob": 0.619794749961501,
+          "opponent_name": "Michaela Sundqvist",
+          "opponent_score": 0,
+          "opponent_score_share": 0.0,
+          "opponent_win_prob": 0.38020525003849903,
+          "is_winner": true,
+          "opponent_slug": "michaela-sundqvist",
+          "opponent_hist_score_share": 0.07692307692307693
+        },
+        {
+          "game_id": 721,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Mina Kheirkhah",
+          "score": 9,
+          "score_share": 0.6,
+          "win_prob": 0.44881264580964003,
+          "opponent_name": "Alexander Starfelt",
+          "opponent_score": 6,
+          "opponent_score_share": 0.4,
+          "opponent_win_prob": 0.55118735419036,
+          "is_winner": true,
+          "opponent_slug": "alexander-starfelt",
+          "opponent_hist_score_share": 0.5337973093298171
+        },
+        {
+          "game_id": 689,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Mina Kheirkhah",
+          "score": 3,
+          "score_share": 0.25,
+          "win_prob": 0.5259234259951096,
+          "opponent_name": "Lovisa Birgersson",
+          "opponent_score": 9,
+          "opponent_score_share": 0.75,
+          "opponent_win_prob": 0.47407657400489045,
+          "is_winner": false,
+          "opponent_slug": "lovisa-birgersson",
+          "opponent_hist_score_share": 0.5781180669288086
+        },
+        {
+          "game_id": 742,
+          "year": 2023,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p1",
+          "name": "Mina Kheirkhah",
+          "score": 0,
+          "score_share": 0.0,
+          "win_prob": 0.47579270441477894,
+          "opponent_name": "Magnus Enlund",
+          "opponent_score": 10,
+          "opponent_score_share": 1.0,
+          "opponent_win_prob": 0.5242072955852211,
+          "is_winner": false,
+          "opponent_slug": "magnus-enlund",
+          "opponent_hist_score_share": 0.5507322617051125
+        }
+      ],
+      "n_games": 4,
+      "n_wins": 2
     }
   ],
   "best_stage": "\u00e5ttondelsfinal",

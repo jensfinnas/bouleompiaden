@@ -7,13 +7,13 @@
     2021
   ],
   "win_rate": 0.0,
-  "opponent_score_share": 0.4852893591106829,
+  "opponent_score_share": 0.4765368944947763,
   "skill": -35.22636596652866,
   "skill_sigma": 60.4307600258605,
   "name": "Beata Harrysson",
   "slug": "beata-harrysson",
-  "skill_rank": 153.0,
-  "skill_rank_pct": 153.0,
+  "skill_rank": 167.0,
+  "skill_rank_pct": 167.0,
   "skill_history": [
     [
       2011,
@@ -50,6 +50,10 @@
     [
       2022,
       null
+    ],
+    [
+      2023,
+      null
     ]
   ],
   "tournaments": [
@@ -80,7 +84,7 @@
           "opponent_win_prob": 0.5695223431084688,
           "is_winner": false,
           "opponent_slug": "patrik-jargarden",
-          "opponent_hist_score_share": 0.599091404238463
+          "opponent_hist_score_share": 0.5770206146431636
         },
         {
           "game_id": 405,
@@ -98,7 +102,7 @@
           "opponent_win_prob": 0.3069147497551935,
           "is_winner": false,
           "opponent_slug": "frida-ohrn",
-          "opponent_hist_score_share": 0.39508248162094317
+          "opponent_hist_score_share": 0.4007381507381507
         }
       ],
       "n_games": 2,
@@ -107,32 +111,14 @@
     {
       "year": 2021,
       "last_game": {
-        "opponent_name": "Chris Lowe",
-        "opponent_slug": "chris-lowe",
-        "score": 7,
+        "opponent_name": "Alexander Starfelt",
+        "opponent_slug": "alexander-starfelt",
+        "score": 6,
         "opponent_score": 9,
         "is_winner": false,
         "stage": "gruppspel"
       },
       "games": [
-        {
-          "game_id": 457,
-          "year": 2021,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p1",
-          "name": "Beata Harrysson",
-          "score": 6,
-          "score_share": 0.4,
-          "win_prob": 0.04005478715451927,
-          "opponent_name": "Alexander Starfelt",
-          "opponent_score": 9,
-          "opponent_score_share": 0.6,
-          "opponent_win_prob": 0.9599452128454807,
-          "is_winner": false,
-          "opponent_slug": "alexander-starfelt",
-          "opponent_hist_score_share": 0.5523920473153514
-        },
         {
           "game_id": 499,
           "year": 2021,
@@ -149,7 +135,25 @@
           "opponent_win_prob": 0.7068606960656258,
           "is_winner": false,
           "opponent_slug": "chris-lowe",
-          "opponent_hist_score_share": 0.3945915032679739
+          "opponent_hist_score_share": 0.3945915032679738
+        },
+        {
+          "game_id": 457,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Beata Harrysson",
+          "score": 6,
+          "score_share": 0.4,
+          "win_prob": 0.04005478715451927,
+          "opponent_name": "Alexander Starfelt",
+          "opponent_score": 9,
+          "opponent_score_share": 0.6,
+          "opponent_win_prob": 0.9599452128454807,
+          "is_winner": false,
+          "opponent_slug": "alexander-starfelt",
+          "opponent_hist_score_share": 0.5337973093298171
         }
       ],
       "n_games": 2,

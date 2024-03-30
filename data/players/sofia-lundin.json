@@ -1,0 +1,115 @@
+{
+  "n_games": 2,
+  "score_share": 0.2722222222222222,
+  "n_wins": 0,
+  "years": [
+    2023
+  ],
+  "win_rate": 0.0,
+  "opponent_score_share": 0.5407094017295784,
+  "skill": 45.63238103010089,
+  "skill_sigma": 73.50221709930464,
+  "name": "Sofia Lundin",
+  "slug": "sofia-lundin",
+  "skill_rank": 118.0,
+  "skill_rank_pct": 118.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      null
+    ],
+    [
+      2016,
+      null
+    ],
+    [
+      2017,
+      null
+    ],
+    [
+      2018,
+      null
+    ],
+    [
+      2019,
+      null
+    ],
+    [
+      2020,
+      null
+    ],
+    [
+      2021,
+      null
+    ],
+    [
+      2022,
+      null
+    ],
+    [
+      2023,
+      46.0
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2023,
+      "last_game": {
+        "opponent_name": "Jerker Karlsson",
+        "opponent_slug": "jerker-karlsson",
+        "score": 1,
+        "opponent_score": 9,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "games": [
+        {
+          "game_id": 675,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Sofia Lundin",
+          "score": 8,
+          "score_share": 0.4444444444444444,
+          "win_prob": 0.2024101583583958,
+          "opponent_name": "Theodore Ripman",
+          "opponent_score": 10,
+          "opponent_score_share": 0.5555555555555556,
+          "opponent_win_prob": 0.7975898416416042,
+          "is_winner": false,
+          "opponent_slug": "theodore-ripman",
+          "opponent_hist_score_share": 0.5597932488790567
+        },
+        {
+          "game_id": 713,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Sofia Lundin",
+          "score": 1,
+          "score_share": 0.1,
+          "win_prob": 0.23515081489033673,
+          "opponent_name": "Jerker Karlsson",
+          "opponent_score": 9,
+          "opponent_score_share": 0.9,
+          "opponent_win_prob": 0.7648491851096633,
+          "is_winner": false,
+          "opponent_slug": "jerker-karlsson",
+          "opponent_hist_score_share": 0.5216255545801
+        }
+      ],
+      "n_games": 2,
+      "n_wins": 0
+    }
+  ],
+  "best_stage": "gruppspel",
+  "best_stage_years": [
+    2023
+  ]
+}

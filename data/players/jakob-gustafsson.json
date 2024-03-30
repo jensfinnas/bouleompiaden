@@ -1,21 +1,22 @@
 {
-  "n_games": 14,
-  "score_share": 0.4453114287673111,
-  "n_wins": 8,
+  "n_games": 18,
+  "score_share": 0.45099657967305024,
+  "n_wins": 10,
   "years": [
     2019,
     2020,
     2021,
-    2022
+    2022,
+    2023
   ],
-  "win_rate": 0.5714285714285714,
-  "opponent_score_share": 0.49190001726980837,
-  "skill": 143.93674449720916,
-  "skill_sigma": 33.63158961165585,
+  "win_rate": 0.5555555555555556,
+  "opponent_score_share": 0.4960149020680373,
+  "skill": 144.1891268810586,
+  "skill_sigma": 30.09882616218717,
   "name": "Jakob Gustafsson",
   "slug": "jakob-gustafsson",
-  "skill_rank": 39.0,
-  "skill_rank_pct": 39.0,
+  "skill_rank": 44.0,
+  "skill_rank_pct": 44.0,
   "skill_history": [
     [
       2011,
@@ -52,37 +53,41 @@
     [
       2022,
       144.0
+    ],
+    [
+      2023,
+      144.0
     ]
   ],
   "tournaments": [
     {
       "year": 2019,
       "last_game": {
-        "opponent_name": "Fanny Kjellner",
-        "opponent_slug": "fanny-kjellner",
-        "score": 3,
+        "opponent_name": "Jerker Karlsson",
+        "opponent_slug": "jerker-karlsson",
+        "score": 5,
         "opponent_score": 8,
         "is_winner": false,
         "stage": "gruppspel"
       },
       "games": [
         {
-          "game_id": 314,
+          "game_id": 269,
           "year": 2019,
           "stage": "gruppspel",
           "stage_level": 0,
           "winner": "p1",
           "name": "Jakob Gustafsson",
-          "score": 5,
-          "score_share": 0.38461538461538464,
-          "win_prob": 0.1508705235553215,
-          "opponent_name": "Jerker Karlsson",
+          "score": 3,
+          "score_share": 0.2727272727272727,
+          "win_prob": 0.6440893190850083,
+          "opponent_name": "Fanny Kjellner",
           "opponent_score": 8,
-          "opponent_score_share": 0.6153846153846154,
-          "opponent_win_prob": 0.8491294764446785,
+          "opponent_score_share": 0.7272727272727273,
+          "opponent_win_prob": 0.3559106809149917,
           "is_winner": false,
-          "opponent_slug": "jerker-karlsson",
-          "opponent_hist_score_share": 0.5304547767047768
+          "opponent_slug": "fanny-kjellner",
+          "opponent_hist_score_share": 0.47074915824915825
         },
         {
           "game_id": 306,
@@ -100,25 +105,25 @@
           "opponent_win_prob": 0.35217086102579553,
           "is_winner": true,
           "opponent_slug": "john-qvale",
-          "opponent_hist_score_share": 0.36102849171030993
+          "opponent_hist_score_share": 0.3610284917103099
         },
         {
-          "game_id": 269,
+          "game_id": 314,
           "year": 2019,
           "stage": "gruppspel",
           "stage_level": 0,
           "winner": "p1",
           "name": "Jakob Gustafsson",
-          "score": 3,
-          "score_share": 0.2727272727272727,
-          "win_prob": 0.6440893190850083,
-          "opponent_name": "Fanny Kjellner",
+          "score": 5,
+          "score_share": 0.38461538461538464,
+          "win_prob": 0.1508705235553215,
+          "opponent_name": "Jerker Karlsson",
           "opponent_score": 8,
-          "opponent_score_share": 0.7272727272727273,
-          "opponent_win_prob": 0.3559106809149917,
+          "opponent_score_share": 0.6153846153846154,
+          "opponent_win_prob": 0.8491294764446785,
           "is_winner": false,
-          "opponent_slug": "fanny-kjellner",
-          "opponent_hist_score_share": 0.4707491582491583
+          "opponent_slug": "jerker-karlsson",
+          "opponent_hist_score_share": 0.5216255545801
         }
       ],
       "n_games": 3,
@@ -187,7 +192,7 @@
           "opponent_win_prob": 0.6666565395545231,
           "is_winner": true,
           "opponent_slug": "erik-numan",
-          "opponent_hist_score_share": 0.509236211558193
+          "opponent_hist_score_share": 0.49786515972274487
         },
         {
           "game_id": 422,
@@ -205,7 +210,7 @@
           "opponent_win_prob": 0.893029768496904,
           "is_winner": false,
           "opponent_slug": "benjamin-ger-hed",
-          "opponent_hist_score_share": 0.5937790548374914
+          "opponent_hist_score_share": 0.614286949352186
         }
       ],
       "n_games": 4,
@@ -222,24 +227,6 @@
         "stage": "\u00e5ttondelsfinal"
       },
       "games": [
-        {
-          "game_id": 494,
-          "year": 2021,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p2",
-          "name": "Jakob Gustafsson",
-          "score": 9,
-          "score_share": 0.75,
-          "win_prob": 0.20542033825732564,
-          "opponent_name": "Robin Fogelberg",
-          "opponent_score": 3,
-          "opponent_score_share": 0.25,
-          "opponent_win_prob": 0.7945796617426744,
-          "is_winner": true,
-          "opponent_slug": "robin-fogelberg",
-          "opponent_hist_score_share": 0.5883273927718372
-        },
         {
           "game_id": 477,
           "year": 2021,
@@ -259,6 +246,24 @@
           "opponent_hist_score_share": 0.3035714285714286
         },
         {
+          "game_id": 494,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Jakob Gustafsson",
+          "score": 9,
+          "score_share": 0.75,
+          "win_prob": 0.20542033825732564,
+          "opponent_name": "Robin Fogelberg",
+          "opponent_score": 3,
+          "opponent_score_share": 0.25,
+          "opponent_win_prob": 0.7945796617426744,
+          "is_winner": true,
+          "opponent_slug": "robin-fogelberg",
+          "opponent_hist_score_share": 0.5605132591422913
+        },
+        {
           "game_id": 528,
           "year": 2021,
           "stage": "sextondelsfinal",
@@ -274,7 +279,7 @@
           "opponent_win_prob": 0.08117343674459188,
           "is_winner": true,
           "opponent_slug": "kajsa-hallberg-nor",
-          "opponent_hist_score_share": 0.23370785825536958
+          "opponent_hist_score_share": 0.24588014382132029
         },
         {
           "game_id": 540,
@@ -292,7 +297,7 @@
           "opponent_win_prob": 0.7796483597070529,
           "is_winner": false,
           "opponent_slug": "benjamin-ger-hed",
-          "opponent_hist_score_share": 0.5937790548374914
+          "opponent_hist_score_share": 0.614286949352186
         }
       ],
       "n_games": 4,
@@ -310,24 +315,6 @@
       },
       "games": [
         {
-          "game_id": 585,
-          "year": 2022,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p2",
-          "name": "Jakob Gustafsson",
-          "score": 9,
-          "score_share": 0.5625,
-          "win_prob": 0.4014292227804406,
-          "opponent_name": "Jon Jeppson",
-          "opponent_score": 7,
-          "opponent_score_share": 0.4375,
-          "opponent_win_prob": 0.5985707772195594,
-          "is_winner": true,
-          "opponent_slug": "jon-jeppson",
-          "opponent_hist_score_share": 0.5849962863933452
-        },
-        {
           "game_id": 561,
           "year": 2022,
           "stage": "gruppspel",
@@ -343,7 +330,25 @@
           "opponent_win_prob": 0.4086516187413594,
           "is_winner": true,
           "opponent_slug": "linda-tran",
-          "opponent_hist_score_share": 0.4166666666666667
+          "opponent_hist_score_share": 0.4735576923076923
+        },
+        {
+          "game_id": 585,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Jakob Gustafsson",
+          "score": 9,
+          "score_share": 0.5625,
+          "win_prob": 0.4014292227804406,
+          "opponent_name": "Jon Jeppson",
+          "opponent_score": 7,
+          "opponent_score_share": 0.4375,
+          "opponent_win_prob": 0.5985707772195594,
+          "is_winner": true,
+          "opponent_slug": "jon-jeppson",
+          "opponent_hist_score_share": 0.5966064708711767
         },
         {
           "game_id": 633,
@@ -361,10 +366,97 @@
           "opponent_win_prob": 0.6778457320184204,
           "is_winner": false,
           "opponent_slug": "johan-kjell",
-          "opponent_hist_score_share": 0.580606891524278
+          "opponent_hist_score_share": 0.5870032732503708
         }
       ],
       "n_games": 3,
+      "n_wins": 2
+    },
+    {
+      "year": 2023,
+      "last_game": {
+        "opponent_name": "Richard Printz",
+        "opponent_slug": "richard-printz",
+        "score": 2,
+        "opponent_score": 10,
+        "is_winner": false,
+        "stage": "sextondelsfinal"
+      },
+      "games": [
+        {
+          "game_id": 734,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Jakob Gustafsson",
+          "score": 9,
+          "score_share": 0.5294117647058824,
+          "win_prob": 0.585514796243807,
+          "opponent_name": "Sara Welff",
+          "opponent_score": 8,
+          "opponent_score_share": 0.47058823529411764,
+          "opponent_win_prob": 0.414485203756193,
+          "is_winner": true,
+          "opponent_slug": "sara-welff",
+          "opponent_hist_score_share": 0.5209653092006034
+        },
+        {
+          "game_id": 685,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Jakob Gustafsson",
+          "score": 9,
+          "score_share": 0.75,
+          "win_prob": 0.6353046922171908,
+          "opponent_name": "Ellen Gehlin",
+          "opponent_score": 3,
+          "opponent_score_share": 0.25,
+          "opponent_win_prob": 0.36469530778280923,
+          "is_winner": true,
+          "opponent_slug": "ellen-gehlin",
+          "opponent_hist_score_share": 0.2708333333333333
+        },
+        {
+          "game_id": 702,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Jakob Gustafsson",
+          "score": 7,
+          "score_share": 0.4375,
+          "win_prob": 0.3571332886981333,
+          "opponent_name": "Johannes Nordenhaag",
+          "opponent_score": 9,
+          "opponent_score_share": 0.5625,
+          "opponent_win_prob": 0.6428667113018667,
+          "is_winner": false,
+          "opponent_slug": "johannes-nordenhaag",
+          "opponent_hist_score_share": 0.5987708370061311
+        },
+        {
+          "game_id": 749,
+          "year": 2023,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p1",
+          "name": "Jakob Gustafsson",
+          "score": 2,
+          "score_share": 0.16666666666666666,
+          "win_prob": 0.2106253756424128,
+          "opponent_name": "Richard Printz",
+          "opponent_score": 10,
+          "opponent_score_share": 0.8333333333333334,
+          "opponent_win_prob": 0.7893746243575872,
+          "is_winner": false,
+          "opponent_slug": "richard-printz",
+          "opponent_hist_score_share": 0.5710272570566689
+        }
+      ],
+      "n_games": 4,
       "n_wins": 2
     }
   ],

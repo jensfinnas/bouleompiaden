@@ -1,19 +1,20 @@
 {
-  "n_games": 5,
-  "score_share": 0.3719047619047619,
+  "n_games": 7,
+  "score_share": 0.32150706436420723,
   "n_wins": 1,
   "years": [
     2019,
-    2022
+    2022,
+    2023
   ],
-  "win_rate": 0.2,
-  "opponent_score_share": 0.4688804586994527,
-  "skill": 32.018732327765136,
-  "skill_sigma": 54.40053188274438,
+  "win_rate": 0.14285714285714285,
+  "opponent_score_share": 0.47476240633102923,
+  "skill": 20.628005077666565,
+  "skill_sigma": 49.71001343284718,
   "name": "Olle Nyr\u00e9n",
   "slug": "olle-nyren",
-  "skill_rank": 119.0,
-  "skill_rank_pct": 119.0,
+  "skill_rank": 135.0,
+  "skill_rank_pct": 135.0,
   "skill_history": [
     [
       2011,
@@ -50,17 +51,21 @@
     [
       2022,
       32.0
+    ],
+    [
+      2023,
+      21.0
     ]
   ],
   "tournaments": [
     {
       "year": 2019,
       "last_game": {
-        "opponent_name": "Jan Bergstrand",
-        "opponent_slug": "jan-bergstrand",
-        "score": 9,
-        "opponent_score": 3,
-        "is_winner": true,
+        "opponent_name": "Jesper Kronholm",
+        "opponent_slug": "jesper-kronholm",
+        "score": 7,
+        "opponent_score": 8,
+        "is_winner": false,
         "stage": "gruppspel"
       },
       "games": [
@@ -80,25 +85,7 @@
           "opponent_win_prob": 0.3344733669560362,
           "is_winner": false,
           "opponent_slug": "sofia-orning",
-          "opponent_hist_score_share": 0.40345667857922757
-        },
-        {
-          "game_id": 312,
-          "year": 2019,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p1",
-          "name": "Olle Nyr\u00e9n",
-          "score": 7,
-          "score_share": 0.4666666666666667,
-          "win_prob": 0.2817508787638764,
-          "opponent_name": "Jesper Kronholm",
-          "opponent_score": 8,
-          "opponent_score_share": 0.5333333333333333,
-          "opponent_win_prob": 0.7182491212361236,
-          "is_winner": false,
-          "opponent_slug": "jesper-kronholm",
-          "opponent_hist_score_share": 0.5928684605155193
+          "opponent_hist_score_share": 0.38998601072130484
         },
         {
           "game_id": 304,
@@ -117,6 +104,24 @@
           "is_winner": true,
           "opponent_slug": "jan-bergstrand",
           "opponent_hist_score_share": 0.18055555555555555
+        },
+        {
+          "game_id": 312,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Olle Nyr\u00e9n",
+          "score": 7,
+          "score_share": 0.4666666666666667,
+          "win_prob": 0.2817508787638764,
+          "opponent_name": "Jesper Kronholm",
+          "opponent_score": 8,
+          "opponent_score_share": 0.5333333333333333,
+          "opponent_win_prob": 0.7182491212361236,
+          "is_winner": false,
+          "opponent_slug": "jesper-kronholm",
+          "opponent_hist_score_share": 0.5928684605155193
         }
       ],
       "n_games": 3,
@@ -125,32 +130,14 @@
     {
       "year": 2022,
       "last_game": {
-        "opponent_name": "Theodore Ripman",
-        "opponent_slug": "theodore-ripman",
-        "score": 0,
-        "opponent_score": 9,
+        "opponent_name": "Patrik J\u00e4rg\u00e5rden",
+        "opponent_slug": "patrik-jargarden",
+        "score": 4,
+        "opponent_score": 10,
         "is_winner": false,
         "stage": "gruppspel"
       },
       "games": [
-        {
-          "game_id": 615,
-          "year": 2022,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p1",
-          "name": "Olle Nyr\u00e9n",
-          "score": 4,
-          "score_share": 0.2857142857142857,
-          "win_prob": 0.15464565274217357,
-          "opponent_name": "Patrik J\u00e4rg\u00e5rden",
-          "opponent_score": 10,
-          "opponent_score_share": 0.7142857142857143,
-          "opponent_win_prob": 0.8453543472578264,
-          "is_winner": false,
-          "opponent_slug": "patrik-jargarden",
-          "opponent_hist_score_share": 0.599091404238463
-        },
         {
           "game_id": 566,
           "year": 2022,
@@ -167,7 +154,76 @@
           "opponent_win_prob": 0.9530676209611152,
           "is_winner": false,
           "opponent_slug": "theodore-ripman",
-          "opponent_hist_score_share": 0.5684301946084984
+          "opponent_hist_score_share": 0.5597932488790567
+        },
+        {
+          "game_id": 615,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Olle Nyr\u00e9n",
+          "score": 4,
+          "score_share": 0.2857142857142857,
+          "win_prob": 0.15464565274217357,
+          "opponent_name": "Patrik J\u00e4rg\u00e5rden",
+          "opponent_score": 10,
+          "opponent_score_share": 0.7142857142857143,
+          "opponent_win_prob": 0.8453543472578264,
+          "is_winner": false,
+          "opponent_slug": "patrik-jargarden",
+          "opponent_hist_score_share": 0.5770206146431636
+        }
+      ],
+      "n_games": 2,
+      "n_wins": 0
+    },
+    {
+      "year": 2023,
+      "last_game": {
+        "opponent_name": "Alexander Starfelt",
+        "opponent_slug": "alexander-starfelt",
+        "score": 4,
+        "opponent_score": 9,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "games": [
+        {
+          "game_id": 656,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Olle Nyr\u00e9n",
+          "score": 1,
+          "score_share": 0.08333333333333333,
+          "win_prob": 0.09676306397283355,
+          "opponent_name": "Jakob Gudmundsson",
+          "opponent_score": 11,
+          "opponent_score_share": 0.9166666666666666,
+          "opponent_win_prob": 0.9032369360271665,
+          "is_winner": false,
+          "opponent_slug": "jakob-gudmundsson",
+          "opponent_hist_score_share": 0.48931564467278754
+        },
+        {
+          "game_id": 704,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Olle Nyr\u00e9n",
+          "score": 4,
+          "score_share": 0.3076923076923077,
+          "win_prob": 0.10430215880828277,
+          "opponent_name": "Alexander Starfelt",
+          "opponent_score": 9,
+          "opponent_score_share": 0.6923076923076923,
+          "opponent_win_prob": 0.8956978411917172,
+          "is_winner": false,
+          "opponent_slug": "alexander-starfelt",
+          "opponent_hist_score_share": 0.5337973093298171
         }
       ],
       "n_games": 2,
@@ -177,6 +233,7 @@
   "best_stage": "gruppspel",
   "best_stage_years": [
     2022,
+    2023,
     2019
   ]
 }

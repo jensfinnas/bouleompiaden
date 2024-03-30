@@ -1,19 +1,20 @@
 {
-  "n_games": 5,
-  "score_share": 0.3054112554112554,
+  "n_games": 7,
+  "score_share": 0.29126014041980425,
   "n_wins": 1,
   "years": [
     2019,
-    2022
+    2022,
+    2023
   ],
-  "win_rate": 0.2,
-  "opponent_score_share": 0.5743729415950831,
-  "skill": 57.94561246980738,
-  "skill_sigma": 50.33171597691784,
+  "win_rate": 0.14285714285714285,
+  "opponent_score_share": 0.5674517777192294,
+  "skill": 32.82216180541732,
+  "skill_sigma": 44.47792594756928,
   "name": "Monica Harder",
   "slug": "monica-harder",
-  "skill_rank": 106.0,
-  "skill_rank_pct": 106.0,
+  "skill_rank": 126.0,
+  "skill_rank_pct": 126.0,
   "skill_history": [
     [
       2011,
@@ -50,6 +51,10 @@
     [
       2022,
       58.0
+    ],
+    [
+      2023,
+      33.0
     ]
   ],
   "tournaments": [
@@ -64,24 +69,6 @@
         "stage": "gruppspel"
       },
       "games": [
-        {
-          "game_id": 263,
-          "year": 2019,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p2",
-          "name": "Monica Harder",
-          "score": 8,
-          "score_share": 0.6666666666666666,
-          "win_prob": 0.4547132070060691,
-          "opponent_name": "Louise Persson",
-          "opponent_score": 4,
-          "opponent_score_share": 0.3333333333333333,
-          "opponent_win_prob": 0.5452867929939309,
-          "is_winner": true,
-          "opponent_slug": "louise-persson",
-          "opponent_hist_score_share": 0.5705586080586081
-        },
         {
           "game_id": 319,
           "year": 2019,
@@ -98,7 +85,25 @@
           "opponent_win_prob": 0.38805541990526293,
           "is_winner": false,
           "opponent_slug": "kusha-bahrami",
-          "opponent_hist_score_share": 0.466840675664205
+          "opponent_hist_score_share": 0.4663222959638401
+        },
+        {
+          "game_id": 263,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Monica Harder",
+          "score": 8,
+          "score_share": 0.6666666666666666,
+          "win_prob": 0.4547132070060691,
+          "opponent_name": "Louise Persson",
+          "opponent_score": 4,
+          "opponent_score_share": 0.3333333333333333,
+          "opponent_win_prob": 0.5452867929939309,
+          "is_winner": true,
+          "opponent_slug": "louise-persson",
+          "opponent_hist_score_share": 0.570558608058608
         },
         {
           "game_id": 287,
@@ -149,7 +154,7 @@
           "opponent_win_prob": 0.8325484459298909,
           "is_winner": false,
           "opponent_slug": "olle-strandberg",
-          "opponent_hist_score_share": 0.6605863621382464
+          "opponent_hist_score_share": 0.6605863621382463
         },
         {
           "game_id": 606,
@@ -167,7 +172,58 @@
           "opponent_win_prob": 0.627945863563593,
           "is_winner": false,
           "opponent_slug": "magnus-enlund",
-          "opponent_hist_score_share": 0.5090642472995414
+          "opponent_hist_score_share": 0.5507322617051125
+        }
+      ],
+      "n_games": 2,
+      "n_wins": 0
+    },
+    {
+      "year": 2023,
+      "last_game": {
+        "opponent_name": "Bj\u00f6rn Westerfors",
+        "opponent_slug": "bjorn-westerfors",
+        "score": 1,
+        "opponent_score": 9,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "games": [
+        {
+          "game_id": 665,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Monica Harder",
+          "score": 7,
+          "score_share": 0.4117647058823529,
+          "win_prob": 0.10802130314340885,
+          "opponent_name": "Jens Hultkrans",
+          "opponent_score": 10,
+          "opponent_score_share": 0.5882352941176471,
+          "opponent_win_prob": 0.8919786968565911,
+          "is_winner": false,
+          "opponent_slug": "jens-hultkrans",
+          "opponent_hist_score_share": 0.5241481013539837
+        },
+        {
+          "game_id": 708,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Monica Harder",
+          "score": 1,
+          "score_share": 0.1,
+          "win_prob": 0.5513712017433907,
+          "opponent_name": "Bj\u00f6rn Westerfors",
+          "opponent_score": 9,
+          "opponent_score_share": 0.9,
+          "opponent_win_prob": 0.44862879825660934,
+          "is_winner": false,
+          "opponent_slug": "bjorn-westerfors",
+          "opponent_hist_score_share": 0.5349999999999999
         }
       ],
       "n_games": 2,
@@ -176,7 +232,8 @@
   ],
   "best_stage": "gruppspel",
   "best_stage_years": [
+    2019,
     2022,
-    2019
+    2023
   ]
 }

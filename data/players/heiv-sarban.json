@@ -8,13 +8,13 @@
     2022
   ],
   "win_rate": 0.0,
-  "opponent_score_share": 0.48039751136239767,
+  "opponent_score_share": 0.5032500181053828,
   "skill": -56.388607226629105,
   "skill_sigma": 55.33783575649806,
   "name": "Heiv Sarban",
   "slug": "heiv-sarban",
-  "skill_rank": 155.0,
-  "skill_rank_pct": 155.0,
+  "skill_rank": 169.0,
+  "skill_rank_pct": 169.0,
   "skill_history": [
     [
       2011,
@@ -51,38 +51,24 @@
     [
       2022,
       -56.0
+    ],
+    [
+      2023,
+      null
     ]
   ],
   "tournaments": [
     {
       "year": 2020,
       "last_game": {
-        "opponent_name": "Emma Bergmark",
-        "opponent_slug": "emma-bergmark",
-        "score": 6,
+        "opponent_name": "Bj\u00f6rn Berglund",
+        "opponent_slug": "bjorn-berglund",
+        "score": 3,
         "opponent_score": 9,
         "is_winner": false,
         "stage": "gruppspel"
       },
       "games": [
-        {
-          "game_id": 406,
-          "year": 2020,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p2",
-          "name": "Heiv Sarban",
-          "score": 3,
-          "score_share": 0.25,
-          "win_prob": 0.47012389480024047,
-          "opponent_name": "Bj\u00f6rn Berglund",
-          "opponent_score": 9,
-          "opponent_score_share": 0.75,
-          "opponent_win_prob": 0.5298761051997596,
-          "is_winner": false,
-          "opponent_slug": "bjorn-berglund",
-          "opponent_hist_score_share": 0.5384795542148484
-        },
         {
           "game_id": 382,
           "year": 2020,
@@ -99,7 +85,25 @@
           "opponent_win_prob": 0.49999998499999976,
           "is_winner": false,
           "opponent_slug": "emma-bergmark",
-          "opponent_hist_score_share": 0.40318645170618855
+          "opponent_hist_score_share": 0.4416463599609884
+        },
+        {
+          "game_id": 406,
+          "year": 2020,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Heiv Sarban",
+          "score": 3,
+          "score_share": 0.25,
+          "win_prob": 0.47012389480024047,
+          "opponent_name": "Bj\u00f6rn Berglund",
+          "opponent_score": 9,
+          "opponent_score_share": 0.75,
+          "opponent_win_prob": 0.5298761051997596,
+          "is_winner": false,
+          "opponent_slug": "bjorn-berglund",
+          "opponent_hist_score_share": 0.5912036941816353
         }
       ],
       "n_games": 2,
@@ -108,32 +112,14 @@
     {
       "year": 2021,
       "last_game": {
-        "opponent_name": "Joel Gustafsson",
-        "opponent_slug": "joel-gustafsson",
-        "score": 8,
+        "opponent_name": "Erik Nordenankar",
+        "opponent_slug": "erik-nordenankar",
+        "score": 0,
         "opponent_score": 9,
         "is_winner": false,
         "stage": "gruppspel"
       },
       "games": [
-        {
-          "game_id": 506,
-          "year": 2021,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p1",
-          "name": "Heiv Sarban",
-          "score": 0,
-          "score_share": 0.0,
-          "win_prob": 0.019011002709068303,
-          "opponent_name": "Erik Nordenankar",
-          "opponent_score": 9,
-          "opponent_score_share": 1.0,
-          "opponent_win_prob": 0.9809889972909317,
-          "is_winner": false,
-          "opponent_slug": "erik-nordenankar",
-          "opponent_hist_score_share": 0.6815916514882377
-        },
         {
           "game_id": 473,
           "year": 2021,
@@ -151,6 +137,24 @@
           "is_winner": false,
           "opponent_slug": "joel-gustafsson",
           "opponent_hist_score_share": 0.4111928104575164
+        },
+        {
+          "game_id": 506,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Heiv Sarban",
+          "score": 0,
+          "score_share": 0.0,
+          "win_prob": 0.019011002709068303,
+          "opponent_name": "Erik Nordenankar",
+          "opponent_score": 9,
+          "opponent_score_share": 1.0,
+          "opponent_win_prob": 0.9809889972909317,
+          "is_winner": false,
+          "opponent_slug": "erik-nordenankar",
+          "opponent_hist_score_share": 0.679882946820159
         }
       ],
       "n_games": 2,
@@ -159,32 +163,14 @@
     {
       "year": 2022,
       "last_game": {
-        "opponent_name": "Filippa Berencreutz",
-        "opponent_slug": "filippa-berencreutz",
+        "opponent_name": "John Qvale",
+        "opponent_slug": "john-qvale",
         "score": 6,
         "opponent_score": 10,
         "is_winner": false,
         "stage": "gruppspel"
       },
       "games": [
-        {
-          "game_id": 605,
-          "year": 2022,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p2",
-          "name": "Heiv Sarban",
-          "score": 6,
-          "score_share": 0.375,
-          "win_prob": 0.6424915785517242,
-          "opponent_name": "John Qvale",
-          "opponent_score": 10,
-          "opponent_score_share": 0.625,
-          "opponent_win_prob": 0.35750842144827577,
-          "is_winner": false,
-          "opponent_slug": "john-qvale",
-          "opponent_hist_score_share": 0.36102849171030993
-        },
         {
           "game_id": 573,
           "year": 2022,
@@ -201,7 +187,25 @@
           "opponent_win_prob": 0.9552219884367663,
           "is_winner": false,
           "opponent_slug": "filippa-berencreutz",
-          "opponent_hist_score_share": 0.4869061085972851
+          "opponent_hist_score_share": 0.5345458055016878
+        },
+        {
+          "game_id": 605,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Heiv Sarban",
+          "score": 6,
+          "score_share": 0.375,
+          "win_prob": 0.6424915785517242,
+          "opponent_name": "John Qvale",
+          "opponent_score": 10,
+          "opponent_score_share": 0.625,
+          "opponent_win_prob": 0.35750842144827577,
+          "is_winner": false,
+          "opponent_slug": "john-qvale",
+          "opponent_hist_score_share": 0.3610284917103099
         }
       ],
       "n_games": 2,
@@ -210,8 +214,8 @@
   ],
   "best_stage": "gruppspel",
   "best_stage_years": [
-    2021,
+    2020,
     2022,
-    2020
+    2021
   ]
 }

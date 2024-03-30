@@ -6,13 +6,13 @@
     2020
   ],
   "win_rate": 0.0,
-  "opponent_score_share": 0.5975977535343039,
+  "opponent_score_share": 0.5993850784098639,
   "skill": 1.3993560592152121,
   "skill_sigma": 65.36515123527,
   "name": "Kicki Berg",
   "slug": "kicki-berg",
-  "skill_rank": 143.0,
-  "skill_rank_pct": 143.0,
+  "skill_rank": 157.0,
+  "skill_rank_pct": 157.0,
   "skill_history": [
     [
       2011,
@@ -49,6 +49,10 @@
     [
       2022,
       null
+    ],
+    [
+      2023,
+      null
     ]
   ],
   "tournaments": [
@@ -79,7 +83,7 @@
           "opponent_win_prob": 0.4662200100696634,
           "is_winner": false,
           "opponent_slug": "olle-strandberg",
-          "opponent_hist_score_share": 0.6605863621382464
+          "opponent_hist_score_share": 0.6605863621382463
         },
         {
           "game_id": 412,
@@ -97,7 +101,7 @@
           "opponent_win_prob": 0.8219157092502243,
           "is_winner": false,
           "opponent_slug": "johan-johnson",
-          "opponent_hist_score_share": 0.4716205363264187
+          "opponent_hist_score_share": 0.4769825109530992
         },
         {
           "game_id": 427,
@@ -115,7 +119,7 @@
           "opponent_win_prob": 0.777228337699137,
           "is_winner": false,
           "opponent_slug": "olle-strandberg",
-          "opponent_hist_score_share": 0.6605863621382464
+          "opponent_hist_score_share": 0.6605863621382463
         }
       ],
       "n_games": 3,

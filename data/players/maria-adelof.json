@@ -7,13 +7,13 @@
     2017
   ],
   "win_rate": 0.4,
-  "opponent_score_share": 0.4102677529132392,
+  "opponent_score_share": 0.4168037889293682,
   "skill": 77.22341359822497,
   "skill_sigma": 56.52126223985177,
   "name": "Maria Adel\u00f6f",
   "slug": "maria-adelof",
-  "skill_rank": 92.0,
-  "skill_rank_pct": 92.0,
+  "skill_rank": 97.0,
+  "skill_rank_pct": 97.0,
   "skill_history": [
     [
       2011,
@@ -50,6 +50,10 @@
     [
       2022,
       null
+    ],
+    [
+      2023,
+      null
     ]
   ],
   "tournaments": [
@@ -80,7 +84,7 @@
           "opponent_win_prob": 0.7360954807207261,
           "is_winner": false,
           "opponent_slug": "jakob-lien",
-          "opponent_hist_score_share": 0.5680243456458289
+          "opponent_hist_score_share": 0.568024345645829
         },
         {
           "game_id": 57,
@@ -107,32 +111,14 @@
     {
       "year": 2017,
       "last_game": {
-        "opponent_name": "Kajsa Hallberg-Nor.",
-        "opponent_slug": "kajsa-hallberg-nor",
-        "score": 7,
-        "opponent_score": 6,
-        "is_winner": true,
+        "opponent_name": "Sandra Starfelt",
+        "opponent_slug": "sandra-starfelt",
+        "score": 5,
+        "opponent_score": 8,
+        "is_winner": false,
         "stage": "gruppspel"
       },
       "games": [
-        {
-          "game_id": 127,
-          "year": 2017,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p1",
-          "name": "Maria Adel\u00f6f",
-          "score": 5,
-          "score_share": 0.38461538461538464,
-          "win_prob": 0.4648391371884446,
-          "opponent_name": "Sandra Starfelt",
-          "opponent_score": 8,
-          "opponent_score_share": 0.6153846153846154,
-          "opponent_win_prob": 0.5351608628115554,
-          "is_winner": false,
-          "opponent_slug": "sandra-starfelt",
-          "opponent_hist_score_share": 0.5058275058275058
-        },
         {
           "game_id": 98,
           "year": 2017,
@@ -149,7 +135,7 @@
           "opponent_win_prob": 0.4669013794480954,
           "is_winner": false,
           "opponent_slug": "benjamin-ger-hed",
-          "opponent_hist_score_share": 0.5937790548374914
+          "opponent_hist_score_share": 0.614286949352186
         },
         {
           "game_id": 118,
@@ -167,7 +153,25 @@
           "opponent_win_prob": 0.411819051868066,
           "is_winner": true,
           "opponent_slug": "kajsa-hallberg-nor",
-          "opponent_hist_score_share": 0.23370785825536958
+          "opponent_hist_score_share": 0.24588014382132029
+        },
+        {
+          "game_id": 127,
+          "year": 2017,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Maria Adel\u00f6f",
+          "score": 5,
+          "score_share": 0.38461538461538464,
+          "win_prob": 0.4648391371884446,
+          "opponent_name": "Sandra Starfelt",
+          "opponent_score": 8,
+          "opponent_score_share": 0.6153846153846154,
+          "opponent_win_prob": 0.5351608628115554,
+          "is_winner": false,
+          "opponent_slug": "sandra-starfelt",
+          "opponent_hist_score_share": 0.5058275058275058
         }
       ],
       "n_games": 3,

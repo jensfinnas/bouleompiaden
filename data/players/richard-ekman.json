@@ -1,6 +1,6 @@
 {
   "n_games": 15,
-  "score_share": 0.6032088282088284,
+  "score_share": 0.6032088282088282,
   "n_wins": 8,
   "years": [
     2012,
@@ -10,13 +10,13 @@
     2019
   ],
   "win_rate": 0.5333333333333333,
-  "opponent_score_share": 0.44744946470356717,
+  "opponent_score_share": 0.443352733653431,
   "skill": 82.85579750439959,
   "skill_sigma": 32.23354272422082,
   "name": "Richard Ekman",
   "slug": "richard-ekman",
-  "skill_rank": 88.0,
-  "skill_rank_pct": 88.0,
+  "skill_rank": 94.0,
+  "skill_rank_pct": 94.0,
   "skill_history": [
     [
       2011,
@@ -53,38 +53,24 @@
     [
       2022,
       null
+    ],
+    [
+      2023,
+      null
     ]
   ],
   "tournaments": [
     {
       "year": 2012,
       "last_game": {
-        "opponent_name": "Filip Tyd\u00e9n",
-        "opponent_slug": "filip-tyden",
-        "score": 5,
-        "opponent_score": 7,
+        "opponent_name": "Andreas Josefson",
+        "opponent_slug": "andreas-josefson",
+        "score": 6,
+        "opponent_score": 8,
         "is_winner": false,
         "stage": "gruppspel"
       },
       "games": [
-        {
-          "game_id": 29,
-          "year": 2012,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p2",
-          "name": "Richard Ekman",
-          "score": 6,
-          "score_share": 0.42857142857142855,
-          "win_prob": 0.38989038244141544,
-          "opponent_name": "Andreas Josefson",
-          "opponent_score": 8,
-          "opponent_score_share": 0.5714285714285714,
-          "opponent_win_prob": 0.6101096175585845,
-          "is_winner": false,
-          "opponent_slug": "andreas-josefson",
-          "opponent_hist_score_share": 0.41695652620022366
-        },
         {
           "game_id": 21,
           "year": 2012,
@@ -102,6 +88,24 @@
           "is_winner": false,
           "opponent_slug": "filip-tyden",
           "opponent_hist_score_share": 0.6461829836829838
+        },
+        {
+          "game_id": 29,
+          "year": 2012,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Richard Ekman",
+          "score": 6,
+          "score_share": 0.42857142857142855,
+          "win_prob": 0.38989038244141544,
+          "opponent_name": "Andreas Josefson",
+          "opponent_score": 8,
+          "opponent_score_share": 0.5714285714285714,
+          "opponent_win_prob": 0.6101096175585845,
+          "is_winner": false,
+          "opponent_slug": "andreas-josefson",
+          "opponent_hist_score_share": 0.396521742600174
         }
       ],
       "n_games": 2,
@@ -134,7 +138,7 @@
           "opponent_win_prob": 0.3725905379855232,
           "is_winner": true,
           "opponent_slug": "sofia-radstrom",
-          "opponent_hist_score_share": 0.343188184364655
+          "opponent_hist_score_share": 0.33582760376878024
         },
         {
           "game_id": 67,
@@ -170,7 +174,7 @@
           "opponent_win_prob": 0.5334163269808834,
           "is_winner": false,
           "opponent_slug": "jerker-karlsson",
-          "opponent_hist_score_share": 0.5304547767047768
+          "opponent_hist_score_share": 0.5216255545801
         }
       ],
       "n_games": 3,
@@ -203,7 +207,7 @@
           "opponent_win_prob": 0.461130883659721,
           "is_winner": true,
           "opponent_slug": "tobe-welander",
-          "opponent_hist_score_share": 0.48502616664381376
+          "opponent_hist_score_share": 0.48502616664381365
         },
         {
           "game_id": 97,
@@ -239,7 +243,7 @@
           "opponent_win_prob": 0.2503306847778113,
           "is_winner": true,
           "opponent_slug": "sofia-radstrom",
-          "opponent_hist_score_share": 0.343188184364655
+          "opponent_hist_score_share": 0.33582760376878024
         },
         {
           "game_id": 138,
@@ -257,7 +261,7 @@
           "opponent_win_prob": 0.8927184293193292,
           "is_winner": false,
           "opponent_slug": "edvin-lindsten",
-          "opponent_hist_score_share": 0.5706356991424866
+          "opponent_hist_score_share": 0.5674037929616024
         }
       ],
       "n_games": 4,
@@ -308,7 +312,7 @@
           "opponent_win_prob": 0.6875569080063968,
           "is_winner": true,
           "opponent_slug": "mina-kheirkhah",
-          "opponent_hist_score_share": 0.4432545173186885
+          "opponent_hist_score_share": 0.44838664603370487
         },
         {
           "game_id": 223,
@@ -326,7 +330,7 @@
           "opponent_win_prob": 0.259365433580075,
           "is_winner": false,
           "opponent_slug": "jens-hultkrans",
-          "opponent_hist_score_share": 0.5361535421278069
+          "opponent_hist_score_share": 0.5241481013539837
         }
       ],
       "n_games": 3,
@@ -344,24 +348,6 @@
       },
       "games": [
         {
-          "game_id": 281,
-          "year": 2019,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p2",
-          "name": "Richard Ekman",
-          "score": 7,
-          "score_share": 0.4666666666666667,
-          "win_prob": 0.8177587697433817,
-          "opponent_name": "Sofia R\u00e5dstr\u00f6m",
-          "opponent_score": 8,
-          "opponent_score_share": 0.5333333333333333,
-          "opponent_win_prob": 0.18224123025661831,
-          "is_winner": false,
-          "opponent_slug": "sofia-radstrom",
-          "opponent_hist_score_share": 0.343188184364655
-        },
-        {
           "game_id": 250,
           "year": 2019,
           "stage": "gruppspel",
@@ -378,6 +364,24 @@
           "is_winner": true,
           "opponent_slug": "leo-ehnborg",
           "opponent_hist_score_share": 0.3125
+        },
+        {
+          "game_id": 281,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Richard Ekman",
+          "score": 7,
+          "score_share": 0.4666666666666667,
+          "win_prob": 0.8177587697433817,
+          "opponent_name": "Sofia R\u00e5dstr\u00f6m",
+          "opponent_score": 8,
+          "opponent_score_share": 0.5333333333333333,
+          "opponent_win_prob": 0.18224123025661831,
+          "is_winner": false,
+          "opponent_slug": "sofia-radstrom",
+          "opponent_hist_score_share": 0.33582760376878024
         },
         {
           "game_id": 313,
@@ -404,7 +408,7 @@
   ],
   "best_stage": "kvartsfinal",
   "best_stage_years": [
-    2016,
-    2017
+    2017,
+    2016
   ]
 }

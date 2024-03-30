@@ -1,18 +1,19 @@
 {
-  "n_games": 3,
-  "score_share": 0.5624338624338624,
-  "n_wins": 2,
+  "n_games": 7,
+  "score_share": 0.48931564467278754,
+  "n_wins": 4,
   "years": [
-    2022
+    2022,
+    2023
   ],
-  "win_rate": 0.6666666666666666,
-  "opponent_score_share": 0.5382806337682499,
-  "skill": 167.6682323759856,
-  "skill_sigma": 54.0829343783053,
+  "win_rate": 0.5714285714285714,
+  "opponent_score_share": 0.5138405393545488,
+  "skill": 144.56377592391954,
+  "skill_sigma": 42.09368322203404,
   "name": "Jakob Gudmundsson",
   "slug": "jakob-gudmundsson",
-  "skill_rank": 23.0,
-  "skill_rank_pct": 23.0,
+  "skill_rank": 43.0,
+  "skill_rank_pct": 43.0,
   "skill_history": [
     [
       2011,
@@ -49,6 +50,10 @@
     [
       2022,
       168.0
+    ],
+    [
+      2023,
+      145.0
     ]
   ],
   "tournaments": [
@@ -79,7 +84,7 @@
           "opponent_win_prob": 0.7102207252993319,
           "is_winner": true,
           "opponent_slug": "jerker-karlsson",
-          "opponent_hist_score_share": 0.5304547767047768
+          "opponent_hist_score_share": 0.5216255545801
         },
         {
           "game_id": 595,
@@ -97,7 +102,7 @@
           "opponent_win_prob": 0.30859243427301125,
           "is_winner": true,
           "opponent_slug": "carl-rother-schirren",
-          "opponent_hist_score_share": 0.4993908382066278
+          "opponent_hist_score_share": 0.49939083820662766
         },
         {
           "game_id": 629,
@@ -115,15 +120,103 @@
           "opponent_win_prob": 0.24582937615414746,
           "is_winner": false,
           "opponent_slug": "jon-jeppson",
-          "opponent_hist_score_share": 0.5849962863933452
+          "opponent_hist_score_share": 0.5966064708711767
         }
       ],
       "n_games": 3,
+      "n_wins": 2
+    },
+    {
+      "year": 2023,
+      "last_game": {
+        "opponent_name": "Filippa Berencreutz",
+        "opponent_slug": "filippa-berencreutz",
+        "score": 1,
+        "opponent_score": 12,
+        "is_winner": false,
+        "stage": "sextondelsfinal"
+      },
+      "games": [
+        {
+          "game_id": 688,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Jakob Gudmundsson",
+          "score": 2,
+          "score_share": 0.18181818181818182,
+          "win_prob": 0.4605595297571207,
+          "opponent_name": "Simon Fridh",
+          "opponent_score": 9,
+          "opponent_score_share": 0.8181818181818182,
+          "opponent_win_prob": 0.5394404702428792,
+          "is_winner": false,
+          "opponent_slug": "simon-fridh",
+          "opponent_hist_score_share": 0.6496503496503497
+        },
+        {
+          "game_id": 720,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Jakob Gudmundsson",
+          "score": 9,
+          "score_share": 0.5625,
+          "win_prob": 0.8149074246486288,
+          "opponent_name": "Linda Tran",
+          "opponent_score": 7,
+          "opponent_score_share": 0.4375,
+          "opponent_win_prob": 0.18509257535137125,
+          "is_winner": true,
+          "opponent_slug": "linda-tran",
+          "opponent_hist_score_share": 0.4735576923076923
+        },
+        {
+          "game_id": 656,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Jakob Gudmundsson",
+          "score": 11,
+          "score_share": 0.9166666666666666,
+          "win_prob": 0.9032369360271665,
+          "opponent_name": "Olle Nyr\u00e9n",
+          "opponent_score": 1,
+          "opponent_score_share": 0.08333333333333333,
+          "opponent_win_prob": 0.09676306397283355,
+          "is_winner": true,
+          "opponent_slug": "olle-nyren",
+          "opponent_hist_score_share": 0.32150706436420723
+        },
+        {
+          "game_id": 741,
+          "year": 2023,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p1",
+          "name": "Jakob Gudmundsson",
+          "score": 1,
+          "score_share": 0.07692307692307693,
+          "win_prob": 0.5041276820342698,
+          "opponent_name": "Filippa Berencreutz",
+          "opponent_score": 12,
+          "opponent_score_share": 0.9230769230769231,
+          "opponent_win_prob": 0.49587231796573017,
+          "is_winner": false,
+          "opponent_slug": "filippa-berencreutz",
+          "opponent_hist_score_share": 0.5345458055016878
+        }
+      ],
+      "n_games": 4,
       "n_wins": 2
     }
   ],
   "best_stage": "sextondelsfinal",
   "best_stage_years": [
-    2022
+    2022,
+    2023
   ]
 }

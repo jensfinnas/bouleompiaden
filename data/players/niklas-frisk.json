@@ -6,7 +6,7 @@
     2019
   ],
   "win_rate": 0.6666666666666666,
-  "opponent_score_share": 0.39534732904977465,
+  "opponent_score_share": 0.40027592864617895,
   "skill": 169.30230457900387,
   "skill_sigma": 54.19541215107114,
   "name": "Niklas Frisk",
@@ -49,6 +49,10 @@
     [
       2022,
       null
+    ],
+    [
+      2023,
+      null
     ]
   ],
   "tournaments": [
@@ -63,24 +67,6 @@
         "stage": "sextondelsfinal"
       },
       "games": [
-        {
-          "game_id": 262,
-          "year": 2019,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p2",
-          "name": "Niklas Frisk",
-          "score": 8,
-          "score_share": 0.8,
-          "win_prob": 0.21515689332193788,
-          "opponent_name": "Ville Nordenankar",
-          "opponent_score": 2,
-          "opponent_score_share": 0.2,
-          "opponent_win_prob": 0.7848431066780621,
-          "is_winner": true,
-          "opponent_slug": "ville-nordenankar",
-          "opponent_hist_score_share": 0.39991770382395375
-        },
         {
           "game_id": 287,
           "year": 2019,
@@ -97,7 +83,25 @@
           "opponent_win_prob": 0.3763409887525495,
           "is_winner": true,
           "opponent_slug": "monica-harder",
-          "opponent_hist_score_share": 0.3054112554112554
+          "opponent_hist_score_share": 0.29126014041980425
+        },
+        {
+          "game_id": 262,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Niklas Frisk",
+          "score": 8,
+          "score_share": 0.8,
+          "win_prob": 0.21515689332193788,
+          "opponent_name": "Ville Nordenankar",
+          "opponent_score": 2,
+          "opponent_score_share": 0.2,
+          "opponent_win_prob": 0.7848431066780621,
+          "is_winner": true,
+          "opponent_slug": "ville-nordenankar",
+          "opponent_hist_score_share": 0.4288546176046176
         },
         {
           "game_id": 335,
@@ -115,7 +119,7 @@
           "opponent_win_prob": 0.20523518002834062,
           "is_winner": false,
           "opponent_slug": "cissi-hellman",
-          "opponent_hist_score_share": 0.48071302791411474
+          "opponent_hist_score_share": 0.48071302791411485
         }
       ],
       "n_games": 3,

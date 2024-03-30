@@ -1,19 +1,19 @@
 {
   "n_games": 7,
-  "score_share": 0.5705586080586081,
+  "score_share": 0.570558608058608,
   "n_wins": 3,
   "years": [
     2018,
     2019
   ],
   "win_rate": 0.42857142857142855,
-  "opponent_score_share": 0.3946215408944903,
+  "opponent_score_share": 0.4008676426901869,
   "skill": 118.06421381238414,
   "skill_sigma": 44.20405997221034,
   "name": "Louise Persson",
   "slug": "louise-persson",
-  "skill_rank": 65.0,
-  "skill_rank_pct": 65.0,
+  "skill_rank": 72.0,
+  "skill_rank_pct": 72.0,
   "skill_history": [
     [
       2011,
@@ -50,6 +50,10 @@
     [
       2022,
       null
+    ],
+    [
+      2023,
+      null
     ]
   ],
   "tournaments": [
@@ -64,24 +68,6 @@
         "stage": "sextondelsfinal"
       },
       "games": [
-        {
-          "game_id": 154,
-          "year": 2018,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p1",
-          "name": "Louise Persson",
-          "score": 3,
-          "score_share": 0.3,
-          "win_prob": 0.2349640785717757,
-          "opponent_name": "Ville Nordenankar",
-          "opponent_score": 7,
-          "opponent_score_share": 0.7,
-          "opponent_win_prob": 0.7650359214282243,
-          "is_winner": false,
-          "opponent_slug": "ville-nordenankar",
-          "opponent_hist_score_share": 0.39991770382395375
-        },
         {
           "game_id": 192,
           "year": 2018,
@@ -99,6 +85,24 @@
           "is_winner": true,
           "opponent_slug": "kevin-carlsson",
           "opponent_hist_score_share": 0.36713286713286714
+        },
+        {
+          "game_id": 154,
+          "year": 2018,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Louise Persson",
+          "score": 3,
+          "score_share": 0.3,
+          "win_prob": 0.2349640785717757,
+          "opponent_name": "Ville Nordenankar",
+          "opponent_score": 7,
+          "opponent_score_share": 0.7,
+          "opponent_win_prob": 0.7650359214282243,
+          "is_winner": false,
+          "opponent_slug": "ville-nordenankar",
+          "opponent_hist_score_share": 0.4288546176046176
         },
         {
           "game_id": 213,
@@ -143,31 +147,31 @@
     {
       "year": 2019,
       "last_game": {
-        "opponent_name": "Monica Harder",
-        "opponent_slug": "monica-harder",
-        "score": 4,
+        "opponent_name": "Cissi Hellman",
+        "opponent_slug": "cissi-hellman",
+        "score": 5,
         "opponent_score": 8,
         "is_winner": false,
         "stage": "gruppspel"
       },
       "games": [
         {
-          "game_id": 327,
+          "game_id": 263,
           "year": 2019,
           "stage": "gruppspel",
           "stage_level": 0,
-          "winner": "p1",
+          "winner": "p2",
           "name": "Louise Persson",
-          "score": 5,
-          "score_share": 0.38461538461538464,
-          "win_prob": 0.49977662799781797,
-          "opponent_name": "Cissi Hellman",
+          "score": 4,
+          "score_share": 0.3333333333333333,
+          "win_prob": 0.5452867929939309,
+          "opponent_name": "Monica Harder",
           "opponent_score": 8,
-          "opponent_score_share": 0.6153846153846154,
-          "opponent_win_prob": 0.500223372002182,
+          "opponent_score_share": 0.6666666666666666,
+          "opponent_win_prob": 0.4547132070060691,
           "is_winner": false,
-          "opponent_slug": "cissi-hellman",
-          "opponent_hist_score_share": 0.48071302791411474
+          "opponent_slug": "monica-harder",
+          "opponent_hist_score_share": 0.29126014041980425
         },
         {
           "game_id": 303,
@@ -185,25 +189,25 @@
           "opponent_win_prob": 0.8197776156020011,
           "is_winner": true,
           "opponent_slug": "ville-nordenankar",
-          "opponent_hist_score_share": 0.39991770382395375
+          "opponent_hist_score_share": 0.4288546176046176
         },
         {
-          "game_id": 263,
+          "game_id": 327,
           "year": 2019,
           "stage": "gruppspel",
           "stage_level": 0,
-          "winner": "p2",
+          "winner": "p1",
           "name": "Louise Persson",
-          "score": 4,
-          "score_share": 0.3333333333333333,
-          "win_prob": 0.5452867929939309,
-          "opponent_name": "Monica Harder",
+          "score": 5,
+          "score_share": 0.38461538461538464,
+          "win_prob": 0.49977662799781797,
+          "opponent_name": "Cissi Hellman",
           "opponent_score": 8,
-          "opponent_score_share": 0.6666666666666666,
-          "opponent_win_prob": 0.4547132070060691,
+          "opponent_score_share": 0.6153846153846154,
+          "opponent_win_prob": 0.500223372002182,
           "is_winner": false,
-          "opponent_slug": "monica-harder",
-          "opponent_hist_score_share": 0.3054112554112554
+          "opponent_slug": "cissi-hellman",
+          "opponent_hist_score_share": 0.48071302791411485
         }
       ],
       "n_games": 3,

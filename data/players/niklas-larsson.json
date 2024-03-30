@@ -6,13 +6,13 @@
     2018
   ],
   "win_rate": 0.5,
-  "opponent_score_share": 0.4805478416057768,
+  "opponent_score_share": 0.47699176260584264,
   "skill": 109.31082030197226,
   "skill_sigma": 60.93786060465312,
   "name": "Niklas Larsson",
   "slug": "niklas-larsson",
-  "skill_rank": 69.0,
-  "skill_rank_pct": 69.0,
+  "skill_rank": 74.0,
+  "skill_rank_pct": 74.0,
   "skill_history": [
     [
       2011,
@@ -49,6 +49,10 @@
     [
       2022,
       null
+    ],
+    [
+      2023,
+      null
     ]
   ],
   "tournaments": [
@@ -63,6 +67,24 @@
         "stage": "sextondelsfinal"
       },
       "games": [
+        {
+          "game_id": 173,
+          "year": 2018,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Niklas Larsson",
+          "score": 2,
+          "score_share": 0.2222222222222222,
+          "win_prob": 0.49999998499999976,
+          "opponent_name": "Sebastin Fors\u00e9n",
+          "opponent_score": 7,
+          "opponent_score_share": 0.7777777777777778,
+          "opponent_win_prob": 0.5000000150000002,
+          "is_winner": false,
+          "opponent_slug": "sebastin-forsen",
+          "opponent_hist_score_share": 0.5314737005913477
+        },
         {
           "game_id": 201,
           "year": 2018,
@@ -97,25 +119,7 @@
           "opponent_win_prob": 0.4396649172104286,
           "is_winner": true,
           "opponent_slug": "sofia-orning",
-          "opponent_hist_score_share": 0.40345667857922757
-        },
-        {
-          "game_id": 173,
-          "year": 2018,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p1",
-          "name": "Niklas Larsson",
-          "score": 2,
-          "score_share": 0.2222222222222222,
-          "win_prob": 0.49999998499999976,
-          "opponent_name": "Sebastin Fors\u00e9n",
-          "opponent_score": 7,
-          "opponent_score_share": 0.7777777777777778,
-          "opponent_win_prob": 0.5000000150000002,
-          "is_winner": false,
-          "opponent_slug": "sebastin-forsen",
-          "opponent_hist_score_share": 0.5314737005913477
+          "opponent_hist_score_share": 0.38998601072130484
         },
         {
           "game_id": 221,
@@ -133,7 +137,7 @@
           "opponent_win_prob": 0.9136656347001425,
           "is_winner": false,
           "opponent_slug": "gabriel-nordenankar",
-          "opponent_hist_score_share": 0.6515913176295751
+          "opponent_hist_score_share": 0.6508376694877611
         }
       ],
       "n_games": 4,

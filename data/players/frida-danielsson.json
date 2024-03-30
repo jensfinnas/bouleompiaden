@@ -6,13 +6,13 @@
     2019
   ],
   "win_rate": 0.0,
-  "opponent_score_share": 0.5519250017788595,
+  "opponent_score_share": 0.5476065289141387,
   "skill": 12.171755924354164,
   "skill_sigma": 70.96224863449702,
   "name": "Frida Danielsson",
   "slug": "frida-danielsson",
-  "skill_rank": 132.0,
-  "skill_rank_pct": 132.0,
+  "skill_rank": 144.0,
+  "skill_rank_pct": 144.0,
   "skill_history": [
     [
       2011,
@@ -49,38 +49,24 @@
     [
       2022,
       null
+    ],
+    [
+      2023,
+      null
     ]
   ],
   "tournaments": [
     {
       "year": 2019,
       "last_game": {
-        "opponent_name": "Olaver",
-        "opponent_slug": "olaver",
+        "opponent_name": "Theodore Ripman",
+        "opponent_slug": "theodore-ripman",
         "score": 1,
-        "opponent_score": 8,
+        "opponent_score": 9,
         "is_winner": false,
         "stage": "gruppspel"
       },
       "games": [
-        {
-          "game_id": 266,
-          "year": 2019,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p1",
-          "name": "Frida Danielsson",
-          "score": 1,
-          "score_share": 0.1,
-          "win_prob": 0.30128480943237324,
-          "opponent_name": "Theodore Ripman",
-          "opponent_score": 9,
-          "opponent_score_share": 0.9,
-          "opponent_win_prob": 0.6987151905676268,
-          "is_winner": false,
-          "opponent_slug": "theodore-ripman",
-          "opponent_hist_score_share": 0.5684301946084984
-        },
         {
           "game_id": 305,
           "year": 2019,
@@ -98,6 +84,24 @@
           "is_winner": false,
           "opponent_slug": "olaver",
           "opponent_hist_score_share": 0.5354198089492207
+        },
+        {
+          "game_id": 266,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Frida Danielsson",
+          "score": 1,
+          "score_share": 0.1,
+          "win_prob": 0.30128480943237324,
+          "opponent_name": "Theodore Ripman",
+          "opponent_score": 9,
+          "opponent_score_share": 0.9,
+          "opponent_win_prob": 0.6987151905676268,
+          "is_winner": false,
+          "opponent_slug": "theodore-ripman",
+          "opponent_hist_score_share": 0.5597932488790567
         }
       ],
       "n_games": 2,

@@ -1,20 +1,21 @@
 {
-  "n_games": 8,
-  "score_share": 0.3431332556332556,
+  "n_games": 10,
+  "score_share": 0.33823209470268295,
   "n_wins": 2,
   "years": [
     2019,
     2021,
-    2022
+    2022,
+    2023
   ],
-  "win_rate": 0.25,
-  "opponent_score_share": 0.52646273164676,
-  "skill": 56.90172449003551,
-  "skill_sigma": 43.703798376204496,
+  "win_rate": 0.2,
+  "opponent_score_share": 0.5180920101264138,
+  "skill": 40.72665858324049,
+  "skill_sigma": 39.19310361026009,
   "name": "Hasse Hallgren",
   "slug": "hasse-hallgren",
-  "skill_rank": 107.0,
-  "skill_rank_pct": 107.0,
+  "skill_rank": 121.0,
+  "skill_rank_pct": 121.0,
   "skill_history": [
     [
       2011,
@@ -51,38 +52,24 @@
     [
       2022,
       57.0
+    ],
+    [
+      2023,
+      41.0
     ]
   ],
   "tournaments": [
     {
       "year": 2019,
       "last_game": {
-        "opponent_name": "Olle Strandberg",
-        "opponent_slug": "olle-strandberg",
-        "score": 1,
+        "opponent_name": "Robin Linderborg",
+        "opponent_slug": "robin-linderborg",
+        "score": 2,
         "opponent_score": 8,
         "is_winner": false,
         "stage": "gruppspel"
       },
       "games": [
-        {
-          "game_id": 256,
-          "year": 2019,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p1",
-          "name": "Hasse Hallgren",
-          "score": 2,
-          "score_share": 0.2,
-          "win_prob": 0.2608740338017703,
-          "opponent_name": "Robin Linderborg",
-          "opponent_score": 8,
-          "opponent_score_share": 0.8,
-          "opponent_win_prob": 0.7391259661982297,
-          "is_winner": false,
-          "opponent_slug": "robin-linderborg",
-          "opponent_hist_score_share": 0.5497140012765013
-        },
         {
           "game_id": 300,
           "year": 2019,
@@ -99,7 +86,25 @@
           "opponent_win_prob": 0.5678133536301253,
           "is_winner": false,
           "opponent_slug": "olle-strandberg",
-          "opponent_hist_score_share": 0.6605863621382464
+          "opponent_hist_score_share": 0.6605863621382463
+        },
+        {
+          "game_id": 256,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Hasse Hallgren",
+          "score": 2,
+          "score_share": 0.2,
+          "win_prob": 0.2608740338017703,
+          "opponent_name": "Robin Linderborg",
+          "opponent_score": 8,
+          "opponent_score_share": 0.8,
+          "opponent_win_prob": 0.7391259661982297,
+          "is_winner": false,
+          "opponent_slug": "robin-linderborg",
+          "opponent_hist_score_share": 0.569941409165547
         }
       ],
       "n_games": 2,
@@ -183,7 +188,7 @@
           "opponent_win_prob": 0.719746680867646,
           "is_winner": true,
           "opponent_slug": "sofia-orning",
-          "opponent_hist_score_share": 0.40345667857922757
+          "opponent_hist_score_share": 0.38998601072130484
         },
         {
           "game_id": 586,
@@ -201,7 +206,7 @@
           "opponent_win_prob": 0.8239346576105882,
           "is_winner": false,
           "opponent_slug": "richard-olsen",
-          "opponent_hist_score_share": 0.5837912087912087
+          "opponent_hist_score_share": 0.5460568842921784
         },
         {
           "game_id": 614,
@@ -219,7 +224,7 @@
           "opponent_win_prob": 0.7842103399904469,
           "is_winner": true,
           "opponent_slug": "linda-tran",
-          "opponent_hist_score_share": 0.4166666666666667
+          "opponent_hist_score_share": 0.4735576923076923
         },
         {
           "game_id": 637,
@@ -242,6 +247,57 @@
       ],
       "n_games": 4,
       "n_wins": 2
+    },
+    {
+      "year": 2023,
+      "last_game": {
+        "opponent_name": "Kusha Bahrami",
+        "opponent_slug": "kusha-bahrami",
+        "score": 2,
+        "opponent_score": 10,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "games": [
+        {
+          "game_id": 666,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Hasse Hallgren",
+          "score": 8,
+          "score_share": 0.47058823529411764,
+          "win_prob": 0.21640667467952449,
+          "opponent_name": "Johan Johnson",
+          "opponent_score": 9,
+          "opponent_score_share": 0.5294117647058824,
+          "opponent_win_prob": 0.7835933253204755,
+          "is_winner": false,
+          "opponent_slug": "johan-johnson",
+          "opponent_hist_score_share": 0.4769825109530992
+        },
+        {
+          "game_id": 709,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Hasse Hallgren",
+          "score": 2,
+          "score_share": 0.16666666666666666,
+          "win_prob": 0.24724062802566513,
+          "opponent_name": "Kusha Bahrami",
+          "opponent_score": 10,
+          "opponent_score_share": 0.8333333333333334,
+          "opponent_win_prob": 0.7527593719743348,
+          "is_winner": false,
+          "opponent_slug": "kusha-bahrami",
+          "opponent_hist_score_share": 0.4663222959638401
+        }
+      ],
+      "n_games": 2,
+      "n_wins": 0
     }
   ],
   "best_stage": "sextondelsfinal",

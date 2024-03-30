@@ -8,7 +8,7 @@ Bouleompiadens datasajt. Bor <a href="https://boule.ninja">boule.ninja</a>.
 
 ## Uppdatera
 
-- Ladda ner data från fliken [Data: Matcher](https://docs.google.com/spreadsheets/d/1yyXMc46V85uiTe1cdd8Fniuq2HpHeglAVKtyTviDzSE/edit#gid=497343367) till en csv och spara den till `data/Bouleompiaden Statistikdatabasen - Data Matcher.csv`
+- Ladda ner data från fliken [Data: Matcher](https://docs.google.com/spreadsheets/d/1yyXMc46V85uiTe1cdd8Fniuq2HpHeglAVKtyTviDzSE/edit#gid=497343367) till en csv och spara den till `data/input/Bouleompiaden Statistikdatabasen - Data Matcher.csv`
 - Kör `python prepare_data_for_api.py`
 
 ## Utveckla

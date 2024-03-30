@@ -1,18 +1,19 @@
 {
-  "n_games": 3,
-  "score_share": 0.7102564102564103,
-  "n_wins": 2,
+  "n_games": 7,
+  "score_share": 0.5195434817283557,
+  "n_wins": 4,
   "years": [
-    2022
+    2022,
+    2023
   ],
-  "win_rate": 0.6666666666666666,
-  "opponent_score_share": 0.3605243379776751,
-  "skill": 135.64537216261115,
-  "skill_sigma": 59.719192267294304,
+  "win_rate": 0.5714285714285714,
+  "opponent_score_share": 0.4810236503426581,
+  "skill": 146.48387946888488,
+  "skill_sigma": 38.59228147040312,
   "name": "Fredrik Matz",
   "slug": "fredrik-matz",
-  "skill_rank": 48.0,
-  "skill_rank_pct": 48.0,
+  "skill_rank": 41.0,
+  "skill_rank_pct": 41.0,
   "skill_history": [
     [
       2011,
@@ -49,6 +50,10 @@
     [
       2022,
       136.0
+    ],
+    [
+      2023,
+      146.0
     ]
   ],
   "tournaments": [
@@ -79,7 +84,7 @@
           "opponent_win_prob": 0.2177792345974645,
           "is_winner": true,
           "opponent_slug": "kajsa-hallberg-nor",
-          "opponent_hist_score_share": 0.23370785825536958
+          "opponent_hist_score_share": 0.24588014382132029
         },
         {
           "game_id": 591,
@@ -120,10 +125,98 @@
       ],
       "n_games": 3,
       "n_wins": 2
+    },
+    {
+      "year": 2023,
+      "last_game": {
+        "opponent_name": "Bj\u00f6rn Berglund",
+        "opponent_slug": "bjorn-berglund",
+        "score": 1,
+        "opponent_score": 10,
+        "is_winner": false,
+        "stage": "sextondelsfinal"
+      },
+      "games": [
+        {
+          "game_id": 662,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Fredrik Matz",
+          "score": 9,
+          "score_share": 0.5294117647058824,
+          "win_prob": 0.42902623686426905,
+          "opponent_name": "Richard Olsen",
+          "opponent_score": 8,
+          "opponent_score_share": 0.47058823529411764,
+          "opponent_win_prob": 0.570973763135731,
+          "is_winner": true,
+          "opponent_slug": "richard-olsen",
+          "opponent_hist_score_share": 0.5460568842921784
+        },
+        {
+          "game_id": 691,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Fredrik Matz",
+          "score": 4,
+          "score_share": 0.2857142857142857,
+          "win_prob": 0.4216898048207726,
+          "opponent_name": "Pelle Dovborg",
+          "opponent_score": 10,
+          "opponent_score_share": 0.7142857142857143,
+          "opponent_win_prob": 0.5783101951792273,
+          "is_winner": false,
+          "opponent_slug": "pelle-dovborg",
+          "opponent_hist_score_share": 0.5687558814642149
+        },
+        {
+          "game_id": 723,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Fredrik Matz",
+          "score": 9,
+          "score_share": 0.6,
+          "win_prob": 0.3916915519010509,
+          "opponent_name": "Edvin Lindsten",
+          "opponent_score": 6,
+          "opponent_score_share": 0.4,
+          "opponent_win_prob": 0.6083084480989491,
+          "is_winner": true,
+          "opponent_slug": "edvin-lindsten",
+          "opponent_hist_score_share": 0.5674037929616024
+        },
+        {
+          "game_id": 751,
+          "year": 2023,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p1",
+          "name": "Fredrik Matz",
+          "score": 1,
+          "score_share": 0.09090909090909091,
+          "win_prob": 0.6935208536141559,
+          "opponent_name": "Bj\u00f6rn Berglund",
+          "opponent_score": 10,
+          "opponent_score_share": 0.9090909090909091,
+          "opponent_win_prob": 0.30647914638584406,
+          "is_winner": false,
+          "opponent_slug": "bjorn-berglund",
+          "opponent_hist_score_share": 0.5912036941816353
+        }
+      ],
+      "n_games": 4,
+      "n_wins": 2
     }
   ],
   "best_stage": "sextondelsfinal",
   "best_stage_years": [
-    2022
+    2022,
+    2023
   ]
 }

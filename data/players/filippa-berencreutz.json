@@ -1,20 +1,21 @@
 {
-  "n_games": 10,
-  "score_share": 0.4869061085972851,
-  "n_wins": 5,
+  "n_games": 14,
+  "score_share": 0.5345458055016878,
+  "n_wins": 8,
   "years": [
     2020,
     2021,
-    2022
+    2022,
+    2023
   ],
-  "win_rate": 0.5,
-  "opponent_score_share": 0.5187936454911708,
-  "skill": 148.52691646990297,
-  "skill_sigma": 33.98828879873908,
+  "win_rate": 0.5714285714285714,
+  "opponent_score_share": 0.517165185149999,
+  "skill": 164.91461925389044,
+  "skill_sigma": 28.985674441334464,
   "name": "Filippa Berencreutz",
   "slug": "filippa-berencreutz",
-  "skill_rank": 37.0,
-  "skill_rank_pct": 37.0,
+  "skill_rank": 24.0,
+  "skill_rank_pct": 24.0,
   "skill_history": [
     [
       2011,
@@ -51,6 +52,10 @@
     [
       2022,
       149.0
+    ],
+    [
+      2023,
+      165.0
     ]
   ],
   "tournaments": [
@@ -81,7 +86,7 @@
           "opponent_win_prob": 0.8097557405515661,
           "is_winner": false,
           "opponent_slug": "erik-nordenankar",
-          "opponent_hist_score_share": 0.6815916514882377
+          "opponent_hist_score_share": 0.679882946820159
         },
         {
           "game_id": 401,
@@ -99,7 +104,7 @@
           "opponent_win_prob": 0.7160978878071609,
           "is_winner": true,
           "opponent_slug": "mina-kheirkhah",
-          "opponent_hist_score_share": 0.4432545173186885
+          "opponent_hist_score_share": 0.44838664603370487
         },
         {
           "game_id": 411,
@@ -117,7 +122,7 @@
           "opponent_win_prob": 0.34455068317749227,
           "is_winner": false,
           "opponent_slug": "jon-jeppson",
-          "opponent_hist_score_share": 0.5849962863933452
+          "opponent_hist_score_share": 0.5966064708711767
         }
       ],
       "n_games": 3,
@@ -135,24 +140,6 @@
       },
       "games": [
         {
-          "game_id": 488,
-          "year": 2021,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p2",
-          "name": "Filippa Berencreutz",
-          "score": 9,
-          "score_share": 0.5294117647058824,
-          "win_prob": 0.3752401824915499,
-          "opponent_name": "Edvin Lindsten",
-          "opponent_score": 8,
-          "opponent_score_share": 0.47058823529411764,
-          "opponent_win_prob": 0.6247598175084501,
-          "is_winner": true,
-          "opponent_slug": "edvin-lindsten",
-          "opponent_hist_score_share": 0.5706356991424866
-        },
-        {
           "game_id": 467,
           "year": 2021,
           "stage": "gruppspel",
@@ -168,7 +155,25 @@
           "opponent_win_prob": 0.7689405427632858,
           "is_winner": true,
           "opponent_slug": "emma-bergmark",
-          "opponent_hist_score_share": 0.40318645170618855
+          "opponent_hist_score_share": 0.4416463599609884
+        },
+        {
+          "game_id": 488,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Filippa Berencreutz",
+          "score": 9,
+          "score_share": 0.5294117647058824,
+          "win_prob": 0.3752401824915499,
+          "opponent_name": "Edvin Lindsten",
+          "opponent_score": 8,
+          "opponent_score_share": 0.47058823529411764,
+          "opponent_win_prob": 0.6247598175084501,
+          "is_winner": true,
+          "opponent_slug": "edvin-lindsten",
+          "opponent_hist_score_share": 0.5674037929616024
         },
         {
           "game_id": 524,
@@ -186,7 +191,7 @@
           "opponent_win_prob": 0.5494761350812388,
           "is_winner": false,
           "opponent_slug": "theodore-ripman",
-          "opponent_hist_score_share": 0.5684301946084984
+          "opponent_hist_score_share": 0.5597932488790567
         }
       ],
       "n_games": 3,
@@ -219,7 +224,7 @@
           "opponent_win_prob": 0.4274228685123064,
           "is_winner": false,
           "opponent_slug": "alexander-starfelt",
-          "opponent_hist_score_share": 0.5523920473153514
+          "opponent_hist_score_share": 0.5337973093298171
         },
         {
           "game_id": 620,
@@ -237,7 +242,7 @@
           "opponent_win_prob": 0.3665856338476786,
           "is_winner": true,
           "opponent_slug": "magnus-enlund",
-          "opponent_hist_score_share": 0.5090642472995414
+          "opponent_hist_score_share": 0.5507322617051125
         },
         {
           "game_id": 573,
@@ -273,16 +278,102 @@
           "opponent_win_prob": 0.6103894818598097,
           "is_winner": false,
           "opponent_slug": "pelle-dovborg",
-          "opponent_hist_score_share": 0.5626206537570174
+          "opponent_hist_score_share": 0.5687558814642149
         }
       ],
       "n_games": 4,
       "n_wins": 2
+    },
+    {
+      "year": 2023,
+      "last_game": {
+        "opponent_name": "Theodore Ripman",
+        "opponent_slug": "theodore-ripman",
+        "score": 8,
+        "opponent_score": 10,
+        "is_winner": false,
+        "stage": "\u00e5ttondelsfinal"
+      },
+      "games": [
+        {
+          "game_id": 698,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Filippa Berencreutz",
+          "score": 9,
+          "score_share": 0.6,
+          "win_prob": 0.45558112459734185,
+          "opponent_name": "Jon Jeppson",
+          "opponent_score": 6,
+          "opponent_score_share": 0.4,
+          "opponent_win_prob": 0.5444188754026582,
+          "is_winner": true,
+          "opponent_slug": "jon-jeppson",
+          "opponent_hist_score_share": 0.5966064708711767
+        },
+        {
+          "game_id": 676,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Filippa Berencreutz",
+          "score": 11,
+          "score_share": 0.6470588235294118,
+          "win_prob": 0.8854779462269119,
+          "opponent_name": "Sofia R\u00e5dstr\u00f6m",
+          "opponent_score": 6,
+          "opponent_score_share": 0.35294117647058826,
+          "opponent_win_prob": 0.11452205377308815,
+          "is_winner": true,
+          "opponent_slug": "sofia-radstrom",
+          "opponent_hist_score_share": 0.33582760376878024
+        },
+        {
+          "game_id": 741,
+          "year": 2023,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p1",
+          "name": "Filippa Berencreutz",
+          "score": 12,
+          "score_share": 0.9230769230769231,
+          "win_prob": 0.49587231796573017,
+          "opponent_name": "Jakob Gudmundsson",
+          "opponent_score": 1,
+          "opponent_score_share": 0.07692307692307693,
+          "opponent_win_prob": 0.5041276820342698,
+          "is_winner": true,
+          "opponent_slug": "jakob-gudmundsson",
+          "opponent_hist_score_share": 0.48931564467278754
+        },
+        {
+          "game_id": 754,
+          "year": 2023,
+          "stage": "\u00e5ttondelsfinal",
+          "stage_level": 2,
+          "winner": "p1",
+          "name": "Filippa Berencreutz",
+          "score": 8,
+          "score_share": 0.4444444444444444,
+          "win_prob": 0.3488788672137033,
+          "opponent_name": "Theodore Ripman",
+          "opponent_score": 10,
+          "opponent_score_share": 0.5555555555555556,
+          "opponent_win_prob": 0.6511211327862967,
+          "is_winner": false,
+          "opponent_slug": "theodore-ripman",
+          "opponent_hist_score_share": 0.5597932488790567
+        }
+      ],
+      "n_games": 4,
+      "n_wins": 3
     }
   ],
-  "best_stage": "sextondelsfinal",
+  "best_stage": "\u00e5ttondelsfinal",
   "best_stage_years": [
-    2021,
-    2022
+    2023
   ]
 }

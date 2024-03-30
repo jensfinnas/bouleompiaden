@@ -1,0 +1,115 @@
+{
+  "n_games": 2,
+  "score_share": 0.2909090909090909,
+  "n_wins": 0,
+  "years": [
+    2023
+  ],
+  "win_rate": 0.0,
+  "opponent_score_share": 0.5347111436438945,
+  "skill": 30.857959566650656,
+  "skill_sigma": 72.17719305128152,
+  "name": "Lovine X",
+  "slug": "lovine-x",
+  "skill_rank": 130.0,
+  "skill_rank_pct": 130.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      null
+    ],
+    [
+      2016,
+      null
+    ],
+    [
+      2017,
+      null
+    ],
+    [
+      2018,
+      null
+    ],
+    [
+      2019,
+      null
+    ],
+    [
+      2020,
+      null
+    ],
+    [
+      2021,
+      null
+    ],
+    [
+      2022,
+      null
+    ],
+    [
+      2023,
+      31.0
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2023,
+      "last_game": {
+        "opponent_name": "Edvin Lindsten",
+        "opponent_slug": "edvin-lindsten",
+        "score": 2,
+        "opponent_score": 9,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "games": [
+        {
+          "game_id": 660,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Lovine X",
+          "score": 6,
+          "score_share": 0.4,
+          "win_prob": 0.44120069955392294,
+          "opponent_name": "Tim Samuelsson",
+          "opponent_score": 9,
+          "opponent_score_share": 0.6,
+          "opponent_win_prob": 0.5587993004460771,
+          "is_winner": false,
+          "opponent_slug": "tim-samuelsson",
+          "opponent_hist_score_share": 0.5020184943261866
+        },
+        {
+          "game_id": 706,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Lovine X",
+          "score": 2,
+          "score_share": 0.18181818181818182,
+          "win_prob": 0.129210618999463,
+          "opponent_name": "Edvin Lindsten",
+          "opponent_score": 9,
+          "opponent_score_share": 0.8181818181818182,
+          "opponent_win_prob": 0.8707893810005369,
+          "is_winner": false,
+          "opponent_slug": "edvin-lindsten",
+          "opponent_hist_score_share": 0.5674037929616024
+        }
+      ],
+      "n_games": 2,
+      "n_wins": 0
+    }
+  ],
+  "best_stage": "gruppspel",
+  "best_stage_years": [
+    2023
+  ]
+}

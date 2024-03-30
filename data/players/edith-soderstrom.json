@@ -1,6 +1,6 @@
 {
   "n_games": 8,
-  "score_share": 0.2696581196581197,
+  "score_share": 0.26965811965811964,
   "n_wins": 2,
   "years": [
     2018,
@@ -8,13 +8,13 @@
     2021
   ],
   "win_rate": 0.25,
-  "opponent_score_share": 0.5234641116911986,
+  "opponent_score_share": 0.5230548164905304,
   "skill": 31.867695401330568,
   "skill_sigma": 44.877579135688684,
   "name": "Edith S\u00f6derstr\u00f6m",
   "slug": "edith-soderstrom",
-  "skill_rank": 120.0,
-  "skill_rank_pct": 120.0,
+  "skill_rank": 127.0,
+  "skill_rank_pct": 127.0,
   "skill_history": [
     [
       2011,
@@ -51,17 +51,21 @@
     [
       2022,
       null
+    ],
+    [
+      2023,
+      null
     ]
   ],
   "tournaments": [
     {
       "year": 2018,
       "last_game": {
-        "opponent_name": "Jens Hultkrans",
-        "opponent_slug": "jens-hultkrans",
-        "score": 8,
-        "opponent_score": 4,
-        "is_winner": true,
+        "opponent_name": "Olle Strandberg",
+        "opponent_slug": "olle-strandberg",
+        "score": 0,
+        "opponent_score": 8,
+        "is_winner": false,
         "stage": "gruppspel"
       },
       "games": [
@@ -81,25 +85,7 @@
           "opponent_win_prob": 0.7008102833531132,
           "is_winner": false,
           "opponent_slug": "benjamin-ger-hed",
-          "opponent_hist_score_share": 0.5937790548374914
-        },
-        {
-          "game_id": 177,
-          "year": 2018,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p1",
-          "name": "Edith S\u00f6derstr\u00f6m",
-          "score": 0,
-          "score_share": 0.0,
-          "win_prob": 0.5414476945785429,
-          "opponent_name": "Olle Strandberg",
-          "opponent_score": 8,
-          "opponent_score_share": 1.0,
-          "opponent_win_prob": 0.45855230542145703,
-          "is_winner": false,
-          "opponent_slug": "olle-strandberg",
-          "opponent_hist_score_share": 0.6605863621382464
+          "opponent_hist_score_share": 0.614286949352186
         },
         {
           "game_id": 153,
@@ -117,7 +103,25 @@
           "opponent_win_prob": 0.5000000150000002,
           "is_winner": true,
           "opponent_slug": "jens-hultkrans",
-          "opponent_hist_score_share": 0.5361535421278069
+          "opponent_hist_score_share": 0.5241481013539837
+        },
+        {
+          "game_id": 177,
+          "year": 2018,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Edith S\u00f6derstr\u00f6m",
+          "score": 0,
+          "score_share": 0.0,
+          "win_prob": 0.5414476945785429,
+          "opponent_name": "Olle Strandberg",
+          "opponent_score": 8,
+          "opponent_score_share": 1.0,
+          "opponent_win_prob": 0.45855230542145703,
+          "is_winner": false,
+          "opponent_slug": "olle-strandberg",
+          "opponent_hist_score_share": 0.6605863621382463
         }
       ],
       "n_games": 3,
@@ -150,7 +154,7 @@
           "opponent_win_prob": 0.6857763477204726,
           "is_winner": false,
           "opponent_slug": "jens-finnas",
-          "opponent_hist_score_share": 0.46432872682872683
+          "opponent_hist_score_share": 0.4777480332167832
         },
         {
           "game_id": 310,
@@ -186,7 +190,7 @@
           "opponent_win_prob": 0.7073615025247314,
           "is_winner": false,
           "opponent_slug": "micke-leyi",
-          "opponent_hist_score_share": 0.5498456790123456
+          "opponent_hist_score_share": 0.5498456790123457
         }
       ],
       "n_games": 3,
@@ -219,7 +223,7 @@
           "opponent_win_prob": 0.36223312601705115,
           "is_winner": false,
           "opponent_slug": "sofia-orning",
-          "opponent_hist_score_share": 0.40345667857922757
+          "opponent_hist_score_share": 0.38998601072130484
         },
         {
           "game_id": 470,
@@ -237,7 +241,7 @@
           "opponent_win_prob": 0.9493397536030364,
           "is_winner": false,
           "opponent_slug": "robeson",
-          "opponent_hist_score_share": 0.5815109019537957
+          "opponent_hist_score_share": 0.5697854480774457
         }
       ],
       "n_games": 2,
@@ -246,8 +250,8 @@
   ],
   "best_stage": "gruppspel",
   "best_stage_years": [
-    2019,
+    2018,
     2021,
-    2018
+    2019
   ]
 }

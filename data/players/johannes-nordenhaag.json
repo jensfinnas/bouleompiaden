@@ -1,18 +1,19 @@
 {
-  "n_games": 6,
-  "score_share": 0.5587885154061625,
-  "n_wins": 4,
+  "n_games": 13,
+  "score_share": 0.5987708370061311,
+  "n_wins": 9,
   "years": [
-    2022
+    2022,
+    2023
   ],
-  "win_rate": 0.6666666666666666,
-  "opponent_score_share": 0.5233527838325048,
-  "skill": 179.43694677068248,
-  "skill_sigma": 40.295662289726074,
+  "win_rate": 0.6923076923076923,
+  "opponent_score_share": 0.5139704633074067,
+  "skill": 190.1416164715346,
+  "skill_sigma": 29.492238131002974,
   "name": "Johannes Nordenhaag",
   "slug": "johannes-nordenhaag",
-  "skill_rank": 14.0,
-  "skill_rank_pct": 14.0,
+  "skill_rank": 13.0,
+  "skill_rank_pct": 13.0,
   "skill_history": [
     [
       2011,
@@ -49,6 +50,10 @@
     [
       2022,
       179.0
+    ],
+    [
+      2023,
+      190.0
     ]
   ],
   "tournaments": [
@@ -63,24 +68,6 @@
         "stage": "kvartsfinal"
       },
       "games": [
-        {
-          "game_id": 611,
-          "year": 2022,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p2",
-          "name": "Johannes Nordenhaag",
-          "score": 9,
-          "score_share": 0.5294117647058824,
-          "win_prob": 0.45222860463130776,
-          "opponent_name": "Johannes Gr\u00f6nborg",
-          "opponent_score": 8,
-          "opponent_score_share": 0.47058823529411764,
-          "opponent_win_prob": 0.5477713953686922,
-          "is_winner": true,
-          "opponent_slug": "johannes-gronborg",
-          "opponent_hist_score_share": 0.4397114867703103
-        },
         {
           "game_id": 558,
           "year": 2022,
@@ -97,7 +84,7 @@
           "opponent_win_prob": 0.5205842968924028,
           "is_winner": false,
           "opponent_slug": "bjorn-berglund",
-          "opponent_hist_score_share": 0.5384795542148484
+          "opponent_hist_score_share": 0.5912036941816353
         },
         {
           "game_id": 599,
@@ -118,6 +105,24 @@
           "opponent_hist_score_share": 0.3569078633784516
         },
         {
+          "game_id": 611,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Johannes Nordenhaag",
+          "score": 9,
+          "score_share": 0.5294117647058824,
+          "win_prob": 0.45222860463130776,
+          "opponent_name": "Johannes Gr\u00f6nborg",
+          "opponent_score": 8,
+          "opponent_score_share": 0.47058823529411764,
+          "opponent_win_prob": 0.5477713953686922,
+          "is_winner": true,
+          "opponent_slug": "johannes-gronborg",
+          "opponent_hist_score_share": 0.4397114867703103
+        },
+        {
           "game_id": 628,
           "year": 2022,
           "stage": "sextondelsfinal",
@@ -133,7 +138,7 @@
           "opponent_win_prob": 0.8318426666632863,
           "is_winner": true,
           "opponent_slug": "theodore-ripman",
-          "opponent_hist_score_share": 0.5684301946084984
+          "opponent_hist_score_share": 0.5597932488790567
         },
         {
           "game_id": 642,
@@ -151,7 +156,7 @@
           "opponent_win_prob": 0.4831703159403866,
           "is_winner": true,
           "opponent_slug": "jon-jeppson",
-          "opponent_hist_score_share": 0.5849962863933452
+          "opponent_hist_score_share": 0.5966064708711767
         },
         {
           "game_id": 649,
@@ -169,15 +174,156 @@
           "opponent_win_prob": 0.7099911570716828,
           "is_winner": false,
           "opponent_slug": "gabriel-nordenankar",
-          "opponent_hist_score_share": 0.6515913176295751
+          "opponent_hist_score_share": 0.6508376694877611
         }
       ],
       "n_games": 6,
       "n_wins": 4
+    },
+    {
+      "year": 2023,
+      "last_game": {
+        "opponent_name": "Benjamin Ger. Hed.",
+        "opponent_slug": "benjamin-ger-hed",
+        "score": 4,
+        "opponent_score": 13,
+        "is_winner": false,
+        "stage": "bronsmatch"
+      },
+      "games": [
+        {
+          "game_id": 702,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Johannes Nordenhaag",
+          "score": 9,
+          "score_share": 0.5625,
+          "win_prob": 0.6428667113018667,
+          "opponent_name": "Jakob Gustafsson",
+          "opponent_score": 7,
+          "opponent_score_share": 0.4375,
+          "opponent_win_prob": 0.3571332886981333,
+          "is_winner": true,
+          "opponent_slug": "jakob-gustafsson",
+          "opponent_hist_score_share": 0.45099657967305024
+        },
+        {
+          "game_id": 684,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Johannes Nordenhaag",
+          "score": 9,
+          "score_share": 0.9,
+          "win_prob": 0.9565173332437857,
+          "opponent_name": "Sofia \u00d6rning",
+          "opponent_score": 1,
+          "opponent_score_share": 0.1,
+          "opponent_win_prob": 0.04348266675621425,
+          "is_winner": true,
+          "opponent_slug": "sofia-orning",
+          "opponent_hist_score_share": 0.38998601072130484
+        },
+        {
+          "game_id": 738,
+          "year": 2023,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p1",
+          "name": "Johannes Nordenhaag",
+          "score": 9,
+          "score_share": 0.5625,
+          "win_prob": 0.7867883938391946,
+          "opponent_name": "Kusha Bahrami",
+          "opponent_score": 7,
+          "opponent_score_share": 0.4375,
+          "opponent_win_prob": 0.21321160616080537,
+          "is_winner": true,
+          "opponent_slug": "kusha-bahrami",
+          "opponent_hist_score_share": 0.4663222959638401
+        },
+        {
+          "game_id": 753,
+          "year": 2023,
+          "stage": "\u00e5ttondelsfinal",
+          "stage_level": 2,
+          "winner": "p1",
+          "name": "Johannes Nordenhaag",
+          "score": 10,
+          "score_share": 0.9090909090909091,
+          "win_prob": 0.81468641730346,
+          "opponent_name": "Ville Nordenankar",
+          "opponent_score": 1,
+          "opponent_score_share": 0.09090909090909091,
+          "opponent_win_prob": 0.18531358269653997,
+          "is_winner": true,
+          "opponent_slug": "ville-nordenankar",
+          "opponent_hist_score_share": 0.4288546176046176
+        },
+        {
+          "game_id": 760,
+          "year": 2023,
+          "stage": "kvartsfinal",
+          "stage_level": 3,
+          "winner": "p2",
+          "name": "Johannes Nordenhaag",
+          "score": 11,
+          "score_share": 0.7857142857142857,
+          "win_prob": 0.6343717009816356,
+          "opponent_name": "Robin Linderborg",
+          "opponent_score": 3,
+          "opponent_score_share": 0.21428571428571427,
+          "opponent_win_prob": 0.3656282990183644,
+          "is_winner": true,
+          "opponent_slug": "robin-linderborg",
+          "opponent_hist_score_share": 0.569941409165547
+        },
+        {
+          "game_id": 764,
+          "year": 2023,
+          "stage": "semifinal",
+          "stage_level": 4,
+          "winner": "p2",
+          "name": "Johannes Nordenhaag",
+          "score": 10,
+          "score_share": 0.47619047619047616,
+          "win_prob": 0.603676627269694,
+          "opponent_name": "Jonas Nygren",
+          "opponent_score": 11,
+          "opponent_score_share": 0.5238095238095238,
+          "opponent_win_prob": 0.39632337273030604,
+          "is_winner": false,
+          "opponent_slug": "jonas-nygren",
+          "opponent_hist_score_share": 0.5661677269473498
+        },
+        {
+          "game_id": 766,
+          "year": 2023,
+          "stage": "bronsmatch",
+          "stage_level": 5,
+          "winner": "p2",
+          "name": "Johannes Nordenhaag",
+          "score": 4,
+          "score_share": 0.23529411764705882,
+          "win_prob": 0.4677143419857744,
+          "opponent_name": "Benjamin Ger. Hed.",
+          "opponent_score": 13,
+          "opponent_score_share": 0.7647058823529411,
+          "opponent_win_prob": 0.5322856580142257,
+          "is_winner": false,
+          "opponent_slug": "benjamin-ger-hed",
+          "opponent_hist_score_share": 0.614286949352186
+        }
+      ],
+      "n_games": 7,
+      "n_wins": 5
     }
   ],
-  "best_stage": "kvartsfinal",
+  "best_stage": "bronsmatch",
   "best_stage_years": [
-    2022
+    2023
   ]
 }

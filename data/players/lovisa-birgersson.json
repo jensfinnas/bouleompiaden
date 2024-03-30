@@ -1,23 +1,24 @@
 {
-  "n_games": 20,
-  "score_share": 0.5760537256860787,
-  "n_wins": 11,
+  "n_games": 23,
+  "score_share": 0.5781180669288086,
+  "n_wins": 13,
   "years": [
     2017,
     2018,
     2019,
     2020,
     2021,
-    2022
+    2022,
+    2023
   ],
-  "win_rate": 0.55,
-  "opponent_score_share": 0.4626622787889727,
-  "skill": 136.02940283359482,
-  "skill_sigma": 25.63895304898645,
+  "win_rate": 0.5652173913043478,
+  "opponent_score_share": 0.46471936816013404,
+  "skill": 139.16899421194697,
+  "skill_sigma": 23.702076487483023,
   "name": "Lovisa Birgersson",
   "slug": "lovisa-birgersson",
-  "skill_rank": 47.0,
-  "skill_rank_pct": 47.0,
+  "skill_rank": 48.0,
+  "skill_rank_pct": 48.0,
   "skill_history": [
     [
       2011,
@@ -54,56 +55,24 @@
     [
       2022,
       136.0
+    ],
+    [
+      2023,
+      139.0
     ]
   ],
   "tournaments": [
     {
       "year": 2017,
       "last_game": {
-        "opponent_name": "Petter Hammarb\u00e4ck",
-        "opponent_slug": "petter-hammarback",
-        "score": 7,
-        "opponent_score": 1,
-        "is_winner": true,
+        "opponent_name": "Theodore Ripman",
+        "opponent_slug": "theodore-ripman",
+        "score": 5,
+        "opponent_score": 8,
+        "is_winner": false,
         "stage": "gruppspel"
       },
       "games": [
-        {
-          "game_id": 107,
-          "year": 2017,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p2",
-          "name": "Lovisa Birgersson",
-          "score": 0,
-          "score_share": 0.0,
-          "win_prob": 0.42642349216566444,
-          "opponent_name": "Erik Nordenankar",
-          "opponent_score": 8,
-          "opponent_score_share": 1.0,
-          "opponent_win_prob": 0.5735765078343356,
-          "is_winner": false,
-          "opponent_slug": "erik-nordenankar",
-          "opponent_hist_score_share": 0.6815916514882377
-        },
-        {
-          "game_id": 126,
-          "year": 2017,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p1",
-          "name": "Lovisa Birgersson",
-          "score": 5,
-          "score_share": 0.38461538461538464,
-          "win_prob": 0.45731396630743015,
-          "opponent_name": "Theodore Ripman",
-          "opponent_score": 8,
-          "opponent_score_share": 0.6153846153846154,
-          "opponent_win_prob": 0.5426860336925698,
-          "is_winner": false,
-          "opponent_slug": "theodore-ripman",
-          "opponent_hist_score_share": 0.5684301946084984
-        },
         {
           "game_id": 94,
           "year": 2017,
@@ -121,6 +90,42 @@
           "is_winner": true,
           "opponent_slug": "petter-hammarback",
           "opponent_hist_score_share": 0.24431818181818182
+        },
+        {
+          "game_id": 107,
+          "year": 2017,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Lovisa Birgersson",
+          "score": 0,
+          "score_share": 0.0,
+          "win_prob": 0.42642349216566444,
+          "opponent_name": "Erik Nordenankar",
+          "opponent_score": 8,
+          "opponent_score_share": 1.0,
+          "opponent_win_prob": 0.5735765078343356,
+          "is_winner": false,
+          "opponent_slug": "erik-nordenankar",
+          "opponent_hist_score_share": 0.679882946820159
+        },
+        {
+          "game_id": 126,
+          "year": 2017,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Lovisa Birgersson",
+          "score": 5,
+          "score_share": 0.38461538461538464,
+          "win_prob": 0.45731396630743015,
+          "opponent_name": "Theodore Ripman",
+          "opponent_score": 8,
+          "opponent_score_share": 0.6153846153846154,
+          "opponent_win_prob": 0.5426860336925698,
+          "is_winner": false,
+          "opponent_slug": "theodore-ripman",
+          "opponent_hist_score_share": 0.5597932488790567
         }
       ],
       "n_games": 3,
@@ -137,42 +142,6 @@
         "stage": "\u00e5ttondelsfinal"
       },
       "games": [
-        {
-          "game_id": 204,
-          "year": 2018,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p2",
-          "name": "Lovisa Birgersson",
-          "score": 7,
-          "score_share": 1.0,
-          "win_prob": 0.42177215652572475,
-          "opponent_name": "Linn Enhage",
-          "opponent_score": 0,
-          "opponent_score_share": 0.0,
-          "opponent_win_prob": 0.5782278434742752,
-          "is_winner": true,
-          "opponent_slug": "linn-enhage",
-          "opponent_hist_score_share": 0.2980441862059509
-        },
-        {
-          "game_id": 164,
-          "year": 2018,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p1",
-          "name": "Lovisa Birgersson",
-          "score": 5,
-          "score_share": 0.4166666666666667,
-          "win_prob": 0.17710947357529983,
-          "opponent_name": "Josefin Asplund",
-          "opponent_score": 7,
-          "opponent_score_share": 0.5833333333333334,
-          "opponent_win_prob": 0.8228905264247002,
-          "is_winner": false,
-          "opponent_slug": "josefin-asplund",
-          "opponent_hist_score_share": 0.5672184957899244
-        },
         {
           "game_id": 197,
           "year": 2018,
@@ -192,6 +161,42 @@
           "opponent_hist_score_share": 0.3125
         },
         {
+          "game_id": 164,
+          "year": 2018,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Lovisa Birgersson",
+          "score": 5,
+          "score_share": 0.4166666666666667,
+          "win_prob": 0.17710947357529983,
+          "opponent_name": "Josefin Asplund",
+          "opponent_score": 7,
+          "opponent_score_share": 0.5833333333333334,
+          "opponent_win_prob": 0.8228905264247002,
+          "is_winner": false,
+          "opponent_slug": "josefin-asplund",
+          "opponent_hist_score_share": 0.5672184957899243
+        },
+        {
+          "game_id": 204,
+          "year": 2018,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Lovisa Birgersson",
+          "score": 7,
+          "score_share": 1.0,
+          "win_prob": 0.42177215652572475,
+          "opponent_name": "Linn Enhage",
+          "opponent_score": 0,
+          "opponent_score_share": 0.0,
+          "opponent_win_prob": 0.5782278434742752,
+          "is_winner": true,
+          "opponent_slug": "linn-enhage",
+          "opponent_hist_score_share": 0.2980441862059509
+        },
+        {
           "game_id": 230,
           "year": 2018,
           "stage": "sextondelsfinal",
@@ -207,7 +212,7 @@
           "opponent_win_prob": 0.7943460445953336,
           "is_winner": true,
           "opponent_slug": "jakob-lien",
-          "opponent_hist_score_share": 0.5680243456458289
+          "opponent_hist_score_share": 0.568024345645829
         },
         {
           "game_id": 239,
@@ -225,7 +230,7 @@
           "opponent_win_prob": 0.7882353742113861,
           "is_winner": false,
           "opponent_slug": "erik-nordenankar",
-          "opponent_hist_score_share": 0.6815916514882377
+          "opponent_hist_score_share": 0.679882946820159
         }
       ],
       "n_games": 5,
@@ -242,24 +247,6 @@
         "stage": "sextondelsfinal"
       },
       "games": [
-        {
-          "game_id": 293,
-          "year": 2019,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p2",
-          "name": "Lovisa Birgersson",
-          "score": 9,
-          "score_share": 0.75,
-          "win_prob": 0.3759635423932284,
-          "opponent_name": "Benjamin Ger. Hed.",
-          "opponent_score": 3,
-          "opponent_score_share": 0.25,
-          "opponent_win_prob": 0.6240364576067716,
-          "is_winner": true,
-          "opponent_slug": "benjamin-ger-hed",
-          "opponent_hist_score_share": 0.5937790548374914
-        },
         {
           "game_id": 275,
           "year": 2019,
@@ -279,6 +266,24 @@
           "opponent_hist_score_share": 0.1919191919191919
         },
         {
+          "game_id": 293,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Lovisa Birgersson",
+          "score": 9,
+          "score_share": 0.75,
+          "win_prob": 0.3759635423932284,
+          "opponent_name": "Benjamin Ger. Hed.",
+          "opponent_score": 3,
+          "opponent_score_share": 0.25,
+          "opponent_win_prob": 0.6240364576067716,
+          "is_winner": true,
+          "opponent_slug": "benjamin-ger-hed",
+          "opponent_hist_score_share": 0.614286949352186
+        },
+        {
           "game_id": 328,
           "year": 2019,
           "stage": "sextondelsfinal",
@@ -294,7 +299,7 @@
           "opponent_win_prob": 0.5313783729731436,
           "is_winner": false,
           "opponent_slug": "jerker-karlsson",
-          "opponent_hist_score_share": 0.5304547767047768
+          "opponent_hist_score_share": 0.5216255545801
         }
       ],
       "n_games": 3,
@@ -311,6 +316,24 @@
         "stage": "sextondelsfinal"
       },
       "games": [
+        {
+          "game_id": 390,
+          "year": 2020,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Lovisa Birgersson",
+          "score": 10,
+          "score_share": 0.6666666666666666,
+          "win_prob": 0.3447685695990895,
+          "opponent_name": "Jens Hultkrans",
+          "opponent_score": 5,
+          "opponent_score_share": 0.3333333333333333,
+          "opponent_win_prob": 0.6552314304009105,
+          "is_winner": true,
+          "opponent_slug": "jens-hultkrans",
+          "opponent_hist_score_share": 0.5241481013539837
+        },
         {
           "game_id": 373,
           "year": 2020,
@@ -330,24 +353,6 @@
           "opponent_hist_score_share": 0.2980441862059509
         },
         {
-          "game_id": 390,
-          "year": 2020,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p1",
-          "name": "Lovisa Birgersson",
-          "score": 10,
-          "score_share": 0.6666666666666666,
-          "win_prob": 0.3447685695990895,
-          "opponent_name": "Jens Hultkrans",
-          "opponent_score": 5,
-          "opponent_score_share": 0.3333333333333333,
-          "opponent_win_prob": 0.6552314304009105,
-          "is_winner": true,
-          "opponent_slug": "jens-hultkrans",
-          "opponent_hist_score_share": 0.5361535421278069
-        },
-        {
           "game_id": 432,
           "year": 2020,
           "stage": "sextondelsfinal",
@@ -363,7 +368,7 @@
           "opponent_win_prob": 0.48316113584803644,
           "is_winner": false,
           "opponent_slug": "johan-johnson",
-          "opponent_hist_score_share": 0.4716205363264187
+          "opponent_hist_score_share": 0.4769825109530992
         }
       ],
       "n_games": 3,
@@ -380,24 +385,6 @@
         "stage": "\u00e5ttondelsfinal"
       },
       "games": [
-        {
-          "game_id": 487,
-          "year": 2021,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p1",
-          "name": "Lovisa Birgersson",
-          "score": 9,
-          "score_share": 1.0,
-          "win_prob": 0.7489379249218772,
-          "opponent_name": "Johan Ekman",
-          "opponent_score": 0,
-          "opponent_score_share": 0.0,
-          "opponent_win_prob": 0.25106207507812284,
-          "is_winner": true,
-          "opponent_slug": "johan-ekman",
-          "opponent_hist_score_share": 0.5006588294355674
-        },
         {
           "game_id": 464,
           "year": 2021,
@@ -417,6 +404,24 @@
           "opponent_hist_score_share": 0.2159090909090909
         },
         {
+          "game_id": 487,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Lovisa Birgersson",
+          "score": 9,
+          "score_share": 1.0,
+          "win_prob": 0.7489379249218772,
+          "opponent_name": "Johan Ekman",
+          "opponent_score": 0,
+          "opponent_score_share": 0.0,
+          "opponent_win_prob": 0.25106207507812284,
+          "is_winner": true,
+          "opponent_slug": "johan-ekman",
+          "opponent_hist_score_share": 0.49987388755035816
+        },
+        {
           "game_id": 537,
           "year": 2021,
           "stage": "sextondelsfinal",
@@ -432,7 +437,7 @@
           "opponent_win_prob": 0.08391591520331632,
           "is_winner": true,
           "opponent_slug": "frida-ohrn",
-          "opponent_hist_score_share": 0.39508248162094317
+          "opponent_hist_score_share": 0.4007381507381507
         },
         {
           "game_id": 544,
@@ -450,7 +455,7 @@
           "opponent_win_prob": 0.6628925966854156,
           "is_winner": false,
           "opponent_slug": "erik-nordenankar",
-          "opponent_hist_score_share": 0.6815916514882377
+          "opponent_hist_score_share": 0.679882946820159
         }
       ],
       "n_games": 4,
@@ -483,7 +488,7 @@
           "opponent_win_prob": 0.06460333925542913,
           "is_winner": false,
           "opponent_slug": "jacob-stenman",
-          "opponent_hist_score_share": 0.44469299083269664
+          "opponent_hist_score_share": 0.44469299083269676
         },
         {
           "game_id": 597,
@@ -501,11 +506,80 @@
           "opponent_win_prob": 0.3994820916597387,
           "is_winner": false,
           "opponent_slug": "johan-johnson",
-          "opponent_hist_score_share": 0.4716205363264187
+          "opponent_hist_score_share": 0.4769825109530992
         }
       ],
       "n_games": 2,
       "n_wins": 0
+    },
+    {
+      "year": 2023,
+      "last_game": {
+        "opponent_name": "Calle Buddee Roos",
+        "opponent_slug": "calle-buddee-roos",
+        "score": 5,
+        "opponent_score": 10,
+        "is_winner": false,
+        "stage": "sextondelsfinal"
+      },
+      "games": [
+        {
+          "game_id": 689,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Lovisa Birgersson",
+          "score": 9,
+          "score_share": 0.75,
+          "win_prob": 0.47407657400489045,
+          "opponent_name": "Mina Kheirkhah",
+          "opponent_score": 3,
+          "opponent_score_share": 0.25,
+          "opponent_win_prob": 0.5259234259951096,
+          "is_winner": true,
+          "opponent_slug": "mina-kheirkhah",
+          "opponent_hist_score_share": 0.44838664603370487
+        },
+        {
+          "game_id": 658,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Lovisa Birgersson",
+          "score": 9,
+          "score_share": 0.6923076923076923,
+          "win_prob": 0.7852516732545761,
+          "opponent_name": "Linda Tran",
+          "opponent_score": 4,
+          "opponent_score_share": 0.3076923076923077,
+          "opponent_win_prob": 0.2147483267454239,
+          "is_winner": true,
+          "opponent_slug": "linda-tran",
+          "opponent_hist_score_share": 0.4735576923076923
+        },
+        {
+          "game_id": 747,
+          "year": 2023,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p2",
+          "name": "Lovisa Birgersson",
+          "score": 5,
+          "score_share": 0.3333333333333333,
+          "win_prob": 0.5161327839005574,
+          "opponent_name": "Calle Buddee Roos",
+          "opponent_score": 10,
+          "opponent_score_share": 0.6666666666666666,
+          "opponent_win_prob": 0.4838672160994426,
+          "is_winner": false,
+          "opponent_slug": "calle-buddee-roos",
+          "opponent_hist_score_share": 0.5118507051943585
+        }
+      ],
+      "n_games": 3,
+      "n_wins": 2
     }
   ],
   "best_stage": "\u00e5ttondelsfinal",

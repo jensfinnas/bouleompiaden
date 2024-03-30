@@ -1,6 +1,6 @@
 {
   "n_games": 9,
-  "score_share": 0.5498456790123456,
+  "score_share": 0.5498456790123457,
   "n_wins": 5,
   "years": [
     2019,
@@ -8,13 +8,13 @@
     2021
   ],
   "win_rate": 0.5555555555555556,
-  "opponent_score_share": 0.49882856321633234,
+  "opponent_score_share": 0.49458858721332505,
   "skill": 156.36238581493436,
   "skill_sigma": 36.23972777425785,
   "name": "Micke Leyi",
   "slug": "micke-leyi",
-  "skill_rank": 30.0,
-  "skill_rank_pct": 30.0,
+  "skill_rank": 32.0,
+  "skill_rank_pct": 32.0,
   "skill_history": [
     [
       2011,
@@ -51,6 +51,10 @@
     [
       2022,
       null
+    ],
+    [
+      2023,
+      null
     ]
   ],
   "tournaments": [
@@ -65,6 +69,24 @@
         "stage": "sextondelsfinal"
       },
       "games": [
+        {
+          "game_id": 318,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Micke Leyi",
+          "score": 8,
+          "score_share": 1.0,
+          "win_prob": 0.7073615025247314,
+          "opponent_name": "Edith S\u00f6derstr\u00f6m",
+          "opponent_score": 0,
+          "opponent_score_share": 0.0,
+          "opponent_win_prob": 0.2926384974752686,
+          "is_winner": true,
+          "opponent_slug": "edith-soderstrom",
+          "opponent_hist_score_share": 0.26965811965811964
+        },
         {
           "game_id": 261,
           "year": 2019,
@@ -84,24 +106,6 @@
           "opponent_hist_score_share": 0.5230629419600008
         },
         {
-          "game_id": 318,
-          "year": 2019,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p1",
-          "name": "Micke Leyi",
-          "score": 8,
-          "score_share": 1.0,
-          "win_prob": 0.7073615025247314,
-          "opponent_name": "Edith S\u00f6derstr\u00f6m",
-          "opponent_score": 0,
-          "opponent_score_share": 0.0,
-          "opponent_win_prob": 0.2926384974752686,
-          "is_winner": true,
-          "opponent_slug": "edith-soderstrom",
-          "opponent_hist_score_share": 0.2696581196581197
-        },
-        {
           "game_id": 286,
           "year": 2019,
           "stage": "gruppspel",
@@ -117,7 +121,7 @@
           "opponent_win_prob": 0.3819166138345148,
           "is_winner": false,
           "opponent_slug": "robin-fogelberg",
-          "opponent_hist_score_share": 0.5883273927718372
+          "opponent_hist_score_share": 0.5605132591422913
         },
         {
           "game_id": 337,
@@ -135,7 +139,7 @@
           "opponent_win_prob": 0.5815293989027626,
           "is_winner": false,
           "opponent_slug": "theodore-ripman",
-          "opponent_hist_score_share": 0.5684301946084984
+          "opponent_hist_score_share": 0.5597932488790567
         }
       ],
       "n_games": 4,
@@ -186,7 +190,7 @@
           "opponent_win_prob": 0.3635198664679127,
           "is_winner": false,
           "opponent_slug": "lars-tornkvist",
-          "opponent_hist_score_share": 0.390307486631016
+          "opponent_hist_score_share": 0.39030748663101605
         }
       ],
       "n_games": 2,
@@ -204,24 +208,6 @@
       },
       "games": [
         {
-          "game_id": 472,
-          "year": 2021,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p2",
-          "name": "Micke Leyi",
-          "score": 9,
-          "score_share": 0.6,
-          "win_prob": 0.09398688154910939,
-          "opponent_name": "Erik Nordenankar",
-          "opponent_score": 6,
-          "opponent_score_share": 0.4,
-          "opponent_win_prob": 0.9060131184508906,
-          "is_winner": true,
-          "opponent_slug": "erik-nordenankar",
-          "opponent_hist_score_share": 0.6815916514882377
-        },
-        {
           "game_id": 492,
           "year": 2021,
           "stage": "gruppspel",
@@ -238,6 +224,24 @@
           "is_winner": true,
           "opponent_slug": "joel-gustafsson",
           "opponent_hist_score_share": 0.4111928104575164
+        },
+        {
+          "game_id": 472,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Micke Leyi",
+          "score": 9,
+          "score_share": 0.6,
+          "win_prob": 0.09398688154910939,
+          "opponent_name": "Erik Nordenankar",
+          "opponent_score": 6,
+          "opponent_score_share": 0.4,
+          "opponent_win_prob": 0.9060131184508906,
+          "is_winner": true,
+          "opponent_slug": "erik-nordenankar",
+          "opponent_hist_score_share": 0.679882946820159
         },
         {
           "game_id": 535,
@@ -264,7 +268,7 @@
   ],
   "best_stage": "sextondelsfinal",
   "best_stage_years": [
-    2019,
-    2021
+    2021,
+    2019
   ]
 }

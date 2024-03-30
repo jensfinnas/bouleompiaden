@@ -1,8 +1,4 @@
 ,year,opponent,player_score,opponent_score,winner,is_winner
-89,2017,Jacob Stenman,6,7,Jacob Stenman,False
-128,2017,Mathilda Grönborg,4,7,Mathilda Grönborg,False
-199,2018,Frida Öhrn,7,6,Ylva Andréasson,True
-113,2017,Tove Papp Lindkvist,7,6,Ylva Andréasson,True
-168,2018,Robin Linderborg,4,7,Robin Linderborg,False
-206,2018,Julius Jorborg,7,1,Ylva Andréasson,True
-222,2018,Ida Wimmerman,8,9,Ida Wimmerman,False
+663,2023,Pelle Dovborg,3,9,Pelle Dovborg,False
+707,2023,Richard Olsen,9,8,Åke Rådström,True
+722,2023,Tim Samuelsson,4,10,Tim Samuelsson,False

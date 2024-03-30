@@ -1,20 +1,21 @@
 {
-  "n_games": 11,
-  "score_share": 0.4716205363264187,
-  "n_wins": 5,
+  "n_games": 15,
+  "score_share": 0.4769825109530992,
+  "n_wins": 7,
   "years": [
     2020,
     2021,
-    2022
+    2022,
+    2023
   ],
-  "win_rate": 0.45454545454545453,
-  "opponent_score_share": 0.5083141629030222,
-  "skill": 126.75830821651785,
-  "skill_sigma": 31.960326289730105,
+  "win_rate": 0.4666666666666667,
+  "opponent_score_share": 0.5043469204448064,
+  "skill": 122.42282349747062,
+  "skill_sigma": 28.143772219392236,
   "name": "Johan Johnson",
   "slug": "johan-johnson",
-  "skill_rank": 55.0,
-  "skill_rank_pct": 55.0,
+  "skill_rank": 66.0,
+  "skill_rank_pct": 66.0,
   "skill_history": [
     [
       2011,
@@ -51,6 +52,10 @@
     [
       2022,
       127.0
+    ],
+    [
+      2023,
+      122.0
     ]
   ],
   "tournaments": [
@@ -65,24 +70,6 @@
         "stage": "\u00e5ttondelsfinal"
       },
       "games": [
-        {
-          "game_id": 389,
-          "year": 2020,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p2",
-          "name": "Johan Johnson",
-          "score": 6,
-          "score_share": 0.375,
-          "win_prob": 0.4004266959339531,
-          "opponent_name": "Erik Nordenankar",
-          "opponent_score": 10,
-          "opponent_score_share": 0.625,
-          "opponent_win_prob": 0.5995733040660469,
-          "is_winner": false,
-          "opponent_slug": "erik-nordenankar",
-          "opponent_hist_score_share": 0.6815916514882377
-        },
         {
           "game_id": 370,
           "year": 2020,
@@ -99,7 +86,25 @@
           "opponent_win_prob": 0.6656192053860999,
           "is_winner": true,
           "opponent_slug": "mina-kheirkhah",
-          "opponent_hist_score_share": 0.4432545173186885
+          "opponent_hist_score_share": 0.44838664603370487
+        },
+        {
+          "game_id": 389,
+          "year": 2020,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Johan Johnson",
+          "score": 6,
+          "score_share": 0.375,
+          "win_prob": 0.4004266959339531,
+          "opponent_name": "Erik Nordenankar",
+          "opponent_score": 10,
+          "opponent_score_share": 0.625,
+          "opponent_win_prob": 0.5995733040660469,
+          "is_winner": false,
+          "opponent_slug": "erik-nordenankar",
+          "opponent_hist_score_share": 0.679882946820159
         },
         {
           "game_id": 412,
@@ -135,7 +140,7 @@
           "opponent_win_prob": 0.5168388641519636,
           "is_winner": true,
           "opponent_slug": "lovisa-birgersson",
-          "opponent_hist_score_share": 0.5760537256860787
+          "opponent_hist_score_share": 0.5781180669288086
         },
         {
           "game_id": 441,
@@ -153,7 +158,7 @@
           "opponent_win_prob": 0.3899020956993721,
           "is_winner": false,
           "opponent_slug": "pelle-dovborg",
-          "opponent_hist_score_share": 0.5626206537570174
+          "opponent_hist_score_share": 0.5687558814642149
         }
       ],
       "n_games": 5,
@@ -162,50 +167,14 @@
     {
       "year": 2021,
       "last_game": {
-        "opponent_name": "Sussie R\u00e5dis",
-        "opponent_slug": "sussie-radis",
-        "score": 9,
-        "opponent_score": 5,
-        "is_winner": true,
+        "opponent_name": "Jerker Karlsson",
+        "opponent_slug": "jerker-karlsson",
+        "score": 3,
+        "opponent_score": 9,
+        "is_winner": false,
         "stage": "gruppspel"
       },
       "games": [
-        {
-          "game_id": 520,
-          "year": 2021,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p2",
-          "name": "Johan Johnson",
-          "score": 7,
-          "score_share": 0.4375,
-          "win_prob": 0.29419412429193986,
-          "opponent_name": "Erik Nordenankar",
-          "opponent_score": 9,
-          "opponent_score_share": 0.5625,
-          "opponent_win_prob": 0.7058058757080601,
-          "is_winner": false,
-          "opponent_slug": "erik-nordenankar",
-          "opponent_hist_score_share": 0.6815916514882377
-        },
-        {
-          "game_id": 493,
-          "year": 2021,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p1",
-          "name": "Johan Johnson",
-          "score": 3,
-          "score_share": 0.25,
-          "win_prob": 0.48381528829346154,
-          "opponent_name": "Jerker Karlsson",
-          "opponent_score": 9,
-          "opponent_score_share": 0.75,
-          "opponent_win_prob": 0.5161847117065385,
-          "is_winner": false,
-          "opponent_slug": "jerker-karlsson",
-          "opponent_hist_score_share": 0.5304547767047768
-        },
         {
           "game_id": 475,
           "year": 2021,
@@ -223,6 +192,42 @@
           "is_winner": true,
           "opponent_slug": "sussie-radis",
           "opponent_hist_score_share": 0.3569078633784516
+        },
+        {
+          "game_id": 520,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Johan Johnson",
+          "score": 7,
+          "score_share": 0.4375,
+          "win_prob": 0.29419412429193986,
+          "opponent_name": "Erik Nordenankar",
+          "opponent_score": 9,
+          "opponent_score_share": 0.5625,
+          "opponent_win_prob": 0.7058058757080601,
+          "is_winner": false,
+          "opponent_slug": "erik-nordenankar",
+          "opponent_hist_score_share": 0.679882946820159
+        },
+        {
+          "game_id": 493,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Johan Johnson",
+          "score": 3,
+          "score_share": 0.25,
+          "win_prob": 0.48381528829346154,
+          "opponent_name": "Jerker Karlsson",
+          "opponent_score": 9,
+          "opponent_score_share": 0.75,
+          "opponent_win_prob": 0.5161847117065385,
+          "is_winner": false,
+          "opponent_slug": "jerker-karlsson",
+          "opponent_hist_score_share": 0.5216255545801
         }
       ],
       "n_games": 3,
@@ -255,7 +260,7 @@
           "opponent_win_prob": 0.6005179083402613,
           "is_winner": true,
           "opponent_slug": "lovisa-birgersson",
-          "opponent_hist_score_share": 0.5760537256860787
+          "opponent_hist_score_share": 0.5781180669288086
         },
         {
           "game_id": 553,
@@ -291,11 +296,98 @@
           "opponent_win_prob": 0.4622363943604137,
           "is_winner": false,
           "opponent_slug": "erik-numan",
-          "opponent_hist_score_share": 0.509236211558193
+          "opponent_hist_score_share": 0.49786515972274487
         }
       ],
       "n_games": 3,
       "n_wins": 1
+    },
+    {
+      "year": 2023,
+      "last_game": {
+        "opponent_name": "Ville Nordenankar",
+        "opponent_slug": "ville-nordenankar",
+        "score": 6,
+        "opponent_score": 10,
+        "is_winner": false,
+        "stage": "sextondelsfinal"
+      },
+      "games": [
+        {
+          "game_id": 693,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Johan Johnson",
+          "score": 7,
+          "score_share": 0.4375,
+          "win_prob": 0.12588490742964006,
+          "opponent_name": "Erik Nordenankar",
+          "opponent_score": 9,
+          "opponent_score_share": 0.5625,
+          "opponent_win_prob": 0.8741150925703599,
+          "is_winner": false,
+          "opponent_slug": "erik-nordenankar",
+          "opponent_hist_score_share": 0.679882946820159
+        },
+        {
+          "game_id": 725,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Johan Johnson",
+          "score": 10,
+          "score_share": 0.625,
+          "win_prob": 0.732527219956671,
+          "opponent_name": "Bj\u00f6rn Westerfors",
+          "opponent_score": 6,
+          "opponent_score_share": 0.375,
+          "opponent_win_prob": 0.267472780043329,
+          "is_winner": true,
+          "opponent_slug": "bjorn-westerfors",
+          "opponent_hist_score_share": 0.5349999999999999
+        },
+        {
+          "game_id": 666,
+          "year": 2023,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Johan Johnson",
+          "score": 9,
+          "score_share": 0.5294117647058824,
+          "win_prob": 0.7835933253204755,
+          "opponent_name": "Hasse Hallgren",
+          "opponent_score": 8,
+          "opponent_score_share": 0.47058823529411764,
+          "opponent_win_prob": 0.21640667467952449,
+          "is_winner": true,
+          "opponent_slug": "hasse-hallgren",
+          "opponent_hist_score_share": 0.33823209470268295
+        },
+        {
+          "game_id": 739,
+          "year": 2023,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p1",
+          "name": "Johan Johnson",
+          "score": 6,
+          "score_share": 0.375,
+          "win_prob": 0.5894574244838535,
+          "opponent_name": "Ville Nordenankar",
+          "opponent_score": 10,
+          "opponent_score_share": 0.625,
+          "opponent_win_prob": 0.4105425755161464,
+          "is_winner": false,
+          "opponent_slug": "ville-nordenankar",
+          "opponent_hist_score_share": 0.4288546176046176
+        }
+      ],
+      "n_games": 4,
+      "n_wins": 2
     }
   ],
   "best_stage": "\u00e5ttondelsfinal",

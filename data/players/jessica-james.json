@@ -6,13 +6,13 @@
     2021
   ],
   "win_rate": 0.0,
-  "opponent_score_share": 0.44564968469905447,
+  "opponent_score_share": 0.448492260151924,
   "skill": 3.267875699243811,
   "skill_sigma": 67.52579276572733,
   "name": "Jessica James",
   "slug": "jessica-james",
-  "skill_rank": 141.0,
-  "skill_rank_pct": 141.0,
+  "skill_rank": 155.0,
+  "skill_rank_pct": 155.0,
   "skill_history": [
     [
       2011,
@@ -49,38 +49,24 @@
     [
       2022,
       null
+    ],
+    [
+      2023,
+      null
     ]
   ],
   "tournaments": [
     {
       "year": 2021,
       "last_game": {
-        "opponent_name": "Jakob Gustafsson",
-        "opponent_slug": "jakob-gustafsson",
-        "score": 5,
+        "opponent_name": "Julius Jorborg",
+        "opponent_slug": "julius-jorborg",
+        "score": 3,
         "opponent_score": 9,
         "is_winner": false,
         "stage": "gruppspel"
       },
       "games": [
-        {
-          "game_id": 508,
-          "year": 2021,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p1",
-          "name": "Jessica James",
-          "score": 3,
-          "score_share": 0.25,
-          "win_prob": 0.33277541103023167,
-          "opponent_name": "Julius Jorborg",
-          "opponent_score": 9,
-          "opponent_score_share": 0.75,
-          "opponent_win_prob": 0.6672245889697683,
-          "is_winner": false,
-          "opponent_slug": "julius-jorborg",
-          "opponent_hist_score_share": 0.44598794063079783
-        },
         {
           "game_id": 477,
           "year": 2021,
@@ -97,7 +83,25 @@
           "opponent_win_prob": 0.4508909833360337,
           "is_winner": false,
           "opponent_slug": "jakob-gustafsson",
-          "opponent_hist_score_share": 0.4453114287673111
+          "opponent_hist_score_share": 0.45099657967305024
+        },
+        {
+          "game_id": 508,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Jessica James",
+          "score": 3,
+          "score_share": 0.25,
+          "win_prob": 0.33277541103023167,
+          "opponent_name": "Julius Jorborg",
+          "opponent_score": 9,
+          "opponent_score_share": 0.75,
+          "opponent_win_prob": 0.6672245889697683,
+          "is_winner": false,
+          "opponent_slug": "julius-jorborg",
+          "opponent_hist_score_share": 0.4459879406307978
         }
       ],
       "n_games": 2,

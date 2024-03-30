@@ -1,6 +1,6 @@
 {
   "n_games": 11,
-  "score_share": 0.36102849171030993,
+  "score_share": 0.3610284917103099,
   "n_wins": 1,
   "years": [
     2016,
@@ -10,13 +10,13 @@
     2022
   ],
   "win_rate": 0.09090909090909091,
-  "opponent_score_share": 0.49820708602196684,
+  "opponent_score_share": 0.49517778005542323,
   "skill": -33.13949434190344,
   "skill_sigma": 47.327488110135185,
   "name": "John Qvale",
   "slug": "john-qvale",
-  "skill_rank": 152.0,
-  "skill_rank_pct": 152.0,
+  "skill_rank": 166.0,
+  "skill_rank_pct": 166.0,
   "skill_history": [
     [
       2011,
@@ -53,38 +53,24 @@
     [
       2022,
       -33.0
+    ],
+    [
+      2023,
+      null
     ]
   ],
   "tournaments": [
     {
       "year": 2016,
       "last_game": {
-        "opponent_name": "Lotta Harder",
-        "opponent_slug": "lotta-harder",
-        "score": 1,
-        "opponent_score": 8,
+        "opponent_name": "Jens Finn\u00e4s",
+        "opponent_slug": "jens-finnas",
+        "score": 4,
+        "opponent_score": 7,
         "is_winner": false,
         "stage": "gruppspel"
       },
       "games": [
-        {
-          "game_id": 69,
-          "year": 2016,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p1",
-          "name": "John Qvale",
-          "score": 4,
-          "score_share": 0.36363636363636365,
-          "win_prob": 0.5300335720391011,
-          "opponent_name": "Jens Finn\u00e4s",
-          "opponent_score": 7,
-          "opponent_score_share": 0.6363636363636364,
-          "opponent_win_prob": 0.46996642796089894,
-          "is_winner": false,
-          "opponent_slug": "jens-finnas",
-          "opponent_hist_score_share": 0.46432872682872683
-        },
         {
           "game_id": 62,
           "year": 2016,
@@ -102,6 +88,24 @@
           "is_winner": false,
           "opponent_slug": "lotta-harder",
           "opponent_hist_score_share": 0.5641247641247641
+        },
+        {
+          "game_id": 69,
+          "year": 2016,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "John Qvale",
+          "score": 4,
+          "score_share": 0.36363636363636365,
+          "win_prob": 0.5300335720391011,
+          "opponent_name": "Jens Finn\u00e4s",
+          "opponent_score": 7,
+          "opponent_score_share": 0.6363636363636364,
+          "opponent_win_prob": 0.46996642796089894,
+          "is_winner": false,
+          "opponent_slug": "jens-finnas",
+          "opponent_hist_score_share": 0.4777480332167832
         }
       ],
       "n_games": 2,
@@ -110,32 +114,14 @@
     {
       "year": 2018,
       "last_game": {
-        "opponent_name": "Gustaf Ekenstein",
-        "opponent_slug": "gustaf-ekenstein",
-        "score": 4,
-        "opponent_score": 8,
+        "opponent_name": "Alexander Starfelt",
+        "opponent_slug": "alexander-starfelt",
+        "score": 6,
+        "opponent_score": 7,
         "is_winner": false,
         "stage": "gruppspel"
       },
       "games": [
-        {
-          "game_id": 196,
-          "year": 2018,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p1",
-          "name": "John Qvale",
-          "score": 6,
-          "score_share": 0.46153846153846156,
-          "win_prob": 0.2605724273162724,
-          "opponent_name": "Alexander Starfelt",
-          "opponent_score": 7,
-          "opponent_score_share": 0.5384615384615384,
-          "opponent_win_prob": 0.7394275726837276,
-          "is_winner": false,
-          "opponent_slug": "alexander-starfelt",
-          "opponent_hist_score_share": 0.5523920473153514
-        },
         {
           "game_id": 163,
           "year": 2018,
@@ -153,6 +139,24 @@
           "is_winner": false,
           "opponent_slug": "gustaf-ekenstein",
           "opponent_hist_score_share": 0.4611111111111111
+        },
+        {
+          "game_id": 196,
+          "year": 2018,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "John Qvale",
+          "score": 6,
+          "score_share": 0.46153846153846156,
+          "win_prob": 0.2605724273162724,
+          "opponent_name": "Alexander Starfelt",
+          "opponent_score": 7,
+          "opponent_score_share": 0.5384615384615384,
+          "opponent_win_prob": 0.7394275726837276,
+          "is_winner": false,
+          "opponent_slug": "alexander-starfelt",
+          "opponent_hist_score_share": 0.5337973093298171
         }
       ],
       "n_games": 2,
@@ -161,32 +165,14 @@
     {
       "year": 2019,
       "last_game": {
-        "opponent_name": "Jakob Gustafsson",
-        "opponent_slug": "jakob-gustafsson",
-        "score": 4,
+        "opponent_name": "Edvin Lindsten",
+        "opponent_slug": "edvin-lindsten",
+        "score": 5,
         "opponent_score": 8,
         "is_winner": false,
         "stage": "gruppspel"
       },
       "games": [
-        {
-          "game_id": 268,
-          "year": 2019,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p1",
-          "name": "John Qvale",
-          "score": 5,
-          "score_share": 0.38461538461538464,
-          "win_prob": 0.0124203259700989,
-          "opponent_name": "Edvin Lindsten",
-          "opponent_score": 8,
-          "opponent_score_share": 0.6153846153846154,
-          "opponent_win_prob": 0.9875796740299011,
-          "is_winner": false,
-          "opponent_slug": "edvin-lindsten",
-          "opponent_hist_score_share": 0.5706356991424866
-        },
         {
           "game_id": 306,
           "year": 2019,
@@ -203,7 +189,25 @@
           "opponent_win_prob": 0.6478291389742045,
           "is_winner": false,
           "opponent_slug": "jakob-gustafsson",
-          "opponent_hist_score_share": 0.4453114287673111
+          "opponent_hist_score_share": 0.45099657967305024
+        },
+        {
+          "game_id": 268,
+          "year": 2019,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "John Qvale",
+          "score": 5,
+          "score_share": 0.38461538461538464,
+          "win_prob": 0.0124203259700989,
+          "opponent_name": "Edvin Lindsten",
+          "opponent_score": 8,
+          "opponent_score_share": 0.6153846153846154,
+          "opponent_win_prob": 0.9875796740299011,
+          "is_winner": false,
+          "opponent_slug": "edvin-lindsten",
+          "opponent_hist_score_share": 0.5674037929616024
         }
       ],
       "n_games": 2,
@@ -212,32 +216,14 @@
     {
       "year": 2021,
       "last_game": {
-        "opponent_name": "Klara Lundin",
-        "opponent_slug": "klara-lundin",
-        "score": 3,
+        "opponent_name": "Jens Hultkrans",
+        "opponent_slug": "jens-hultkrans",
+        "score": 5,
         "opponent_score": 10,
         "is_winner": false,
         "stage": "gruppspel"
       },
       "games": [
-        {
-          "game_id": 455,
-          "year": 2021,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p1",
-          "name": "John Qvale",
-          "score": 5,
-          "score_share": 0.3333333333333333,
-          "win_prob": 0.014148559301766617,
-          "opponent_name": "Jens Hultkrans",
-          "opponent_score": 10,
-          "opponent_score_share": 0.6666666666666666,
-          "opponent_win_prob": 0.9858514406982334,
-          "is_winner": false,
-          "opponent_slug": "jens-hultkrans",
-          "opponent_hist_score_share": 0.5361535421278069
-        },
         {
           "game_id": 498,
           "year": 2021,
@@ -255,6 +241,24 @@
           "is_winner": false,
           "opponent_slug": "klara-lundin",
           "opponent_hist_score_share": 0.5408653846153846
+        },
+        {
+          "game_id": 455,
+          "year": 2021,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "John Qvale",
+          "score": 5,
+          "score_share": 0.3333333333333333,
+          "win_prob": 0.014148559301766617,
+          "opponent_name": "Jens Hultkrans",
+          "opponent_score": 10,
+          "opponent_score_share": 0.6666666666666666,
+          "opponent_win_prob": 0.9858514406982334,
+          "is_winner": false,
+          "opponent_slug": "jens-hultkrans",
+          "opponent_hist_score_share": 0.5241481013539837
         }
       ],
       "n_games": 2,
@@ -263,11 +267,11 @@
     {
       "year": 2022,
       "last_game": {
-        "opponent_name": "Heiv Sarban",
-        "opponent_slug": "heiv-sarban",
-        "score": 10,
-        "opponent_score": 6,
-        "is_winner": true,
+        "opponent_name": "Hilda Dahlberg",
+        "opponent_slug": "hilda-dahlberg",
+        "score": 7,
+        "opponent_score": 9,
+        "is_winner": false,
         "stage": "gruppspel"
       },
       "games": [
@@ -287,25 +291,7 @@
           "opponent_win_prob": 0.9864359047818665,
           "is_winner": false,
           "opponent_slug": "alexander-starfelt",
-          "opponent_hist_score_share": 0.5523920473153514
-        },
-        {
-          "game_id": 621,
-          "year": 2022,
-          "stage": "gruppspel",
-          "stage_level": 0,
-          "winner": "p1",
-          "name": "John Qvale",
-          "score": 7,
-          "score_share": 0.4375,
-          "win_prob": 0.05408869279972739,
-          "opponent_name": "Hilda Dahlberg",
-          "opponent_score": 9,
-          "opponent_score_share": 0.5625,
-          "opponent_win_prob": 0.9459113072002726,
-          "is_winner": false,
-          "opponent_slug": "hilda-dahlberg",
-          "opponent_hist_score_share": 0.481198489010989
+          "opponent_hist_score_share": 0.5337973093298171
         },
         {
           "game_id": 605,
@@ -324,6 +310,24 @@
           "is_winner": true,
           "opponent_slug": "heiv-sarban",
           "opponent_hist_score_share": 0.31176470588235294
+        },
+        {
+          "game_id": 621,
+          "year": 2022,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "John Qvale",
+          "score": 7,
+          "score_share": 0.4375,
+          "win_prob": 0.05408869279972739,
+          "opponent_name": "Hilda Dahlberg",
+          "opponent_score": 9,
+          "opponent_score_share": 0.5625,
+          "opponent_win_prob": 0.9459113072002726,
+          "is_winner": false,
+          "opponent_slug": "hilda-dahlberg",
+          "opponent_hist_score_share": 0.481198489010989
         }
       ],
       "n_games": 3,
@@ -332,10 +336,10 @@
   ],
   "best_stage": "gruppspel",
   "best_stage_years": [
-    2016,
-    2022,
     2018,
     2019,
-    2021
+    2021,
+    2022,
+    2016
   ]
 }

@@ -6,13 +6,13 @@
     2022
   ],
   "win_rate": 0.3333333333333333,
-  "opponent_score_share": 0.5913523662798044,
+  "opponent_score_share": 0.5337785320294204,
   "skill": 115.95190373572545,
   "skill_sigma": 56.56761532455807,
   "name": "Jessica Johansson",
   "slug": "jessica-johansson",
-  "skill_rank": 66.0,
-  "skill_rank_pct": 66.0,
+  "skill_rank": 73.0,
+  "skill_rank_pct": 73.0,
   "skill_history": [
     [
       2011,
@@ -49,6 +49,10 @@
     [
       2022,
       116.0
+    ],
+    [
+      2023,
+      null
     ]
   ],
   "tournaments": [
@@ -79,7 +83,7 @@
           "opponent_win_prob": 0.6879152844263332,
           "is_winner": true,
           "opponent_slug": "robin-linderborg",
-          "opponent_hist_score_share": 0.5497140012765013
+          "opponent_hist_score_share": 0.569941409165547
         },
         {
           "game_id": 618,
@@ -97,7 +101,7 @@
           "opponent_win_prob": 0.5310257075904307,
           "is_winner": false,
           "opponent_slug": "calle-buddee-roos",
-          "opponent_hist_score_share": 0.5140866873065015
+          "opponent_hist_score_share": 0.5118507051943585
         },
         {
           "game_id": 591,
@@ -115,7 +119,7 @@
           "opponent_win_prob": 0.32196864771118994,
           "is_winner": false,
           "opponent_slug": "fredrik-matz",
-          "opponent_hist_score_share": 0.7102564102564103
+          "opponent_hist_score_share": 0.5195434817283557
         }
       ],
       "n_games": 3,
