@@ -4,7 +4,21 @@
       <tr class="collapsed" data-toggle="collapse" href="#games-{{tournament.year}}" data-target="#games-{{tournament.year}}" aria-expanded="false" aria-controls="#games-{{tournament.year}}" onclick="none()">
         <th>{{tournament.year}}</th>
         <td class="">
-          {{tournament.last_game.stage|capitalize}}<br>
+          {% if tournament.last_game.stage == 'bronsmatch' %}
+            Fjärde plats<br>
+
+          {% elif tournament.last_game.stage == 'vinnare' %}
+           🥇 Vinnare<br>
+
+          {% elif tournament.last_game.stage == 'final' and not tournament.last_game.is_winner %}
+            🥈 Silver<br>
+          
+          {% elif tournament.last_game.stage == 'brons' and tournament.last_game.is_winner %}
+            🥉 Brons<br>
+
+          {% else %}
+            {{tournament.last_game.stage|capitalize}}<br>
+          {% endif %}
           
           {% if tournament.last_game.stage != "gruppspel" %}
             <small>
@@ -12,19 +26,21 @@
                   Efter final mot 
 
               {% elif tournament.last_game.stage == 'final' %}
-                  Förlust mot 
+                  Efter finalförlust mot 
 
-              {% elif tournament.last_game.stage == 'bronsmatch' and tournament.last_game.is_winner %}
-                  Vinst mot 
+              {% elif tournament.last_game.stage == 'brons' and tournament.last_game.is_winner %}
+                  Efter vinst mot 
 
               {% elif tournament.last_game.stage == 'bronsmatch' and not tournament.last_game.is_winner %}
-                  Förlust mot 
+                  Förlust i bronsmatch mot 
 
               {% else %}
                   Ut mot 
               {% endif %}
 
-              {{tournament.last_game.opponent_name}}
+              <a href="{{url_for('player_index', player_slug=tournament.last_game.opponent_name|slugify)}}">
+                {{tournament.last_game.opponent_name}}
+              </a>
             <small>
 
           {% endif %}

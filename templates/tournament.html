@@ -10,10 +10,10 @@
     <h1>Bouleympiaden: {{tournament.year}}</h1>
 
     <p class="lead margin-top-30">
-        <strong>Guld:</strong> {{tournament.gold}}</br>
-        <strong>Silver:</strong> {{tournament.silver}}</br>
+        <strong>🥇 Guld:</strong> {{tournament.gold}}</br>
+        <strong>🥈 Silver:</strong> {{tournament.silver}}</br>
         {% if tournament.bronze %}
-          <strong>Brons:</strong> {{tournament.bronze}}</br>      
+          <strong>🥉 Brons:</strong> {{tournament.bronze}}</br>      
         {% endif %}
 
     </p>
@@ -30,6 +30,9 @@
         {% for game in stage.games %}
           <tr>
             <td class="text-right">
+              {% if game.winner == 'p1' %}
+                ⭐
+              {% endif %}
               <a href="{{url_for('player_index', player_slug=game.p1_name|slugify)}}"
                 class="{% if game.winner == 'p1' %}underline-primary{% endif %}">
                 {{game.p1_name}}
@@ -43,7 +46,9 @@
                  class="{% if game.winner == 'p2' %}underline-primary{% endif %}">
                 {{game.p2_name}}
               </a>          
-
+              {% if game.winner == 'p2' %}
+                ⭐
+              {% endif %}
             </td>
           </tr>
           
