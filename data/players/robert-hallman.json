@@ -6,13 +6,13 @@
     2023
   ],
   "win_rate": 0.0,
-  "opponent_score_share": 0.5728369669546141,
+  "opponent_score_share": 0.5172553243325302,
   "skill": 15.028704938605333,
   "skill_sigma": 76.54184696087367,
   "name": "Robert Hallman",
   "slug": "robert-hallman",
-  "skill_rank": 141.0,
-  "skill_rank_pct": 141.0,
+  "skill_rank": 149.0,
+  "skill_rank_pct": 149.0,
   "skill_history": [
     [
       2011,
@@ -53,6 +53,10 @@
     [
       2023,
       15.0
+    ],
+    [
+      2024,
+      null
     ]
   ],
   "tournaments": [
@@ -83,7 +87,7 @@
           "opponent_win_prob": 0.5887038531336366,
           "is_winner": false,
           "opponent_slug": "sara-welff",
-          "opponent_hist_score_share": 0.5209653092006034
+          "opponent_hist_score_share": 0.4566041801335919
         },
         {
           "game_id": 686,
@@ -101,7 +105,7 @@
           "opponent_win_prob": 0.5000000150000002,
           "is_winner": false,
           "opponent_slug": "karolina-widerstrom",
-          "opponent_hist_score_share": 0.6247086247086248
+          "opponent_hist_score_share": 0.5779064685314685
         }
       ],
       "n_games": 2,

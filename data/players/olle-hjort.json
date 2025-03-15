@@ -6,13 +6,13 @@
     2018
   ],
   "win_rate": 0.3333333333333333,
-  "opponent_score_share": 0.5137460559874353,
+  "opponent_score_share": 0.5050946423969828,
   "skill": 62.70539121299896,
   "skill_sigma": 63.9634474212986,
   "name": "Olle Hjort",
   "slug": "olle-hjort",
-  "skill_rank": 105.0,
-  "skill_rank_pct": 105.0,
+  "skill_rank": 108.0,
+  "skill_rank_pct": 108.0,
   "skill_history": [
     [
       2011,
@@ -52,6 +52,10 @@
     ],
     [
       2023,
+      null
+    ],
+    [
+      2024,
       null
     ]
   ],
@@ -101,7 +105,7 @@
           "opponent_win_prob": 0.3194519150635189,
           "is_winner": true,
           "opponent_slug": "frida-ohrn",
-          "opponent_hist_score_share": 0.4007381507381507
+          "opponent_hist_score_share": 0.3834708320002438
         },
         {
           "game_id": 185,
@@ -119,7 +123,7 @@
           "opponent_win_prob": 0.5148231826079204,
           "is_winner": false,
           "opponent_slug": "robin-linderborg",
-          "opponent_hist_score_share": 0.569941409165547
+          "opponent_hist_score_share": 0.5612544871320962
         }
       ],
       "n_games": 3,

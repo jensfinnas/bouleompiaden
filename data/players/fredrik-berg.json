@@ -6,13 +6,13 @@
     2020
   ],
   "win_rate": 0.3333333333333333,
-  "opponent_score_share": 0.45560925317977263,
+  "opponent_score_share": 0.46541790692782037,
   "skill": 37.61246249413298,
   "skill_sigma": 60.57250951222389,
   "name": "Fredrik Berg",
   "slug": "fredrik-berg",
-  "skill_rank": 122.0,
-  "skill_rank_pct": 122.0,
+  "skill_rank": 129.0,
+  "skill_rank_pct": 129.0,
   "skill_history": [
     [
       2011,
@@ -52,6 +52,10 @@
     ],
     [
       2023,
+      null
+    ],
+    [
+      2024,
       null
     ]
   ],
@@ -119,7 +123,7 @@
           "opponent_win_prob": 0.47704502386875447,
           "is_winner": false,
           "opponent_slug": "jakob-gustafsson",
-          "opponent_hist_score_share": 0.45099657967305024
+          "opponent_hist_score_share": 0.4804225409171934
         }
       ],
       "n_games": 3,

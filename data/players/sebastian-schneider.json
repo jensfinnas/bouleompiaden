@@ -11,8 +11,8 @@
   "skill_sigma": 55.0135149136545,
   "name": "Sebastian Schneider",
   "slug": "sebastian-schneider",
-  "skill_rank": 19.0,
-  "skill_rank_pct": 19.0,
+  "skill_rank": 21.0,
+  "skill_rank_pct": 21.0,
   "skill_history": [
     [
       2011,
@@ -52,6 +52,10 @@
     ],
     [
       2023,
+      null
+    ],
+    [
+      2024,
       null
     ]
   ],

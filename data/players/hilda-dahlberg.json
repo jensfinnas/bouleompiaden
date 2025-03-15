@@ -7,7 +7,7 @@
     2022
   ],
   "win_rate": 0.5,
-  "opponent_score_share": 0.5294581925301133,
+  "opponent_score_share": 0.5296861055000263,
   "skill": 134.996778130246,
   "skill_sigma": 39.32255352968545,
   "name": "Hilda Dahlberg",
@@ -54,6 +54,10 @@
     [
       2023,
       null
+    ],
+    [
+      2024,
+      null
     ]
   ],
   "tournaments": [
@@ -84,7 +88,7 @@
           "opponent_win_prob": 0.6580263592525337,
           "is_winner": true,
           "opponent_slug": "ville-nordenankar",
-          "opponent_hist_score_share": 0.4288546176046176
+          "opponent_hist_score_share": 0.4457742488992489
         },
         {
           "game_id": 468,
@@ -102,7 +106,7 @@
           "opponent_win_prob": 0.7852837832957243,
           "is_winner": false,
           "opponent_slug": "johan-kjell",
-          "opponent_hist_score_share": 0.5870032732503708
+          "opponent_hist_score_share": 0.6040345989993392
         },
         {
           "game_id": 516,
@@ -171,7 +175,7 @@
           "opponent_win_prob": 0.6794341358336928,
           "is_winner": false,
           "opponent_slug": "olle-strandberg",
-          "opponent_hist_score_share": 0.6605863621382463
+          "opponent_hist_score_share": 0.6284587088539505
         },
         {
           "game_id": 621,

@@ -7,13 +7,13 @@
     2023
   ],
   "win_rate": 0.4,
-  "opponent_score_share": 0.4175572559418625,
+  "opponent_score_share": 0.4240417829228643,
   "skill": 56.04987386717119,
   "skill_sigma": 49.398059096856294,
   "name": "Bj\u00f6rn Westerfors",
   "slug": "bjorn-westerfors",
-  "skill_rank": 109.0,
-  "skill_rank_pct": 109.0,
+  "skill_rank": 112.0,
+  "skill_rank_pct": 112.0,
   "skill_history": [
     [
       2011,
@@ -54,6 +54,10 @@
     [
       2023,
       56.0
+    ],
+    [
+      2024,
+      null
     ]
   ],
   "tournaments": [
@@ -102,7 +106,7 @@
           "opponent_win_prob": 0.14868811581729935,
           "is_winner": false,
           "opponent_slug": "jerker-karlsson",
-          "opponent_hist_score_share": 0.5216255545801
+          "opponent_hist_score_share": 0.5303209572946416
         }
       ],
       "n_games": 2,
@@ -135,7 +139,7 @@
           "opponent_win_prob": 0.6908708467232543,
           "is_winner": false,
           "opponent_slug": "johan-ekman",
-          "opponent_hist_score_share": 0.49987388755035816
+          "opponent_hist_score_share": 0.50221448427856
         },
         {
           "game_id": 708,
@@ -153,7 +157,7 @@
           "opponent_win_prob": 0.5513712017433907,
           "is_winner": true,
           "opponent_slug": "monica-harder",
-          "opponent_hist_score_share": 0.29126014041980425
+          "opponent_hist_score_share": 0.31264677588206996
         },
         {
           "game_id": 725,

@@ -7,13 +7,13 @@
     2019
   ],
   "win_rate": 0.5,
-  "opponent_score_share": 0.5455217640876472,
+  "opponent_score_share": 0.5464174395010882,
   "skill": 88.73498089421172,
   "skill_sigma": 46.283094482429824,
   "name": "Sebastin Fors\u00e9n",
   "slug": "sebastin-forsen",
-  "skill_rank": 90.0,
-  "skill_rank_pct": 90.0,
+  "skill_rank": 93.0,
+  "skill_rank_pct": 93.0,
   "skill_history": [
     [
       2011,
@@ -53,6 +53,10 @@
     ],
     [
       2023,
+      null
+    ],
+    [
+      2024,
       null
     ]
   ],
@@ -120,7 +124,7 @@
           "opponent_win_prob": 0.19008845997894508,
           "is_winner": false,
           "opponent_slug": "johan-kjell",
-          "opponent_hist_score_share": 0.5870032732503708
+          "opponent_hist_score_share": 0.6040345989993392
         }
       ],
       "n_games": 3,
@@ -171,7 +175,7 @@
           "opponent_win_prob": 0.3852571532770148,
           "is_winner": false,
           "opponent_slug": "pelle-dovborg",
-          "opponent_hist_score_share": 0.5687558814642149
+          "opponent_hist_score_share": 0.5570986081958933
         },
         {
           "game_id": 291,

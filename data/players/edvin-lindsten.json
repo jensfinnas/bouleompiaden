@@ -11,13 +11,13 @@
     2023
   ],
   "win_rate": 0.6206896551724138,
-  "opponent_score_share": 0.4945664950816403,
+  "opponent_score_share": 0.4947610190457446,
   "skill": 163.2828195258883,
   "skill_sigma": 22.691531899023683,
   "name": "Edvin Lindsten",
   "slug": "edvin-lindsten",
-  "skill_rank": 28.0,
-  "skill_rank_pct": 28.0,
+  "skill_rank": 29.0,
+  "skill_rank_pct": 29.0,
   "skill_history": [
     [
       2011,
@@ -58,6 +58,10 @@
     [
       2023,
       163.0
+    ],
+    [
+      2024,
+      null
     ]
   ],
   "tournaments": [
@@ -124,7 +128,7 @@
           "opponent_win_prob": 0.26202824078736,
           "is_winner": true,
           "opponent_slug": "robin-linderborg",
-          "opponent_hist_score_share": 0.569941409165547
+          "opponent_hist_score_share": 0.5612544871320962
         },
         {
           "game_id": 138,
@@ -160,7 +164,7 @@
           "opponent_win_prob": 0.3143326266631044,
           "is_winner": true,
           "opponent_slug": "erik-nordenankar",
-          "opponent_hist_score_share": 0.679882946820159
+          "opponent_hist_score_share": 0.6808699289679294
         },
         {
           "game_id": 144,
@@ -178,7 +182,7 @@
           "opponent_win_prob": 0.39895485090559796,
           "is_winner": false,
           "opponent_slug": "gabriel-nordenankar",
-          "opponent_hist_score_share": 0.6508376694877611
+          "opponent_hist_score_share": 0.6495889153220986
         }
       ],
       "n_games": 6,
@@ -229,7 +233,7 @@
           "opponent_win_prob": 0.0547260487377359,
           "is_winner": true,
           "opponent_slug": "sofia-orning",
-          "opponent_hist_score_share": 0.38998601072130484
+          "opponent_hist_score_share": 0.4011214843695662
         },
         {
           "game_id": 224,
@@ -247,7 +251,7 @@
           "opponent_win_prob": 0.02519416238150285,
           "is_winner": true,
           "opponent_slug": "sofia-orning",
-          "opponent_hist_score_share": 0.38998601072130484
+          "opponent_hist_score_share": 0.4011214843695662
         },
         {
           "game_id": 236,
@@ -265,7 +269,7 @@
           "opponent_win_prob": 0.17732787651847337,
           "is_winner": false,
           "opponent_slug": "theodore-ripman",
-          "opponent_hist_score_share": 0.5597932488790567
+          "opponent_hist_score_share": 0.5710964566774074
         }
       ],
       "n_games": 4,
@@ -511,7 +515,7 @@
           "opponent_win_prob": 0.4187345660571066,
           "is_winner": false,
           "opponent_slug": "pelle-dovborg",
-          "opponent_hist_score_share": 0.5687558814642149
+          "opponent_hist_score_share": 0.5570986081958933
         }
       ],
       "n_games": 8,
@@ -544,7 +548,7 @@
           "opponent_win_prob": 0.059679829665424955,
           "is_winner": true,
           "opponent_slug": "erik-numan",
-          "opponent_hist_score_share": 0.49786515972274487
+          "opponent_hist_score_share": 0.4878937512797705
         },
         {
           "game_id": 488,
@@ -562,7 +566,7 @@
           "opponent_win_prob": 0.3752401824915499,
           "is_winner": false,
           "opponent_slug": "filippa-berencreutz",
-          "opponent_hist_score_share": 0.5345458055016878
+          "opponent_hist_score_share": 0.5570843587097457
         },
         {
           "game_id": 516,
@@ -598,7 +602,7 @@
           "opponent_win_prob": 0.7302974337386361,
           "is_winner": false,
           "opponent_slug": "gabriel-nordenankar",
-          "opponent_hist_score_share": 0.6508376694877611
+          "opponent_hist_score_share": 0.6495889153220986
         }
       ],
       "n_games": 4,
@@ -631,7 +635,7 @@
           "opponent_win_prob": 0.44766990436856047,
           "is_winner": false,
           "opponent_slug": "jens-finnas",
-          "opponent_hist_score_share": 0.4777480332167832
+          "opponent_hist_score_share": 0.4591026498011792
         },
         {
           "game_id": 706,

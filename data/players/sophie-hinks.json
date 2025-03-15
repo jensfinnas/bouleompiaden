@@ -6,13 +6,13 @@
     2021
   ],
   "win_rate": 0.0,
-  "opponent_score_share": 0.5252861864297755,
+  "opponent_score_share": 0.5147900966117583,
   "skill": 7.1156167079921975,
   "skill_sigma": 66.87954874833062,
   "name": "Sophie Hinks",
   "slug": "sophie-hinks",
-  "skill_rank": 151.0,
-  "skill_rank_pct": 151.0,
+  "skill_rank": 160.0,
+  "skill_rank_pct": 160.0,
   "skill_history": [
     [
       2011,
@@ -53,6 +53,10 @@
     [
       2023,
       null
+    ],
+    [
+      2024,
+      null
     ]
   ],
   "tournaments": [
@@ -83,7 +87,7 @@
           "opponent_win_prob": 0.4290773333029041,
           "is_winner": false,
           "opponent_slug": "sofia-orning",
-          "opponent_hist_score_share": 0.38998601072130484
+          "opponent_hist_score_share": 0.4011214843695662
         },
         {
           "game_id": 491,
@@ -101,7 +105,7 @@
           "opponent_win_prob": 0.7113865115666538,
           "is_winner": false,
           "opponent_slug": "olle-strandberg",
-          "opponent_hist_score_share": 0.6605863621382463
+          "opponent_hist_score_share": 0.6284587088539505
         }
       ],
       "n_games": 2,

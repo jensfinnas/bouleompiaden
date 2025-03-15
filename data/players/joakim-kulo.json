@@ -1,0 +1,137 @@
+{
+  "n_games": 3,
+  "score_share": 0.25089126559714797,
+  "n_wins": 0,
+  "years": [
+    2024
+  ],
+  "win_rate": 0.0,
+  "opponent_score_share": 0.5956767983880803,
+  "skill": 26.512028630754862,
+  "skill_sigma": 69.75504548739013,
+  "name": "Joakim Kulo",
+  "slug": "joakim-kulo",
+  "skill_rank": 139.0,
+  "skill_rank_pct": 139.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      null
+    ],
+    [
+      2016,
+      null
+    ],
+    [
+      2017,
+      null
+    ],
+    [
+      2018,
+      null
+    ],
+    [
+      2019,
+      null
+    ],
+    [
+      2020,
+      null
+    ],
+    [
+      2021,
+      null
+    ],
+    [
+      2022,
+      null
+    ],
+    [
+      2023,
+      null
+    ],
+    [
+      2024,
+      27.0
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2024,
+      "last_game": {
+        "opponent_name": "Simon Fridh",
+        "opponent_slug": "simon-fridh",
+        "score": 1,
+        "opponent_score": 10,
+        "is_winner": false,
+        "stage": "sextondelsfinal"
+      },
+      "games": [
+        {
+          "game_id": 773,
+          "year": 2024,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Joakim Kulo",
+          "score": 7,
+          "score_share": 0.4117647058823529,
+          "win_prob": 0.475224087688712,
+          "opponent_name": "Johan Ekman",
+          "opponent_score": 10,
+          "opponent_score_share": 0.5882352941176471,
+          "opponent_win_prob": 0.5247759123112881,
+          "is_winner": false,
+          "opponent_slug": "johan-ekman",
+          "opponent_hist_score_share": 0.50221448427856
+        },
+        {
+          "game_id": 806,
+          "year": 2024,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Joakim Kulo",
+          "score": 3,
+          "score_share": 0.25,
+          "win_prob": 0.062342112420400775,
+          "opponent_name": "Benjamin Ger. Hed.",
+          "opponent_score": 9,
+          "opponent_score_share": 0.75,
+          "opponent_win_prob": 0.9376578875795992,
+          "is_winner": false,
+          "opponent_slug": "benjamin-ger-hed",
+          "opponent_hist_score_share": 0.6311029571727272
+        },
+        {
+          "game_id": 819,
+          "year": 2024,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p1",
+          "name": "Joakim Kulo",
+          "score": 1,
+          "score_share": 0.09090909090909091,
+          "win_prob": 0.05154427853492649,
+          "opponent_name": "Simon Fridh",
+          "opponent_score": 10,
+          "opponent_score_share": 0.9090909090909091,
+          "opponent_win_prob": 0.9484557214650735,
+          "is_winner": false,
+          "opponent_slug": "simon-fridh",
+          "opponent_hist_score_share": 0.6537129537129537
+        }
+      ],
+      "n_games": 3,
+      "n_wins": 0
+    }
+  ],
+  "best_stage": "sextondelsfinal",
+  "best_stage_years": [
+    2024
+  ]
+}

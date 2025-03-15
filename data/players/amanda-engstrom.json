@@ -7,13 +7,13 @@
     2023
   ],
   "win_rate": 0.5,
-  "opponent_score_share": 0.49606998404787694,
+  "opponent_score_share": 0.4935269596351554,
   "skill": 128.14823723134955,
   "skill_sigma": 37.56788306964193,
   "name": "Amanda Engstr\u00f6m",
   "slug": "amanda-engstrom",
-  "skill_rank": 57.0,
-  "skill_rank_pct": 57.0,
+  "skill_rank": 58.0,
+  "skill_rank_pct": 58.0,
   "skill_history": [
     [
       2011,
@@ -54,6 +54,10 @@
     [
       2023,
       128.0
+    ],
+    [
+      2024,
+      null
     ]
   ],
   "tournaments": [
@@ -84,7 +88,7 @@
           "opponent_win_prob": 0.7375853787153877,
           "is_winner": false,
           "opponent_slug": "pelle-dovborg",
-          "opponent_hist_score_share": 0.5687558814642149
+          "opponent_hist_score_share": 0.5570986081958933
         },
         {
           "game_id": 617,
@@ -189,7 +193,7 @@
           "opponent_win_prob": 0.45488093092051407,
           "is_winner": false,
           "opponent_slug": "robin-linderborg",
-          "opponent_hist_score_share": 0.569941409165547
+          "opponent_hist_score_share": 0.5612544871320962
         },
         {
           "game_id": 732,

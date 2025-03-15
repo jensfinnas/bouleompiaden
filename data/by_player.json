@@ -7,13 +7,13 @@
       2020
     ],
     "win_rate": 0.25,
-    "opponent_score_share": 0.5256899422231917,
+    "opponent_score_share": 0.5210518581871297,
     "skill": 35.78905236101366,
     "skill_sigma": 58.50951506789129,
     "name": "Adriana Lilja",
     "slug": "adriana-lilja",
-    "skill_rank": 125.0,
-    "skill_rank_pct": 125.0,
+    "skill_rank": 132.0,
+    "skill_rank_pct": 132.0,
     "skill_history": [
       [
         2011,
@@ -54,6 +54,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "sextondelsfinal",
@@ -69,13 +73,13 @@
       2019
     ],
     "win_rate": 0.0,
-    "opponent_score_share": 0.5120530037798032,
+    "opponent_score_share": 0.5122873370188963,
     "skill": 6.402404806036442,
     "skill_sigma": 67.33727244871369,
     "name": "Agnes Hannervall",
     "slug": "agnes-hannervall",
-    "skill_rank": 152.0,
-    "skill_rank_pct": 152.0,
+    "skill_rank": 161.0,
+    "skill_rank_pct": 161.0,
     "skill_history": [
       [
         2011,
@@ -116,6 +120,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "gruppspel",
@@ -131,13 +139,13 @@
       2012
     ],
     "win_rate": 0.0,
-    "opponent_score_share": 0.5898784171852586,
+    "opponent_score_share": 0.5915422066232447,
     "skill": 36.32092366530901,
     "skill_sigma": 79.47743006265962,
     "name": "Agnes Lind",
     "slug": "agnes-lind",
-    "skill_rank": 124.0,
-    "skill_rank_pct": 124.0,
+    "skill_rank": 131.0,
+    "skill_rank_pct": 131.0,
     "skill_history": [
       [
         2011,
@@ -178,6 +186,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "gruppspel",
@@ -193,13 +205,13 @@
       2022
     ],
     "win_rate": 0.3333333333333333,
-    "opponent_score_share": 0.5108831219615533,
+    "opponent_score_share": 0.5110722867995886,
     "skill": 70.13708081714128,
     "skill_sigma": 61.70181815969178,
     "name": "Albin",
     "slug": "albin",
-    "skill_rank": 101.0,
-    "skill_rank_pct": 101.0,
+    "skill_rank": 104.0,
+    "skill_rank_pct": 104.0,
     "skill_history": [
       [
         2011,
@@ -240,6 +252,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "gruppspel",
@@ -255,13 +271,13 @@
       2019
     ],
     "win_rate": 0.6666666666666666,
-    "opponent_score_share": 0.5827323062739729,
+    "opponent_score_share": 0.582303967138526,
     "skill": 137.98382676526975,
     "skill_sigma": 58.48142083789554,
     "name": "Alexander Bjerner",
     "slug": "alexander-bjerner",
-    "skill_rank": 49.0,
-    "skill_rank_pct": 49.0,
+    "skill_rank": 47.0,
+    "skill_rank_pct": 47.0,
     "skill_history": [
       [
         2011,
@@ -302,6 +318,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "sextondelsfinal",
@@ -323,7 +343,7 @@
       2023
     ],
     "win_rate": 0.56,
-    "opponent_score_share": 0.4706544386164627,
+    "opponent_score_share": 0.4715860486034522,
     "skill": 136.2457880875284,
     "skill_sigma": 25.24872607456709,
     "name": "Alexander Starfelt",
@@ -370,11 +390,81 @@
       [
         2023,
         136.0
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "kvartsfinal",
     "best_stage_years": [
       2020
+    ]
+  },
+  "Alice Hindersson": {
+    "n_games": 5,
+    "score_share": 0.3563009049773756,
+    "n_wins": 2,
+    "years": [
+      2024
+    ],
+    "win_rate": 0.4,
+    "opponent_score_share": 0.5839834770069503,
+    "skill": 147.47438617155115,
+    "skill_sigma": 43.89224383681097,
+    "name": "Alice Hindersson",
+    "slug": "alice-hindersson",
+    "skill_rank": 40.0,
+    "skill_rank_pct": 40.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        null
+      ],
+      [
+        2020,
+        null
+      ],
+      [
+        2021,
+        null
+      ],
+      [
+        2022,
+        null
+      ],
+      [
+        2023,
+        null
+      ],
+      [
+        2024,
+        147.0
+      ]
+    ],
+    "best_stage": "\u00e5ttondelsfinal",
+    "best_stage_years": [
+      2024
     ]
   },
   "Amanda Engstr\u00f6m": {
@@ -386,13 +476,13 @@
       2023
     ],
     "win_rate": 0.5,
-    "opponent_score_share": 0.49606998404787694,
+    "opponent_score_share": 0.4935269596351554,
     "skill": 128.14823723134955,
     "skill_sigma": 37.56788306964193,
     "name": "Amanda Engstr\u00f6m",
     "slug": "amanda-engstrom",
-    "skill_rank": 57.0,
-    "skill_rank_pct": 57.0,
+    "skill_rank": 58.0,
+    "skill_rank_pct": 58.0,
     "skill_history": [
       [
         2011,
@@ -433,6 +523,10 @@
       [
         2023,
         128.0
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "kvartsfinal",
@@ -449,13 +543,13 @@
       2022
     ],
     "win_rate": 0.2,
-    "opponent_score_share": 0.524906963851717,
+    "opponent_score_share": 0.5263890409133573,
     "skill": 31.70301180549212,
     "skill_sigma": 53.33840117059806,
     "name": "Anders Kjell",
     "slug": "anders-kjell",
-    "skill_rank": 128.0,
-    "skill_rank_pct": 128.0,
+    "skill_rank": 135.0,
+    "skill_rank_pct": 135.0,
     "skill_history": [
       [
         2011,
@@ -496,6 +590,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "gruppspel",
@@ -515,13 +613,13 @@
       2023
     ],
     "win_rate": 0.2222222222222222,
-    "opponent_score_share": 0.5785917712509799,
+    "opponent_score_share": 0.5791598024135083,
     "skill": 52.17035205042871,
     "skill_sigma": 45.07040691313938,
     "name": "Andreas Josefson",
     "slug": "andreas-josefson",
-    "skill_rank": 112.0,
-    "skill_rank_pct": 112.0,
+    "skill_rank": 115.0,
+    "skill_rank_pct": 115.0,
     "skill_history": [
       [
         2011,
@@ -562,6 +660,10 @@
       [
         2023,
         52.0
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "kvartsfinal",
@@ -577,13 +679,13 @@
       2021
     ],
     "win_rate": 0.0,
-    "opponent_score_share": 0.5721428969380793,
+    "opponent_score_share": 0.5697139614381401,
     "skill": 11.826760741341376,
     "skill_sigma": 70.61458099538956,
     "name": "Anna Malmqvist",
     "slug": "anna-malmqvist",
-    "skill_rank": 146.0,
-    "skill_rank_pct": 146.0,
+    "skill_rank": 155.0,
+    "skill_rank_pct": 155.0,
     "skill_history": [
       [
         2011,
@@ -624,6 +726,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "gruppspel",
@@ -639,13 +745,13 @@
       2022
     ],
     "win_rate": 0.0,
-    "opponent_score_share": 0.45319959727904724,
+    "opponent_score_share": 0.45123578144968524,
     "skill": 18.84525802474768,
     "skill_sigma": 73.59409721867586,
     "name": "Anneli T\u00f6rnkvist",
     "slug": "anneli-tornkvist",
-    "skill_rank": 137.0,
-    "skill_rank_pct": 137.0,
+    "skill_rank": 145.0,
+    "skill_rank_pct": 145.0,
     "skill_history": [
       [
         2011,
@@ -686,6 +792,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "gruppspel",
@@ -702,13 +812,13 @@
       2021
     ],
     "win_rate": 0.0,
-    "opponent_score_share": 0.4765368944947763,
+    "opponent_score_share": 0.4749825969064714,
     "skill": -35.22636596652866,
     "skill_sigma": 60.4307600258605,
     "name": "Beata Harrysson",
     "slug": "beata-harrysson",
-    "skill_rank": 167.0,
-    "skill_rank_pct": 167.0,
+    "skill_rank": 175.0,
+    "skill_rank_pct": 175.0,
     "skill_history": [
       [
         2011,
@@ -749,6 +859,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "gruppspel",
@@ -758,9 +872,9 @@
     ]
   },
   "Benjamin Ger. Hed.": {
-    "n_games": 35,
-    "score_share": 0.614286949352186,
-    "n_wins": 26,
+    "n_games": 42,
+    "score_share": 0.6311029571727272,
+    "n_wins": 32,
     "years": [
       2017,
       2018,
@@ -768,16 +882,17 @@
       2020,
       2021,
       2022,
-      2023
+      2023,
+      2024
     ],
-    "win_rate": 0.7428571428571429,
-    "opponent_score_share": 0.4945341644606415,
-    "skill": 209.68955147540385,
-    "skill_sigma": 20.539596789557766,
+    "win_rate": 0.7619047619047619,
+    "opponent_score_share": 0.49739932864346265,
+    "skill": 221.275391125816,
+    "skill_sigma": 18.16749887626728,
     "name": "Benjamin Ger. Hed.",
     "slug": "benjamin-ger-hed",
-    "skill_rank": 8.0,
-    "skill_rank_pct": 8.0,
+    "skill_rank": 3.0,
+    "skill_rank_pct": 3.0,
     "skill_history": [
       [
         2011,
@@ -818,33 +933,38 @@
       [
         2023,
         210.0
+      ],
+      [
+        2024,
+        221.0
       ]
     ],
-    "best_stage": "final",
+    "best_stage": "vinnare",
     "best_stage_years": [
-      2019
+      2024
     ]
   },
   "Bj\u00f6rn Berglund": {
-    "n_games": 20,
-    "score_share": 0.5912036941816353,
-    "n_wins": 10,
+    "n_games": 24,
+    "score_share": 0.5899186767752944,
+    "n_wins": 13,
     "years": [
       2018,
       2019,
       2020,
       2021,
       2022,
-      2023
+      2023,
+      2024
     ],
-    "win_rate": 0.5,
-    "opponent_score_share": 0.4951496088587269,
-    "skill": 146.28378567886526,
-    "skill_sigma": 26.530444345589544,
+    "win_rate": 0.5416666666666666,
+    "opponent_score_share": 0.5000190142941386,
+    "skill": 160.72950333214013,
+    "skill_sigma": 23.465362292719643,
     "name": "Bj\u00f6rn Berglund",
     "slug": "bjorn-berglund",
-    "skill_rank": 42.0,
-    "skill_rank_pct": 42.0,
+    "skill_rank": 32.0,
+    "skill_rank_pct": 32.0,
     "skill_history": [
       [
         2011,
@@ -885,6 +1005,10 @@
       [
         2023,
         146.0
+      ],
+      [
+        2024,
+        161.0
       ]
     ],
     "best_stage": "kvartsfinal",
@@ -901,13 +1025,13 @@
       2023
     ],
     "win_rate": 0.4,
-    "opponent_score_share": 0.4175572559418625,
+    "opponent_score_share": 0.4240417829228643,
     "skill": 56.04987386717119,
     "skill_sigma": 49.398059096856294,
     "name": "Bj\u00f6rn Westerfors",
     "slug": "bjorn-westerfors",
-    "skill_rank": 109.0,
-    "skill_rank_pct": 109.0,
+    "skill_rank": 112.0,
+    "skill_rank_pct": 112.0,
     "skill_history": [
       [
         2011,
@@ -948,6 +1072,10 @@
       [
         2023,
         56.0
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "gruppspel",
@@ -957,20 +1085,21 @@
     ]
   },
   "Bror Nordenankar": {
-    "n_games": 3,
-    "score_share": 0.3328671328671329,
+    "n_games": 6,
+    "score_share": 0.2706002331002331,
     "n_wins": 1,
     "years": [
-      2023
+      2023,
+      2024
     ],
-    "win_rate": 0.3333333333333333,
-    "opponent_score_share": 0.4606630933114057,
-    "skill": 52.85384744854367,
-    "skill_sigma": 61.721022432080964,
+    "win_rate": 0.16666666666666666,
+    "opponent_score_share": 0.4999225208142246,
+    "skill": 30.21835249480263,
+    "skill_sigma": 51.81901803831406,
     "name": "Bror Nordenankar",
     "slug": "bror-nordenankar",
-    "skill_rank": 110.0,
-    "skill_rank_pct": 110.0,
+    "skill_rank": 138.0,
+    "skill_rank_pct": 138.0,
     "skill_history": [
       [
         2011,
@@ -1011,11 +1140,15 @@
       [
         2023,
         53.0
+      ],
+      [
+        2024,
+        30.0
       ]
     ],
-    "best_stage": "gruppspel",
+    "best_stage": "sextondelsfinal",
     "best_stage_years": [
-      2023
+      2024
     ]
   },
   "Calle Buddee Roos": {
@@ -1028,13 +1161,13 @@
       2023
     ],
     "win_rate": 0.6,
-    "opponent_score_share": 0.5006875435779478,
-    "skill": 164.13885729647478,
-    "skill_sigma": 27.796416835181894,
+    "opponent_score_share": 0.5034217065219574,
+    "skill": 164.1338614529874,
+    "skill_sigma": 27.795972607294736,
     "name": "Calle Buddee Roos",
     "slug": "calle-buddee-roos",
-    "skill_rank": 25.0,
-    "skill_rank_pct": 25.0,
+    "skill_rank": 27.0,
+    "skill_rank_pct": 27.0,
     "skill_history": [
       [
         2011,
@@ -1075,6 +1208,10 @@
       [
         2023,
         164.0
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "kvartsfinal",
@@ -1091,13 +1228,13 @@
       2020
     ],
     "win_rate": 0.0,
-    "opponent_score_share": 0.5245182835661559,
+    "opponent_score_share": 0.5282860194989395,
     "skill": 5.294396824267511,
     "skill_sigma": 72.65379263927423,
     "name": "Calle Sandin",
     "slug": "calle-sandin",
-    "skill_rank": 153.0,
-    "skill_rank_pct": 153.0,
+    "skill_rank": 162.0,
+    "skill_rank_pct": 162.0,
     "skill_history": [
       [
         2011,
@@ -1138,6 +1275,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "gruppspel",
@@ -1156,13 +1297,13 @@
       2022
     ],
     "win_rate": 0.4444444444444444,
-    "opponent_score_share": 0.4963793269595964,
+    "opponent_score_share": 0.49401476735146527,
     "skill": 126.30164946285349,
     "skill_sigma": 38.294001858922904,
     "name": "Carl Rother-Schirren",
     "slug": "carl-rother-schirren",
-    "skill_rank": 61.0,
-    "skill_rank_pct": 61.0,
+    "skill_rank": 64.0,
+    "skill_rank_pct": 64.0,
     "skill_history": [
       [
         2011,
@@ -1203,6 +1344,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "\u00e5ttondelsfinal",
@@ -1218,13 +1363,13 @@
       2020
     ],
     "win_rate": 0.3333333333333333,
-    "opponent_score_share": 0.5159307167534234,
+    "opponent_score_share": 0.5188291843249373,
     "skill": 118.68245665497726,
     "skill_sigma": 55.66465863436521,
     "name": "Caroline Edholm",
     "slug": "caroline-edholm",
-    "skill_rank": 71.0,
-    "skill_rank_pct": 71.0,
+    "skill_rank": 72.0,
+    "skill_rank_pct": 72.0,
     "skill_history": [
       [
         2011,
@@ -1265,6 +1410,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "sextondelsfinal",
@@ -1273,21 +1422,21 @@
     ]
   },
   "Caroline Verst\u00e4ndig": {
-    "n_games": 7,
-    "score_share": 0.41393421004765546,
+    "n_games": 6,
+    "score_share": 0.41000657838893134,
     "n_wins": 3,
     "years": [
       2022,
       2023
     ],
-    "win_rate": 0.42857142857142855,
-    "opponent_score_share": 0.5438660933052025,
-    "skill": 151.88679061001073,
-    "skill_sigma": 38.653037201990614,
+    "win_rate": 0.5,
+    "opponent_score_share": 0.5603547528753182,
+    "skill": 165.26190740709265,
+    "skill_sigma": 41.507445274105464,
     "name": "Caroline Verst\u00e4ndig",
     "slug": "caroline-verstandig",
-    "skill_rank": 36.0,
-    "skill_rank_pct": 36.0,
+    "skill_rank": 25.0,
+    "skill_rank_pct": 25.0,
     "skill_history": [
       [
         2011,
@@ -1327,7 +1476,11 @@
       ],
       [
         2023,
-        152.0
+        165.0
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "sextondelsfinal",
@@ -1344,13 +1497,13 @@
       2022
     ],
     "win_rate": 0.0,
-    "opponent_score_share": 0.49152085334722906,
+    "opponent_score_share": 0.4943047217592944,
     "skill": -25.398745490806803,
     "skill_sigma": 61.039863154675544,
     "name": "Charlotte Almgren",
     "slug": "charlotte-almgren",
-    "skill_rank": 164.0,
-    "skill_rank_pct": 164.0,
+    "skill_rank": 172.0,
+    "skill_rank_pct": 172.0,
     "skill_history": [
       [
         2011,
@@ -1391,6 +1544,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "gruppspel",
@@ -1407,13 +1564,13 @@
       2020
     ],
     "win_rate": 0.5,
-    "opponent_score_share": 0.42821144648970555,
+    "opponent_score_share": 0.42556945170616667,
     "skill": 103.40347136063902,
     "skill_sigma": 58.24948264973883,
     "name": "Charlotte Breitholtz",
     "slug": "charlotte-breitholtz",
-    "skill_rank": 84.0,
-    "skill_rank_pct": 84.0,
+    "skill_rank": 88.0,
+    "skill_rank_pct": 88.0,
     "skill_history": [
       [
         2011,
@@ -1454,6 +1611,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "sextondelsfinal",
@@ -1470,13 +1631,13 @@
       2019
     ],
     "win_rate": 0.5,
-    "opponent_score_share": 0.5618548363588146,
+    "opponent_score_share": 0.5672818890526762,
     "skill": 108.82771618591043,
     "skill_sigma": 43.484028971553144,
     "name": "Charlotte Johansson",
     "slug": "charlotte-johansson",
-    "skill_rank": 75.0,
-    "skill_rank_pct": 75.0,
+    "skill_rank": 78.0,
+    "skill_rank_pct": 78.0,
     "skill_history": [
       [
         2011,
@@ -1517,6 +1678,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "\u00e5ttondelsfinal",
@@ -1525,20 +1690,21 @@
     ]
   },
   "Chris Lowe": {
-    "n_games": 5,
-    "score_share": 0.3945915032679738,
+    "n_games": 8,
+    "score_share": 0.4056416316526611,
     "n_wins": 3,
     "years": [
-      2021
+      2021,
+      2024
     ],
-    "win_rate": 0.6,
-    "opponent_score_share": 0.44958692471856593,
-    "skill": 127.84648352629836,
-    "skill_sigma": 49.16330109690908,
+    "win_rate": 0.375,
+    "opponent_score_share": 0.4656120341969197,
+    "skill": 86.21053414868847,
+    "skill_sigma": 40.01283919522005,
     "name": "Chris Lowe",
     "slug": "chris-lowe",
-    "skill_rank": 58.0,
-    "skill_rank_pct": 58.0,
+    "skill_rank": 96.0,
+    "skill_rank_pct": 96.0,
     "skill_history": [
       [
         2011,
@@ -1579,6 +1745,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        86.0
       ]
     ],
     "best_stage": "\u00e5ttondelsfinal",
@@ -1594,13 +1764,13 @@
       2019
     ],
     "win_rate": 0.5,
-    "opponent_score_share": 0.52037693888991,
+    "opponent_score_share": 0.512345025568836,
     "skill": 131.44451219069174,
     "skill_sigma": 49.192924780909365,
     "name": "Christian Steen",
     "slug": "christian-steen",
-    "skill_rank": 55.0,
-    "skill_rank_pct": 55.0,
+    "skill_rank": 56.0,
+    "skill_rank_pct": 56.0,
     "skill_history": [
       [
         2011,
@@ -1641,6 +1811,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "sextondelsfinal",
@@ -1656,13 +1830,13 @@
       2022
     ],
     "win_rate": 0.0,
-    "opponent_score_share": 0.4521106834342129,
+    "opponent_score_share": 0.4721605547381691,
     "skill": 9.965247202026777,
     "skill_sigma": 70.00604346234209,
     "name": "Christoffer Jonsson",
     "slug": "christoffer-jonsson",
-    "skill_rank": 148.0,
-    "skill_rank_pct": 148.0,
+    "skill_rank": 157.0,
+    "skill_rank_pct": 157.0,
     "skill_history": [
       [
         2011,
@@ -1703,6 +1877,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "gruppspel",
@@ -1723,13 +1901,13 @@
       2019
     ],
     "win_rate": 0.55,
-    "opponent_score_share": 0.5310871139489602,
+    "opponent_score_share": 0.5313724175226696,
     "skill": 149.25388905616194,
     "skill_sigma": 26.515541310620893,
     "name": "Cissi Hellman",
     "slug": "cissi-hellman",
-    "skill_rank": 38.0,
-    "skill_rank_pct": 38.0,
+    "skill_rank": 36.0,
+    "skill_rank_pct": 36.0,
     "skill_history": [
       [
         2011,
@@ -1770,11 +1948,81 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "final",
     "best_stage_years": [
       2011
+    ]
+  },
+  "Clas \u00d6rjan Sp\u00e5ng": {
+    "n_games": 2,
+    "score_share": 0.15714285714285714,
+    "n_wins": 0,
+    "years": [
+      2024
+    ],
+    "win_rate": 0.0,
+    "opponent_score_share": 0.5304644640637629,
+    "skill": 13.000860988121767,
+    "skill_sigma": 71.06023859664944,
+    "name": "Clas \u00d6rjan Sp\u00e5ng",
+    "slug": "clas-orjan-spang",
+    "skill_rank": 152.0,
+    "skill_rank_pct": 152.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        null
+      ],
+      [
+        2020,
+        null
+      ],
+      [
+        2021,
+        null
+      ],
+      [
+        2022,
+        null
+      ],
+      [
+        2023,
+        null
+      ],
+      [
+        2024,
+        13.0
+      ]
+    ],
+    "best_stage": "gruppspel",
+    "best_stage_years": [
+      2024
     ]
   },
   "Conny \u00c5berg": {
@@ -1785,13 +2033,13 @@
       2012
     ],
     "win_rate": 0.0,
-    "opponent_score_share": 0.5057087664354101,
+    "opponent_score_share": 0.5005870171495171,
     "skill": 15.145942025378263,
     "skill_sigma": 75.31316150277124,
     "name": "Conny \u00c5berg",
     "slug": "conny-aberg",
-    "skill_rank": 139.0,
-    "skill_rank_pct": 139.0,
+    "skill_rank": 147.0,
+    "skill_rank_pct": 147.0,
     "skill_history": [
       [
         2011,
@@ -1832,6 +2080,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "gruppspel",
@@ -1847,13 +2099,13 @@
       2023
     ],
     "win_rate": 0.0,
-    "opponent_score_share": 0.5630688272732722,
+    "opponent_score_share": 0.5714768311835429,
     "skill": 36.88406685727139,
     "skill_sigma": 71.91167771110213,
     "name": "Cristy Cross",
     "slug": "cristy-cross",
-    "skill_rank": 123.0,
-    "skill_rank_pct": 123.0,
+    "skill_rank": 130.0,
+    "skill_rank_pct": 130.0,
     "skill_history": [
       [
         2011,
@@ -1894,6 +2146,10 @@
       [
         2023,
         37.0
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "gruppspel",
@@ -1909,13 +2165,13 @@
       2016
     ],
     "win_rate": 0.6,
-    "opponent_score_share": 0.4929308732518006,
+    "opponent_score_share": 0.49096673921399503,
     "skill": 139.23734241206387,
     "skill_sigma": 49.174830854538946,
     "name": "Daniel Mensak",
     "slug": "daniel-mensak",
-    "skill_rank": 47.0,
-    "skill_rank_pct": 47.0,
+    "skill_rank": 46.0,
+    "skill_rank_pct": 46.0,
     "skill_history": [
       [
         2011,
@@ -1956,6 +2212,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "bronsmatch",
@@ -1973,13 +2233,13 @@
       2021
     ],
     "win_rate": 0.25,
-    "opponent_score_share": 0.5230548164905304,
+    "opponent_score_share": 0.5202021220866433,
     "skill": 31.867695401330568,
     "skill_sigma": 44.877579135688684,
     "name": "Edith S\u00f6derstr\u00f6m",
     "slug": "edith-soderstrom",
-    "skill_rank": 127.0,
-    "skill_rank_pct": 127.0,
+    "skill_rank": 133.0,
+    "skill_rank_pct": 133.0,
     "skill_history": [
       [
         2011,
@@ -2020,6 +2280,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "gruppspel",
@@ -2042,13 +2306,13 @@
       2023
     ],
     "win_rate": 0.6206896551724138,
-    "opponent_score_share": 0.4945664950816403,
+    "opponent_score_share": 0.4947610190457446,
     "skill": 163.2828195258883,
     "skill_sigma": 22.691531899023683,
     "name": "Edvin Lindsten",
     "slug": "edvin-lindsten",
-    "skill_rank": 28.0,
-    "skill_rank_pct": 28.0,
+    "skill_rank": 29.0,
+    "skill_rank_pct": 29.0,
     "skill_history": [
       [
         2011,
@@ -2089,6 +2353,10 @@
       [
         2023,
         163.0
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "final",
@@ -2104,13 +2372,13 @@
       2023
     ],
     "win_rate": 0.3333333333333333,
-    "opponent_score_share": 0.48856373836766,
+    "opponent_score_share": 0.4864834979394093,
     "skill": 69.21707398272395,
     "skill_sigma": 61.43586847713558,
     "name": "Ellen Gehlin",
     "slug": "ellen-gehlin",
-    "skill_rank": 102.0,
-    "skill_rank_pct": 102.0,
+    "skill_rank": 105.0,
+    "skill_rank_pct": 105.0,
     "skill_history": [
       [
         2011,
@@ -2151,6 +2419,10 @@
       [
         2023,
         69.0
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "gruppspel",
@@ -2169,13 +2441,13 @@
       2023
     ],
     "win_rate": 0.4166666666666667,
-    "opponent_score_share": 0.5233695691392433,
+    "opponent_score_share": 0.5248002856008568,
     "skill": 127.04613609202593,
     "skill_sigma": 31.370095875021168,
     "name": "Emma Bergmark",
     "slug": "emma-bergmark",
-    "skill_rank": 59.0,
-    "skill_rank_pct": 59.0,
+    "skill_rank": 61.0,
+    "skill_rank_pct": 61.0,
     "skill_history": [
       [
         2011,
@@ -2216,6 +2488,10 @@
       [
         2023,
         127.0
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "\u00e5ttondelsfinal",
@@ -2232,13 +2508,13 @@
       2023
     ],
     "win_rate": 0.3333333333333333,
-    "opponent_score_share": 0.5027150633487464,
+    "opponent_score_share": 0.5038917162330787,
     "skill": 104.82492268683384,
     "skill_sigma": 44.99486853865027,
     "name": "Emma Frenn\u00e5s",
     "slug": "emma-frennas",
-    "skill_rank": 83.0,
-    "skill_rank_pct": 83.0,
+    "skill_rank": 87.0,
+    "skill_rank_pct": 87.0,
     "skill_history": [
       [
         2011,
@@ -2279,6 +2555,10 @@
       [
         2023,
         105.0
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "gruppspel",
@@ -2295,13 +2575,13 @@
       2017
     ],
     "win_rate": 0.0,
-    "opponent_score_share": 0.40365098137156963,
+    "opponent_score_share": 0.3941553210604013,
     "skill": -30.09126027630779,
     "skill_sigma": 68.67476674269147,
     "name": "Emma Pettersson",
     "slug": "emma-pettersson",
-    "skill_rank": 165.0,
-    "skill_rank_pct": 165.0,
+    "skill_rank": 173.0,
+    "skill_rank_pct": 173.0,
     "skill_history": [
       [
         2011,
@@ -2342,6 +2622,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "gruppspel",
@@ -2350,9 +2634,9 @@
     ]
   },
   "Erik Nordenankar": {
-    "n_games": 50,
-    "score_share": 0.679882946820159,
-    "n_wins": 38,
+    "n_games": 55,
+    "score_share": 0.6808699289679294,
+    "n_wins": 42,
     "years": [
       2011,
       2012,
@@ -2363,12 +2647,13 @@
       2020,
       2021,
       2022,
-      2023
+      2023,
+      2024
     ],
-    "win_rate": 0.76,
-    "opponent_score_share": 0.4989063393321808,
-    "skill": 218.14853328846434,
-    "skill_sigma": 17.000420268937397,
+    "win_rate": 0.7636363636363637,
+    "opponent_score_share": 0.49499953986016276,
+    "skill": 219.33512571969064,
+    "skill_sigma": 16.410008731220508,
     "name": "Erik Nordenankar",
     "slug": "erik-nordenankar",
     "skill_rank": 5.0,
@@ -2413,6 +2698,10 @@
       [
         2023,
         218.0
+      ],
+      [
+        2024,
+        219.0
       ]
     ],
     "best_stage": "vinnare",
@@ -2422,23 +2711,24 @@
     ]
   },
   "Erik Numan": {
-    "n_games": 15,
-    "score_share": 0.49786515972274487,
-    "n_wins": 7,
+    "n_games": 19,
+    "score_share": 0.4878937512797705,
+    "n_wins": 9,
     "years": [
       2020,
       2021,
       2022,
-      2023
+      2023,
+      2024
     ],
-    "win_rate": 0.4666666666666667,
-    "opponent_score_share": 0.5223106444391686,
-    "skill": 152.21981530256252,
-    "skill_sigma": 27.44958032830792,
+    "win_rate": 0.47368421052631576,
+    "opponent_score_share": 0.5274787870628055,
+    "skill": 148.52898244085284,
+    "skill_sigma": 24.601609260848907,
     "name": "Erik Numan",
     "slug": "erik-numan",
-    "skill_rank": 35.0,
-    "skill_rank_pct": 35.0,
+    "skill_rank": 39.0,
+    "skill_rank_pct": 39.0,
     "skill_history": [
       [
         2011,
@@ -2479,6 +2769,10 @@
       [
         2023,
         152.0
+      ],
+      [
+        2024,
+        149.0
       ]
     ],
     "best_stage": "kvartsfinal",
@@ -2499,8 +2793,8 @@
     "skill_sigma": 66.47656039941576,
     "name": "Erik Sunninger",
     "slug": "erik-sunninger",
-    "skill_rank": 45.0,
-    "skill_rank_pct": 45.0,
+    "skill_rank": 44.0,
+    "skill_rank_pct": 44.0,
     "skill_history": [
       [
         2011,
@@ -2541,6 +2835,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "kvartsfinal",
@@ -2549,20 +2847,21 @@
     ]
   },
   "Erika Andersson": {
-    "n_games": 2,
-    "score_share": 0.3891402714932127,
-    "n_wins": 0,
+    "n_games": 6,
+    "score_share": 0.4898324714501185,
+    "n_wins": 2,
     "years": [
-      2023
+      2023,
+      2024
     ],
-    "win_rate": 0.0,
-    "opponent_score_share": 0.5344462083897069,
-    "skill": 45.977934425774464,
-    "skill_sigma": 75.09079614545671,
+    "win_rate": 0.3333333333333333,
+    "opponent_score_share": 0.4851447950832841,
+    "skill": 108.04526321514824,
+    "skill_sigma": 45.37256776687864,
     "name": "Erika Andersson",
     "slug": "erika-andersson",
-    "skill_rank": 117.0,
-    "skill_rank_pct": 117.0,
+    "skill_rank": 81.0,
+    "skill_rank_pct": 81.0,
     "skill_history": [
       [
         2011,
@@ -2603,11 +2902,15 @@
       [
         2023,
         46.0
+      ],
+      [
+        2024,
+        108.0
       ]
     ],
-    "best_stage": "gruppspel",
+    "best_stage": "sextondelsfinal",
     "best_stage_years": [
-      2023
+      2024
     ]
   },
   "Estrid": {
@@ -2619,7 +2922,7 @@
       2019
     ],
     "win_rate": 0.75,
-    "opponent_score_share": 0.5287824623630989,
+    "opponent_score_share": 0.5348227127033766,
     "skill": 212.41833338920398,
     "skill_sigma": 32.900214983908874,
     "name": "Estrid",
@@ -2666,6 +2969,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "bronsmatch",
@@ -2682,13 +2989,13 @@
       2019
     ],
     "win_rate": 0.3333333333333333,
-    "opponent_score_share": 0.4832939908247231,
+    "opponent_score_share": 0.48819831769874694,
     "skill": 49.72175753064418,
     "skill_sigma": 50.665836304677114,
     "name": "Fanny Kjellner",
     "slug": "fanny-kjellner",
-    "skill_rank": 115.0,
-    "skill_rank_pct": 115.0,
+    "skill_rank": 117.0,
+    "skill_rank_pct": 117.0,
     "skill_history": [
       [
         2011,
@@ -2729,12 +3036,82 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "gruppspel",
     "best_stage_years": [
       2018,
       2019
+    ]
+  },
+  "Fanny Lundgren": {
+    "n_games": 2,
+    "score_share": 0.17647058823529413,
+    "n_wins": 0,
+    "years": [
+      2024
+    ],
+    "win_rate": 0.0,
+    "opponent_score_share": 0.5235383643893592,
+    "skill": 47.72933562079569,
+    "skill_sigma": 74.70323491608721,
+    "name": "Fanny Lundgren",
+    "slug": "fanny-lundgren",
+    "skill_rank": 119.0,
+    "skill_rank_pct": 119.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        null
+      ],
+      [
+        2020,
+        null
+      ],
+      [
+        2021,
+        null
+      ],
+      [
+        2022,
+        null
+      ],
+      [
+        2023,
+        null
+      ],
+      [
+        2024,
+        48.0
+      ]
+    ],
+    "best_stage": "gruppspel",
+    "best_stage_years": [
+      2024
     ]
   },
   "Felix H\u00e4ggstr\u00f6m": {
@@ -2745,13 +3122,13 @@
       2016
     ],
     "win_rate": 0.5,
-    "opponent_score_share": 0.5157262182262182,
+    "opponent_score_share": 0.5070925588572648,
     "skill": 88.71090118347175,
     "skill_sigma": 69.38499574726352,
     "name": "Felix H\u00e4ggstr\u00f6m",
     "slug": "felix-haggstrom",
-    "skill_rank": 91.0,
-    "skill_rank_pct": 91.0,
+    "skill_rank": 94.0,
+    "skill_rank_pct": 94.0,
     "skill_history": [
       [
         2011,
@@ -2791,6 +3168,10 @@
       ],
       [
         2023,
+        null
+      ],
+      [
+        2024,
         null
       ]
     ],
@@ -2854,6 +3235,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "vinnare",
@@ -2862,23 +3247,24 @@
     ]
   },
   "Filippa Berencreutz": {
-    "n_games": 14,
-    "score_share": 0.5345458055016878,
-    "n_wins": 8,
+    "n_games": 19,
+    "score_share": 0.5570843587097457,
+    "n_wins": 12,
     "years": [
       2020,
       2021,
       2022,
-      2023
+      2023,
+      2024
     ],
-    "win_rate": 0.5714285714285714,
-    "opponent_score_share": 0.517165185149999,
-    "skill": 164.91461925389044,
-    "skill_sigma": 28.985674441334464,
+    "win_rate": 0.631578947368421,
+    "opponent_score_share": 0.5068471246573574,
+    "skill": 180.411331551509,
+    "skill_sigma": 25.244735073304046,
     "name": "Filippa Berencreutz",
     "slug": "filippa-berencreutz",
-    "skill_rank": 24.0,
-    "skill_rank_pct": 24.0,
+    "skill_rank": 15.0,
+    "skill_rank_pct": 15.0,
     "skill_history": [
       [
         2011,
@@ -2919,11 +3305,81 @@
       [
         2023,
         165.0
+      ],
+      [
+        2024,
+        180.0
       ]
     ],
-    "best_stage": "\u00e5ttondelsfinal",
+    "best_stage": "kvartsfinal",
     "best_stage_years": [
-      2023
+      2024
+    ]
+  },
+  "Folke Nordenankar": {
+    "n_games": 4,
+    "score_share": 0.48775946275946275,
+    "n_wins": 2,
+    "years": [
+      2024
+    ],
+    "win_rate": 0.5,
+    "opponent_score_share": 0.5166810695087167,
+    "skill": 127.71717240594519,
+    "skill_sigma": 53.08759029685284,
+    "name": "Folke Nordenankar",
+    "slug": "folke-nordenankar",
+    "skill_rank": 60.0,
+    "skill_rank_pct": 60.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        null
+      ],
+      [
+        2020,
+        null
+      ],
+      [
+        2021,
+        null
+      ],
+      [
+        2022,
+        null
+      ],
+      [
+        2023,
+        null
+      ],
+      [
+        2024,
+        128.0
+      ]
+    ],
+    "best_stage": "sextondelsfinal",
+    "best_stage_years": [
+      2024
     ]
   },
   "Fredrik Berg": {
@@ -2934,13 +3390,13 @@
       2020
     ],
     "win_rate": 0.3333333333333333,
-    "opponent_score_share": 0.45560925317977263,
+    "opponent_score_share": 0.46541790692782037,
     "skill": 37.61246249413298,
     "skill_sigma": 60.57250951222389,
     "name": "Fredrik Berg",
     "slug": "fredrik-berg",
-    "skill_rank": 122.0,
-    "skill_rank_pct": 122.0,
+    "skill_rank": 129.0,
+    "skill_rank_pct": 129.0,
     "skill_history": [
       [
         2011,
@@ -2981,6 +3437,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "gruppspel",
@@ -2997,7 +3457,7 @@
       2023
     ],
     "win_rate": 0.5714285714285714,
-    "opponent_score_share": 0.4810236503426581,
+    "opponent_score_share": 0.4791747516748492,
     "skill": 146.48387946888488,
     "skill_sigma": 38.59228147040312,
     "name": "Fredrik Matz",
@@ -3044,6 +3504,10 @@
       [
         2023,
         146.0
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "sextondelsfinal",
@@ -3060,13 +3524,13 @@
       2023
     ],
     "win_rate": 0.0,
-    "opponent_score_share": 0.5418343393460372,
+    "opponent_score_share": 0.5411918306428667,
     "skill": 14.305584719537988,
     "skill_sigma": 68.51250238271892,
     "name": "Frej M\u00e5rtensson",
     "slug": "frej-martensson",
-    "skill_rank": 143.0,
-    "skill_rank_pct": 143.0,
+    "skill_rank": 151.0,
+    "skill_rank_pct": 151.0,
     "skill_history": [
       [
         2011,
@@ -3107,6 +3571,10 @@
       [
         2023,
         14.0
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "gruppspel",
@@ -3122,13 +3590,13 @@
       2019
     ],
     "win_rate": 0.0,
-    "opponent_score_share": 0.5476065289141387,
+    "opponent_score_share": 0.553258132813314,
     "skill": 12.171755924354164,
     "skill_sigma": 70.96224863449702,
     "name": "Frida Danielsson",
     "slug": "frida-danielsson",
-    "skill_rank": 144.0,
-    "skill_rank_pct": 144.0,
+    "skill_rank": 153.0,
+    "skill_rank_pct": 153.0,
     "skill_history": [
       [
         2011,
@@ -3169,6 +3637,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "gruppspel",
@@ -3177,8 +3649,8 @@
     ]
   },
   "Frida \u00d6hrn": {
-    "n_games": 15,
-    "score_share": 0.4007381507381507,
+    "n_games": 18,
+    "score_share": 0.3834708320002438,
     "n_wins": 3,
     "years": [
       2012,
@@ -3187,16 +3659,17 @@
       2020,
       2021,
       2022,
-      2023
+      2023,
+      2024
     ],
-    "win_rate": 0.2,
-    "opponent_score_share": 0.4838093107113901,
-    "skill": 29.288126771153806,
-    "skill_sigma": 36.297206038884916,
+    "win_rate": 0.16666666666666666,
+    "opponent_score_share": 0.4928677855284149,
+    "skill": 23.738212527923615,
+    "skill_sigma": 34.30356500388437,
     "name": "Frida \u00d6hrn",
     "slug": "frida-ohrn",
-    "skill_rank": 131.0,
-    "skill_rank_pct": 131.0,
+    "skill_rank": 141.0,
+    "skill_rank_pct": 141.0,
     "skill_history": [
       [
         2011,
@@ -3237,17 +3710,22 @@
       [
         2023,
         29.0
+      ],
+      [
+        2024,
+        24.0
       ]
     ],
     "best_stage": "sextondelsfinal",
     "best_stage_years": [
-      2021
+      2021,
+      2024
     ]
   },
   "Gabriel Nordenankar": {
-    "n_games": 49,
-    "score_share": 0.6508376694877611,
-    "n_wins": 41,
+    "n_games": 55,
+    "score_share": 0.6495889153220986,
+    "n_wins": 46,
     "years": [
       2011,
       2012,
@@ -3258,12 +3736,13 @@
       2020,
       2021,
       2022,
-      2023
+      2023,
+      2024
     ],
-    "win_rate": 0.8367346938775511,
-    "opponent_score_share": 0.5251454498038436,
-    "skill": 248.5324491494464,
-    "skill_sigma": 18.527745013225793,
+    "win_rate": 0.8363636363636363,
+    "opponent_score_share": 0.5237872317549503,
+    "skill": 250.37310018665087,
+    "skill_sigma": 17.255252273824286,
     "name": "Gabriel Nordenankar",
     "slug": "gabriel-nordenankar",
     "skill_rank": 2.0,
@@ -3308,6 +3787,10 @@
       [
         2023,
         249.0
+      ],
+      [
+        2024,
+        250.0
       ]
     ],
     "best_stage": "vinnare",
@@ -3326,13 +3809,13 @@
       2022
     ],
     "win_rate": 0.3333333333333333,
-    "opponent_score_share": 0.46287386659157376,
+    "opponent_score_share": 0.46081421469882694,
     "skill": 46.95782603989068,
     "skill_sigma": 42.76249848029465,
     "name": "Gustaf Berencreutz",
     "slug": "gustaf-berencreutz",
-    "skill_rank": 116.0,
-    "skill_rank_pct": 116.0,
+    "skill_rank": 120.0,
+    "skill_rank_pct": 120.0,
     "skill_history": [
       [
         2011,
@@ -3373,6 +3856,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "gruppspel",
@@ -3389,13 +3876,13 @@
       2018
     ],
     "win_rate": 0.3333333333333333,
-    "opponent_score_share": 0.45625800819217416,
+    "opponent_score_share": 0.45584175680362,
     "skill": 71.28682370713798,
     "skill_sigma": 67.77237869843846,
     "name": "Gustaf Ekenstein",
     "slug": "gustaf-ekenstein",
-    "skill_rank": 100.0,
-    "skill_rank_pct": 100.0,
+    "skill_rank": 103.0,
+    "skill_rank_pct": 103.0,
     "skill_history": [
       [
         2011,
@@ -3436,6 +3923,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "gruppspel",
@@ -3444,24 +3935,25 @@
     ]
   },
   "Hannes Jordan": {
-    "n_games": 20,
-    "score_share": 0.5230629419600008,
-    "n_wins": 11,
+    "n_games": 27,
+    "score_share": 0.5631626845679133,
+    "n_wins": 16,
     "years": [
       2018,
       2019,
       2020,
       2021,
-      2022
+      2022,
+      2024
     ],
-    "win_rate": 0.55,
-    "opponent_score_share": 0.5075446746868055,
-    "skill": 154.3783109412068,
-    "skill_sigma": 26.354112123139668,
+    "win_rate": 0.5925925925925926,
+    "opponent_score_share": 0.5034334447801546,
+    "skill": 166.39975230997536,
+    "skill_sigma": 22.762316742646433,
     "name": "Hannes Jordan",
     "slug": "hannes-jordan",
-    "skill_rank": 34.0,
-    "skill_rank_pct": 34.0,
+    "skill_rank": 24.0,
+    "skill_rank_pct": 24.0,
     "skill_history": [
       [
         2011,
@@ -3502,11 +3994,15 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        166.0
       ]
     ],
-    "best_stage": "kvartsfinal",
+    "best_stage": "bronsmatch",
     "best_stage_years": [
-      2022
+      2024
     ]
   },
   "Hasse Hallgren": {
@@ -3520,13 +4016,13 @@
       2023
     ],
     "win_rate": 0.2,
-    "opponent_score_share": 0.5180920101264138,
+    "opponent_score_share": 0.513361544534226,
     "skill": 40.72665858324049,
     "skill_sigma": 39.19310361026009,
     "name": "Hasse Hallgren",
     "slug": "hasse-hallgren",
-    "skill_rank": 121.0,
-    "skill_rank_pct": 121.0,
+    "skill_rank": 126.0,
+    "skill_rank_pct": 126.0,
     "skill_history": [
       [
         2011,
@@ -3567,6 +4063,10 @@
       [
         2023,
         41.0
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "sextondelsfinal",
@@ -3584,13 +4084,13 @@
       2022
     ],
     "win_rate": 0.0,
-    "opponent_score_share": 0.5032500181053828,
+    "opponent_score_share": 0.506956771096964,
     "skill": -56.388607226629105,
     "skill_sigma": 55.33783575649806,
     "name": "Heiv Sarban",
     "slug": "heiv-sarban",
-    "skill_rank": 169.0,
-    "skill_rank_pct": 169.0,
+    "skill_rank": 177.0,
+    "skill_rank_pct": 177.0,
     "skill_history": [
       [
         2011,
@@ -3631,6 +4131,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "gruppspel",
@@ -3648,13 +4152,13 @@
       2011
     ],
     "win_rate": 0.5,
-    "opponent_score_share": 0.5952968655526205,
+    "opponent_score_share": 0.5983694130391508,
     "skill": 124.7189196809611,
     "skill_sigma": 57.75703053348684,
     "name": "Henrik Blomkvist",
     "slug": "henrik-blomkvist",
-    "skill_rank": 63.0,
-    "skill_rank_pct": 63.0,
+    "skill_rank": 66.0,
+    "skill_rank_pct": 66.0,
     "skill_history": [
       [
         2011,
@@ -3695,6 +4199,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "semifinal",
@@ -3711,7 +4219,7 @@
       2022
     ],
     "win_rate": 0.5,
-    "opponent_score_share": 0.5294581925301133,
+    "opponent_score_share": 0.5296861055000263,
     "skill": 134.996778130246,
     "skill_sigma": 39.32255352968545,
     "name": "Hilda Dahlberg",
@@ -3758,6 +4266,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "\u00e5ttondelsfinal",
@@ -3779,8 +4291,8 @@
     "skill_sigma": 47.161066411553726,
     "name": "Ida Wimmerman",
     "slug": "ida-wimmerman",
-    "skill_rank": 64.0,
-    "skill_rank_pct": 64.0,
+    "skill_rank": 67.0,
+    "skill_rank_pct": 67.0,
     "skill_history": [
       [
         2011,
@@ -3821,6 +4333,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "\u00e5ttondelsfinal",
@@ -3837,13 +4353,13 @@
       2019
     ],
     "win_rate": 0.0,
-    "opponent_score_share": 0.5253557424189703,
+    "opponent_score_share": 0.5259408916010209,
     "skill": -9.23000721990779,
     "skill_sigma": 60.756473001342925,
     "name": "Isabell Dillstr\u00f6m",
     "slug": "isabell-dillstrom",
-    "skill_rank": 159.0,
-    "skill_rank_pct": 159.0,
+    "skill_rank": 167.0,
+    "skill_rank_pct": 167.0,
     "skill_history": [
       [
         2011,
@@ -3884,6 +4400,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "gruppspel",
@@ -3902,13 +4422,13 @@
       2022
     ],
     "win_rate": 0.375,
-    "opponent_score_share": 0.5037794280286155,
+    "opponent_score_share": 0.5073933200058376,
     "skill": 93.20661974644754,
     "skill_sigma": 40.66576026095654,
     "name": "Jacob Stenman",
     "slug": "jacob-stenman",
-    "skill_rank": 89.0,
-    "skill_rank_pct": 89.0,
+    "skill_rank": 92.0,
+    "skill_rank_pct": 92.0,
     "skill_history": [
       [
         2011,
@@ -3949,6 +4469,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "sextondelsfinal",
@@ -3965,13 +4489,13 @@
       2023
     ],
     "win_rate": 0.5714285714285714,
-    "opponent_score_share": 0.5138405393545488,
+    "opponent_score_share": 0.5199038433843277,
     "skill": 144.56377592391954,
     "skill_sigma": 42.09368322203404,
     "name": "Jakob Gudmundsson",
     "slug": "jakob-gudmundsson",
-    "skill_rank": 43.0,
-    "skill_rank_pct": 43.0,
+    "skill_rank": 42.0,
+    "skill_rank_pct": 42.0,
     "skill_history": [
       [
         2011,
@@ -4012,6 +4536,10 @@
       [
         2023,
         145.0
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "sextondelsfinal",
@@ -4021,24 +4549,25 @@
     ]
   },
   "Jakob Gustafsson": {
-    "n_games": 18,
-    "score_share": 0.45099657967305024,
-    "n_wins": 10,
+    "n_games": 22,
+    "score_share": 0.4804225409171934,
+    "n_wins": 12,
     "years": [
       2019,
       2020,
       2021,
       2022,
-      2023
+      2023,
+      2024
     ],
-    "win_rate": 0.5555555555555556,
-    "opponent_score_share": 0.4960149020680373,
-    "skill": 144.1891268810586,
-    "skill_sigma": 30.09882616218717,
+    "win_rate": 0.5454545454545454,
+    "opponent_score_share": 0.4848465885924366,
+    "skill": 143.88219430460563,
+    "skill_sigma": 26.10470151633668,
     "name": "Jakob Gustafsson",
     "slug": "jakob-gustafsson",
-    "skill_rank": 44.0,
-    "skill_rank_pct": 44.0,
+    "skill_rank": 43.0,
+    "skill_rank_pct": 43.0,
     "skill_history": [
       [
         2011,
@@ -4079,6 +4608,10 @@
       [
         2023,
         144.0
+      ],
+      [
+        2024,
+        144.0
       ]
     ],
     "best_stage": "\u00e5ttondelsfinal",
@@ -4099,13 +4632,13 @@
       2019
     ],
     "win_rate": 0.6956521739130435,
-    "opponent_score_share": 0.4940981734851391,
+    "opponent_score_share": 0.4921105758273154,
     "skill": 159.19042579610746,
     "skill_sigma": 27.02801996168396,
     "name": "Jakob Lien",
     "slug": "jakob-lien",
-    "skill_rank": 31.0,
-    "skill_rank_pct": 31.0,
+    "skill_rank": 33.0,
+    "skill_rank_pct": 33.0,
     "skill_history": [
       [
         2011,
@@ -4146,6 +4679,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "final",
@@ -4161,13 +4698,13 @@
       2019
     ],
     "win_rate": 0.0,
-    "opponent_score_share": 0.5006950055921832,
+    "opponent_score_share": 0.5100457703447705,
     "skill": 15.066833982421542,
     "skill_sigma": 72.73373000750361,
     "name": "Jan Bergstrand",
     "slug": "jan-bergstrand",
-    "skill_rank": 140.0,
-    "skill_rank_pct": 140.0,
+    "skill_rank": 148.0,
+    "skill_rank_pct": 148.0,
     "skill_history": [
       [
         2011,
@@ -4208,6 +4745,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "gruppspel",
@@ -4216,24 +4757,25 @@
     ]
   },
   "Jens Finn\u00e4s": {
-    "n_games": 16,
-    "score_share": 0.4777480332167832,
-    "n_wins": 10,
+    "n_games": 20,
+    "score_share": 0.4591026498011792,
+    "n_wins": 11,
     "years": [
       2016,
       2018,
       2019,
       2021,
-      2023
+      2023,
+      2024
     ],
-    "win_rate": 0.625,
-    "opponent_score_share": 0.5101021649986779,
-    "skill": 181.4927323340512,
-    "skill_sigma": 28.676774709786383,
+    "win_rate": 0.55,
+    "opponent_score_share": 0.5150757887135862,
+    "skill": 161.61518933804484,
+    "skill_sigma": 25.98292278286408,
     "name": "Jens Finn\u00e4s",
     "slug": "jens-finnas",
-    "skill_rank": 15.0,
-    "skill_rank_pct": 15.0,
+    "skill_rank": 31.0,
+    "skill_rank_pct": 31.0,
     "skill_history": [
       [
         2011,
@@ -4273,7 +4815,11 @@
       ],
       [
         2023,
-        181.0
+        180.0
+      ],
+      [
+        2024,
+        162.0
       ]
     ],
     "best_stage": "\u00e5ttondelsfinal",
@@ -4293,13 +4839,13 @@
       2023
     ],
     "win_rate": 0.6296296296296297,
-    "opponent_score_share": 0.4857598373205185,
+    "opponent_score_share": 0.4860189152289633,
     "skill": 167.896297052516,
     "skill_sigma": 22.51976009531777,
     "name": "Jens Hultkrans",
     "slug": "jens-hultkrans",
-    "skill_rank": 22.0,
-    "skill_rank_pct": 22.0,
+    "skill_rank": 23.0,
+    "skill_rank_pct": 23.0,
     "skill_history": [
       [
         2011,
@@ -4340,6 +4886,10 @@
       [
         2023,
         168.0
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "final",
@@ -4360,8 +4910,8 @@
     "skill_sigma": 77.94776656249569,
     "name": "Jens West",
     "slug": "jens-west",
-    "skill_rank": 136.0,
-    "skill_rank_pct": 136.0,
+    "skill_rank": 144.0,
+    "skill_rank_pct": 144.0,
     "skill_history": [
       [
         2011,
@@ -4402,6 +4952,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "gruppspel",
@@ -4410,9 +4964,9 @@
     ]
   },
   "Jerker Karlsson": {
-    "n_games": 33,
-    "score_share": 0.5216255545801,
-    "n_wins": 18,
+    "n_games": 37,
+    "score_share": 0.5303209572946416,
+    "n_wins": 20,
     "years": [
       2012,
       2016,
@@ -4421,16 +4975,17 @@
       2020,
       2021,
       2022,
-      2023
+      2023,
+      2024
     ],
-    "win_rate": 0.5454545454545454,
-    "opponent_score_share": 0.5145222310622356,
-    "skill": 147.9011859309823,
-    "skill_sigma": 21.57973137000989,
+    "win_rate": 0.5405405405405406,
+    "opponent_score_share": 0.5061627980675213,
+    "skill": 137.34380105304788,
+    "skill_sigma": 20.154973030862575,
     "name": "Jerker Karlsson",
     "slug": "jerker-karlsson",
-    "skill_rank": 40.0,
-    "skill_rank_pct": 40.0,
+    "skill_rank": 48.0,
+    "skill_rank_pct": 48.0,
     "skill_history": [
       [
         2011,
@@ -4471,6 +5026,10 @@
       [
         2023,
         148.0
+      ],
+      [
+        2024,
+        137.0
       ]
     ],
     "best_stage": "brons",
@@ -4489,13 +5048,13 @@
       2021
     ],
     "win_rate": 0.5333333333333333,
-    "opponent_score_share": 0.4677410175675248,
+    "opponent_score_share": 0.4700991479504984,
     "skill": 120.44854751978392,
     "skill_sigma": 31.208256527014086,
     "name": "Jesper Kronholm",
     "slug": "jesper-kronholm",
-    "skill_rank": 67.0,
-    "skill_rank_pct": 67.0,
+    "skill_rank": 70.0,
+    "skill_rank_pct": 70.0,
     "skill_history": [
       [
         2011,
@@ -4536,6 +5095,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "\u00e5ttondelsfinal",
@@ -4552,13 +5115,13 @@
       2021
     ],
     "win_rate": 0.0,
-    "opponent_score_share": 0.448492260151924,
+    "opponent_score_share": 0.4632052407739956,
     "skill": 3.267875699243811,
     "skill_sigma": 67.52579276572733,
     "name": "Jessica James",
     "slug": "jessica-james",
-    "skill_rank": 155.0,
-    "skill_rank_pct": 155.0,
+    "skill_rank": 164.0,
+    "skill_rank_pct": 164.0,
     "skill_history": [
       [
         2011,
@@ -4599,6 +5162,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "gruppspel",
@@ -4614,13 +5181,13 @@
       2022
     ],
     "win_rate": 0.3333333333333333,
-    "opponent_score_share": 0.5337785320294204,
+    "opponent_score_share": 0.5308828913516035,
     "skill": 115.95190373572545,
     "skill_sigma": 56.56761532455807,
     "name": "Jessica Johansson",
     "slug": "jessica-johansson",
-    "skill_rank": 73.0,
-    "skill_rank_pct": 73.0,
+    "skill_rank": 75.0,
+    "skill_rank_pct": 75.0,
     "skill_history": [
       [
         2011,
@@ -4661,11 +5228,81 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "gruppspel",
     "best_stage_years": [
       2022
+    ]
+  },
+  "Joakim Kulo": {
+    "n_games": 3,
+    "score_share": 0.25089126559714797,
+    "n_wins": 0,
+    "years": [
+      2024
+    ],
+    "win_rate": 0.0,
+    "opponent_score_share": 0.5956767983880803,
+    "skill": 26.512028630754862,
+    "skill_sigma": 69.75504548739013,
+    "name": "Joakim Kulo",
+    "slug": "joakim-kulo",
+    "skill_rank": 139.0,
+    "skill_rank_pct": 139.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        null
+      ],
+      [
+        2020,
+        null
+      ],
+      [
+        2021,
+        null
+      ],
+      [
+        2022,
+        null
+      ],
+      [
+        2023,
+        null
+      ],
+      [
+        2024,
+        27.0
+      ]
+    ],
+    "best_stage": "sextondelsfinal",
+    "best_stage_years": [
+      2024
     ]
   },
   "Joakim Lundin": {
@@ -4677,13 +5314,13 @@
       2019
     ],
     "win_rate": 0.0,
-    "opponent_score_share": 0.49174992595671974,
+    "opponent_score_share": 0.4838620732443227,
     "skill": -15.1169883792109,
     "skill_sigma": 62.978256945265564,
     "name": "Joakim Lundin",
     "slug": "joakim-lundin",
-    "skill_rank": 162.0,
-    "skill_rank_pct": 162.0,
+    "skill_rank": 170.0,
+    "skill_rank_pct": 170.0,
     "skill_history": [
       [
         2011,
@@ -4724,6 +5361,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "gruppspel",
@@ -4745,8 +5386,8 @@
     "skill_sigma": 75.58258811250447,
     "name": "Joel Danell",
     "slug": "joel-danell",
-    "skill_rank": 86.0,
-    "skill_rank_pct": 86.0,
+    "skill_rank": 90.0,
+    "skill_rank_pct": 90.0,
     "skill_history": [
       [
         2011,
@@ -4787,6 +5428,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "gruppspel",
@@ -4807,8 +5452,8 @@
     "skill_sigma": 63.77939250092646,
     "name": "Joel Gustafsson",
     "slug": "joel-gustafsson",
-    "skill_rank": 111.0,
-    "skill_rank_pct": 111.0,
+    "skill_rank": 114.0,
+    "skill_rank_pct": 114.0,
     "skill_history": [
       [
         2011,
@@ -4849,6 +5494,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "gruppspel",
@@ -4864,13 +5513,13 @@
       2012
     ],
     "win_rate": 0.8,
-    "opponent_score_share": 0.4743057698010313,
+    "opponent_score_share": 0.47471510807589834,
     "skill": 220.9505233889524,
     "skill_sigma": 53.40811638215878,
     "name": "Johan Alm",
     "slug": "johan-alm",
-    "skill_rank": 3.0,
-    "skill_rank_pct": 3.0,
+    "skill_rank": 4.0,
+    "skill_rank_pct": 4.0,
     "skill_history": [
       [
         2011,
@@ -4911,6 +5560,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "final",
@@ -4926,13 +5579,13 @@
       2017
     ],
     "win_rate": 0.0,
-    "opponent_score_share": 0.5298335682147074,
+    "opponent_score_share": 0.5366554704779837,
     "skill": 16.665228329257488,
     "skill_sigma": 70.76458443740681,
     "name": "Johan Berg",
     "slug": "johan-berg",
-    "skill_rank": 138.0,
-    "skill_rank_pct": 138.0,
+    "skill_rank": 146.0,
+    "skill_rank_pct": 146.0,
     "skill_history": [
       [
         2011,
@@ -4973,6 +5626,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "gruppspel",
@@ -4981,9 +5638,9 @@
     ]
   },
   "Johan Ekman": {
-    "n_games": 25,
-    "score_share": 0.49987388755035816,
-    "n_wins": 11,
+    "n_games": 28,
+    "score_share": 0.50221448427856,
+    "n_wins": 13,
     "years": [
       2012,
       2016,
@@ -4992,16 +5649,17 @@
       2019,
       2021,
       2022,
-      2023
+      2023,
+      2024
     ],
-    "win_rate": 0.44,
-    "opponent_score_share": 0.5103972083022923,
-    "skill": 107.76067521418301,
-    "skill_sigma": 24.405119062056347,
+    "win_rate": 0.4642857142857143,
+    "opponent_score_share": 0.502080347657832,
+    "skill": 116.775183802118,
+    "skill_sigma": 22.800060746330015,
     "name": "Johan Ekman",
     "slug": "johan-ekman",
-    "skill_rank": 79.0,
-    "skill_rank_pct": 79.0,
+    "skill_rank": 74.0,
+    "skill_rank_pct": 74.0,
     "skill_history": [
       [
         2011,
@@ -5042,6 +5700,10 @@
       [
         2023,
         108.0
+      ],
+      [
+        2024,
+        117.0
       ]
     ],
     "best_stage": "\u00e5ttondelsfinal",
@@ -5060,13 +5722,13 @@
       2023
     ],
     "win_rate": 0.4666666666666667,
-    "opponent_score_share": 0.5043469204448064,
+    "opponent_score_share": 0.5048725625579772,
     "skill": 122.42282349747062,
     "skill_sigma": 28.143772219392236,
     "name": "Johan Johnson",
     "slug": "johan-johnson",
-    "skill_rank": 66.0,
-    "skill_rank_pct": 66.0,
+    "skill_rank": 69.0,
+    "skill_rank_pct": 69.0,
     "skill_history": [
       [
         2011,
@@ -5107,6 +5769,10 @@
       [
         2023,
         122.0
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "\u00e5ttondelsfinal",
@@ -5115,25 +5781,26 @@
     ]
   },
   "Johan Kjell": {
-    "n_games": 24,
-    "score_share": 0.5870032732503708,
-    "n_wins": 16,
+    "n_games": 27,
+    "score_share": 0.6040345989993392,
+    "n_wins": 18,
     "years": [
       2012,
       2017,
       2018,
       2021,
       2022,
-      2023
+      2023,
+      2024
     ],
     "win_rate": 0.6666666666666666,
-    "opponent_score_share": 0.4859424051925067,
-    "skill": 179.25954314956968,
-    "skill_sigma": 23.594266045876864,
+    "opponent_score_share": 0.4736976574836269,
+    "skill": 173.38331465860676,
+    "skill_sigma": 22.651596853588728,
     "name": "Johan Kjell",
     "slug": "johan-kjell",
-    "skill_rank": 16.0,
-    "skill_rank_pct": 16.0,
+    "skill_rank": 19.0,
+    "skill_rank_pct": 19.0,
     "skill_history": [
       [
         2011,
@@ -5174,6 +5841,10 @@
       [
         2023,
         179.0
+      ],
+      [
+        2024,
+        173.0
       ]
     ],
     "best_stage": "vinnare",
@@ -5182,9 +5853,9 @@
     ]
   },
   "Johanna R\u00e5dstr\u00f6m": {
-    "n_games": 17,
-    "score_share": 0.33566966962295686,
-    "n_wins": 3,
+    "n_games": 20,
+    "score_share": 0.32542617105117105,
+    "n_wins": 4,
     "years": [
       2012,
       2016,
@@ -5193,16 +5864,17 @@
       2019,
       2020,
       2021,
-      2022
+      2022,
+      2024
     ],
-    "win_rate": 0.17647058823529413,
-    "opponent_score_share": 0.5054463767165486,
-    "skill": 2.4596835283782847,
-    "skill_sigma": 37.592522257149675,
+    "win_rate": 0.2,
+    "opponent_score_share": 0.5160850002897315,
+    "skill": 37.64145209175494,
+    "skill_sigma": 32.33857948430788,
     "name": "Johanna R\u00e5dstr\u00f6m",
     "slug": "johanna-radstrom",
-    "skill_rank": 156.0,
-    "skill_rank_pct": 156.0,
+    "skill_rank": 128.0,
+    "skill_rank_pct": 128.0,
     "skill_history": [
       [
         2011,
@@ -5243,6 +5915,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        38.0
       ]
     ],
     "best_stage": "sextondelsfinal",
@@ -5261,13 +5937,13 @@
       2022
     ],
     "win_rate": 0.4166666666666667,
-    "opponent_score_share": 0.49696548692995246,
+    "opponent_score_share": 0.4944813546666329,
     "skill": 86.27160111338557,
     "skill_sigma": 33.55423799414863,
     "name": "Johannes Gr\u00f6nborg",
     "slug": "johannes-gronborg",
-    "skill_rank": 92.0,
-    "skill_rank_pct": 92.0,
+    "skill_rank": 95.0,
+    "skill_rank_pct": 95.0,
     "skill_history": [
       [
         2011,
@@ -5308,6 +5984,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "sextondelsfinal",
@@ -5316,21 +5996,22 @@
     ]
   },
   "Johannes Nordenhaag": {
-    "n_games": 13,
-    "score_share": 0.5987708370061311,
-    "n_wins": 9,
+    "n_games": 17,
+    "score_share": 0.5879740789775392,
+    "n_wins": 11,
     "years": [
       2022,
-      2023
+      2023,
+      2024
     ],
-    "win_rate": 0.6923076923076923,
-    "opponent_score_share": 0.5139704633074067,
-    "skill": 190.1416164715346,
-    "skill_sigma": 29.492238131002974,
+    "win_rate": 0.6470588235294118,
+    "opponent_score_share": 0.4973154277972563,
+    "skill": 179.87633608028239,
+    "skill_sigma": 26.810717022881754,
     "name": "Johannes Nordenhaag",
     "slug": "johannes-nordenhaag",
-    "skill_rank": 13.0,
-    "skill_rank_pct": 13.0,
+    "skill_rank": 16.0,
+    "skill_rank_pct": 16.0,
     "skill_history": [
       [
         2011,
@@ -5371,6 +6052,10 @@
       [
         2023,
         190.0
+      ],
+      [
+        2024,
+        180.0
       ]
     ],
     "best_stage": "bronsmatch",
@@ -5433,6 +6118,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "kvartsfinal",
@@ -5452,13 +6141,13 @@
       2022
     ],
     "win_rate": 0.09090909090909091,
-    "opponent_score_share": 0.49517778005542323,
+    "opponent_score_share": 0.49615783258529045,
     "skill": -33.13949434190344,
     "skill_sigma": 47.327488110135185,
     "name": "John Qvale",
     "slug": "john-qvale",
-    "skill_rank": 166.0,
-    "skill_rank_pct": 166.0,
+    "skill_rank": 174.0,
+    "skill_rank_pct": 174.0,
     "skill_history": [
       [
         2011,
@@ -5499,6 +6188,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "gruppspel",
@@ -5511,22 +6204,23 @@
     ]
   },
   "Jon Jeppson": {
-    "n_games": 15,
-    "score_share": 0.5966064708711767,
-    "n_wins": 9,
+    "n_games": 20,
+    "score_share": 0.5860384917370212,
+    "n_wins": 13,
     "years": [
       2020,
       2022,
-      2023
+      2023,
+      2024
     ],
-    "win_rate": 0.6,
-    "opponent_score_share": 0.5106456537278434,
-    "skill": 163.52831581995838,
-    "skill_sigma": 28.210783468703514,
+    "win_rate": 0.65,
+    "opponent_score_share": 0.5216906781288568,
+    "skill": 182.13771148656986,
+    "skill_sigma": 24.44355153613485,
     "name": "Jon Jeppson",
     "slug": "jon-jeppson",
-    "skill_rank": 27.0,
-    "skill_rank_pct": 27.0,
+    "skill_rank": 14.0,
+    "skill_rank_pct": 14.0,
     "skill_history": [
       [
         2011,
@@ -5567,31 +6261,34 @@
       [
         2023,
         164.0
+      ],
+      [
+        2024,
+        182.0
       ]
     ],
-    "best_stage": "\u00e5ttondelsfinal",
+    "best_stage": "kvartsfinal",
     "best_stage_years": [
-      2020,
-      2023,
-      2022
+      2024
     ]
   },
   "Jonas Nygren": {
-    "n_games": 11,
-    "score_share": 0.5661677269473498,
-    "n_wins": 8,
+    "n_games": 16,
+    "score_share": 0.5608411894692854,
+    "n_wins": 11,
     "years": [
       2021,
-      2023
+      2023,
+      2024
     ],
-    "win_rate": 0.7272727272727273,
-    "opponent_score_share": 0.522215034680054,
-    "skill": 220.59584080472402,
-    "skill_sigma": 31.343695743071706,
+    "win_rate": 0.6875,
+    "opponent_score_share": 0.504867947108725,
+    "skill": 203.70512639009914,
+    "skill_sigma": 26.971752360089283,
     "name": "Jonas Nygren",
     "slug": "jonas-nygren",
-    "skill_rank": 4.0,
-    "skill_rank_pct": 4.0,
+    "skill_rank": 10.0,
+    "skill_rank_pct": 10.0,
     "skill_history": [
       [
         2011,
@@ -5632,6 +6329,10 @@
       [
         2023,
         221.0
+      ],
+      [
+        2024,
+        204.0
       ]
     ],
     "best_stage": "vinnare",
@@ -5648,13 +6349,13 @@
       2018
     ],
     "win_rate": 0.5714285714285714,
-    "opponent_score_share": 0.512678004577195,
+    "opponent_score_share": 0.5139871573190133,
     "skill": 129.10117675240986,
     "skill_sigma": 43.652678330858585,
     "name": "Josefin Asplund",
     "slug": "josefin-asplund",
-    "skill_rank": 56.0,
-    "skill_rank_pct": 56.0,
+    "skill_rank": 57.0,
+    "skill_rank_pct": 57.0,
     "skill_history": [
       [
         2011,
@@ -5695,6 +6396,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "kvartsfinal",
@@ -5713,13 +6418,13 @@
       2021
     ],
     "win_rate": 0.42857142857142855,
-    "opponent_score_share": 0.4719710886260419,
+    "opponent_score_share": 0.4730242542326731,
     "skill": 99.93891721312637,
     "skill_sigma": 31.447849128018916,
     "name": "Julius Jorborg",
     "slug": "julius-jorborg",
-    "skill_rank": 87.0,
-    "skill_rank_pct": 87.0,
+    "skill_rank": 91.0,
+    "skill_rank_pct": 91.0,
     "skill_history": [
       [
         2011,
@@ -5760,6 +6465,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "sextondelsfinal",
@@ -5782,13 +6491,13 @@
       2023
     ],
     "win_rate": 0.06666666666666667,
-    "opponent_score_share": 0.4800116538411127,
+    "opponent_score_share": 0.4768104577637568,
     "skill": -18.35319085389873,
     "skill_sigma": 41.23635547127309,
     "name": "Kajsa Hallberg-Nor.",
     "slug": "kajsa-hallberg-nor",
-    "skill_rank": 163.0,
-    "skill_rank_pct": 163.0,
+    "skill_rank": 171.0,
+    "skill_rank_pct": 171.0,
     "skill_history": [
       [
         2011,
@@ -5829,6 +6538,10 @@
       [
         2023,
         -18.0
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "sextondelsfinal",
@@ -5849,8 +6562,8 @@
     "skill_sigma": 75.85733345455203,
     "name": "Karl S\u00f6derberg",
     "slug": "karl-soderberg",
-    "skill_rank": 145.0,
-    "skill_rank_pct": 145.0,
+    "skill_rank": 154.0,
+    "skill_rank_pct": 154.0,
     "skill_history": [
       [
         2011,
@@ -5891,6 +6604,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "gruppspel",
@@ -5899,20 +6616,20 @@
     ]
   },
   "Karolina Widerstr\u00f6m": {
-    "n_games": 3,
-    "score_share": 0.6247086247086248,
+    "n_games": 4,
+    "score_share": 0.5779064685314685,
     "n_wins": 2,
     "years": [
       2023
     ],
-    "win_rate": 0.6666666666666666,
-    "opponent_score_share": 0.40978777017113405,
-    "skill": 156.13390590130328,
-    "skill_sigma": 66.73770142138814,
+    "win_rate": 0.5,
+    "opponent_score_share": 0.4218043015372297,
+    "skill": 128.0286455584338,
+    "skill_sigma": 57.916022627780784,
     "name": "Karolina Widerstr\u00f6m",
     "slug": "karolina-widerstrom",
-    "skill_rank": 33.0,
-    "skill_rank_pct": 33.0,
+    "skill_rank": 59.0,
+    "skill_rank_pct": 59.0,
     "skill_history": [
       [
         2011,
@@ -5952,10 +6669,14 @@
       ],
       [
         2023,
-        156.0
+        128.0
+      ],
+      [
+        2024,
+        null
       ]
     ],
-    "best_stage": "gruppspel",
+    "best_stage": "sextondelsfinal",
     "best_stage_years": [
       2023
     ]
@@ -5973,8 +6694,8 @@
     "skill_sigma": 70.98176389807362,
     "name": "Kevin Carlsson",
     "slug": "kevin-carlsson",
-    "skill_rank": 158.0,
-    "skill_rank_pct": 158.0,
+    "skill_rank": 166.0,
+    "skill_rank_pct": 166.0,
     "skill_history": [
       [
         2011,
@@ -6014,6 +6735,10 @@
       ],
       [
         2023,
+        null
+      ],
+      [
+        2024,
         null
       ]
     ],
@@ -6030,13 +6755,13 @@
       2020
     ],
     "win_rate": 0.0,
-    "opponent_score_share": 0.5993850784098639,
+    "opponent_score_share": 0.5779666428870001,
     "skill": 1.3993560592152121,
     "skill_sigma": 65.36515123527,
     "name": "Kicki Berg",
     "slug": "kicki-berg",
-    "skill_rank": 157.0,
-    "skill_rank_pct": 157.0,
+    "skill_rank": 165.0,
+    "skill_rank_pct": 165.0,
     "skill_history": [
       [
         2011,
@@ -6076,6 +6801,10 @@
       ],
       [
         2023,
+        null
+      ],
+      [
+        2024,
         null
       ]
     ],
@@ -6097,8 +6826,8 @@
     "skill_sigma": 76.53896202607312,
     "name": "Klara Gustin",
     "slug": "klara-gustin",
-    "skill_rank": 142.0,
-    "skill_rank_pct": 142.0,
+    "skill_rank": 150.0,
+    "skill_rank_pct": 150.0,
     "skill_history": [
       [
         2011,
@@ -6139,6 +6868,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "gruppspel",
@@ -6159,8 +6892,8 @@
     "skill_sigma": 67.56609865412946,
     "name": "Klara Lundin",
     "slug": "klara-lundin",
-    "skill_rank": 120.0,
-    "skill_rank_pct": 120.0,
+    "skill_rank": 125.0,
+    "skill_rank_pct": 125.0,
     "skill_history": [
       [
         2011,
@@ -6201,6 +6934,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "gruppspel",
@@ -6209,23 +6946,24 @@
     ]
   },
   "Kusha Bahrami": {
-    "n_games": 16,
-    "score_share": 0.4663222959638401,
+    "n_games": 18,
+    "score_share": 0.4486967417114476,
     "n_wins": 8,
     "years": [
       2018,
       2019,
       2021,
-      2023
+      2023,
+      2024
     ],
-    "win_rate": 0.5,
-    "opponent_score_share": 0.48811110399011903,
-    "skill": 119.87352979143319,
-    "skill_sigma": 29.078533168660915,
+    "win_rate": 0.4444444444444444,
+    "opponent_score_share": 0.49282676785882323,
+    "skill": 107.36368841425227,
+    "skill_sigma": 27.35408315240394,
     "name": "Kusha Bahrami",
     "slug": "kusha-bahrami",
-    "skill_rank": 70.0,
-    "skill_rank_pct": 70.0,
+    "skill_rank": 83.0,
+    "skill_rank_pct": 83.0,
     "skill_history": [
       [
         2011,
@@ -6266,6 +7004,10 @@
       [
         2023,
         120.0
+      ],
+      [
+        2024,
+        107.0
       ]
     ],
     "best_stage": "\u00e5ttondelsfinal",
@@ -6281,13 +7023,13 @@
       2020
     ],
     "win_rate": 0.5,
-    "opponent_score_share": 0.5750730756975873,
+    "opponent_score_share": 0.5763627593356422,
     "skill": 150.3793402184042,
     "skill_sigma": 49.07582564549711,
     "name": "Lars T\u00f6rnkvist",
     "slug": "lars-tornkvist",
-    "skill_rank": 37.0,
-    "skill_rank_pct": 37.0,
+    "skill_rank": 35.0,
+    "skill_rank_pct": 35.0,
     "skill_history": [
       [
         2011,
@@ -6328,6 +7070,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "sextondelsfinal",
@@ -6344,13 +7090,13 @@
       2019
     ],
     "win_rate": 0.0,
-    "opponent_score_share": 0.5137566040965444,
+    "opponent_score_share": 0.513873770716091,
     "skill": -37.695886047685185,
     "skill_sigma": 59.642320407004874,
     "name": "Leo Ehnborg",
     "slug": "leo-ehnborg",
-    "skill_rank": 168.0,
-    "skill_rank_pct": 168.0,
+    "skill_rank": 176.0,
+    "skill_rank_pct": 176.0,
     "skill_history": [
       [
         2011,
@@ -6391,6 +7137,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "gruppspel",
@@ -6408,13 +7158,13 @@
       2023
     ],
     "win_rate": 0.3333333333333333,
-    "opponent_score_share": 0.393740013417504,
+    "opponent_score_share": 0.40154238992033076,
     "skill": 60.58771784339262,
     "skill_sigma": 44.77274824150637,
     "name": "Linda Tran",
     "slug": "linda-tran",
-    "skill_rank": 106.0,
-    "skill_rank_pct": 106.0,
+    "skill_rank": 109.0,
+    "skill_rank_pct": 109.0,
     "skill_history": [
       [
         2011,
@@ -6455,6 +7205,10 @@
       [
         2023,
         61.0
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "gruppspel",
@@ -6472,13 +7226,13 @@
       2018
     ],
     "win_rate": 0.25,
-    "opponent_score_share": 0.5109861210753177,
+    "opponent_score_share": 0.5112328666122603,
     "skill": 62.815164428280305,
     "skill_sigma": 51.6960067399774,
     "name": "Linn Debove",
     "slug": "linn-debove",
-    "skill_rank": 104.0,
-    "skill_rank_pct": 104.0,
+    "skill_rank": 107.0,
+    "skill_rank_pct": 107.0,
     "skill_history": [
       [
         2011,
@@ -6519,6 +7273,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "gruppspel",
@@ -6538,13 +7296,13 @@
       2021
     ],
     "win_rate": 0.2,
-    "opponent_score_share": 0.5265572459607075,
+    "opponent_score_share": 0.5326355066270589,
     "skill": 50.16627678628159,
     "skill_sigma": 38.182749741147276,
     "name": "Linn Enhage",
     "slug": "linn-enhage",
-    "skill_rank": 113.0,
-    "skill_rank_pct": 113.0,
+    "skill_rank": 116.0,
+    "skill_rank_pct": 116.0,
     "skill_history": [
       [
         2011,
@@ -6585,6 +7343,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "gruppspel",
@@ -6604,7 +7366,7 @@
       2020
     ],
     "win_rate": 0.4444444444444444,
-    "opponent_score_share": 0.5137087985039988,
+    "opponent_score_share": 0.5117783713854542,
     "skill": 132.04800808742073,
     "skill_sigma": 38.12032913283749,
     "name": "Linnea Karlsson",
@@ -6651,6 +7413,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "kvartsfinal",
@@ -6667,13 +7433,13 @@
       2019
     ],
     "win_rate": 0.5,
-    "opponent_score_share": 0.4899199189938385,
+    "opponent_score_share": 0.48660422939696074,
     "skill": 107.76818085736672,
     "skill_sigma": 45.831823490205295,
     "name": "Lotta Harder",
     "slug": "lotta-harder",
-    "skill_rank": 78.0,
-    "skill_rank_pct": 78.0,
+    "skill_rank": 82.0,
+    "skill_rank_pct": 82.0,
     "skill_history": [
       [
         2011,
@@ -6714,6 +7480,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "kvartsfinal",
@@ -6730,13 +7500,13 @@
       2019
     ],
     "win_rate": 0.42857142857142855,
-    "opponent_score_share": 0.4008676426901869,
+    "opponent_score_share": 0.4144855913558213,
     "skill": 118.06421381238414,
     "skill_sigma": 44.20405997221034,
     "name": "Louise Persson",
     "slug": "louise-persson",
-    "skill_rank": 72.0,
-    "skill_rank_pct": 72.0,
+    "skill_rank": 73.0,
+    "skill_rank_pct": 73.0,
     "skill_history": [
       [
         2011,
@@ -6777,6 +7547,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "sextondelsfinal",
@@ -6795,7 +7569,7 @@
       2019
     ],
     "win_rate": 0.6428571428571429,
-    "opponent_score_share": 0.5203998295130714,
+    "opponent_score_share": 0.5195933017569732,
     "skill": 162.49216893538738,
     "skill_sigma": 32.578888729699194,
     "name": "Love Andr\u00e9asson",
@@ -6842,6 +7616,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "kvartsfinal",
@@ -6858,13 +7636,13 @@
       2018
     ],
     "win_rate": 0.42857142857142855,
-    "opponent_score_share": 0.48136666521064125,
+    "opponent_score_share": 0.4835625988445537,
     "skill": 83.23915158295911,
     "skill_sigma": 44.060859547860005,
     "name": "Love Elfvelin",
     "slug": "love-elfvelin",
-    "skill_rank": 93.0,
-    "skill_rank_pct": 93.0,
+    "skill_rank": 97.0,
+    "skill_rank_pct": 97.0,
     "skill_history": [
       [
         2011,
@@ -6905,6 +7683,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "sextondelsfinal",
@@ -6925,8 +7707,8 @@
     "skill_sigma": 72.17719305128152,
     "name": "Lovine X",
     "slug": "lovine-x",
-    "skill_rank": 130.0,
-    "skill_rank_pct": 130.0,
+    "skill_rank": 137.0,
+    "skill_rank_pct": 137.0,
     "skill_history": [
       [
         2011,
@@ -6967,6 +7749,10 @@
       [
         2023,
         31.0
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "gruppspel",
@@ -6975,9 +7761,9 @@
     ]
   },
   "Lovisa Birgersson": {
-    "n_games": 23,
-    "score_share": 0.5781180669288086,
-    "n_wins": 13,
+    "n_games": 27,
+    "score_share": 0.5785867334069948,
+    "n_wins": 15,
     "years": [
       2017,
       2018,
@@ -6985,16 +7771,17 @@
       2020,
       2021,
       2022,
-      2023
+      2023,
+      2024
     ],
-    "win_rate": 0.5652173913043478,
-    "opponent_score_share": 0.46471936816013404,
-    "skill": 139.16899421194697,
-    "skill_sigma": 23.702076487483023,
+    "win_rate": 0.5555555555555556,
+    "opponent_score_share": 0.4610413534258037,
+    "skill": 136.42451913535587,
+    "skill_sigma": 22.057935787060725,
     "name": "Lovisa Birgersson",
     "slug": "lovisa-birgersson",
-    "skill_rank": 48.0,
-    "skill_rank_pct": 48.0,
+    "skill_rank": 49.0,
+    "skill_rank_pct": 49.0,
     "skill_history": [
       [
         2011,
@@ -7035,12 +7822,17 @@
       [
         2023,
         139.0
+      ],
+      [
+        2024,
+        136.0
       ]
     ],
     "best_stage": "\u00e5ttondelsfinal",
     "best_stage_years": [
       2018,
-      2021
+      2021,
+      2024
     ]
   },
   "Magnus Enlund": {
@@ -7054,13 +7846,13 @@
       2023
     ],
     "win_rate": 0.5384615384615384,
-    "opponent_score_share": 0.49803338158244703,
+    "opponent_score_share": 0.5036985091799798,
     "skill": 148.81345688488346,
     "skill_sigma": 28.350875163966602,
     "name": "Magnus Enlund",
     "slug": "magnus-enlund",
-    "skill_rank": 39.0,
-    "skill_rank_pct": 39.0,
+    "skill_rank": 38.0,
+    "skill_rank_pct": 38.0,
     "skill_history": [
       [
         2011,
@@ -7101,6 +7893,10 @@
       [
         2023,
         149.0
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "\u00e5ttondelsfinal",
@@ -7117,13 +7913,13 @@
       2017
     ],
     "win_rate": 0.4,
-    "opponent_score_share": 0.4168037889293682,
+    "opponent_score_share": 0.42016699049347644,
     "skill": 77.22341359822497,
     "skill_sigma": 56.52126223985177,
     "name": "Maria Adel\u00f6f",
     "slug": "maria-adelof",
-    "skill_rank": 97.0,
-    "skill_rank_pct": 97.0,
+    "skill_rank": 100.0,
+    "skill_rank_pct": 100.0,
     "skill_history": [
       [
         2011,
@@ -7164,6 +7960,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "gruppspel",
@@ -7182,13 +7982,13 @@
       2023
     ],
     "win_rate": 0.45454545454545453,
-    "opponent_score_share": 0.5026245718093717,
+    "opponent_score_share": 0.5037705157276534,
     "skill": 125.38508380424312,
     "skill_sigma": 36.6074786185759,
     "name": "Martha Brauer",
     "slug": "martha-brauer",
-    "skill_rank": 62.0,
-    "skill_rank_pct": 62.0,
+    "skill_rank": 65.0,
+    "skill_rank_pct": 65.0,
     "skill_history": [
       [
         2011,
@@ -7229,6 +8029,10 @@
       [
         2023,
         125.0
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "sextondelsfinal",
@@ -7245,13 +8049,13 @@
       2020
     ],
     "win_rate": 0.6,
-    "opponent_score_share": 0.5147841864050546,
+    "opponent_score_share": 0.5146939242215816,
     "skill": 165.1321624707319,
     "skill_sigma": 47.81762417713584,
     "name": "Martyna",
     "slug": "martyna",
-    "skill_rank": 23.0,
-    "skill_rank_pct": 23.0,
+    "skill_rank": 26.0,
+    "skill_rank_pct": 26.0,
     "skill_history": [
       [
         2011,
@@ -7292,6 +8096,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "\u00e5ttondelsfinal",
@@ -7309,13 +8117,13 @@
       2022
     ],
     "win_rate": 0.3333333333333333,
-    "opponent_score_share": 0.4811436000324416,
+    "opponent_score_share": 0.48314007490963246,
     "skill": 45.22818875464282,
     "skill_sigma": 42.32347480749422,
     "name": "Mathilda Gr\u00f6nborg",
     "slug": "mathilda-gronborg",
-    "skill_rank": 119.0,
-    "skill_rank_pct": 119.0,
+    "skill_rank": 123.0,
+    "skill_rank_pct": 123.0,
     "skill_history": [
       [
         2011,
@@ -7356,6 +8164,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "\u00e5ttondelsfinal",
@@ -7376,8 +8188,8 @@
     "skill_sigma": 67.60066296997167,
     "name": "Michaela Sundqvist",
     "slug": "michaela-sundqvist",
-    "skill_rank": 150.0,
-    "skill_rank_pct": 150.0,
+    "skill_rank": 159.0,
+    "skill_rank_pct": 159.0,
     "skill_history": [
       [
         2011,
@@ -7418,6 +8230,10 @@
       [
         2023,
         8.0
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "gruppspel",
@@ -7435,13 +8251,13 @@
       2021
     ],
     "win_rate": 0.5555555555555556,
-    "opponent_score_share": 0.49458858721332505,
+    "opponent_score_share": 0.5048652177868747,
     "skill": 156.36238581493436,
     "skill_sigma": 36.23972777425785,
     "name": "Micke Leyi",
     "slug": "micke-leyi",
-    "skill_rank": 32.0,
-    "skill_rank_pct": 32.0,
+    "skill_rank": 34.0,
+    "skill_rank_pct": 34.0,
     "skill_history": [
       [
         2011,
@@ -7482,6 +8298,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "sextondelsfinal",
@@ -7502,7 +8322,7 @@
       2023
     ],
     "win_rate": 0.4666666666666667,
-    "opponent_score_share": 0.49856648440419604,
+    "opponent_score_share": 0.5002747181009389,
     "skill": 135.53280840443693,
     "skill_sigma": 28.076721204334657,
     "name": "Mina Kheirkhah",
@@ -7549,6 +8369,10 @@
       [
         2023,
         136.0
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "\u00e5ttondelsfinal",
@@ -7557,22 +8381,23 @@
     ]
   },
   "Monica Harder": {
-    "n_games": 7,
-    "score_share": 0.29126014041980425,
+    "n_games": 9,
+    "score_share": 0.31264677588206996,
     "n_wins": 1,
     "years": [
       2019,
       2022,
-      2023
+      2023,
+      2024
     ],
-    "win_rate": 0.14285714285714285,
-    "opponent_score_share": 0.5674517777192294,
-    "skill": 32.82216180541732,
-    "skill_sigma": 44.47792594756928,
+    "win_rate": 0.1111111111111111,
+    "opponent_score_share": 0.5460693682402123,
+    "skill": 20.84441468048025,
+    "skill_sigma": 41.627355193735845,
     "name": "Monica Harder",
     "slug": "monica-harder",
-    "skill_rank": 126.0,
-    "skill_rank_pct": 126.0,
+    "skill_rank": 143.0,
+    "skill_rank_pct": 143.0,
     "skill_history": [
       [
         2011,
@@ -7613,13 +8438,18 @@
       [
         2023,
         33.0
+      ],
+      [
+        2024,
+        21.0
       ]
     ],
     "best_stage": "gruppspel",
     "best_stage_years": [
       2019,
       2022,
-      2023
+      2023,
+      2024
     ]
   },
   "Niklas Frisk": {
@@ -7630,13 +8460,13 @@
       2019
     ],
     "win_rate": 0.6666666666666666,
-    "opponent_score_share": 0.40027592864617895,
+    "opponent_score_share": 0.41304468423181123,
     "skill": 169.30230457900387,
     "skill_sigma": 54.19541215107114,
     "name": "Niklas Frisk",
     "slug": "niklas-frisk",
-    "skill_rank": 21.0,
-    "skill_rank_pct": 21.0,
+    "skill_rank": 22.0,
+    "skill_rank_pct": 22.0,
     "skill_history": [
       [
         2011,
@@ -7677,6 +8507,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "sextondelsfinal",
@@ -7692,13 +8526,13 @@
       2018
     ],
     "win_rate": 0.5,
-    "opponent_score_share": 0.47699176260584264,
+    "opponent_score_share": 0.4769025678335459,
     "skill": 109.31082030197226,
     "skill_sigma": 60.93786060465312,
     "name": "Niklas Larsson",
     "slug": "niklas-larsson",
-    "skill_rank": 74.0,
-    "skill_rank_pct": 74.0,
+    "skill_rank": 77.0,
+    "skill_rank_pct": 77.0,
     "skill_history": [
       [
         2011,
@@ -7739,6 +8573,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "sextondelsfinal",
@@ -7754,7 +8592,7 @@
       2020
     ],
     "win_rate": 0.8,
-    "opponent_score_share": 0.5819668943851852,
+    "opponent_score_share": 0.5837083579827477,
     "skill": 206.19579370243187,
     "skill_sigma": 46.677400140395676,
     "name": "Niklas Solberg",
@@ -7801,6 +8639,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "kvartsfinal",
@@ -7816,13 +8658,13 @@
       2019
     ],
     "win_rate": 0.0,
-    "opponent_score_share": 0.5997459991729213,
+    "opponent_score_share": 0.5939173625387606,
     "skill": 23.214111726721562,
     "skill_sigma": 71.21807908752382,
     "name": "Nils Brolin",
     "slug": "nils-brolin",
-    "skill_rank": 133.0,
-    "skill_rank_pct": 133.0,
+    "skill_rank": 142.0,
+    "skill_rank_pct": 142.0,
     "skill_history": [
       [
         2011,
@@ -7863,6 +8705,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "gruppspel",
@@ -7878,13 +8724,13 @@
       2019
     ],
     "win_rate": 0.5,
-    "opponent_score_share": 0.4598435970490924,
+    "opponent_score_share": 0.4604287462311428,
     "skill": 105.74134355799195,
     "skill_sigma": 53.96018851560789,
     "name": "Olaver",
     "slug": "olaver",
-    "skill_rank": 82.0,
-    "skill_rank_pct": 82.0,
+    "skill_rank": 86.0,
+    "skill_rank_pct": 86.0,
     "skill_history": [
       [
         2011,
@@ -7925,6 +8771,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "sextondelsfinal",
@@ -7941,13 +8791,13 @@
       2019
     ],
     "win_rate": 0.3333333333333333,
-    "opponent_score_share": 0.49873264051926847,
+    "opponent_score_share": 0.5034271070854733,
     "skill": 59.1119452956166,
     "skill_sigma": 48.76455937780867,
     "name": "Olga Andersson",
     "slug": "olga-andersson",
-    "skill_rank": 108.0,
-    "skill_rank_pct": 108.0,
+    "skill_rank": 111.0,
+    "skill_rank_pct": 111.0,
     "skill_history": [
       [
         2011,
@@ -7988,6 +8838,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "sextondelsfinal",
@@ -8003,13 +8857,13 @@
       2018
     ],
     "win_rate": 0.3333333333333333,
-    "opponent_score_share": 0.5137460559874353,
+    "opponent_score_share": 0.5050946423969828,
     "skill": 62.70539121299896,
     "skill_sigma": 63.9634474212986,
     "name": "Olle Hjort",
     "slug": "olle-hjort",
-    "skill_rank": 105.0,
-    "skill_rank_pct": 105.0,
+    "skill_rank": 108.0,
+    "skill_rank_pct": 108.0,
     "skill_history": [
       [
         2011,
@@ -8050,6 +8904,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "gruppspel",
@@ -8058,22 +8916,23 @@
     ]
   },
   "Olle Nyr\u00e9n": {
-    "n_games": 7,
-    "score_share": 0.32150706436420723,
-    "n_wins": 1,
+    "n_games": 10,
+    "score_share": 0.3392216117216117,
+    "n_wins": 2,
     "years": [
       2019,
       2022,
-      2023
+      2023,
+      2024
     ],
-    "win_rate": 0.14285714285714285,
-    "opponent_score_share": 0.47476240633102923,
-    "skill": 20.628005077666565,
-    "skill_sigma": 49.71001343284718,
+    "win_rate": 0.2,
+    "opponent_score_share": 0.4886355258474057,
+    "skill": 43.91185792340872,
+    "skill_sigma": 42.12409374536709,
     "name": "Olle Nyr\u00e9n",
     "slug": "olle-nyren",
-    "skill_rank": 135.0,
-    "skill_rank_pct": 135.0,
+    "skill_rank": 124.0,
+    "skill_rank_pct": 124.0,
     "skill_history": [
       [
         2011,
@@ -8114,34 +8973,40 @@
       [
         2023,
         21.0
+      ],
+      [
+        2024,
+        44.0
       ]
     ],
     "best_stage": "gruppspel",
     "best_stage_years": [
       2022,
       2023,
+      2024,
       2019
     ]
   },
   "Olle Strandberg": {
-    "n_games": 19,
-    "score_share": 0.6605863621382463,
-    "n_wins": 14,
+    "n_games": 24,
+    "score_share": 0.6284587088539505,
+    "n_wins": 16,
     "years": [
       2018,
       2019,
       2020,
       2021,
-      2022
+      2022,
+      2024
     ],
-    "win_rate": 0.7368421052631579,
-    "opponent_score_share": 0.4501318997245658,
-    "skill": 193.99030322720245,
-    "skill_sigma": 27.617504055198662,
+    "win_rate": 0.6666666666666666,
+    "opponent_score_share": 0.46392277926289555,
+    "skill": 171.54022488298938,
+    "skill_sigma": 23.48629375487765,
     "name": "Olle Strandberg",
     "slug": "olle-strandberg",
-    "skill_rank": 11.0,
-    "skill_rank_pct": 11.0,
+    "skill_rank": 20.0,
+    "skill_rank_pct": 20.0,
     "skill_history": [
       [
         2011,
@@ -8182,6 +9047,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        172.0
       ]
     ],
     "best_stage": "final",
@@ -8198,13 +9067,13 @@
       2012
     ],
     "win_rate": 0.3333333333333333,
-    "opponent_score_share": 0.5531034231226828,
+    "opponent_score_share": 0.5547791653947974,
     "skill": 80.37213828818417,
     "skill_sigma": 50.47077673902454,
     "name": "Olof Sabelstr\u00f6m",
     "slug": "olof-sabelstrom",
-    "skill_rank": 96.0,
-    "skill_rank_pct": 96.0,
+    "skill_rank": 99.0,
+    "skill_rank_pct": 99.0,
     "skill_history": [
       [
         2011,
@@ -8245,6 +9114,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "semifinal",
@@ -8264,13 +9137,13 @@
       2023
     ],
     "win_rate": 0.5555555555555556,
-    "opponent_score_share": 0.4461105466416564,
+    "opponent_score_share": 0.448994439363845,
     "skill": 122.65360360389282,
     "skill_sigma": 28.696113043066923,
     "name": "Patrik J\u00e4rg\u00e5rden",
     "slug": "patrik-jargarden",
-    "skill_rank": 65.0,
-    "skill_rank_pct": 65.0,
+    "skill_rank": 68.0,
+    "skill_rank_pct": 68.0,
     "skill_history": [
       [
         2011,
@@ -8311,6 +9184,10 @@
       [
         2023,
         123.0
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "kvartsfinal",
@@ -8319,9 +9196,9 @@
     ]
   },
   "Pelle Dovborg": {
-    "n_games": 36,
-    "score_share": 0.5687558814642149,
-    "n_wins": 23,
+    "n_games": 39,
+    "score_share": 0.5570986081958933,
+    "n_wins": 25,
     "years": [
       2016,
       2017,
@@ -8330,16 +9207,17 @@
       2020,
       2021,
       2022,
-      2023
+      2023,
+      2024
     ],
-    "win_rate": 0.6388888888888888,
-    "opponent_score_share": 0.5054748116481054,
-    "skill": 183.409728434288,
-    "skill_sigma": 18.957378269296854,
+    "win_rate": 0.6410256410256411,
+    "opponent_score_share": 0.5072718592345059,
+    "skill": 185.41249342984412,
+    "skill_sigma": 18.167712293443113,
     "name": "Pelle Dovborg",
     "slug": "pelle-dovborg",
-    "skill_rank": 14.0,
-    "skill_rank_pct": 14.0,
+    "skill_rank": 13.0,
+    "skill_rank_pct": 13.0,
     "skill_history": [
       [
         2011,
@@ -8380,6 +9258,10 @@
       [
         2023,
         183.0
+      ],
+      [
+        2024,
+        185.0
       ]
     ],
     "best_stage": "brons",
@@ -8395,13 +9277,13 @@
       2017
     ],
     "win_rate": 0.0,
-    "opponent_score_share": 0.5089147768495594,
+    "opponent_score_share": 0.5091491100886526,
     "skill": 9.586094062494066,
     "skill_sigma": 75.3608417601058,
     "name": "Petter Hammarb\u00e4ck",
     "slug": "petter-hammarback",
-    "skill_rank": 149.0,
-    "skill_rank_pct": 149.0,
+    "skill_rank": 158.0,
+    "skill_rank_pct": 158.0,
     "skill_history": [
       [
         2011,
@@ -8442,6 +9324,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "gruppspel",
@@ -8458,13 +9344,13 @@
       2019
     ],
     "win_rate": 0.0,
-    "opponent_score_share": 0.5020656045375563,
+    "opponent_score_share": 0.5062696064926916,
     "skill": -11.766890864268452,
     "skill_sigma": 59.75803111505356,
     "name": "Philip Little",
     "slug": "philip-little",
-    "skill_rank": 161.0,
-    "skill_rank_pct": 161.0,
+    "skill_rank": 169.0,
+    "skill_rank_pct": 169.0,
     "skill_history": [
       [
         2011,
@@ -8505,6 +9391,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "gruppspel",
@@ -8521,7 +9411,7 @@
       2020
     ],
     "win_rate": 0.6,
-    "opponent_score_share": 0.508164225058424,
+    "opponent_score_share": 0.5210574295487085,
     "skill": 176.54301181249636,
     "skill_sigma": 41.76956412986672,
     "name": "Pia T\u00f6rnkvist",
@@ -8568,6 +9458,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "\u00e5ttondelsfinal",
@@ -8583,13 +9477,13 @@
       2021
     ],
     "win_rate": 0.5,
-    "opponent_score_share": 0.4371348879084786,
+    "opponent_score_share": 0.42781219620067656,
     "skill": 108.06496314259893,
     "skill_sigma": 67.84381146525556,
     "name": "P\u00e4r D\u00e4lborg",
     "slug": "par-dalborg",
-    "skill_rank": 77.0,
-    "skill_rank_pct": 77.0,
+    "skill_rank": 80.0,
+    "skill_rank_pct": 80.0,
     "skill_history": [
       [
         2011,
@@ -8630,6 +9524,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "gruppspel",
@@ -8645,13 +9543,13 @@
       2021
     ],
     "win_rate": 0.0,
-    "opponent_score_share": 0.39929762765969656,
+    "opponent_score_share": 0.3949541666429712,
     "skill": 11.02472710035841,
     "skill_sigma": 70.70262226266988,
     "name": "Richard Arnesson",
     "slug": "richard-arnesson",
-    "skill_rank": 147.0,
-    "skill_rank_pct": 147.0,
+    "skill_rank": 156.0,
+    "skill_rank_pct": 156.0,
     "skill_history": [
       [
         2011,
@@ -8692,6 +9590,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "gruppspel",
@@ -8711,13 +9613,13 @@
       2019
     ],
     "win_rate": 0.5333333333333333,
-    "opponent_score_share": 0.443352733653431,
+    "opponent_score_share": 0.4394512631384807,
     "skill": 82.85579750439959,
     "skill_sigma": 32.23354272422082,
     "name": "Richard Ekman",
     "slug": "richard-ekman",
-    "skill_rank": 94.0,
-    "skill_rank_pct": 94.0,
+    "skill_rank": 98.0,
+    "skill_rank_pct": 98.0,
     "skill_history": [
       [
         2011,
@@ -8758,6 +9660,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "kvartsfinal",
@@ -8775,13 +9681,13 @@
       2023
     ],
     "win_rate": 0.5,
-    "opponent_score_share": 0.4660085554985181,
+    "opponent_score_share": 0.46841631753999485,
     "skill": 106.30794993180116,
     "skill_sigma": 46.0420446648927,
     "name": "Richard Olsen",
     "slug": "richard-olsen",
-    "skill_rank": 80.0,
-    "skill_rank_pct": 80.0,
+    "skill_rank": 84.0,
+    "skill_rank_pct": 84.0,
     "skill_history": [
       [
         2011,
@@ -8822,6 +9728,10 @@
       [
         2023,
         106.0
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "\u00e5ttondelsfinal",
@@ -8838,7 +9748,7 @@
       2023
     ],
     "win_rate": 0.7142857142857143,
-    "opponent_score_share": 0.5348213634853037,
+    "opponent_score_share": 0.5535132736754361,
     "skill": 214.42055187658556,
     "skill_sigma": 40.549587734267085,
     "name": "Richard Printz",
@@ -8885,6 +9795,10 @@
       [
         2023,
         214.0
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "\u00e5ttondelsfinal",
@@ -8900,13 +9814,13 @@
       2023
     ],
     "win_rate": 0.0,
-    "opponent_score_share": 0.5728369669546141,
+    "opponent_score_share": 0.5172553243325302,
     "skill": 15.028704938605333,
     "skill_sigma": 76.54184696087367,
     "name": "Robert Hallman",
     "slug": "robert-hallman",
-    "skill_rank": 141.0,
-    "skill_rank_pct": 141.0,
+    "skill_rank": 149.0,
+    "skill_rank_pct": 149.0,
     "skill_history": [
       [
         2011,
@@ -8947,6 +9861,10 @@
       [
         2023,
         15.0
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "gruppspel",
@@ -8967,7 +9885,7 @@
       2023
     ],
     "win_rate": 0.6875,
-    "opponent_score_share": 0.5157892605159117,
+    "opponent_score_share": 0.5141860123876885,
     "skill": 190.60531428948372,
     "skill_sigma": 19.8691758441409,
     "name": "Robeson",
@@ -9014,6 +9932,10 @@
       [
         2023,
         191.0
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "vinnare",
@@ -9034,13 +9956,13 @@
       2023
     ],
     "win_rate": 0.6129032258064516,
-    "opponent_score_share": 0.5097090567561872,
+    "opponent_score_share": 0.5106796898979232,
     "skill": 164.06888690650229,
     "skill_sigma": 19.353155049375548,
     "name": "Robin Fogelberg",
     "slug": "robin-fogelberg",
-    "skill_rank": 26.0,
-    "skill_rank_pct": 26.0,
+    "skill_rank": 28.0,
+    "skill_rank_pct": 28.0,
     "skill_history": [
       [
         2011,
@@ -9081,6 +10003,10 @@
       [
         2023,
         164.0
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "final",
@@ -9089,8 +10015,8 @@
     ]
   },
   "Robin Linderborg": {
-    "n_games": 29,
-    "score_share": 0.569941409165547,
+    "n_games": 31,
+    "score_share": 0.5612544871320962,
     "n_wins": 19,
     "years": [
       2017,
@@ -9099,16 +10025,17 @@
       2020,
       2021,
       2022,
-      2023
+      2023,
+      2024
     ],
-    "win_rate": 0.6551724137931034,
-    "opponent_score_share": 0.48176363228506724,
-    "skill": 170.76789664903072,
-    "skill_sigma": 22.245775910363513,
+    "win_rate": 0.6129032258064516,
+    "opponent_score_share": 0.47416658392418604,
+    "skill": 149.11693682765286,
+    "skill_sigma": 21.077295570851863,
     "name": "Robin Linderborg",
     "slug": "robin-linderborg",
-    "skill_rank": 20.0,
-    "skill_rank_pct": 20.0,
+    "skill_rank": 37.0,
+    "skill_rank_pct": 37.0,
     "skill_history": [
       [
         2011,
@@ -9149,6 +10076,10 @@
       [
         2023,
         171.0
+      ],
+      [
+        2024,
+        149.0
       ]
     ],
     "best_stage": "kvartsfinal",
@@ -9156,6 +10087,72 @@
       2018,
       2023,
       2021
+    ]
+  },
+  "Rosanna Cederl\u00f6f": {
+    "n_games": 3,
+    "score_share": 0.26837606837606837,
+    "n_wins": 0,
+    "years": [
+      2024
+    ],
+    "win_rate": 0.0,
+    "opponent_score_share": 0.5624951224454878,
+    "skill": 31.723348087610212,
+    "skill_sigma": 70.68678821876055,
+    "name": "Rosanna Cederl\u00f6f",
+    "slug": "rosanna-cederlof",
+    "skill_rank": 134.0,
+    "skill_rank_pct": 134.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        null
+      ],
+      [
+        2020,
+        null
+      ],
+      [
+        2021,
+        null
+      ],
+      [
+        2022,
+        null
+      ],
+      [
+        2023,
+        null
+      ],
+      [
+        2024,
+        32.0
+      ]
+    ],
+    "best_stage": "sextondelsfinal",
+    "best_stage_years": [
+      2024
     ]
   },
   "Sandra Starfelt": {
@@ -9166,13 +10163,13 @@
       2017
     ],
     "win_rate": 0.6666666666666666,
-    "opponent_score_share": 0.5055258485930629,
+    "opponent_score_share": 0.5141014247475663,
     "skill": 141.9440609483832,
     "skill_sigma": 60.52465144177799,
     "name": "Sandra Starfelt",
     "slug": "sandra-starfelt",
-    "skill_rank": 46.0,
-    "skill_rank_pct": 46.0,
+    "skill_rank": 45.0,
+    "skill_rank_pct": 45.0,
     "skill_history": [
       [
         2011,
@@ -9213,6 +10210,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "gruppspel",
@@ -9233,8 +10234,8 @@
     "skill_sigma": 75.30494101936482,
     "name": "Sandra Sundin",
     "slug": "sandra-sundin",
-    "skill_rank": 107.0,
-    "skill_rank_pct": 107.0,
+    "skill_rank": 110.0,
+    "skill_rank_pct": 110.0,
     "skill_history": [
       [
         2011,
@@ -9275,6 +10276,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "gruppspel",
@@ -9283,20 +10288,21 @@
     ]
   },
   "Sara Welff": {
-    "n_games": 3,
-    "score_share": 0.5209653092006034,
-    "n_wins": 1,
+    "n_games": 7,
+    "score_share": 0.4566041801335919,
+    "n_wins": 3,
     "years": [
-      2023
+      2023,
+      2024
     ],
-    "win_rate": 0.3333333333333333,
-    "opponent_score_share": 0.46984218561770635,
-    "skill": 81.21192910833162,
-    "skill_sigma": 65.62226710104608,
+    "win_rate": 0.42857142857142855,
+    "opponent_score_share": 0.5011915024834684,
+    "skill": 126.95784611566098,
+    "skill_sigma": 41.52480603145506,
     "name": "Sara Welff",
     "slug": "sara-welff",
-    "skill_rank": 95.0,
-    "skill_rank_pct": 95.0,
+    "skill_rank": 62.0,
+    "skill_rank_pct": 62.0,
     "skill_history": [
       [
         2011,
@@ -9337,11 +10343,15 @@
       [
         2023,
         81.0
+      ],
+      [
+        2024,
+        127.0
       ]
     ],
-    "best_stage": "gruppspel",
+    "best_stage": "sextondelsfinal",
     "best_stage_years": [
-      2023
+      2024
     ]
   },
   "Sebastian Schneider": {
@@ -9357,8 +10367,8 @@
     "skill_sigma": 55.0135149136545,
     "name": "Sebastian Schneider",
     "slug": "sebastian-schneider",
-    "skill_rank": 19.0,
-    "skill_rank_pct": 19.0,
+    "skill_rank": 21.0,
+    "skill_rank_pct": 21.0,
     "skill_history": [
       [
         2011,
@@ -9399,6 +10409,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "\u00e5ttondelsfinal",
@@ -9415,13 +10429,13 @@
       2019
     ],
     "win_rate": 0.5,
-    "opponent_score_share": 0.5455217640876472,
+    "opponent_score_share": 0.5464174395010882,
     "skill": 88.73498089421172,
     "skill_sigma": 46.283094482429824,
     "name": "Sebastin Fors\u00e9n",
     "slug": "sebastin-forsen",
-    "skill_rank": 90.0,
-    "skill_rank_pct": 90.0,
+    "skill_rank": 93.0,
+    "skill_rank_pct": 93.0,
     "skill_history": [
       [
         2011,
@@ -9462,6 +10476,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "sextondelsfinal",
@@ -9477,7 +10495,7 @@
       2020
     ],
     "win_rate": 0.6666666666666666,
-    "opponent_score_share": 0.5260645405045697,
+    "opponent_score_share": 0.539640930185401,
     "skill": 174.51206592201615,
     "skill_sigma": 55.1428832796544,
     "name": "Simon B\u00f6hm",
@@ -9524,6 +10542,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "sextondelsfinal",
@@ -9532,20 +10554,21 @@
     ]
   },
   "Simon Fridh": {
-    "n_games": 3,
-    "score_share": 0.6496503496503497,
-    "n_wins": 2,
+    "n_games": 7,
+    "score_share": 0.6537129537129537,
+    "n_wins": 5,
     "years": [
-      2023
+      2023,
+      2024
     ],
-    "win_rate": 0.6666666666666666,
-    "opponent_score_share": 0.5297602269833181,
-    "skill": 162.9910689030363,
-    "skill_sigma": 53.867090841934946,
+    "win_rate": 0.7142857142857143,
+    "opponent_score_share": 0.4954229470835397,
+    "skill": 191.33422936777038,
+    "skill_sigma": 38.57408304532112,
     "name": "Simon Fridh",
     "slug": "simon-fridh",
-    "skill_rank": 29.0,
-    "skill_rank_pct": 29.0,
+    "skill_rank": 11.0,
+    "skill_rank_pct": 11.0,
     "skill_history": [
       [
         2011,
@@ -9586,11 +10609,15 @@
       [
         2023,
         163.0
+      ],
+      [
+        2024,
+        191.0
       ]
     ],
-    "best_stage": "sextondelsfinal",
+    "best_stage": "\u00e5ttondelsfinal",
     "best_stage_years": [
-      2023
+      2024
     ]
   },
   "Simon Rosendahl": {
@@ -9601,13 +10628,13 @@
       2017
     ],
     "win_rate": 0.3333333333333333,
-    "opponent_score_share": 0.43719228864082904,
+    "opponent_score_share": 0.43429664796301215,
     "skill": 72.07864218910694,
     "skill_sigma": 66.446425381796,
     "name": "Simon Rosendahl",
     "slug": "simon-rosendahl",
-    "skill_rank": 99.0,
-    "skill_rank_pct": 99.0,
+    "skill_rank": 102.0,
+    "skill_rank_pct": 102.0,
     "skill_history": [
       [
         2011,
@@ -9648,11 +10675,81 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "gruppspel",
     "best_stage_years": [
       2017
+    ]
+  },
+  "Sixten R\u00e5dstr\u00f6m": {
+    "n_games": 4,
+    "score_share": 0.4351307189542484,
+    "n_wins": 2,
+    "years": [
+      2024
+    ],
+    "win_rate": 0.5,
+    "opponent_score_share": 0.4312259614758163,
+    "skill": 111.70307128298283,
+    "skill_sigma": 53.287116905693345,
+    "name": "Sixten R\u00e5dstr\u00f6m",
+    "slug": "sixten-radstrom",
+    "skill_rank": 76.0,
+    "skill_rank_pct": 76.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        null
+      ],
+      [
+        2020,
+        null
+      ],
+      [
+        2021,
+        null
+      ],
+      [
+        2022,
+        null
+      ],
+      [
+        2023,
+        null
+      ],
+      [
+        2024,
+        112.0
+      ]
+    ],
+    "best_stage": "sextondelsfinal",
+    "best_stage_years": [
+      2024
     ]
   },
   "Sofia Ahlstr\u00f6m": {
@@ -9663,13 +10760,13 @@
       2017
     ],
     "win_rate": 0.5,
-    "opponent_score_share": 0.5195368453128136,
+    "opponent_score_share": 0.519224656771398,
     "skill": 120.29714872294652,
     "skill_sigma": 62.23099547046753,
     "name": "Sofia Ahlstr\u00f6m",
     "slug": "sofia-ahlstrom",
-    "skill_rank": 68.0,
-    "skill_rank_pct": 68.0,
+    "skill_rank": 71.0,
+    "skill_rank_pct": 71.0,
     "skill_history": [
       [
         2011,
@@ -9710,6 +10807,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "\u00e5ttondelsfinal",
@@ -9730,8 +10831,8 @@
     "skill_sigma": 75.0868957164604,
     "name": "Sofia Bard",
     "slug": "sofia-bard",
-    "skill_rank": 81.0,
-    "skill_rank_pct": 81.0,
+    "skill_rank": 85.0,
+    "skill_rank_pct": 85.0,
     "skill_history": [
       [
         2011,
@@ -9772,6 +10873,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "gruppspel",
@@ -9787,11 +10892,703 @@
       2023
     ],
     "win_rate": 0.0,
-    "opponent_score_share": 0.5407094017295784,
+    "opponent_score_share": 0.5507087069860245,
     "skill": 45.63238103010089,
     "skill_sigma": 73.50221709930464,
     "name": "Sofia Lundin",
     "slug": "sofia-lundin",
+    "skill_rank": 122.0,
+    "skill_rank_pct": 122.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        null
+      ],
+      [
+        2020,
+        null
+      ],
+      [
+        2021,
+        null
+      ],
+      [
+        2022,
+        null
+      ],
+      [
+        2023,
+        46.0
+      ],
+      [
+        2024,
+        null
+      ]
+    ],
+    "best_stage": "gruppspel",
+    "best_stage_years": [
+      2023
+    ]
+  },
+  "Sofia R\u00e5dstr\u00f6m": {
+    "n_games": 22,
+    "score_share": 0.3168362831464436,
+    "n_wins": 5,
+    "years": [
+      2011,
+      2012,
+      2016,
+      2017,
+      2018,
+      2019,
+      2021,
+      2023,
+      2024
+    ],
+    "win_rate": 0.22727272727272727,
+    "opponent_score_share": 0.5237970021900259,
+    "skill": 45.92321616045534,
+    "skill_sigma": 29.183023852476605,
+    "name": "Sofia R\u00e5dstr\u00f6m",
+    "slug": "sofia-radstrom",
+    "skill_rank": 121.0,
+    "skill_rank_pct": 121.0,
+    "skill_history": [
+      [
+        2011,
+        15.0
+      ],
+      [
+        2012,
+        -14.0
+      ],
+      [
+        2016,
+        -45.0
+      ],
+      [
+        2017,
+        24.0
+      ],
+      [
+        2018,
+        7.0
+      ],
+      [
+        2019,
+        56.0
+      ],
+      [
+        2020,
+        null
+      ],
+      [
+        2021,
+        46.0
+      ],
+      [
+        2022,
+        null
+      ],
+      [
+        2023,
+        50.0
+      ],
+      [
+        2024,
+        46.0
+      ]
+    ],
+    "best_stage": "\u00e5ttondelsfinal",
+    "best_stage_years": [
+      2017
+    ]
+  },
+  "Sofia S\u00f6derberg": {
+    "n_games": 2,
+    "score_share": 0.15,
+    "n_wins": 0,
+    "years": [
+      2016
+    ],
+    "win_rate": 0.0,
+    "opponent_score_share": 0.48798653179727347,
+    "skill": 25.23396074100435,
+    "skill_sigma": 77.13335364641657,
+    "name": "Sofia S\u00f6derberg",
+    "slug": "sofia-soderberg",
+    "skill_rank": 140.0,
+    "skill_rank_pct": 140.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        25.0
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        null
+      ],
+      [
+        2020,
+        null
+      ],
+      [
+        2021,
+        null
+      ],
+      [
+        2022,
+        null
+      ],
+      [
+        2023,
+        null
+      ],
+      [
+        2024,
+        null
+      ]
+    ],
+    "best_stage": "gruppspel",
+    "best_stage_years": [
+      2016
+    ]
+  },
+  "Sofia \u00d6rning": {
+    "n_games": 23,
+    "score_share": 0.4011214843695662,
+    "n_wins": 7,
+    "years": [
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "win_rate": 0.30434782608695654,
+    "opponent_score_share": 0.46657072348306644,
+    "skill": 55.015369029914986,
+    "skill_sigma": 27.492427751176784,
+    "name": "Sofia \u00d6rning",
+    "slug": "sofia-orning",
+    "skill_rank": 113.0,
+    "skill_rank_pct": 113.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        18.0
+      ],
+      [
+        2018,
+        43.0
+      ],
+      [
+        2019,
+        41.0
+      ],
+      [
+        2020,
+        51.0
+      ],
+      [
+        2021,
+        51.0
+      ],
+      [
+        2022,
+        30.0
+      ],
+      [
+        2023,
+        23.0
+      ],
+      [
+        2024,
+        55.0
+      ]
+    ],
+    "best_stage": "sextondelsfinal",
+    "best_stage_years": [
+      2018,
+      2021
+    ]
+  },
+  "Sophie Hinks": {
+    "n_games": 2,
+    "score_share": 0.3035714285714286,
+    "n_wins": 0,
+    "years": [
+      2021
+    ],
+    "win_rate": 0.0,
+    "opponent_score_share": 0.5147900966117583,
+    "skill": 7.1156167079921975,
+    "skill_sigma": 66.87954874833062,
+    "name": "Sophie Hinks",
+    "slug": "sophie-hinks",
+    "skill_rank": 160.0,
+    "skill_rank_pct": 160.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        null
+      ],
+      [
+        2020,
+        null
+      ],
+      [
+        2021,
+        7.0
+      ],
+      [
+        2022,
+        null
+      ],
+      [
+        2023,
+        null
+      ],
+      [
+        2024,
+        null
+      ]
+    ],
+    "best_stage": "gruppspel",
+    "best_stage_years": [
+      2021
+    ]
+  },
+  "Stina Vass": {
+    "n_games": 2,
+    "score_share": 0.37815126050420167,
+    "n_wins": 0,
+    "years": [
+      2023
+    ],
+    "win_rate": 0.0,
+    "opponent_score_share": 0.45143738744173234,
+    "skill": 5.0749646306378615,
+    "skill_sigma": 66.1850237967146,
+    "name": "Stina Vass",
+    "slug": "stina-vass",
+    "skill_rank": 163.0,
+    "skill_rank_pct": 163.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        null
+      ],
+      [
+        2020,
+        null
+      ],
+      [
+        2021,
+        null
+      ],
+      [
+        2022,
+        null
+      ],
+      [
+        2023,
+        5.0
+      ],
+      [
+        2024,
+        null
+      ]
+    ],
+    "best_stage": "gruppspel",
+    "best_stage_years": [
+      2023
+    ]
+  },
+  "Sussie R\u00e5dis": {
+    "n_games": 10,
+    "score_share": 0.3569078633784516,
+    "n_wins": 2,
+    "years": [
+      2018,
+      2019,
+      2021,
+      2022
+    ],
+    "win_rate": 0.2,
+    "opponent_score_share": 0.5291925024750924,
+    "skill": 30.950593330070298,
+    "skill_sigma": 41.62894253879294,
+    "name": "Sussie R\u00e5dis",
+    "slug": "sussie-radis",
+    "skill_rank": 136.0,
+    "skill_rank_pct": 136.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        107.0
+      ],
+      [
+        2019,
+        69.0
+      ],
+      [
+        2020,
+        null
+      ],
+      [
+        2021,
+        46.0
+      ],
+      [
+        2022,
+        31.0
+      ],
+      [
+        2023,
+        null
+      ],
+      [
+        2024,
+        null
+      ]
+    ],
+    "best_stage": "sextondelsfinal",
+    "best_stage_years": [
+      2018
+    ]
+  },
+  "Theodore Ripman": {
+    "n_games": 51,
+    "score_share": 0.5710964566774074,
+    "n_wins": 37,
+    "years": [
+      2011,
+      2012,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "win_rate": 0.7254901960784313,
+    "opponent_score_share": 0.51606610612866,
+    "skill": 208.0957078752292,
+    "skill_sigma": 16.580439766566727,
+    "name": "Theodore Ripman",
+    "slug": "theodore-ripman",
+    "skill_rank": 8.0,
+    "skill_rank_pct": 8.0,
+    "skill_history": [
+      [
+        2011,
+        123.0
+      ],
+      [
+        2012,
+        125.0
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        130.0
+      ],
+      [
+        2018,
+        166.0
+      ],
+      [
+        2019,
+        210.0
+      ],
+      [
+        2020,
+        202.0
+      ],
+      [
+        2021,
+        206.0
+      ],
+      [
+        2022,
+        203.0
+      ],
+      [
+        2023,
+        200.0
+      ],
+      [
+        2024,
+        208.0
+      ]
+    ],
+    "best_stage": "vinnare",
+    "best_stage_years": [
+      2019
+    ]
+  },
+  "Tim Samuelsson": {
+    "n_games": 13,
+    "score_share": 0.5020184943261866,
+    "n_wins": 6,
+    "years": [
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "win_rate": 0.46153846153846156,
+    "opponent_score_share": 0.4616013925780598,
+    "skill": 126.6347861719716,
+    "skill_sigma": 32.74122076100765,
+    "name": "Tim Samuelsson",
+    "slug": "tim-samuelsson",
+    "skill_rank": 63.0,
+    "skill_rank_pct": 63.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        null
+      ],
+      [
+        2017,
+        null
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        null
+      ],
+      [
+        2020,
+        128.0
+      ],
+      [
+        2021,
+        146.0
+      ],
+      [
+        2022,
+        119.0
+      ],
+      [
+        2023,
+        127.0
+      ],
+      [
+        2024,
+        null
+      ]
+    ],
+    "best_stage": "\u00e5ttondelsfinal",
+    "best_stage_years": [
+      2020
+    ]
+  },
+  "Tobe Welander": {
+    "n_games": 6,
+    "score_share": 0.48502616664381365,
+    "n_wins": 2,
+    "years": [
+      2016,
+      2017
+    ],
+    "win_rate": 0.3333333333333333,
+    "opponent_score_share": 0.5006640406411583,
+    "skill": 64.7891342010066,
+    "skill_sigma": 49.71407626898299,
+    "name": "Tobe Welander",
+    "slug": "tobe-welander",
+    "skill_rank": 106.0,
+    "skill_rank_pct": 106.0,
+    "skill_history": [
+      [
+        2011,
+        null
+      ],
+      [
+        2012,
+        null
+      ],
+      [
+        2016,
+        20.0
+      ],
+      [
+        2017,
+        65.0
+      ],
+      [
+        2018,
+        null
+      ],
+      [
+        2019,
+        null
+      ],
+      [
+        2020,
+        null
+      ],
+      [
+        2021,
+        null
+      ],
+      [
+        2022,
+        null
+      ],
+      [
+        2023,
+        null
+      ],
+      [
+        2024,
+        null
+      ]
+    ],
+    "best_stage": "\u00e5ttondelsfinal",
+    "best_stage_years": [
+      2017
+    ]
+  },
+  "Tommy Damstr\u00f6m": {
+    "n_games": 4,
+    "score_share": 0.42766955266955264,
+    "n_wins": 1,
+    "years": [
+      2024
+    ],
+    "win_rate": 0.25,
+    "opponent_score_share": 0.49561917911564324,
+    "skill": 49.40292913153729,
+    "skill_sigma": 55.61440558265163,
+    "name": "Tommy Damstr\u00f6m",
+    "slug": "tommy-damstrom",
     "skill_rank": 118.0,
     "skill_rank_pct": 118.0,
     "skill_history": [
@@ -9833,599 +11630,16 @@
       ],
       [
         2023,
-        46.0
-      ]
-    ],
-    "best_stage": "gruppspel",
-    "best_stage_years": [
-      2023
-    ]
-  },
-  "Sofia R\u00e5dstr\u00f6m": {
-    "n_games": 20,
-    "score_share": 0.33582760376878024,
-    "n_wins": 5,
-    "years": [
-      2011,
-      2012,
-      2016,
-      2017,
-      2018,
-      2019,
-      2021,
-      2023
-    ],
-    "win_rate": 0.25,
-    "opponent_score_share": 0.5193517333592961,
-    "skill": 50.087154665615365,
-    "skill_sigma": 30.346829548227774,
-    "name": "Sofia R\u00e5dstr\u00f6m",
-    "slug": "sofia-radstrom",
-    "skill_rank": 114.0,
-    "skill_rank_pct": 114.0,
-    "skill_history": [
-      [
-        2011,
-        15.0
-      ],
-      [
-        2012,
-        -14.0
-      ],
-      [
-        2016,
-        -45.0
-      ],
-      [
-        2017,
-        24.0
-      ],
-      [
-        2018,
-        7.0
-      ],
-      [
-        2019,
-        56.0
-      ],
-      [
-        2020,
         null
       ],
       [
-        2021,
-        46.0
-      ],
-      [
-        2022,
-        null
-      ],
-      [
-        2023,
-        50.0
-      ]
-    ],
-    "best_stage": "\u00e5ttondelsfinal",
-    "best_stage_years": [
-      2017
-    ]
-  },
-  "Sofia S\u00f6derberg": {
-    "n_games": 2,
-    "score_share": 0.15,
-    "n_wins": 0,
-    "years": [
-      2016
-    ],
-    "win_rate": 0.0,
-    "opponent_score_share": 0.48798653179727347,
-    "skill": 25.23396074100435,
-    "skill_sigma": 77.13335364641657,
-    "name": "Sofia S\u00f6derberg",
-    "slug": "sofia-soderberg",
-    "skill_rank": 132.0,
-    "skill_rank_pct": 132.0,
-    "skill_history": [
-      [
-        2011,
-        null
-      ],
-      [
-        2012,
-        null
-      ],
-      [
-        2016,
-        25.0
-      ],
-      [
-        2017,
-        null
-      ],
-      [
-        2018,
-        null
-      ],
-      [
-        2019,
-        null
-      ],
-      [
-        2020,
-        null
-      ],
-      [
-        2021,
-        null
-      ],
-      [
-        2022,
-        null
-      ],
-      [
-        2023,
-        null
-      ]
-    ],
-    "best_stage": "gruppspel",
-    "best_stage_years": [
-      2016
-    ]
-  },
-  "Sofia \u00d6rning": {
-    "n_games": 20,
-    "score_share": 0.38998601072130484,
-    "n_wins": 5,
-    "years": [
-      2017,
-      2018,
-      2019,
-      2020,
-      2021,
-      2022,
-      2023
-    ],
-    "win_rate": 0.25,
-    "opponent_score_share": 0.4563674713050451,
-    "skill": 23.025349542819,
-    "skill_sigma": 30.59726521575309,
-    "name": "Sofia \u00d6rning",
-    "slug": "sofia-orning",
-    "skill_rank": 134.0,
-    "skill_rank_pct": 134.0,
-    "skill_history": [
-      [
-        2011,
-        null
-      ],
-      [
-        2012,
-        null
-      ],
-      [
-        2016,
-        null
-      ],
-      [
-        2017,
-        18.0
-      ],
-      [
-        2018,
-        43.0
-      ],
-      [
-        2019,
-        41.0
-      ],
-      [
-        2020,
-        51.0
-      ],
-      [
-        2021,
-        51.0
-      ],
-      [
-        2022,
-        30.0
-      ],
-      [
-        2023,
-        23.0
+        2024,
+        49.0
       ]
     ],
     "best_stage": "sextondelsfinal",
     "best_stage_years": [
-      2018,
-      2021
-    ]
-  },
-  "Sophie Hinks": {
-    "n_games": 2,
-    "score_share": 0.3035714285714286,
-    "n_wins": 0,
-    "years": [
-      2021
-    ],
-    "win_rate": 0.0,
-    "opponent_score_share": 0.5252861864297755,
-    "skill": 7.1156167079921975,
-    "skill_sigma": 66.87954874833062,
-    "name": "Sophie Hinks",
-    "slug": "sophie-hinks",
-    "skill_rank": 151.0,
-    "skill_rank_pct": 151.0,
-    "skill_history": [
-      [
-        2011,
-        null
-      ],
-      [
-        2012,
-        null
-      ],
-      [
-        2016,
-        null
-      ],
-      [
-        2017,
-        null
-      ],
-      [
-        2018,
-        null
-      ],
-      [
-        2019,
-        null
-      ],
-      [
-        2020,
-        null
-      ],
-      [
-        2021,
-        7.0
-      ],
-      [
-        2022,
-        null
-      ],
-      [
-        2023,
-        null
-      ]
-    ],
-    "best_stage": "gruppspel",
-    "best_stage_years": [
-      2021
-    ]
-  },
-  "Stina Vass": {
-    "n_games": 2,
-    "score_share": 0.37815126050420167,
-    "n_wins": 0,
-    "years": [
-      2023
-    ],
-    "win_rate": 0.0,
-    "opponent_score_share": 0.46621703731997843,
-    "skill": 5.0749646306378615,
-    "skill_sigma": 66.1850237967146,
-    "name": "Stina Vass",
-    "slug": "stina-vass",
-    "skill_rank": 154.0,
-    "skill_rank_pct": 154.0,
-    "skill_history": [
-      [
-        2011,
-        null
-      ],
-      [
-        2012,
-        null
-      ],
-      [
-        2016,
-        null
-      ],
-      [
-        2017,
-        null
-      ],
-      [
-        2018,
-        null
-      ],
-      [
-        2019,
-        null
-      ],
-      [
-        2020,
-        null
-      ],
-      [
-        2021,
-        null
-      ],
-      [
-        2022,
-        null
-      ],
-      [
-        2023,
-        5.0
-      ]
-    ],
-    "best_stage": "gruppspel",
-    "best_stage_years": [
-      2023
-    ]
-  },
-  "Sussie R\u00e5dis": {
-    "n_games": 10,
-    "score_share": 0.3569078633784516,
-    "n_wins": 2,
-    "years": [
-      2018,
-      2019,
-      2021,
-      2022
-    ],
-    "win_rate": 0.2,
-    "opponent_score_share": 0.5312693722219308,
-    "skill": 30.950593330070298,
-    "skill_sigma": 41.62894253879294,
-    "name": "Sussie R\u00e5dis",
-    "slug": "sussie-radis",
-    "skill_rank": 129.0,
-    "skill_rank_pct": 129.0,
-    "skill_history": [
-      [
-        2011,
-        null
-      ],
-      [
-        2012,
-        null
-      ],
-      [
-        2016,
-        null
-      ],
-      [
-        2017,
-        null
-      ],
-      [
-        2018,
-        107.0
-      ],
-      [
-        2019,
-        69.0
-      ],
-      [
-        2020,
-        null
-      ],
-      [
-        2021,
-        46.0
-      ],
-      [
-        2022,
-        31.0
-      ],
-      [
-        2023,
-        null
-      ]
-    ],
-    "best_stage": "sextondelsfinal",
-    "best_stage_years": [
-      2018
-    ]
-  },
-  "Theodore Ripman": {
-    "n_games": 44,
-    "score_share": 0.5597932488790567,
-    "n_wins": 31,
-    "years": [
-      2011,
-      2012,
-      2017,
-      2018,
-      2019,
-      2020,
-      2021,
-      2022,
-      2023
-    ],
-    "win_rate": 0.7045454545454546,
-    "opponent_score_share": 0.5192383772547405,
-    "skill": 200.25486598045399,
-    "skill_sigma": 17.870823666660343,
-    "name": "Theodore Ripman",
-    "slug": "theodore-ripman",
-    "skill_rank": 10.0,
-    "skill_rank_pct": 10.0,
-    "skill_history": [
-      [
-        2011,
-        123.0
-      ],
-      [
-        2012,
-        125.0
-      ],
-      [
-        2016,
-        null
-      ],
-      [
-        2017,
-        130.0
-      ],
-      [
-        2018,
-        166.0
-      ],
-      [
-        2019,
-        210.0
-      ],
-      [
-        2020,
-        202.0
-      ],
-      [
-        2021,
-        206.0
-      ],
-      [
-        2022,
-        203.0
-      ],
-      [
-        2023,
-        200.0
-      ]
-    ],
-    "best_stage": "vinnare",
-    "best_stage_years": [
-      2019
-    ]
-  },
-  "Tim Samuelsson": {
-    "n_games": 13,
-    "score_share": 0.5020184943261866,
-    "n_wins": 6,
-    "years": [
-      2020,
-      2021,
-      2022,
-      2023
-    ],
-    "win_rate": 0.46153846153846156,
-    "opponent_score_share": 0.4648500734769193,
-    "skill": 126.6347861719716,
-    "skill_sigma": 32.74122076100765,
-    "name": "Tim Samuelsson",
-    "slug": "tim-samuelsson",
-    "skill_rank": 60.0,
-    "skill_rank_pct": 60.0,
-    "skill_history": [
-      [
-        2011,
-        null
-      ],
-      [
-        2012,
-        null
-      ],
-      [
-        2016,
-        null
-      ],
-      [
-        2017,
-        null
-      ],
-      [
-        2018,
-        null
-      ],
-      [
-        2019,
-        null
-      ],
-      [
-        2020,
-        128.0
-      ],
-      [
-        2021,
-        146.0
-      ],
-      [
-        2022,
-        119.0
-      ],
-      [
-        2023,
-        127.0
-      ]
-    ],
-    "best_stage": "\u00e5ttondelsfinal",
-    "best_stage_years": [
-      2020
-    ]
-  },
-  "Tobe Welander": {
-    "n_games": 6,
-    "score_share": 0.48502616664381365,
-    "n_wins": 2,
-    "years": [
-      2016,
-      2017
-    ],
-    "win_rate": 0.3333333333333333,
-    "opponent_score_share": 0.5022067933784943,
-    "skill": 64.7891342010066,
-    "skill_sigma": 49.71407626898299,
-    "name": "Tobe Welander",
-    "slug": "tobe-welander",
-    "skill_rank": 103.0,
-    "skill_rank_pct": 103.0,
-    "skill_history": [
-      [
-        2011,
-        null
-      ],
-      [
-        2012,
-        null
-      ],
-      [
-        2016,
-        20.0
-      ],
-      [
-        2017,
-        65.0
-      ],
-      [
-        2018,
-        null
-      ],
-      [
-        2019,
-        null
-      ],
-      [
-        2020,
-        null
-      ],
-      [
-        2021,
-        null
-      ],
-      [
-        2022,
-        null
-      ],
-      [
-        2023,
-        null
-      ]
-    ],
-    "best_stage": "\u00e5ttondelsfinal",
-    "best_stage_years": [
-      2017
+      2024
     ]
   },
   "Tove Papp Lindkvist": {
@@ -10436,13 +11650,13 @@
       2017
     ],
     "win_rate": 0.0,
-    "opponent_score_share": 0.5423295479484205,
+    "opponent_score_share": 0.5365009113142598,
     "skill": -11.154393807653689,
     "skill_sigma": 71.74620212161844,
     "name": "Tove Papp Lindkvist",
     "slug": "tove-papp-lindkvist",
-    "skill_rank": 160.0,
-    "skill_rank_pct": 160.0,
+    "skill_rank": 168.0,
+    "skill_rank_pct": 168.0,
     "skill_history": [
       [
         2011,
@@ -10483,6 +11697,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "gruppspel",
@@ -10498,13 +11716,13 @@
       2019
     ],
     "win_rate": 0.3333333333333333,
-    "opponent_score_share": 0.5848919575525923,
+    "opponent_score_share": 0.5712870991133435,
     "skill": 101.65456481380942,
     "skill_sigma": 60.06546481491012,
     "name": "Viktor G\u00e4rde",
     "slug": "viktor-garde",
-    "skill_rank": 85.0,
-    "skill_rank_pct": 85.0,
+    "skill_rank": 89.0,
+    "skill_rank_pct": 89.0,
     "skill_history": [
       [
         2011,
@@ -10545,6 +11763,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "gruppspel",
@@ -10553,9 +11775,9 @@
     ]
   },
   "Ville Nordenankar": {
-    "n_games": 20,
-    "score_share": 0.4288546176046176,
-    "n_wins": 9,
+    "n_games": 24,
+    "score_share": 0.4457742488992489,
+    "n_wins": 12,
     "years": [
       2017,
       2018,
@@ -10563,16 +11785,17 @@
       2020,
       2021,
       2022,
-      2023
+      2023,
+      2024
     ],
-    "win_rate": 0.45,
-    "opponent_score_share": 0.5503735136438639,
-    "skill": 120.16719277465407,
-    "skill_sigma": 25.783219505688187,
+    "win_rate": 0.5,
+    "opponent_score_share": 0.5307300144470314,
+    "skill": 131.829379680025,
+    "skill_sigma": 23.63868646367989,
     "name": "Ville Nordenankar",
     "slug": "ville-nordenankar",
-    "skill_rank": 69.0,
-    "skill_rank_pct": 69.0,
+    "skill_rank": 55.0,
+    "skill_rank_pct": 55.0,
     "skill_history": [
       [
         2011,
@@ -10613,6 +11836,10 @@
       [
         2023,
         120.0
+      ],
+      [
+        2024,
+        132.0
       ]
     ],
     "best_stage": "kvartsfinal",
@@ -10628,13 +11855,13 @@
       2020
     ],
     "win_rate": 0.5,
-    "opponent_score_share": 0.5813409157120084,
+    "opponent_score_share": 0.5751615987179846,
     "skill": 108.54666157404843,
     "skill_sigma": 53.920549157092395,
     "name": "Wille Laska",
     "slug": "wille-laska",
-    "skill_rank": 76.0,
-    "skill_rank_pct": 76.0,
+    "skill_rank": 79.0,
+    "skill_rank_pct": 79.0,
     "skill_history": [
       [
         2011,
@@ -10675,6 +11902,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "\u00e5ttondelsfinal",
@@ -10691,13 +11922,13 @@
       2018
     ],
     "win_rate": 0.42857142857142855,
-    "opponent_score_share": 0.43956290778515356,
+    "opponent_score_share": 0.43585515910353106,
     "skill": 76.689103762065,
     "skill_sigma": 46.61569476253359,
     "name": "Ylva Andr\u00e9asson",
     "slug": "ylva-andreasson",
-    "skill_rank": 98.0,
-    "skill_rank_pct": 98.0,
+    "skill_rank": 101.0,
+    "skill_rank_pct": 101.0,
     "skill_history": [
       [
         2011,
@@ -10738,6 +11969,10 @@
       [
         2023,
         null
+      ],
+      [
+        2024,
+        null
       ]
     ],
     "best_stage": "sextondelsfinal",
@@ -10746,20 +11981,21 @@
     ]
   },
   "\u00c5ke R\u00e5dstr\u00f6m": {
-    "n_games": 3,
-    "score_share": 0.3550420168067227,
+    "n_games": 5,
+    "score_share": 0.32938884644766997,
     "n_wins": 1,
     "years": [
-      2023
+      2023,
+      2024
     ],
-    "win_rate": 0.3333333333333333,
-    "opponent_score_share": 0.53894375336086,
-    "skill": 95.02301075617697,
-    "skill_sigma": 56.85212812060721,
+    "win_rate": 0.2,
+    "opponent_score_share": 0.4744130302410845,
+    "skill": 40.20909658866397,
+    "skill_sigma": 47.32170725486132,
     "name": "\u00c5ke R\u00e5dstr\u00f6m",
     "slug": "ake-radstrom",
-    "skill_rank": 88.0,
-    "skill_rank_pct": 88.0,
+    "skill_rank": 127.0,
+    "skill_rank_pct": 127.0,
     "skill_history": [
       [
         2011,
@@ -10800,11 +12036,16 @@
       [
         2023,
         95.0
+      ],
+      [
+        2024,
+        40.0
       ]
     ],
     "best_stage": "gruppspel",
     "best_stage_years": [
-      2023
+      2023,
+      2024
     ]
   }
 }

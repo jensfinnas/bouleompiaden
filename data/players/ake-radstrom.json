@@ -1,18 +1,19 @@
 {
-  "n_games": 3,
-  "score_share": 0.3550420168067227,
+  "n_games": 5,
+  "score_share": 0.32938884644766997,
   "n_wins": 1,
   "years": [
-    2023
+    2023,
+    2024
   ],
-  "win_rate": 0.3333333333333333,
-  "opponent_score_share": 0.53894375336086,
-  "skill": 95.02301075617697,
-  "skill_sigma": 56.85212812060721,
+  "win_rate": 0.2,
+  "opponent_score_share": 0.4744130302410845,
+  "skill": 40.20909658866397,
+  "skill_sigma": 47.32170725486132,
   "name": "\u00c5ke R\u00e5dstr\u00f6m",
   "slug": "ake-radstrom",
-  "skill_rank": 88.0,
-  "skill_rank_pct": 88.0,
+  "skill_rank": 127.0,
+  "skill_rank_pct": 127.0,
   "skill_history": [
     [
       2011,
@@ -53,6 +54,10 @@
     [
       2023,
       95.0
+    ],
+    [
+      2024,
+      40.0
     ]
   ],
   "tournaments": [
@@ -83,7 +88,7 @@
           "opponent_win_prob": 0.7473763980007228,
           "is_winner": false,
           "opponent_slug": "pelle-dovborg",
-          "opponent_hist_score_share": 0.5687558814642149
+          "opponent_hist_score_share": 0.5570986081958933
         },
         {
           "game_id": 707,
@@ -124,10 +129,62 @@
       ],
       "n_games": 3,
       "n_wins": 1
+    },
+    {
+      "year": 2024,
+      "last_game": {
+        "opponent_name": "Tommy Damstr\u00f6m",
+        "opponent_slug": "tommy-damstrom",
+        "score": 2,
+        "opponent_score": 9,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "games": [
+        {
+          "game_id": 769,
+          "year": 2024,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "\u00c5ke R\u00e5dstr\u00f6m",
+          "score": 6,
+          "score_share": 0.4,
+          "win_prob": 0.763958656287024,
+          "opponent_name": "Olle Nyr\u00e9n",
+          "opponent_score": 9,
+          "opponent_score_share": 0.6,
+          "opponent_win_prob": 0.23604134371297603,
+          "is_winner": false,
+          "opponent_slug": "olle-nyren",
+          "opponent_hist_score_share": 0.3392216117216117
+        },
+        {
+          "game_id": 798,
+          "year": 2024,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "\u00c5ke R\u00e5dstr\u00f6m",
+          "score": 2,
+          "score_share": 0.18181818181818182,
+          "win_prob": 0.43144670701869225,
+          "opponent_name": "Tommy Damstr\u00f6m",
+          "opponent_score": 9,
+          "opponent_score_share": 0.8181818181818182,
+          "opponent_win_prob": 0.5685532929813077,
+          "is_winner": false,
+          "opponent_slug": "tommy-damstrom",
+          "opponent_hist_score_share": 0.42766955266955264
+        }
+      ],
+      "n_games": 2,
+      "n_wins": 0
     }
   ],
   "best_stage": "gruppspel",
   "best_stage_years": [
-    2023
+    2023,
+    2024
   ]
 }

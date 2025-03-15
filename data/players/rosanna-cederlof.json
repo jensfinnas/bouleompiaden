@@ -1,0 +1,137 @@
+{
+  "n_games": 3,
+  "score_share": 0.26837606837606837,
+  "n_wins": 0,
+  "years": [
+    2024
+  ],
+  "win_rate": 0.0,
+  "opponent_score_share": 0.5624951224454878,
+  "skill": 31.723348087610212,
+  "skill_sigma": 70.68678821876055,
+  "name": "Rosanna Cederl\u00f6f",
+  "slug": "rosanna-cederlof",
+  "skill_rank": 134.0,
+  "skill_rank_pct": 134.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      null
+    ],
+    [
+      2016,
+      null
+    ],
+    [
+      2017,
+      null
+    ],
+    [
+      2018,
+      null
+    ],
+    [
+      2019,
+      null
+    ],
+    [
+      2020,
+      null
+    ],
+    [
+      2021,
+      null
+    ],
+    [
+      2022,
+      null
+    ],
+    [
+      2023,
+      null
+    ],
+    [
+      2024,
+      32.0
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2024,
+      "last_game": {
+        "opponent_name": "Erik Nordenankar",
+        "opponent_slug": "erik-nordenankar",
+        "score": 4,
+        "opponent_score": 11,
+        "is_winner": false,
+        "stage": "sextondelsfinal"
+      },
+      "games": [
+        {
+          "game_id": 779,
+          "year": 2024,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Rosanna Cederl\u00f6f",
+          "score": 4,
+          "score_share": 0.3076923076923077,
+          "win_prob": 0.43599449005817803,
+          "opponent_name": "Ville Nordenankar",
+          "opponent_score": 9,
+          "opponent_score_share": 0.6923076923076923,
+          "opponent_win_prob": 0.564005509941822,
+          "is_winner": false,
+          "opponent_slug": "ville-nordenankar",
+          "opponent_hist_score_share": 0.4457742488992489
+        },
+        {
+          "game_id": 810,
+          "year": 2024,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Rosanna Cederl\u00f6f",
+          "score": 3,
+          "score_share": 0.23076923076923078,
+          "win_prob": 0.06761174791674995,
+          "opponent_name": "Jonas Nygren",
+          "opponent_score": 10,
+          "opponent_score_share": 0.7692307692307693,
+          "opponent_win_prob": 0.93238825208325,
+          "is_winner": false,
+          "opponent_slug": "jonas-nygren",
+          "opponent_hist_score_share": 0.5608411894692854
+        },
+        {
+          "game_id": 820,
+          "year": 2024,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p1",
+          "name": "Rosanna Cederl\u00f6f",
+          "score": 4,
+          "score_share": 0.26666666666666666,
+          "win_prob": 0.038856250199506115,
+          "opponent_name": "Erik Nordenankar",
+          "opponent_score": 11,
+          "opponent_score_share": 0.7333333333333333,
+          "opponent_win_prob": 0.9611437498004939,
+          "is_winner": false,
+          "opponent_slug": "erik-nordenankar",
+          "opponent_hist_score_share": 0.6808699289679294
+        }
+      ],
+      "n_games": 3,
+      "n_wins": 0
+    }
+  ],
+  "best_stage": "sextondelsfinal",
+  "best_stage_years": [
+    2024
+  ]
+}

@@ -10,13 +10,13 @@
     2019
   ],
   "win_rate": 0.5333333333333333,
-  "opponent_score_share": 0.443352733653431,
+  "opponent_score_share": 0.4394512631384807,
   "skill": 82.85579750439959,
   "skill_sigma": 32.23354272422082,
   "name": "Richard Ekman",
   "slug": "richard-ekman",
-  "skill_rank": 94.0,
-  "skill_rank_pct": 94.0,
+  "skill_rank": 98.0,
+  "skill_rank_pct": 98.0,
   "skill_history": [
     [
       2011,
@@ -56,6 +56,10 @@
     ],
     [
       2023,
+      null
+    ],
+    [
+      2024,
       null
     ]
   ],
@@ -138,7 +142,7 @@
           "opponent_win_prob": 0.3725905379855232,
           "is_winner": true,
           "opponent_slug": "sofia-radstrom",
-          "opponent_hist_score_share": 0.33582760376878024
+          "opponent_hist_score_share": 0.3168362831464436
         },
         {
           "game_id": 67,
@@ -156,7 +160,7 @@
           "opponent_win_prob": 0.7180644371804317,
           "is_winner": true,
           "opponent_slug": "johanna-radstrom",
-          "opponent_hist_score_share": 0.33566966962295686
+          "opponent_hist_score_share": 0.32542617105117105
         },
         {
           "game_id": 73,
@@ -174,7 +178,7 @@
           "opponent_win_prob": 0.5334163269808834,
           "is_winner": false,
           "opponent_slug": "jerker-karlsson",
-          "opponent_hist_score_share": 0.5216255545801
+          "opponent_hist_score_share": 0.5303209572946416
         }
       ],
       "n_games": 3,
@@ -243,7 +247,7 @@
           "opponent_win_prob": 0.2503306847778113,
           "is_winner": true,
           "opponent_slug": "sofia-radstrom",
-          "opponent_hist_score_share": 0.33582760376878024
+          "opponent_hist_score_share": 0.3168362831464436
         },
         {
           "game_id": 138,
@@ -381,7 +385,7 @@
           "opponent_win_prob": 0.18224123025661831,
           "is_winner": false,
           "opponent_slug": "sofia-radstrom",
-          "opponent_hist_score_share": 0.33582760376878024
+          "opponent_hist_score_share": 0.3168362831464436
         },
         {
           "game_id": 313,

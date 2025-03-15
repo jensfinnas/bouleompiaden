@@ -6,13 +6,13 @@
     2020
   ],
   "win_rate": 0.5,
-  "opponent_score_share": 0.5813409157120084,
+  "opponent_score_share": 0.5751615987179846,
   "skill": 108.54666157404843,
   "skill_sigma": 53.920549157092395,
   "name": "Wille Laska",
   "slug": "wille-laska",
-  "skill_rank": 76.0,
-  "skill_rank_pct": 76.0,
+  "skill_rank": 79.0,
+  "skill_rank_pct": 79.0,
   "skill_history": [
     [
       2011,
@@ -53,6 +53,10 @@
     [
       2023,
       null
+    ],
+    [
+      2024,
+      null
     ]
   ],
   "tournaments": [
@@ -83,7 +87,7 @@
           "opponent_win_prob": 0.7146761185207573,
           "is_winner": false,
           "opponent_slug": "jerker-karlsson",
-          "opponent_hist_score_share": 0.5216255545801
+          "opponent_hist_score_share": 0.5303209572946416
         },
         {
           "game_id": 414,
@@ -119,7 +123,7 @@
           "opponent_win_prob": 0.4161940009774867,
           "is_winner": true,
           "opponent_slug": "bjorn-berglund",
-          "opponent_hist_score_share": 0.5912036941816353
+          "opponent_hist_score_share": 0.5899186767752944
         },
         {
           "game_id": 439,
@@ -137,7 +141,7 @@
           "opponent_win_prob": 0.3726312080804498,
           "is_winner": false,
           "opponent_slug": "olle-strandberg",
-          "opponent_hist_score_share": 0.6605863621382463
+          "opponent_hist_score_share": 0.6284587088539505
         }
       ],
       "n_games": 4,

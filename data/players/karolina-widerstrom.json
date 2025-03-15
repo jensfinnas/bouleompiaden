@@ -1,18 +1,18 @@
 {
-  "n_games": 3,
-  "score_share": 0.6247086247086248,
+  "n_games": 4,
+  "score_share": 0.5779064685314685,
   "n_wins": 2,
   "years": [
     2023
   ],
-  "win_rate": 0.6666666666666666,
-  "opponent_score_share": 0.40978777017113405,
-  "skill": 156.13390590130328,
-  "skill_sigma": 66.73770142138814,
+  "win_rate": 0.5,
+  "opponent_score_share": 0.4218043015372297,
+  "skill": 128.0286455584338,
+  "skill_sigma": 57.916022627780784,
   "name": "Karolina Widerstr\u00f6m",
   "slug": "karolina-widerstrom",
-  "skill_rank": 33.0,
-  "skill_rank_pct": 33.0,
+  "skill_rank": 59.0,
+  "skill_rank_pct": 59.0,
   "skill_history": [
     [
       2011,
@@ -52,19 +52,23 @@
     ],
     [
       2023,
-      156.0
+      128.0
+    ],
+    [
+      2024,
+      null
     ]
   ],
   "tournaments": [
     {
       "year": 2023,
       "last_game": {
-        "opponent_name": "Ellen Gehlin",
-        "opponent_slug": "ellen-gehlin",
-        "score": 9,
-        "opponent_score": 0,
-        "is_winner": true,
-        "stage": "gruppspel"
+        "opponent_name": "Jens Finn\u00e4s",
+        "opponent_slug": "jens-finnas",
+        "score": 7,
+        "opponent_score": 9,
+        "is_winner": false,
+        "stage": "sextondelsfinal"
       },
       "games": [
         {
@@ -101,7 +105,7 @@
           "opponent_win_prob": 0.7999984022063356,
           "is_winner": false,
           "opponent_slug": "gabriel-nordenankar",
-          "opponent_hist_score_share": 0.6508376694877611
+          "opponent_hist_score_share": 0.6495889153220986
         },
         {
           "game_id": 735,
@@ -120,13 +124,31 @@
           "is_winner": true,
           "opponent_slug": "ellen-gehlin",
           "opponent_hist_score_share": 0.2708333333333333
+        },
+        {
+          "game_id": 745,
+          "year": 2023,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p1",
+          "name": "Karolina Widerstr\u00f6m",
+          "score": 7,
+          "score_share": 0.4375,
+          "win_prob": 0.4002658703656907,
+          "opponent_name": "Jens Finn\u00e4s",
+          "opponent_score": 9,
+          "opponent_score_share": 0.5625,
+          "opponent_win_prob": 0.5997341296343093,
+          "is_winner": false,
+          "opponent_slug": "jens-finnas",
+          "opponent_hist_score_share": 0.4591026498011792
         }
       ],
-      "n_games": 3,
+      "n_games": 4,
       "n_wins": 2
     }
   ],
-  "best_stage": "gruppspel",
+  "best_stage": "sextondelsfinal",
   "best_stage_years": [
     2023
   ]

@@ -1,6 +1,6 @@
 {
-  "n_games": 15,
-  "score_share": 0.4007381507381507,
+  "n_games": 18,
+  "score_share": 0.3834708320002438,
   "n_wins": 3,
   "years": [
     2012,
@@ -9,16 +9,17 @@
     2020,
     2021,
     2022,
-    2023
+    2023,
+    2024
   ],
-  "win_rate": 0.2,
-  "opponent_score_share": 0.4838093107113901,
-  "skill": 29.288126771153806,
-  "skill_sigma": 36.297206038884916,
+  "win_rate": 0.16666666666666666,
+  "opponent_score_share": 0.4928677855284149,
+  "skill": 23.738212527923615,
+  "skill_sigma": 34.30356500388437,
   "name": "Frida \u00d6hrn",
   "slug": "frida-ohrn",
-  "skill_rank": 131.0,
-  "skill_rank_pct": 131.0,
+  "skill_rank": 141.0,
+  "skill_rank_pct": 141.0,
   "skill_history": [
     [
       2011,
@@ -59,6 +60,10 @@
     [
       2023,
       29.0
+    ],
+    [
+      2024,
+      24.0
     ]
   ],
   "tournaments": [
@@ -89,7 +94,7 @@
           "opponent_win_prob": 0.23774687252758983,
           "is_winner": true,
           "opponent_slug": "sofia-radstrom",
-          "opponent_hist_score_share": 0.33582760376878024
+          "opponent_hist_score_share": 0.3168362831464436
         },
         {
           "game_id": 35,
@@ -311,7 +316,7 @@
           "opponent_win_prob": 0.9853075207450894,
           "is_winner": false,
           "opponent_slug": "theodore-ripman",
-          "opponent_hist_score_share": 0.5597932488790567
+          "opponent_hist_score_share": 0.5710964566774074
         },
         {
           "game_id": 515,
@@ -329,7 +334,7 @@
           "opponent_win_prob": 0.8349869305319171,
           "is_winner": true,
           "opponent_slug": "johan-ekman",
-          "opponent_hist_score_share": 0.49987388755035816
+          "opponent_hist_score_share": 0.50221448427856
         },
         {
           "game_id": 537,
@@ -347,7 +352,7 @@
           "opponent_win_prob": 0.9160840847966837,
           "is_winner": false,
           "opponent_slug": "lovisa-birgersson",
-          "opponent_hist_score_share": 0.5781180669288086
+          "opponent_hist_score_share": 0.5785867334069948
         }
       ],
       "n_games": 3,
@@ -380,7 +385,7 @@
           "opponent_win_prob": 0.951695195836973,
           "is_winner": false,
           "opponent_slug": "pelle-dovborg",
-          "opponent_hist_score_share": 0.5687558814642149
+          "opponent_hist_score_share": 0.5570986081958933
         }
       ],
       "n_games": 1,
@@ -436,10 +441,80 @@
       ],
       "n_games": 2,
       "n_wins": 0
+    },
+    {
+      "year": 2024,
+      "last_game": {
+        "opponent_name": "Filippa Berencreutz",
+        "opponent_slug": "filippa-berencreutz",
+        "score": 3,
+        "opponent_score": 10,
+        "is_winner": false,
+        "stage": "sextondelsfinal"
+      },
+      "games": [
+        {
+          "game_id": 772,
+          "year": 2024,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Frida \u00d6hrn",
+          "score": 4,
+          "score_share": 0.3076923076923077,
+          "win_prob": 0.055732369026672,
+          "opponent_name": "Jon Jeppson",
+          "opponent_score": 9,
+          "opponent_score_share": 0.6923076923076923,
+          "opponent_win_prob": 0.944267630973328,
+          "is_winner": false,
+          "opponent_slug": "jon-jeppson",
+          "opponent_hist_score_share": 0.5860384917370212
+        },
+        {
+          "game_id": 807,
+          "year": 2024,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Frida \u00d6hrn",
+          "score": 6,
+          "score_share": 0.35294117647058826,
+          "win_prob": 0.08601893473248978,
+          "opponent_name": "Erik Numan",
+          "opponent_score": 11,
+          "opponent_score_share": 0.6470588235294118,
+          "opponent_win_prob": 0.9139810652675102,
+          "is_winner": false,
+          "opponent_slug": "erik-numan",
+          "opponent_hist_score_share": 0.4878937512797705
+        },
+        {
+          "game_id": 827,
+          "year": 2024,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p1",
+          "name": "Frida \u00d6hrn",
+          "score": 3,
+          "score_share": 0.23076923076923078,
+          "win_prob": 0.03219869200829795,
+          "opponent_name": "Filippa Berencreutz",
+          "opponent_score": 10,
+          "opponent_score_share": 0.7692307692307693,
+          "opponent_win_prob": 0.967801307991702,
+          "is_winner": false,
+          "opponent_slug": "filippa-berencreutz",
+          "opponent_hist_score_share": 0.5570843587097457
+        }
+      ],
+      "n_games": 3,
+      "n_wins": 0
     }
   ],
   "best_stage": "sextondelsfinal",
   "best_stage_years": [
-    2021
+    2021,
+    2024
   ]
 }

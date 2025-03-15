@@ -1,0 +1,173 @@
+{
+  "n_games": 5,
+  "score_share": 0.3563009049773756,
+  "n_wins": 2,
+  "years": [
+    2024
+  ],
+  "win_rate": 0.4,
+  "opponent_score_share": 0.5839834770069503,
+  "skill": 147.47438617155115,
+  "skill_sigma": 43.89224383681097,
+  "name": "Alice Hindersson",
+  "slug": "alice-hindersson",
+  "skill_rank": 40.0,
+  "skill_rank_pct": 40.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      null
+    ],
+    [
+      2016,
+      null
+    ],
+    [
+      2017,
+      null
+    ],
+    [
+      2018,
+      null
+    ],
+    [
+      2019,
+      null
+    ],
+    [
+      2020,
+      null
+    ],
+    [
+      2021,
+      null
+    ],
+    [
+      2022,
+      null
+    ],
+    [
+      2023,
+      null
+    ],
+    [
+      2024,
+      147.0
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2024,
+      "last_game": {
+        "opponent_name": "Benjamin Ger. Hed.",
+        "opponent_slug": "benjamin-ger-hed",
+        "score": 3,
+        "opponent_score": 10,
+        "is_winner": false,
+        "stage": "\u00e5ttondelsfinal"
+      },
+      "games": [
+        {
+          "game_id": 814,
+          "year": 2024,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Alice Hindersson",
+          "score": 6,
+          "score_share": 0.4,
+          "win_prob": 0.6391368567417456,
+          "opponent_name": "Sara Welff",
+          "opponent_score": 9,
+          "opponent_score_share": 0.6,
+          "opponent_win_prob": 0.3608631432582544,
+          "is_winner": false,
+          "opponent_slug": "sara-welff",
+          "opponent_hist_score_share": 0.4566041801335919
+        },
+        {
+          "game_id": 783,
+          "year": 2024,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Alice Hindersson",
+          "score": 9,
+          "score_share": 0.5625,
+          "win_prob": 0.3767651917634621,
+          "opponent_name": "Lovisa Birgersson",
+          "opponent_score": 7,
+          "opponent_score_share": 0.4375,
+          "opponent_win_prob": 0.6232348082365379,
+          "is_winner": true,
+          "opponent_slug": "lovisa-birgersson",
+          "opponent_hist_score_share": 0.5785867334069948
+        },
+        {
+          "game_id": 796,
+          "year": 2024,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Alice Hindersson",
+          "score": 0,
+          "score_share": 0.0,
+          "win_prob": 0.2577523832712698,
+          "opponent_name": "Gabriel Nordenankar",
+          "opponent_score": 9,
+          "opponent_score_share": 1.0,
+          "opponent_win_prob": 0.7422476167287302,
+          "is_winner": false,
+          "opponent_slug": "gabriel-nordenankar",
+          "opponent_hist_score_share": 0.6495889153220986
+        },
+        {
+          "game_id": 816,
+          "year": 2024,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p2",
+          "name": "Alice Hindersson",
+          "score": 10,
+          "score_share": 0.5882352941176471,
+          "win_prob": 0.24803627420232266,
+          "opponent_name": "Johan Kjell",
+          "opponent_score": 7,
+          "opponent_score_share": 0.4117647058823529,
+          "opponent_win_prob": 0.7519637257976773,
+          "is_winner": true,
+          "opponent_slug": "johan-kjell",
+          "opponent_hist_score_share": 0.6040345989993392
+        },
+        {
+          "game_id": 832,
+          "year": 2024,
+          "stage": "\u00e5ttondelsfinal",
+          "stage_level": 2,
+          "winner": "p2",
+          "name": "Alice Hindersson",
+          "score": 3,
+          "score_share": 0.23076923076923078,
+          "win_prob": 0.29588201700200495,
+          "opponent_name": "Benjamin Ger. Hed.",
+          "opponent_score": 10,
+          "opponent_score_share": 0.7692307692307693,
+          "opponent_win_prob": 0.7041179829979951,
+          "is_winner": false,
+          "opponent_slug": "benjamin-ger-hed",
+          "opponent_hist_score_share": 0.6311029571727272
+        }
+      ],
+      "n_games": 5,
+      "n_wins": 2
+    }
+  ],
+  "best_stage": "\u00e5ttondelsfinal",
+  "best_stage_years": [
+    2024
+  ]
+}

@@ -1,18 +1,19 @@
 {
-  "n_games": 3,
-  "score_share": 0.5209653092006034,
-  "n_wins": 1,
+  "n_games": 7,
+  "score_share": 0.4566041801335919,
+  "n_wins": 3,
   "years": [
-    2023
+    2023,
+    2024
   ],
-  "win_rate": 0.3333333333333333,
-  "opponent_score_share": 0.46984218561770635,
-  "skill": 81.21192910833162,
-  "skill_sigma": 65.62226710104608,
+  "win_rate": 0.42857142857142855,
+  "opponent_score_share": 0.5011915024834684,
+  "skill": 126.95784611566098,
+  "skill_sigma": 41.52480603145506,
   "name": "Sara Welff",
   "slug": "sara-welff",
-  "skill_rank": 95.0,
-  "skill_rank_pct": 95.0,
+  "skill_rank": 62.0,
+  "skill_rank_pct": 62.0,
   "skill_history": [
     [
       2011,
@@ -53,6 +54,10 @@
     [
       2023,
       81.0
+    ],
+    [
+      2024,
+      127.0
     ]
   ],
   "tournaments": [
@@ -83,7 +88,7 @@
           "opponent_win_prob": 0.8788835471975843,
           "is_winner": false,
           "opponent_slug": "gabriel-nordenankar",
-          "opponent_hist_score_share": 0.6508376694877611
+          "opponent_hist_score_share": 0.6495889153220986
         },
         {
           "game_id": 719,
@@ -119,15 +124,102 @@
           "opponent_win_prob": 0.585514796243807,
           "is_winner": false,
           "opponent_slug": "jakob-gustafsson",
-          "opponent_hist_score_share": 0.45099657967305024
+          "opponent_hist_score_share": 0.4804225409171934
         }
       ],
       "n_games": 3,
       "n_wins": 1
+    },
+    {
+      "year": 2024,
+      "last_game": {
+        "opponent_name": "Bj\u00f6rn Berglund",
+        "opponent_slug": "bjorn-berglund",
+        "score": 5,
+        "opponent_score": 10,
+        "is_winner": false,
+        "stage": "sextondelsfinal"
+      },
+      "games": [
+        {
+          "game_id": 785,
+          "year": 2024,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Sara Welff",
+          "score": 1,
+          "score_share": 0.1,
+          "win_prob": 0.23219604991873455,
+          "opponent_name": "Hannes Jordan",
+          "opponent_score": 9,
+          "opponent_score_share": 0.9,
+          "opponent_win_prob": 0.7678039500812655,
+          "is_winner": false,
+          "opponent_slug": "hannes-jordan",
+          "opponent_hist_score_share": 0.5631626845679133
+        },
+        {
+          "game_id": 803,
+          "year": 2024,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Sara Welff",
+          "score": 9,
+          "score_share": 0.6,
+          "win_prob": 0.164151206055005,
+          "opponent_name": "Robin Linderborg",
+          "opponent_score": 6,
+          "opponent_score_share": 0.4,
+          "opponent_win_prob": 0.835848793944995,
+          "is_winner": true,
+          "opponent_slug": "robin-linderborg",
+          "opponent_hist_score_share": 0.5612544871320962
+        },
+        {
+          "game_id": 814,
+          "year": 2024,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Sara Welff",
+          "score": 9,
+          "score_share": 0.6,
+          "win_prob": 0.3608631432582544,
+          "opponent_name": "Alice Hindersson",
+          "opponent_score": 6,
+          "opponent_score_share": 0.4,
+          "opponent_win_prob": 0.6391368567417456,
+          "is_winner": true,
+          "opponent_slug": "alice-hindersson",
+          "opponent_hist_score_share": 0.3563009049773756
+        },
+        {
+          "game_id": 826,
+          "year": 2024,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p1",
+          "name": "Sara Welff",
+          "score": 5,
+          "score_share": 0.3333333333333333,
+          "win_prob": 0.4160654291914312,
+          "opponent_name": "Bj\u00f6rn Berglund",
+          "opponent_score": 10,
+          "opponent_score_share": 0.6666666666666666,
+          "opponent_win_prob": 0.5839345708085688,
+          "is_winner": false,
+          "opponent_slug": "bjorn-berglund",
+          "opponent_hist_score_share": 0.5899186767752944
+        }
+      ],
+      "n_games": 4,
+      "n_wins": 2
     }
   ],
-  "best_stage": "gruppspel",
+  "best_stage": "sextondelsfinal",
   "best_stage_years": [
-    2023
+    2024
   ]
 }

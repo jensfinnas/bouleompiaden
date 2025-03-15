@@ -6,13 +6,13 @@
     2023
   ],
   "win_rate": 0.3333333333333333,
-  "opponent_score_share": 0.48856373836766,
+  "opponent_score_share": 0.4864834979394093,
   "skill": 69.21707398272395,
   "skill_sigma": 61.43586847713558,
   "name": "Ellen Gehlin",
   "slug": "ellen-gehlin",
-  "skill_rank": 102.0,
-  "skill_rank_pct": 102.0,
+  "skill_rank": 105.0,
+  "skill_rank_pct": 105.0,
   "skill_history": [
     [
       2011,
@@ -53,6 +53,10 @@
     [
       2023,
       69.0
+    ],
+    [
+      2024,
+      null
     ]
   ],
   "tournaments": [
@@ -83,7 +87,7 @@
           "opponent_win_prob": 0.6353046922171908,
           "is_winner": false,
           "opponent_slug": "jakob-gustafsson",
-          "opponent_hist_score_share": 0.45099657967305024
+          "opponent_hist_score_share": 0.4804225409171934
         },
         {
           "game_id": 718,
@@ -101,7 +105,7 @@
           "opponent_win_prob": 0.4131051212888156,
           "is_winner": true,
           "opponent_slug": "sofia-orning",
-          "opponent_hist_score_share": 0.38998601072130484
+          "opponent_hist_score_share": 0.4011214843695662
         },
         {
           "game_id": 735,
@@ -119,7 +123,7 @@
           "opponent_win_prob": 0.6121892649394142,
           "is_winner": false,
           "opponent_slug": "karolina-widerstrom",
-          "opponent_hist_score_share": 0.6247086247086248
+          "opponent_hist_score_share": 0.5779064685314685
         }
       ],
       "n_games": 3,

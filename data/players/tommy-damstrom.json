@@ -1,0 +1,155 @@
+{
+  "n_games": 4,
+  "score_share": 0.42766955266955264,
+  "n_wins": 1,
+  "years": [
+    2024
+  ],
+  "win_rate": 0.25,
+  "opponent_score_share": 0.49561917911564324,
+  "skill": 49.40292913153729,
+  "skill_sigma": 55.61440558265163,
+  "name": "Tommy Damstr\u00f6m",
+  "slug": "tommy-damstrom",
+  "skill_rank": 118.0,
+  "skill_rank_pct": 118.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      null
+    ],
+    [
+      2016,
+      null
+    ],
+    [
+      2017,
+      null
+    ],
+    [
+      2018,
+      null
+    ],
+    [
+      2019,
+      null
+    ],
+    [
+      2020,
+      null
+    ],
+    [
+      2021,
+      null
+    ],
+    [
+      2022,
+      null
+    ],
+    [
+      2023,
+      null
+    ],
+    [
+      2024,
+      49.0
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2024,
+      "last_game": {
+        "opponent_name": "Theodore Ripman",
+        "opponent_slug": "theodore-ripman",
+        "score": 8,
+        "opponent_score": 10,
+        "is_winner": false,
+        "stage": "sextondelsfinal"
+      },
+      "games": [
+        {
+          "game_id": 798,
+          "year": 2024,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Tommy Damstr\u00f6m",
+          "score": 9,
+          "score_share": 0.8181818181818182,
+          "win_prob": 0.5685532929813077,
+          "opponent_name": "\u00c5ke R\u00e5dstr\u00f6m",
+          "opponent_score": 2,
+          "opponent_score_share": 0.18181818181818182,
+          "opponent_win_prob": 0.43144670701869225,
+          "is_winner": true,
+          "opponent_slug": "ake-radstrom",
+          "opponent_hist_score_share": 0.32938884644766997
+        },
+        {
+          "game_id": 768,
+          "year": 2024,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Tommy Damstr\u00f6m",
+          "score": 1,
+          "score_share": 0.09090909090909091,
+          "win_prob": 0.16965806577916265,
+          "opponent_name": "Erik Nordenankar",
+          "opponent_score": 10,
+          "opponent_score_share": 0.9090909090909091,
+          "opponent_win_prob": 0.8303419342208374,
+          "is_winner": false,
+          "opponent_slug": "erik-nordenankar",
+          "opponent_hist_score_share": 0.6808699289679294
+        },
+        {
+          "game_id": 805,
+          "year": 2024,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Tommy Damstr\u00f6m",
+          "score": 5,
+          "score_share": 0.35714285714285715,
+          "win_prob": 0.7546006306635381,
+          "opponent_name": "Sofia \u00d6rning",
+          "opponent_score": 9,
+          "opponent_score_share": 0.6428571428571429,
+          "opponent_win_prob": 0.2453993693364619,
+          "is_winner": false,
+          "opponent_slug": "sofia-orning",
+          "opponent_hist_score_share": 0.4011214843695662
+        },
+        {
+          "game_id": 824,
+          "year": 2024,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p1",
+          "name": "Tommy Damstr\u00f6m",
+          "score": 8,
+          "score_share": 0.4444444444444444,
+          "win_prob": 0.05483426817152237,
+          "opponent_name": "Theodore Ripman",
+          "opponent_score": 10,
+          "opponent_score_share": 0.5555555555555556,
+          "opponent_win_prob": 0.9451657318284776,
+          "is_winner": false,
+          "opponent_slug": "theodore-ripman",
+          "opponent_hist_score_share": 0.5710964566774074
+        }
+      ],
+      "n_games": 4,
+      "n_wins": 1
+    }
+  ],
+  "best_stage": "sextondelsfinal",
+  "best_stage_years": [
+    2024
+  ]
+}

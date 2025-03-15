@@ -7,7 +7,7 @@
     2019
   ],
   "win_rate": 0.75,
-  "opponent_score_share": 0.5287824623630989,
+  "opponent_score_share": 0.5348227127033766,
   "skill": 212.41833338920398,
   "skill_sigma": 32.900214983908874,
   "name": "Estrid",
@@ -53,6 +53,10 @@
     ],
     [
       2023,
+      null
+    ],
+    [
+      2024,
       null
     ]
   ],
@@ -120,7 +124,7 @@
           "opponent_win_prob": 0.37929864991453366,
           "is_winner": true,
           "opponent_slug": "benjamin-ger-hed",
-          "opponent_hist_score_share": 0.614286949352186
+          "opponent_hist_score_share": 0.6311029571727272
         },
         {
           "game_id": 233,
@@ -138,7 +142,7 @@
           "opponent_win_prob": 0.3841884471719119,
           "is_winner": true,
           "opponent_slug": "hannes-jordan",
-          "opponent_hist_score_share": 0.5230629419600008
+          "opponent_hist_score_share": 0.5631626845679133
         },
         {
           "game_id": 240,
@@ -261,7 +265,7 @@
           "opponent_win_prob": 0.556188905187206,
           "is_winner": true,
           "opponent_slug": "gabriel-nordenankar",
-          "opponent_hist_score_share": 0.6508376694877611
+          "opponent_hist_score_share": 0.6495889153220986
         },
         {
           "game_id": 355,
@@ -279,7 +283,7 @@
           "opponent_win_prob": 0.2246341313833681,
           "is_winner": false,
           "opponent_slug": "benjamin-ger-hed",
-          "opponent_hist_score_share": 0.614286949352186
+          "opponent_hist_score_share": 0.6311029571727272
         },
         {
           "game_id": 357,

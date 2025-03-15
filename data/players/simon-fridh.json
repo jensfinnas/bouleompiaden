@@ -1,18 +1,19 @@
 {
-  "n_games": 3,
-  "score_share": 0.6496503496503497,
-  "n_wins": 2,
+  "n_games": 7,
+  "score_share": 0.6537129537129537,
+  "n_wins": 5,
   "years": [
-    2023
+    2023,
+    2024
   ],
-  "win_rate": 0.6666666666666666,
-  "opponent_score_share": 0.5297602269833181,
-  "skill": 162.9910689030363,
-  "skill_sigma": 53.867090841934946,
+  "win_rate": 0.7142857142857143,
+  "opponent_score_share": 0.4954229470835397,
+  "skill": 191.33422936777038,
+  "skill_sigma": 38.57408304532112,
   "name": "Simon Fridh",
   "slug": "simon-fridh",
-  "skill_rank": 29.0,
-  "skill_rank_pct": 29.0,
+  "skill_rank": 11.0,
+  "skill_rank_pct": 11.0,
   "skill_history": [
     [
       2011,
@@ -53,6 +54,10 @@
     [
       2023,
       163.0
+    ],
+    [
+      2024,
+      191.0
     ]
   ],
   "tournaments": [
@@ -119,15 +124,102 @@
           "opponent_win_prob": 0.1772096516240611,
           "is_winner": false,
           "opponent_slug": "jonas-nygren",
-          "opponent_hist_score_share": 0.5661677269473498
+          "opponent_hist_score_share": 0.5608411894692854
         }
       ],
       "n_games": 3,
       "n_wins": 2
+    },
+    {
+      "year": 2024,
+      "last_game": {
+        "opponent_name": "Jon Jeppson",
+        "opponent_slug": "jon-jeppson",
+        "score": 5,
+        "opponent_score": 10,
+        "is_winner": false,
+        "stage": "\u00e5ttondelsfinal"
+      },
+      "games": [
+        {
+          "game_id": 782,
+          "year": 2024,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Simon Fridh",
+          "score": 9,
+          "score_share": 0.6923076923076923,
+          "win_prob": 0.4276845054150674,
+          "opponent_name": "Jens Finn\u00e4s",
+          "opponent_score": 4,
+          "opponent_score_share": 0.3076923076923077,
+          "opponent_win_prob": 0.5723154945849326,
+          "is_winner": true,
+          "opponent_slug": "jens-finnas",
+          "opponent_hist_score_share": 0.4591026498011792
+        },
+        {
+          "game_id": 795,
+          "year": 2024,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Simon Fridh",
+          "score": 9,
+          "score_share": 0.6923076923076923,
+          "win_prob": 0.49349511500841226,
+          "opponent_name": "Johannes Nordenhaag",
+          "opponent_score": 4,
+          "opponent_score_share": 0.3076923076923077,
+          "opponent_win_prob": 0.5065048849915877,
+          "is_winner": true,
+          "opponent_slug": "johannes-nordenhaag",
+          "opponent_hist_score_share": 0.5879740789775392
+        },
+        {
+          "game_id": 819,
+          "year": 2024,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p1",
+          "name": "Simon Fridh",
+          "score": 10,
+          "score_share": 0.9090909090909091,
+          "win_prob": 0.9484557214650735,
+          "opponent_name": "Joakim Kulo",
+          "opponent_score": 1,
+          "opponent_score_share": 0.09090909090909091,
+          "opponent_win_prob": 0.05154427853492649,
+          "is_winner": true,
+          "opponent_slug": "joakim-kulo",
+          "opponent_hist_score_share": 0.25089126559714797
+        },
+        {
+          "game_id": 833,
+          "year": 2024,
+          "stage": "\u00e5ttondelsfinal",
+          "stage_level": 2,
+          "winner": "p1",
+          "name": "Simon Fridh",
+          "score": 5,
+          "score_share": 0.3333333333333333,
+          "win_prob": 0.6558679936954173,
+          "opponent_name": "Jon Jeppson",
+          "opponent_score": 10,
+          "opponent_score_share": 0.6666666666666666,
+          "opponent_win_prob": 0.3441320063045828,
+          "is_winner": false,
+          "opponent_slug": "jon-jeppson",
+          "opponent_hist_score_share": 0.5860384917370212
+        }
+      ],
+      "n_games": 4,
+      "n_wins": 3
     }
   ],
-  "best_stage": "sextondelsfinal",
+  "best_stage": "\u00e5ttondelsfinal",
   "best_stage_years": [
-    2023
+    2024
   ]
 }

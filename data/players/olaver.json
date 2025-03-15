@@ -6,13 +6,13 @@
     2019
   ],
   "win_rate": 0.5,
-  "opponent_score_share": 0.4598435970490924,
+  "opponent_score_share": 0.4604287462311428,
   "skill": 105.74134355799195,
   "skill_sigma": 53.96018851560789,
   "name": "Olaver",
   "slug": "olaver",
-  "skill_rank": 82.0,
-  "skill_rank_pct": 82.0,
+  "skill_rank": 86.0,
+  "skill_rank_pct": 86.0,
   "skill_history": [
     [
       2011,
@@ -53,6 +53,10 @@
     [
       2023,
       null
+    ],
+    [
+      2024,
+      null
     ]
   ],
   "tournaments": [
@@ -83,7 +87,7 @@
           "opponent_win_prob": 0.43984546472462743,
           "is_winner": false,
           "opponent_slug": "johan-ekman",
-          "opponent_hist_score_share": 0.49987388755035816
+          "opponent_hist_score_share": 0.50221448427856
         },
         {
           "game_id": 305,

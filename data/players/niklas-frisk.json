@@ -6,13 +6,13 @@
     2019
   ],
   "win_rate": 0.6666666666666666,
-  "opponent_score_share": 0.40027592864617895,
+  "opponent_score_share": 0.41304468423181123,
   "skill": 169.30230457900387,
   "skill_sigma": 54.19541215107114,
   "name": "Niklas Frisk",
   "slug": "niklas-frisk",
-  "skill_rank": 21.0,
-  "skill_rank_pct": 21.0,
+  "skill_rank": 22.0,
+  "skill_rank_pct": 22.0,
   "skill_history": [
     [
       2011,
@@ -53,6 +53,10 @@
     [
       2023,
       null
+    ],
+    [
+      2024,
+      null
     ]
   ],
   "tournaments": [
@@ -83,7 +87,7 @@
           "opponent_win_prob": 0.3763409887525495,
           "is_winner": true,
           "opponent_slug": "monica-harder",
-          "opponent_hist_score_share": 0.29126014041980425
+          "opponent_hist_score_share": 0.31264677588206996
         },
         {
           "game_id": 262,
@@ -101,7 +105,7 @@
           "opponent_win_prob": 0.7848431066780621,
           "is_winner": true,
           "opponent_slug": "ville-nordenankar",
-          "opponent_hist_score_share": 0.4288546176046176
+          "opponent_hist_score_share": 0.4457742488992489
         },
         {
           "game_id": 335,

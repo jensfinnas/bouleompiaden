@@ -1,18 +1,19 @@
 {
-  "n_games": 2,
-  "score_share": 0.3891402714932127,
-  "n_wins": 0,
+  "n_games": 6,
+  "score_share": 0.4898324714501185,
+  "n_wins": 2,
   "years": [
-    2023
+    2023,
+    2024
   ],
-  "win_rate": 0.0,
-  "opponent_score_share": 0.5344462083897069,
-  "skill": 45.977934425774464,
-  "skill_sigma": 75.09079614545671,
+  "win_rate": 0.3333333333333333,
+  "opponent_score_share": 0.4851447950832841,
+  "skill": 108.04526321514824,
+  "skill_sigma": 45.37256776687864,
   "name": "Erika Andersson",
   "slug": "erika-andersson",
-  "skill_rank": 117.0,
-  "skill_rank_pct": 117.0,
+  "skill_rank": 81.0,
+  "skill_rank_pct": 81.0,
   "skill_history": [
     [
       2011,
@@ -53,6 +54,10 @@
     [
       2023,
       46.0
+    ],
+    [
+      2024,
+      108.0
     ]
   ],
   "tournaments": [
@@ -101,15 +106,102 @@
           "opponent_win_prob": 0.7706422321602021,
           "is_winner": false,
           "opponent_slug": "erik-numan",
-          "opponent_hist_score_share": 0.49786515972274487
+          "opponent_hist_score_share": 0.4878937512797705
         }
       ],
       "n_games": 2,
       "n_wins": 0
+    },
+    {
+      "year": 2024,
+      "last_game": {
+        "opponent_name": "Lovisa Birgersson",
+        "opponent_slug": "lovisa-birgersson",
+        "score": 6,
+        "opponent_score": 10,
+        "is_winner": false,
+        "stage": "sextondelsfinal"
+      },
+      "games": [
+        {
+          "game_id": 775,
+          "year": 2024,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Erika Andersson",
+          "score": 4,
+          "score_share": 0.2857142857142857,
+          "win_prob": 0.3534446278210075,
+          "opponent_name": "Folke Nordenankar",
+          "opponent_score": 10,
+          "opponent_score_share": 0.7142857142857143,
+          "opponent_win_prob": 0.6465553721789925,
+          "is_winner": false,
+          "opponent_slug": "folke-nordenankar",
+          "opponent_hist_score_share": 0.48775946275946275
+        },
+        {
+          "game_id": 800,
+          "year": 2024,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Erika Andersson",
+          "score": 11,
+          "score_share": 0.7857142857142857,
+          "win_prob": 0.35862713040293415,
+          "opponent_name": "Clas \u00d6rjan Sp\u00e5ng",
+          "opponent_score": 3,
+          "opponent_score_share": 0.21428571428571427,
+          "opponent_win_prob": 0.6413728695970659,
+          "is_winner": true,
+          "opponent_slug": "clas-orjan-spang",
+          "opponent_hist_score_share": 0.15714285714285714
+        },
+        {
+          "game_id": 809,
+          "year": 2024,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Erika Andersson",
+          "score": 10,
+          "score_share": 0.7142857142857143,
+          "win_prob": 0.1072641298266821,
+          "opponent_name": "Olle Strandberg",
+          "opponent_score": 4,
+          "opponent_score_share": 0.2857142857142857,
+          "opponent_win_prob": 0.8927358701733179,
+          "is_winner": true,
+          "opponent_slug": "olle-strandberg",
+          "opponent_hist_score_share": 0.6284587088539505
+        },
+        {
+          "game_id": 830,
+          "year": 2024,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p1",
+          "name": "Erika Andersson",
+          "score": 6,
+          "score_share": 0.375,
+          "win_prob": 0.4698478803792525,
+          "opponent_name": "Lovisa Birgersson",
+          "opponent_score": 10,
+          "opponent_score_share": 0.625,
+          "opponent_win_prob": 0.5301521196207475,
+          "is_winner": false,
+          "opponent_slug": "lovisa-birgersson",
+          "opponent_hist_score_share": 0.5785867334069948
+        }
+      ],
+      "n_games": 4,
+      "n_wins": 2
     }
   ],
-  "best_stage": "gruppspel",
+  "best_stage": "sextondelsfinal",
   "best_stage_years": [
-    2023
+    2024
   ]
 }

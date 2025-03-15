@@ -8,13 +8,13 @@
     2021
   ],
   "win_rate": 0.5555555555555556,
-  "opponent_score_share": 0.49458858721332505,
+  "opponent_score_share": 0.5048652177868747,
   "skill": 156.36238581493436,
   "skill_sigma": 36.23972777425785,
   "name": "Micke Leyi",
   "slug": "micke-leyi",
-  "skill_rank": 32.0,
-  "skill_rank_pct": 32.0,
+  "skill_rank": 34.0,
+  "skill_rank_pct": 34.0,
   "skill_history": [
     [
       2011,
@@ -54,6 +54,10 @@
     ],
     [
       2023,
+      null
+    ],
+    [
+      2024,
       null
     ]
   ],
@@ -103,7 +107,7 @@
           "opponent_win_prob": 0.7253978678018301,
           "is_winner": true,
           "opponent_slug": "hannes-jordan",
-          "opponent_hist_score_share": 0.5230629419600008
+          "opponent_hist_score_share": 0.5631626845679133
         },
         {
           "game_id": 286,
@@ -139,7 +143,7 @@
           "opponent_win_prob": 0.5815293989027626,
           "is_winner": false,
           "opponent_slug": "theodore-ripman",
-          "opponent_hist_score_share": 0.5597932488790567
+          "opponent_hist_score_share": 0.5710964566774074
         }
       ],
       "n_games": 4,
@@ -241,7 +245,7 @@
           "opponent_win_prob": 0.9060131184508906,
           "is_winner": true,
           "opponent_slug": "erik-nordenankar",
-          "opponent_hist_score_share": 0.679882946820159
+          "opponent_hist_score_share": 0.6808699289679294
         },
         {
           "game_id": 535,
@@ -259,7 +263,7 @@
           "opponent_win_prob": 0.4265429849736464,
           "is_winner": true,
           "opponent_slug": "hannes-jordan",
-          "opponent_hist_score_share": 0.5230629419600008
+          "opponent_hist_score_share": 0.5631626845679133
         }
       ],
       "n_games": 3,

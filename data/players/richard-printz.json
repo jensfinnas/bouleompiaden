@@ -7,7 +7,7 @@
     2023
   ],
   "win_rate": 0.7142857142857143,
-  "opponent_score_share": 0.5348213634853037,
+  "opponent_score_share": 0.5535132736754361,
   "skill": 214.42055187658556,
   "skill_sigma": 40.549587734267085,
   "name": "Richard Printz",
@@ -54,6 +54,10 @@
     [
       2023,
       214.0
+    ],
+    [
+      2024,
+      null
     ]
   ],
   "tournaments": [
@@ -102,7 +106,7 @@
           "opponent_win_prob": 0.6088498369874931,
           "is_winner": true,
           "opponent_slug": "erik-nordenankar",
-          "opponent_hist_score_share": 0.679882946820159
+          "opponent_hist_score_share": 0.6808699289679294
         },
         {
           "game_id": 625,
@@ -120,7 +124,7 @@
           "opponent_win_prob": 0.39259123373205584,
           "is_winner": false,
           "opponent_slug": "erik-nordenankar",
-          "opponent_hist_score_share": 0.679882946820159
+          "opponent_hist_score_share": 0.6808699289679294
         }
       ],
       "n_games": 3,
@@ -171,7 +175,7 @@
           "opponent_win_prob": 0.21846108222669347,
           "is_winner": true,
           "opponent_slug": "erika-andersson",
-          "opponent_hist_score_share": 0.3891402714932127
+          "opponent_hist_score_share": 0.4898324714501185
         },
         {
           "game_id": 749,
@@ -189,7 +193,7 @@
           "opponent_win_prob": 0.2106253756424128,
           "is_winner": true,
           "opponent_slug": "jakob-gustafsson",
-          "opponent_hist_score_share": 0.45099657967305024
+          "opponent_hist_score_share": 0.4804225409171934
         },
         {
           "game_id": 758,
@@ -207,7 +211,7 @@
           "opponent_win_prob": 0.5841822605486012,
           "is_winner": false,
           "opponent_slug": "gabriel-nordenankar",
-          "opponent_hist_score_share": 0.6508376694877611
+          "opponent_hist_score_share": 0.6495889153220986
         }
       ],
       "n_games": 4,

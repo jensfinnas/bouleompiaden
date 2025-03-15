@@ -7,13 +7,13 @@
     2019
   ],
   "win_rate": 0.5,
-  "opponent_score_share": 0.4899199189938385,
+  "opponent_score_share": 0.48660422939696074,
   "skill": 107.76818085736672,
   "skill_sigma": 45.831823490205295,
   "name": "Lotta Harder",
   "slug": "lotta-harder",
-  "skill_rank": 78.0,
-  "skill_rank_pct": 78.0,
+  "skill_rank": 82.0,
+  "skill_rank_pct": 82.0,
   "skill_history": [
     [
       2011,
@@ -54,6 +54,10 @@
     [
       2023,
       null
+    ],
+    [
+      2024,
+      null
     ]
   ],
   "tournaments": [
@@ -84,7 +88,7 @@
           "opponent_win_prob": 0.49999998499999976,
           "is_winner": true,
           "opponent_slug": "jens-finnas",
-          "opponent_hist_score_share": 0.4777480332167832
+          "opponent_hist_score_share": 0.4591026498011792
         },
         {
           "game_id": 62,
@@ -120,7 +124,7 @@
           "opponent_win_prob": 0.40062875764997524,
           "is_winner": false,
           "opponent_slug": "gabriel-nordenankar",
-          "opponent_hist_score_share": 0.6508376694877611
+          "opponent_hist_score_share": 0.6495889153220986
         }
       ],
       "n_games": 3,

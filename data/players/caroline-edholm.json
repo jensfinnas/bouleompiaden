@@ -6,13 +6,13 @@
     2020
   ],
   "win_rate": 0.3333333333333333,
-  "opponent_score_share": 0.5159307167534234,
+  "opponent_score_share": 0.5188291843249373,
   "skill": 118.68245665497726,
   "skill_sigma": 55.66465863436521,
   "name": "Caroline Edholm",
   "slug": "caroline-edholm",
-  "skill_rank": 71.0,
-  "skill_rank_pct": 71.0,
+  "skill_rank": 72.0,
+  "skill_rank_pct": 72.0,
   "skill_history": [
     [
       2011,
@@ -53,6 +53,10 @@
     [
       2023,
       null
+    ],
+    [
+      2024,
+      null
     ]
   ],
   "tournaments": [
@@ -83,7 +87,7 @@
           "opponent_win_prob": 0.7060699934834034,
           "is_winner": false,
           "opponent_slug": "jerker-karlsson",
-          "opponent_hist_score_share": 0.5216255545801
+          "opponent_hist_score_share": 0.5303209572946416
         },
         {
           "game_id": 413,

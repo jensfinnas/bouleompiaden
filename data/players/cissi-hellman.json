@@ -11,13 +11,13 @@
     2019
   ],
   "win_rate": 0.55,
-  "opponent_score_share": 0.5310871139489602,
+  "opponent_score_share": 0.5313724175226696,
   "skill": 149.25388905616194,
   "skill_sigma": 26.515541310620893,
   "name": "Cissi Hellman",
   "slug": "cissi-hellman",
-  "skill_rank": 38.0,
-  "skill_rank_pct": 38.0,
+  "skill_rank": 36.0,
+  "skill_rank_pct": 36.0,
   "skill_history": [
     [
       2011,
@@ -57,6 +57,10 @@
     ],
     [
       2023,
+      null
+    ],
+    [
+      2024,
       null
     ]
   ],
@@ -106,7 +110,7 @@
           "opponent_win_prob": 0.36814674042956597,
           "is_winner": false,
           "opponent_slug": "gabriel-nordenankar",
-          "opponent_hist_score_share": 0.6508376694877611
+          "opponent_hist_score_share": 0.6495889153220986
         },
         {
           "game_id": 15,
@@ -160,7 +164,7 @@
           "opponent_win_prob": 0.4547359683119315,
           "is_winner": false,
           "opponent_slug": "erik-nordenankar",
-          "opponent_hist_score_share": 0.679882946820159
+          "opponent_hist_score_share": 0.6808699289679294
         }
       ],
       "n_games": 5,
@@ -193,7 +197,7 @@
           "opponent_win_prob": 0.3818583703955757,
           "is_winner": true,
           "opponent_slug": "theodore-ripman",
-          "opponent_hist_score_share": 0.5597932488790567
+          "opponent_hist_score_share": 0.5710964566774074
         },
         {
           "game_id": 31,
@@ -211,7 +215,7 @@
           "opponent_win_prob": 0.2414320038312941,
           "is_winner": false,
           "opponent_slug": "theodore-ripman",
-          "opponent_hist_score_share": 0.5597932488790567
+          "opponent_hist_score_share": 0.5710964566774074
         }
       ],
       "n_games": 2,
@@ -262,7 +266,7 @@
           "opponent_win_prob": 0.7648104153723081,
           "is_winner": true,
           "opponent_slug": "erik-nordenankar",
-          "opponent_hist_score_share": 0.679882946820159
+          "opponent_hist_score_share": 0.6808699289679294
         }
       ],
       "n_games": 2,
@@ -433,7 +437,7 @@
           "opponent_win_prob": 0.37995321607982024,
           "is_winner": true,
           "opponent_slug": "kusha-bahrami",
-          "opponent_hist_score_share": 0.4663222959638401
+          "opponent_hist_score_share": 0.4486967417114476
         },
         {
           "game_id": 295,

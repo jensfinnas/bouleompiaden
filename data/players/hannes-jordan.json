@@ -1,22 +1,23 @@
 {
-  "n_games": 20,
-  "score_share": 0.5230629419600008,
-  "n_wins": 11,
+  "n_games": 27,
+  "score_share": 0.5631626845679133,
+  "n_wins": 16,
   "years": [
     2018,
     2019,
     2020,
     2021,
-    2022
+    2022,
+    2024
   ],
-  "win_rate": 0.55,
-  "opponent_score_share": 0.5075446746868055,
-  "skill": 154.3783109412068,
-  "skill_sigma": 26.354112123139668,
+  "win_rate": 0.5925925925925926,
+  "opponent_score_share": 0.5034334447801546,
+  "skill": 166.39975230997536,
+  "skill_sigma": 22.762316742646433,
   "name": "Hannes Jordan",
   "slug": "hannes-jordan",
-  "skill_rank": 34.0,
-  "skill_rank_pct": 34.0,
+  "skill_rank": 24.0,
+  "skill_rank_pct": 24.0,
   "skill_history": [
     [
       2011,
@@ -57,6 +58,10 @@
     [
       2023,
       null
+    ],
+    [
+      2024,
+      166.0
     ]
   ],
   "tournaments": [
@@ -192,7 +197,7 @@
           "opponent_win_prob": 0.053131794276357794,
           "is_winner": true,
           "opponent_slug": "johanna-radstrom",
-          "opponent_hist_score_share": 0.33566966962295686
+          "opponent_hist_score_share": 0.32542617105117105
         },
         {
           "game_id": 326,
@@ -210,7 +215,7 @@
           "opponent_win_prob": 0.44340663991940404,
           "is_winner": false,
           "opponent_slug": "jens-finnas",
-          "opponent_hist_score_share": 0.4777480332167832
+          "opponent_hist_score_share": 0.4591026498011792
         }
       ],
       "n_games": 3,
@@ -243,7 +248,7 @@
           "opponent_win_prob": 0.5280848179895918,
           "is_winner": false,
           "opponent_slug": "pelle-dovborg",
-          "opponent_hist_score_share": 0.5687558814642149
+          "opponent_hist_score_share": 0.5570986081958933
         },
         {
           "game_id": 407,
@@ -261,7 +266,7 @@
           "opponent_win_prob": 0.825869934614823,
           "is_winner": false,
           "opponent_slug": "theodore-ripman",
-          "opponent_hist_score_share": 0.5597932488790567
+          "opponent_hist_score_share": 0.5710964566774074
         },
         {
           "game_id": 360,
@@ -348,7 +353,7 @@
           "opponent_win_prob": 0.1708337560607358,
           "is_winner": true,
           "opponent_slug": "sofia-radstrom",
-          "opponent_hist_score_share": 0.33582760376878024
+          "opponent_hist_score_share": 0.3168362831464436
         },
         {
           "game_id": 481,
@@ -453,7 +458,7 @@
           "opponent_win_prob": 0.6524234889662374,
           "is_winner": true,
           "opponent_slug": "jerker-karlsson",
-          "opponent_hist_score_share": 0.5216255545801
+          "opponent_hist_score_share": 0.5303209572946416
         },
         {
           "game_id": 641,
@@ -489,15 +494,156 @@
           "opponent_win_prob": 0.7878396760337469,
           "is_winner": false,
           "opponent_slug": "erik-nordenankar",
-          "opponent_hist_score_share": 0.679882946820159
+          "opponent_hist_score_share": 0.6808699289679294
         }
       ],
       "n_games": 5,
       "n_wins": 4
+    },
+    {
+      "year": 2024,
+      "last_game": {
+        "opponent_name": "Gabriel Nordenankar",
+        "opponent_slug": "gabriel-nordenankar",
+        "score": 11,
+        "opponent_score": 13,
+        "is_winner": false,
+        "stage": "bronsmatch"
+      },
+      "games": [
+        {
+          "game_id": 785,
+          "year": 2024,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Hannes Jordan",
+          "score": 9,
+          "score_share": 0.9,
+          "win_prob": 0.7678039500812655,
+          "opponent_name": "Sara Welff",
+          "opponent_score": 1,
+          "opponent_score_share": 0.1,
+          "opponent_win_prob": 0.23219604991873455,
+          "is_winner": true,
+          "opponent_slug": "sara-welff",
+          "opponent_hist_score_share": 0.4566041801335919
+        },
+        {
+          "game_id": 797,
+          "year": 2024,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Hannes Jordan",
+          "score": 10,
+          "score_share": 0.9090909090909091,
+          "win_prob": 0.9160313491573359,
+          "opponent_name": "Johanna R\u00e5dstr\u00f6m",
+          "opponent_score": 1,
+          "opponent_score_share": 0.09090909090909091,
+          "opponent_win_prob": 0.08396865084266414,
+          "is_winner": true,
+          "opponent_slug": "johanna-radstrom",
+          "opponent_hist_score_share": 0.32542617105117105
+        },
+        {
+          "game_id": 831,
+          "year": 2024,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p1",
+          "name": "Hannes Jordan",
+          "score": 10,
+          "score_share": 0.625,
+          "win_prob": 0.9062219671440044,
+          "opponent_name": "Bror Nordenankar",
+          "opponent_score": 6,
+          "opponent_score_share": 0.375,
+          "opponent_win_prob": 0.09377803285599562,
+          "is_winner": true,
+          "opponent_slug": "bror-nordenankar",
+          "opponent_hist_score_share": 0.2706002331002331
+        },
+        {
+          "game_id": 839,
+          "year": 2024,
+          "stage": "\u00e5ttondelsfinal",
+          "stage_level": 2,
+          "winner": "p2",
+          "name": "Hannes Jordan",
+          "score": 10,
+          "score_share": 0.5555555555555556,
+          "win_prob": 0.5964820203215133,
+          "opponent_name": "Lovisa Birgersson",
+          "opponent_score": 8,
+          "opponent_score_share": 0.4444444444444444,
+          "opponent_win_prob": 0.4035179796784866,
+          "is_winner": true,
+          "opponent_slug": "lovisa-birgersson",
+          "opponent_hist_score_share": 0.5785867334069948
+        },
+        {
+          "game_id": 843,
+          "year": 2024,
+          "stage": "kvartsfinal",
+          "stage_level": 3,
+          "winner": "p2",
+          "name": "Hannes Jordan",
+          "score": 11,
+          "score_share": 0.8461538461538461,
+          "win_prob": 0.43333231678363504,
+          "opponent_name": "Olle Strandberg",
+          "opponent_score": 2,
+          "opponent_score_share": 0.15384615384615385,
+          "opponent_win_prob": 0.566667683216365,
+          "is_winner": true,
+          "opponent_slug": "olle-strandberg",
+          "opponent_hist_score_share": 0.6284587088539505
+        },
+        {
+          "game_id": 845,
+          "year": 2024,
+          "stage": "semifinal",
+          "stage_level": 4,
+          "winner": "p1",
+          "name": "Hannes Jordan",
+          "score": 9,
+          "score_share": 0.45,
+          "win_prob": 0.31511057153325306,
+          "opponent_name": "Theodore Ripman",
+          "opponent_score": 11,
+          "opponent_score_share": 0.55,
+          "opponent_win_prob": 0.6848894284667469,
+          "is_winner": false,
+          "opponent_slug": "theodore-ripman",
+          "opponent_hist_score_share": 0.5710964566774074
+        },
+        {
+          "game_id": 846,
+          "year": 2024,
+          "stage": "bronsmatch",
+          "stage_level": 5,
+          "winner": "p2",
+          "name": "Hannes Jordan",
+          "score": 11,
+          "score_share": 0.4583333333333333,
+          "win_prob": 0.14438896174205443,
+          "opponent_name": "Gabriel Nordenankar",
+          "opponent_score": 13,
+          "opponent_score_share": 0.5416666666666666,
+          "opponent_win_prob": 0.8556110382579456,
+          "is_winner": false,
+          "opponent_slug": "gabriel-nordenankar",
+          "opponent_hist_score_share": 0.6495889153220986
+        }
+      ],
+      "n_games": 7,
+      "n_wins": 5
     }
   ],
-  "best_stage": "kvartsfinal",
+  "best_stage": "bronsmatch",
   "best_stage_years": [
-    2022
+    2024
   ]
 }

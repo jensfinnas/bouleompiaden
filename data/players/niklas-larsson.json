@@ -6,13 +6,13 @@
     2018
   ],
   "win_rate": 0.5,
-  "opponent_score_share": 0.47699176260584264,
+  "opponent_score_share": 0.4769025678335459,
   "skill": 109.31082030197226,
   "skill_sigma": 60.93786060465312,
   "name": "Niklas Larsson",
   "slug": "niklas-larsson",
-  "skill_rank": 74.0,
-  "skill_rank_pct": 74.0,
+  "skill_rank": 77.0,
+  "skill_rank_pct": 77.0,
   "skill_history": [
     [
       2011,
@@ -52,6 +52,10 @@
     ],
     [
       2023,
+      null
+    ],
+    [
+      2024,
       null
     ]
   ],
@@ -101,7 +105,7 @@
           "opponent_win_prob": 0.34856690727886397,
           "is_winner": true,
           "opponent_slug": "johanna-radstrom",
-          "opponent_hist_score_share": 0.33566966962295686
+          "opponent_hist_score_share": 0.32542617105117105
         },
         {
           "game_id": 208,
@@ -119,7 +123,7 @@
           "opponent_win_prob": 0.4396649172104286,
           "is_winner": true,
           "opponent_slug": "sofia-orning",
-          "opponent_hist_score_share": 0.38998601072130484
+          "opponent_hist_score_share": 0.4011214843695662
         },
         {
           "game_id": 221,
@@ -137,7 +141,7 @@
           "opponent_win_prob": 0.9136656347001425,
           "is_winner": false,
           "opponent_slug": "gabriel-nordenankar",
-          "opponent_hist_score_share": 0.6508376694877611
+          "opponent_hist_score_share": 0.6495889153220986
         }
       ],
       "n_games": 4,

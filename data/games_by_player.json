@@ -323,6 +323,48 @@
       "is_winner": false
     }
   ],
+  "Alice Hindersson": [
+    {
+      "year": 2024,
+      "opponent": "Sara Welff",
+      "player_score": 6,
+      "opponent_score": 9,
+      "winner": "Sara Welff",
+      "is_winner": false
+    },
+    {
+      "year": 2024,
+      "opponent": "Benjamin Ger. Hed.",
+      "player_score": 3,
+      "opponent_score": 10,
+      "winner": "Benjamin Ger. Hed.",
+      "is_winner": false
+    },
+    {
+      "year": 2024,
+      "opponent": "Lovisa Birgersson",
+      "player_score": 9,
+      "opponent_score": 7,
+      "winner": "Alice Hindersson",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Gabriel Nordenankar",
+      "player_score": 0,
+      "opponent_score": 9,
+      "winner": "Gabriel Nordenankar",
+      "is_winner": false
+    },
+    {
+      "year": 2024,
+      "opponent": "Johan Kjell",
+      "player_score": 10,
+      "opponent_score": 7,
+      "winner": "Alice Hindersson",
+      "is_winner": true
+    }
+  ],
   "Amanda Engstr\u00f6m": [
     {
       "year": 2022,
@@ -753,6 +795,38 @@
       "is_winner": false
     },
     {
+      "year": 2024,
+      "opponent": "Jon Jeppson",
+      "player_score": 5,
+      "opponent_score": 9,
+      "winner": "Jon Jeppson",
+      "is_winner": false
+    },
+    {
+      "year": 2024,
+      "opponent": "Joakim Kulo",
+      "player_score": 9,
+      "opponent_score": 3,
+      "winner": "Benjamin Ger. Hed.",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Jon Jeppson",
+      "player_score": 11,
+      "opponent_score": 3,
+      "winner": "Benjamin Ger. Hed.",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Gabriel Nordenankar",
+      "player_score": 11,
+      "opponent_score": 4,
+      "winner": "Benjamin Ger. Hed.",
+      "is_winner": true
+    },
+    {
       "year": 2017,
       "opponent": "Maria Adel\u00f6f",
       "player_score": 7,
@@ -855,6 +929,30 @@
       "opponent_score": 4,
       "winner": "Benjamin Ger. Hed.",
       "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Johannes Nordenhaag",
+      "player_score": 11,
+      "opponent_score": 2,
+      "winner": "Benjamin Ger. Hed.",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Alice Hindersson",
+      "player_score": 10,
+      "opponent_score": 3,
+      "winner": "Benjamin Ger. Hed.",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Theodore Ripman",
+      "player_score": 13,
+      "opponent_score": 4,
+      "winner": "Benjamin Ger. Hed.",
+      "is_winner": true
     }
   ],
   "Bj\u00f6rn Berglund": [
@@ -921,6 +1019,30 @@
       "opponent_score": 1,
       "winner": "Bj\u00f6rn Berglund",
       "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Kusha Bahrami",
+      "player_score": 9,
+      "opponent_score": 4,
+      "winner": "Bj\u00f6rn Berglund",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Sara Welff",
+      "player_score": 10,
+      "opponent_score": 5,
+      "winner": "Bj\u00f6rn Berglund",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Filippa Berencreutz",
+      "player_score": 6,
+      "opponent_score": 10,
+      "winner": "Filippa Berencreutz",
+      "is_winner": false
     },
     {
       "year": 2018,
@@ -1017,6 +1139,14 @@
       "opponent_score": 11,
       "winner": "Gabriel Nordenankar",
       "is_winner": false
+    },
+    {
+      "year": 2024,
+      "opponent": "Olle Strandberg",
+      "player_score": 9,
+      "opponent_score": 6,
+      "winner": "Bj\u00f6rn Berglund",
+      "is_winner": true
     }
   ],
   "Bj\u00f6rn Westerfors": [
@@ -1084,6 +1214,30 @@
       "player_score": 1,
       "opponent_score": 10,
       "winner": "Jonas Nygren",
+      "is_winner": false
+    },
+    {
+      "year": 2024,
+      "opponent": "Jakob Gustafsson",
+      "player_score": 0,
+      "opponent_score": 9,
+      "winner": "Jakob Gustafsson",
+      "is_winner": false
+    },
+    {
+      "year": 2024,
+      "opponent": "Johannes Nordenhaag",
+      "player_score": 3,
+      "opponent_score": 9,
+      "winner": "Johannes Nordenhaag",
+      "is_winner": false
+    },
+    {
+      "year": 2024,
+      "opponent": "Hannes Jordan",
+      "player_score": 6,
+      "opponent_score": 10,
+      "winner": "Hannes Jordan",
       "is_winner": false
     }
   ],
@@ -1383,14 +1537,6 @@
       "opponent_score": 7,
       "winner": "Caroline Verst\u00e4ndig",
       "is_winner": true
-    },
-    {
-      "year": 2023,
-      "opponent": "Jens Finn\u00e4s",
-      "player_score": 7,
-      "opponent_score": 9,
-      "winner": "Jens Finn\u00e4s",
-      "is_winner": false
     }
   ],
   "Charlotte Almgren": [
@@ -1521,6 +1667,22 @@
       "is_winner": false
     },
     {
+      "year": 2024,
+      "opponent": "Ville Nordenankar",
+      "player_score": 5,
+      "opponent_score": 9,
+      "winner": "Ville Nordenankar",
+      "is_winner": false
+    },
+    {
+      "year": 2024,
+      "opponent": "Sixten R\u00e5dstr\u00f6m",
+      "player_score": 8,
+      "opponent_score": 9,
+      "winner": "Sixten R\u00e5dstr\u00f6m",
+      "is_winner": false
+    },
+    {
       "year": 2021,
       "opponent": "Tim Samuelsson",
       "player_score": 1,
@@ -1551,6 +1713,14 @@
       "opponent_score": 8,
       "winner": "Chris Lowe",
       "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Jon Jeppson",
+      "player_score": 8,
+      "opponent_score": 10,
+      "winner": "Jon Jeppson",
+      "is_winner": false
     }
   ],
   "Christian Steen": [
@@ -1765,6 +1935,24 @@
       "opponent_score": 8,
       "winner": "Cissi Hellman",
       "is_winner": true
+    }
+  ],
+  "Clas \u00d6rjan Sp\u00e5ng": [
+    {
+      "year": 2024,
+      "opponent": "Erika Andersson",
+      "player_score": 3,
+      "opponent_score": 11,
+      "winner": "Erika Andersson",
+      "is_winner": false
+    },
+    {
+      "year": 2024,
+      "opponent": "Theodore Ripman",
+      "player_score": 1,
+      "opponent_score": 9,
+      "winner": "Theodore Ripman",
+      "is_winner": false
     }
   ],
   "Conny \u00c5berg": [
@@ -2515,6 +2703,46 @@
       "is_winner": false
     },
     {
+      "year": 2024,
+      "opponent": "Tommy Damstr\u00f6m",
+      "player_score": 10,
+      "opponent_score": 1,
+      "winner": "Erik Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Olle Nyr\u00e9n",
+      "player_score": 10,
+      "opponent_score": 6,
+      "winner": "Erik Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Rosanna Cederl\u00f6f",
+      "player_score": 11,
+      "opponent_score": 4,
+      "winner": "Erik Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Pelle Dovborg",
+      "player_score": 10,
+      "opponent_score": 2,
+      "winner": "Erik Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Gabriel Nordenankar",
+      "player_score": 6,
+      "opponent_score": 11,
+      "winner": "Gabriel Nordenankar",
+      "is_winner": false
+    },
+    {
       "year": 2011,
       "opponent": "Jakob Lien",
       "player_score": 6,
@@ -2797,6 +3025,30 @@
       "is_winner": false
     },
     {
+      "year": 2024,
+      "opponent": "Johan Ekman",
+      "player_score": 1,
+      "opponent_score": 9,
+      "winner": "Johan Ekman",
+      "is_winner": false
+    },
+    {
+      "year": 2024,
+      "opponent": "Frida \u00d6hrn",
+      "player_score": 11,
+      "opponent_score": 6,
+      "winner": "Erik Numan",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Gabriel Nordenankar",
+      "player_score": 4,
+      "opponent_score": 10,
+      "winner": "Gabriel Nordenankar",
+      "is_winner": false
+    },
+    {
       "year": 2021,
       "opponent": "Edvin Lindsten",
       "player_score": 8,
@@ -2859,6 +3111,14 @@
       "opponent_score": 9,
       "winner": "Robin Fogelberg",
       "is_winner": false
+    },
+    {
+      "year": 2024,
+      "opponent": "Jakob Gustafsson",
+      "player_score": 10,
+      "opponent_score": 3,
+      "winner": "Erik Numan",
+      "is_winner": true
     }
   ],
   "Erik Sunninger": [
@@ -2902,6 +3162,38 @@
       "player_score": 4,
       "opponent_score": 9,
       "winner": "Erik Numan",
+      "is_winner": false
+    },
+    {
+      "year": 2024,
+      "opponent": "Folke Nordenankar",
+      "player_score": 4,
+      "opponent_score": 10,
+      "winner": "Folke Nordenankar",
+      "is_winner": false
+    },
+    {
+      "year": 2024,
+      "opponent": "Clas \u00d6rjan Sp\u00e5ng",
+      "player_score": 11,
+      "opponent_score": 3,
+      "winner": "Erika Andersson",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Olle Strandberg",
+      "player_score": 10,
+      "opponent_score": 4,
+      "winner": "Erika Andersson",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Lovisa Birgersson",
+      "player_score": 6,
+      "opponent_score": 10,
+      "winner": "Lovisa Birgersson",
       "is_winner": false
     }
   ],
@@ -3053,6 +3345,24 @@
       "is_winner": false
     }
   ],
+  "Fanny Lundgren": [
+    {
+      "year": 2024,
+      "opponent": "Jens Finn\u00e4s",
+      "player_score": 6,
+      "opponent_score": 11,
+      "winner": "Jens Finn\u00e4s",
+      "is_winner": false
+    },
+    {
+      "year": 2024,
+      "opponent": "Johannes Nordenhaag",
+      "player_score": 0,
+      "opponent_score": 9,
+      "winner": "Johannes Nordenhaag",
+      "is_winner": false
+    }
+  ],
   "Felix H\u00e4ggstr\u00f6m": [
     {
       "year": 2016,
@@ -3163,6 +3473,22 @@
       "is_winner": true
     },
     {
+      "year": 2024,
+      "opponent": "Monica Harder",
+      "player_score": 10,
+      "opponent_score": 6,
+      "winner": "Filippa Berencreutz",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Frida \u00d6hrn",
+      "player_score": 10,
+      "opponent_score": 3,
+      "winner": "Filippa Berencreutz",
+      "is_winner": true
+    },
+    {
       "year": 2020,
       "opponent": "Mina Kheirkhah",
       "player_score": 9,
@@ -3224,6 +3550,64 @@
       "player_score": 8,
       "opponent_score": 10,
       "winner": "Theodore Ripman",
+      "is_winner": false
+    },
+    {
+      "year": 2024,
+      "opponent": "Jonas Nygren",
+      "player_score": 10,
+      "opponent_score": 3,
+      "winner": "Filippa Berencreutz",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Bj\u00f6rn Berglund",
+      "player_score": 10,
+      "opponent_score": 6,
+      "winner": "Filippa Berencreutz",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Theodore Ripman",
+      "player_score": 5,
+      "opponent_score": 11,
+      "winner": "Theodore Ripman",
+      "is_winner": false
+    }
+  ],
+  "Folke Nordenankar": [
+    {
+      "year": 2024,
+      "opponent": "Erika Andersson",
+      "player_score": 10,
+      "opponent_score": 4,
+      "winner": "Folke Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Kusha Bahrami",
+      "player_score": 9,
+      "opponent_score": 4,
+      "winner": "Folke Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Theodore Ripman",
+      "player_score": 1,
+      "opponent_score": 9,
+      "winner": "Theodore Ripman",
+      "is_winner": false
+    },
+    {
+      "year": 2024,
+      "opponent": "Pelle Dovborg",
+      "player_score": 8,
+      "opponent_score": 10,
+      "winner": "Pelle Dovborg",
       "is_winner": false
     }
   ],
@@ -3467,6 +3851,30 @@
       "opponent_score": 9,
       "winner": "Lovisa Birgersson",
       "is_winner": false
+    },
+    {
+      "year": 2024,
+      "opponent": "Jon Jeppson",
+      "player_score": 4,
+      "opponent_score": 9,
+      "winner": "Jon Jeppson",
+      "is_winner": false
+    },
+    {
+      "year": 2024,
+      "opponent": "Erik Numan",
+      "player_score": 6,
+      "opponent_score": 11,
+      "winner": "Erik Numan",
+      "is_winner": false
+    },
+    {
+      "year": 2024,
+      "opponent": "Filippa Berencreutz",
+      "player_score": 3,
+      "opponent_score": 10,
+      "winner": "Filippa Berencreutz",
+      "is_winner": false
     }
   ],
   "Gabriel Nordenankar": [
@@ -3671,6 +4079,22 @@
       "is_winner": true
     },
     {
+      "year": 2024,
+      "opponent": "Alice Hindersson",
+      "player_score": 9,
+      "opponent_score": 0,
+      "winner": "Gabriel Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Jens Finn\u00e4s",
+      "player_score": 10,
+      "opponent_score": 5,
+      "winner": "Gabriel Nordenankar",
+      "is_winner": true
+    },
+    {
       "year": 2011,
       "opponent": "Cissi Hellman",
       "player_score": 7,
@@ -3861,6 +4285,38 @@
       "opponent_score": 13,
       "winner": "Jonas Nygren",
       "is_winner": false
+    },
+    {
+      "year": 2024,
+      "opponent": "Erik Numan",
+      "player_score": 10,
+      "opponent_score": 4,
+      "winner": "Gabriel Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Erik Nordenankar",
+      "player_score": 11,
+      "opponent_score": 6,
+      "winner": "Gabriel Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Benjamin Ger. Hed.",
+      "player_score": 4,
+      "opponent_score": 11,
+      "winner": "Benjamin Ger. Hed.",
+      "is_winner": false
+    },
+    {
+      "year": 2024,
+      "opponent": "Hannes Jordan",
+      "player_score": 13,
+      "opponent_score": 11,
+      "winner": "Gabriel Nordenankar",
+      "is_winner": true
     }
   ],
   "Gustaf Berencreutz": [
@@ -4013,6 +4469,30 @@
       "is_winner": true
     },
     {
+      "year": 2024,
+      "opponent": "Sara Welff",
+      "player_score": 9,
+      "opponent_score": 1,
+      "winner": "Hannes Jordan",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Bror Nordenankar",
+      "player_score": 10,
+      "opponent_score": 6,
+      "winner": "Hannes Jordan",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Gabriel Nordenankar",
+      "player_score": 11,
+      "opponent_score": 13,
+      "winner": "Gabriel Nordenankar",
+      "is_winner": false
+    },
+    {
       "year": 2018,
       "opponent": "Jacob Stenman",
       "player_score": 7,
@@ -4098,6 +4578,38 @@
       "player_score": 5,
       "opponent_score": 12,
       "winner": "Erik Nordenankar",
+      "is_winner": false
+    },
+    {
+      "year": 2024,
+      "opponent": "Johanna R\u00e5dstr\u00f6m",
+      "player_score": 10,
+      "opponent_score": 1,
+      "winner": "Hannes Jordan",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Lovisa Birgersson",
+      "player_score": 10,
+      "opponent_score": 8,
+      "winner": "Hannes Jordan",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Olle Strandberg",
+      "player_score": 11,
+      "opponent_score": 2,
+      "winner": "Hannes Jordan",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Theodore Ripman",
+      "player_score": 9,
+      "opponent_score": 11,
+      "winner": "Theodore Ripman",
       "is_winner": false
     }
   ],
@@ -4591,6 +5103,30 @@
       "is_winner": true
     },
     {
+      "year": 2024,
+      "opponent": "Bror Nordenankar",
+      "player_score": 9,
+      "opponent_score": 0,
+      "winner": "Jakob Gustafsson",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Jens Finn\u00e4s",
+      "player_score": 9,
+      "opponent_score": 3,
+      "winner": "Jakob Gustafsson",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Erik Numan",
+      "player_score": 3,
+      "opponent_score": 10,
+      "winner": "Erik Numan",
+      "is_winner": false
+    },
+    {
       "year": 2019,
       "opponent": "Fanny Kjellner",
       "player_score": 3,
@@ -4684,6 +5220,14 @@
       "player_score": 2,
       "opponent_score": 10,
       "winner": "Richard Printz",
+      "is_winner": false
+    },
+    {
+      "year": 2024,
+      "opponent": "Pelle Dovborg",
+      "player_score": 8,
+      "opponent_score": 9,
+      "winner": "Pelle Dovborg",
       "is_winner": false
     }
   ],
@@ -4950,11 +5494,19 @@
     },
     {
       "year": 2023,
-      "opponent": "Caroline Verst\u00e4ndig",
+      "opponent": "Karolina Widerstr\u00f6m",
       "player_score": 9,
       "opponent_score": 7,
       "winner": "Jens Finn\u00e4s",
       "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Simon Fridh",
+      "player_score": 4,
+      "opponent_score": 9,
+      "winner": "Simon Fridh",
+      "is_winner": false
     },
     {
       "year": 2016,
@@ -5018,6 +5570,30 @@
       "player_score": 4,
       "opponent_score": 11,
       "winner": "Benjamin Ger. Hed.",
+      "is_winner": false
+    },
+    {
+      "year": 2024,
+      "opponent": "Fanny Lundgren",
+      "player_score": 11,
+      "opponent_score": 6,
+      "winner": "Jens Finn\u00e4s",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Jakob Gustafsson",
+      "player_score": 3,
+      "opponent_score": 9,
+      "winner": "Jakob Gustafsson",
+      "is_winner": false
+    },
+    {
+      "year": 2024,
+      "opponent": "Gabriel Nordenankar",
+      "player_score": 5,
+      "opponent_score": 10,
+      "winner": "Gabriel Nordenankar",
       "is_winner": false
     }
   ],
@@ -5395,6 +5971,22 @@
       "is_winner": true
     },
     {
+      "year": 2024,
+      "opponent": "Sofia \u00d6rning",
+      "player_score": 4,
+      "opponent_score": 9,
+      "winner": "Sofia \u00d6rning",
+      "is_winner": false
+    },
+    {
+      "year": 2024,
+      "opponent": "Jonas Nygren",
+      "player_score": 8,
+      "opponent_score": 11,
+      "winner": "Jonas Nygren",
+      "is_winner": false
+    },
+    {
       "year": 2012,
       "opponent": "Johan Kjell",
       "player_score": 5,
@@ -5521,6 +6113,22 @@
       "opponent_score": 9,
       "winner": "Emma Bergmark",
       "is_winner": false
+    },
+    {
+      "year": 2024,
+      "opponent": "Sofia R\u00e5dstr\u00f6m",
+      "player_score": 11,
+      "opponent_score": 2,
+      "winner": "Jerker Karlsson",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Olle Nyr\u00e9n",
+      "player_score": 10,
+      "opponent_score": 2,
+      "winner": "Jerker Karlsson",
+      "is_winner": true
     }
   ],
   "Jesper Kronholm": [
@@ -5686,6 +6294,32 @@
       "player_score": 1,
       "opponent_score": 9,
       "winner": "Fredrik Matz",
+      "is_winner": false
+    }
+  ],
+  "Joakim Kulo": [
+    {
+      "year": 2024,
+      "opponent": "Johan Ekman",
+      "player_score": 7,
+      "opponent_score": 10,
+      "winner": "Johan Ekman",
+      "is_winner": false
+    },
+    {
+      "year": 2024,
+      "opponent": "Benjamin Ger. Hed.",
+      "player_score": 3,
+      "opponent_score": 9,
+      "winner": "Benjamin Ger. Hed.",
+      "is_winner": false
+    },
+    {
+      "year": 2024,
+      "opponent": "Simon Fridh",
+      "player_score": 1,
+      "opponent_score": 10,
+      "winner": "Simon Fridh",
       "is_winner": false
     }
   ],
@@ -5949,6 +6583,14 @@
       "is_winner": false
     },
     {
+      "year": 2024,
+      "opponent": "Olle Strandberg",
+      "player_score": 1,
+      "opponent_score": 12,
+      "winner": "Olle Strandberg",
+      "is_winner": false
+    },
+    {
       "year": 2012,
       "opponent": "Agnes Lind",
       "player_score": 7,
@@ -6025,6 +6667,22 @@
       "opponent": "Bj\u00f6rn Westerfors",
       "player_score": 9,
       "opponent_score": 6,
+      "winner": "Johan Ekman",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Joakim Kulo",
+      "player_score": 10,
+      "opponent_score": 7,
+      "winner": "Johan Ekman",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Erik Numan",
+      "player_score": 9,
+      "opponent_score": 1,
       "winner": "Johan Ekman",
       "is_winner": true
     }
@@ -6241,6 +6899,30 @@
       "is_winner": true
     },
     {
+      "year": 2024,
+      "opponent": "Sofia R\u00e5dstr\u00f6m",
+      "player_score": 9,
+      "opponent_score": 1,
+      "winner": "Johan Kjell",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Sofia \u00d6rning",
+      "player_score": 10,
+      "opponent_score": 1,
+      "winner": "Johan Kjell",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Alice Hindersson",
+      "player_score": 7,
+      "opponent_score": 10,
+      "winner": "Alice Hindersson",
+      "is_winner": false
+    },
+    {
       "year": 2012,
       "opponent": "Jerker Karlsson",
       "player_score": 7,
@@ -6411,6 +7093,22 @@
       "is_winner": false
     },
     {
+      "year": 2024,
+      "opponent": "Hannes Jordan",
+      "player_score": 1,
+      "opponent_score": 10,
+      "winner": "Hannes Jordan",
+      "is_winner": false
+    },
+    {
+      "year": 2024,
+      "opponent": "Lovisa Birgersson",
+      "player_score": 2,
+      "opponent_score": 9,
+      "winner": "Lovisa Birgersson",
+      "is_winner": false
+    },
+    {
       "year": 2012,
       "opponent": "Johan Alm",
       "player_score": 1,
@@ -6481,6 +7179,14 @@
       "opponent_score": 10,
       "winner": "Gabriel Nordenankar",
       "is_winner": false
+    },
+    {
+      "year": 2024,
+      "opponent": "Robin Linderborg",
+      "player_score": 9,
+      "opponent_score": 8,
+      "winner": "Johanna R\u00e5dstr\u00f6m",
+      "is_winner": true
     }
   ],
   "Johannes Gr\u00f6nborg": [
@@ -6651,6 +7357,38 @@
       "opponent": "Benjamin Ger. Hed.",
       "player_score": 4,
       "opponent_score": 13,
+      "winner": "Benjamin Ger. Hed.",
+      "is_winner": false
+    },
+    {
+      "year": 2024,
+      "opponent": "Fanny Lundgren",
+      "player_score": 9,
+      "opponent_score": 0,
+      "winner": "Johannes Nordenhaag",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Simon Fridh",
+      "player_score": 4,
+      "opponent_score": 9,
+      "winner": "Simon Fridh",
+      "is_winner": false
+    },
+    {
+      "year": 2024,
+      "opponent": "Bror Nordenankar",
+      "player_score": 9,
+      "opponent_score": 3,
+      "winner": "Johannes Nordenhaag",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Benjamin Ger. Hed.",
+      "player_score": 2,
+      "opponent_score": 11,
       "winner": "Benjamin Ger. Hed.",
       "is_winner": false
     },
@@ -6869,6 +7607,30 @@
       "is_winner": false
     },
     {
+      "year": 2024,
+      "opponent": "Frida \u00d6hrn",
+      "player_score": 9,
+      "opponent_score": 4,
+      "winner": "Jon Jeppson",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Chris Lowe",
+      "player_score": 10,
+      "opponent_score": 8,
+      "winner": "Jon Jeppson",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Simon Fridh",
+      "player_score": 10,
+      "opponent_score": 5,
+      "winner": "Jon Jeppson",
+      "is_winner": true
+    },
+    {
       "year": 2020,
       "opponent": "Johanna R\u00e5dstr\u00f6m",
       "player_score": 9,
@@ -6923,6 +7685,22 @@
       "opponent_score": 2,
       "winner": "Jon Jeppson",
       "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Benjamin Ger. Hed.",
+      "player_score": 9,
+      "opponent_score": 5,
+      "winner": "Jon Jeppson",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Benjamin Ger. Hed.",
+      "player_score": 3,
+      "opponent_score": 11,
+      "winner": "Benjamin Ger. Hed.",
+      "is_winner": false
     }
   ],
   "Jonas Nygren": [
@@ -6955,6 +7733,30 @@
       "opponent": "Gabriel Nordenankar",
       "player_score": 13,
       "opponent_score": 6,
+      "winner": "Jonas Nygren",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Sixten R\u00e5dstr\u00f6m",
+      "player_score": 10,
+      "opponent_score": 2,
+      "winner": "Jonas Nygren",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Filippa Berencreutz",
+      "player_score": 3,
+      "opponent_score": 10,
+      "winner": "Filippa Berencreutz",
+      "is_winner": false
+    },
+    {
+      "year": 2024,
+      "opponent": "Rosanna Cederl\u00f6f",
+      "player_score": 10,
+      "opponent_score": 3,
       "winner": "Jonas Nygren",
       "is_winner": true
     },
@@ -7013,6 +7815,22 @@
       "opponent_score": 10,
       "winner": "Jonas Nygren",
       "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Jerker Karlsson",
+      "player_score": 11,
+      "opponent_score": 8,
+      "winner": "Jonas Nygren",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Theodore Ripman",
+      "player_score": 5,
+      "opponent_score": 10,
+      "winner": "Theodore Ripman",
+      "is_winner": false
     }
   ],
   "Josefin Asplund": [
@@ -7351,6 +8169,14 @@
       "opponent_score": 0,
       "winner": "Karolina Widerstr\u00f6m",
       "is_winner": true
+    },
+    {
+      "year": 2023,
+      "opponent": "Jens Finn\u00e4s",
+      "player_score": 7,
+      "opponent_score": 9,
+      "winner": "Jens Finn\u00e4s",
+      "is_winner": false
     }
   ],
   "Kevin Carlsson": [
@@ -7560,6 +8386,22 @@
       "player_score": 7,
       "opponent_score": 9,
       "winner": "Johannes Nordenhaag",
+      "is_winner": false
+    },
+    {
+      "year": 2024,
+      "opponent": "Bj\u00f6rn Berglund",
+      "player_score": 4,
+      "opponent_score": 9,
+      "winner": "Bj\u00f6rn Berglund",
+      "is_winner": false
+    },
+    {
+      "year": 2024,
+      "opponent": "Folke Nordenankar",
+      "player_score": 4,
+      "opponent_score": 9,
+      "winner": "Folke Nordenankar",
       "is_winner": false
     }
   ],
@@ -8283,6 +9125,30 @@
       "is_winner": false
     },
     {
+      "year": 2024,
+      "opponent": "Alice Hindersson",
+      "player_score": 7,
+      "opponent_score": 9,
+      "winner": "Alice Hindersson",
+      "is_winner": false
+    },
+    {
+      "year": 2024,
+      "opponent": "Erika Andersson",
+      "player_score": 10,
+      "opponent_score": 6,
+      "winner": "Lovisa Birgersson",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Hannes Jordan",
+      "player_score": 8,
+      "opponent_score": 10,
+      "winner": "Hannes Jordan",
+      "is_winner": false
+    },
+    {
       "year": 2017,
       "opponent": "Theodore Ripman",
       "player_score": 5,
@@ -8351,6 +9217,14 @@
       "opponent": "Linda Tran",
       "player_score": 9,
       "opponent_score": 4,
+      "winner": "Lovisa Birgersson",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Johanna R\u00e5dstr\u00f6m",
+      "player_score": 9,
+      "opponent_score": 2,
       "winner": "Lovisa Birgersson",
       "is_winner": true
     }
@@ -8979,6 +9853,22 @@
       "opponent_score": 9,
       "winner": "Bj\u00f6rn Westerfors",
       "is_winner": false
+    },
+    {
+      "year": 2024,
+      "opponent": "Filippa Berencreutz",
+      "player_score": 6,
+      "opponent_score": 10,
+      "winner": "Filippa Berencreutz",
+      "is_winner": false
+    },
+    {
+      "year": 2024,
+      "opponent": "Sixten R\u00e5dstr\u00f6m",
+      "player_score": 6,
+      "opponent_score": 9,
+      "winner": "Sixten R\u00e5dstr\u00f6m",
+      "is_winner": false
     }
   ],
   "Niklas Frisk": [
@@ -9237,6 +10127,14 @@
       "is_winner": false
     },
     {
+      "year": 2024,
+      "opponent": "Jerker Karlsson",
+      "player_score": 2,
+      "opponent_score": 10,
+      "winner": "Jerker Karlsson",
+      "is_winner": false
+    },
+    {
       "year": 2019,
       "opponent": "Sofia \u00d6rning",
       "player_score": 5,
@@ -9266,6 +10164,22 @@
       "player_score": 4,
       "opponent_score": 10,
       "winner": "Patrik J\u00e4rg\u00e5rden",
+      "is_winner": false
+    },
+    {
+      "year": 2024,
+      "opponent": "\u00c5ke R\u00e5dstr\u00f6m",
+      "player_score": 9,
+      "opponent_score": 6,
+      "winner": "Olle Nyr\u00e9n",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Erik Nordenankar",
+      "player_score": 6,
+      "opponent_score": 10,
+      "winner": "Erik Nordenankar",
       "is_winner": false
     }
   ],
@@ -9375,6 +10289,38 @@
       "is_winner": true
     },
     {
+      "year": 2024,
+      "opponent": "Bj\u00f6rn Berglund",
+      "player_score": 6,
+      "opponent_score": 9,
+      "winner": "Bj\u00f6rn Berglund",
+      "is_winner": false
+    },
+    {
+      "year": 2024,
+      "opponent": "Erika Andersson",
+      "player_score": 4,
+      "opponent_score": 10,
+      "winner": "Erika Andersson",
+      "is_winner": false
+    },
+    {
+      "year": 2024,
+      "opponent": "Ville Nordenankar",
+      "player_score": 10,
+      "opponent_score": 3,
+      "winner": "Olle Strandberg",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Hannes Jordan",
+      "player_score": 2,
+      "opponent_score": 11,
+      "winner": "Hannes Jordan",
+      "is_winner": false
+    },
+    {
       "year": 2018,
       "opponent": "Sofia R\u00e5dstr\u00f6m",
       "player_score": 7,
@@ -9419,6 +10365,14 @@
       "opponent": "Hilda Dahlberg",
       "player_score": 9,
       "opponent_score": 0,
+      "winner": "Olle Strandberg",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Johan Ekman",
+      "player_score": 12,
+      "opponent_score": 1,
       "winner": "Olle Strandberg",
       "is_winner": true
     }
@@ -9789,6 +10743,22 @@
       "is_winner": false
     },
     {
+      "year": 2024,
+      "opponent": "Jakob Gustafsson",
+      "player_score": 9,
+      "opponent_score": 8,
+      "winner": "Pelle Dovborg",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Folke Nordenankar",
+      "player_score": 10,
+      "opponent_score": 8,
+      "winner": "Pelle Dovborg",
+      "is_winner": true
+    },
+    {
       "year": 2016,
       "opponent": "Johan Ekman",
       "player_score": 1,
@@ -9907,6 +10877,14 @@
       "opponent_score": 4,
       "winner": "Pelle Dovborg",
       "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Erik Nordenankar",
+      "player_score": 2,
+      "opponent_score": 10,
+      "winner": "Erik Nordenankar",
+      "is_winner": false
     }
   ],
   "Petter Hammarb\u00e4ck": [
@@ -10933,6 +11911,22 @@
       "is_winner": false
     },
     {
+      "year": 2024,
+      "opponent": "Johanna R\u00e5dstr\u00f6m",
+      "player_score": 8,
+      "opponent_score": 9,
+      "winner": "Johanna R\u00e5dstr\u00f6m",
+      "is_winner": false
+    },
+    {
+      "year": 2024,
+      "opponent": "Sara Welff",
+      "player_score": 6,
+      "opponent_score": 9,
+      "winner": "Sara Welff",
+      "is_winner": false
+    },
+    {
       "year": 2017,
       "opponent": "Love Andr\u00e9asson",
       "player_score": 3,
@@ -11029,6 +12023,32 @@
       "is_winner": true
     }
   ],
+  "Rosanna Cederl\u00f6f": [
+    {
+      "year": 2024,
+      "opponent": "Ville Nordenankar",
+      "player_score": 4,
+      "opponent_score": 9,
+      "winner": "Ville Nordenankar",
+      "is_winner": false
+    },
+    {
+      "year": 2024,
+      "opponent": "Jonas Nygren",
+      "player_score": 3,
+      "opponent_score": 10,
+      "winner": "Jonas Nygren",
+      "is_winner": false
+    },
+    {
+      "year": 2024,
+      "opponent": "Erik Nordenankar",
+      "player_score": 4,
+      "opponent_score": 11,
+      "winner": "Erik Nordenankar",
+      "is_winner": false
+    }
+  ],
   "Sandra Starfelt": [
     {
       "year": 2017,
@@ -11096,6 +12116,38 @@
       "player_score": 8,
       "opponent_score": 9,
       "winner": "Jakob Gustafsson",
+      "is_winner": false
+    },
+    {
+      "year": 2024,
+      "opponent": "Hannes Jordan",
+      "player_score": 1,
+      "opponent_score": 9,
+      "winner": "Hannes Jordan",
+      "is_winner": false
+    },
+    {
+      "year": 2024,
+      "opponent": "Robin Linderborg",
+      "player_score": 9,
+      "opponent_score": 6,
+      "winner": "Sara Welff",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Alice Hindersson",
+      "player_score": 9,
+      "opponent_score": 6,
+      "winner": "Sara Welff",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Bj\u00f6rn Berglund",
+      "player_score": 5,
+      "opponent_score": 10,
+      "winner": "Bj\u00f6rn Berglund",
       "is_winner": false
     }
   ],
@@ -11227,12 +12279,44 @@
       "is_winner": false
     },
     {
+      "year": 2024,
+      "opponent": "Joakim Kulo",
+      "player_score": 10,
+      "opponent_score": 1,
+      "winner": "Simon Fridh",
+      "is_winner": true
+    },
+    {
       "year": 2023,
       "opponent": "Jakob Gudmundsson",
       "player_score": 9,
       "opponent_score": 2,
       "winner": "Simon Fridh",
       "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Jens Finn\u00e4s",
+      "player_score": 9,
+      "opponent_score": 4,
+      "winner": "Simon Fridh",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Johannes Nordenhaag",
+      "player_score": 9,
+      "opponent_score": 4,
+      "winner": "Simon Fridh",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Jon Jeppson",
+      "player_score": 5,
+      "opponent_score": 10,
+      "winner": "Jon Jeppson",
+      "is_winner": false
     }
   ],
   "Simon Rosendahl": [
@@ -11258,6 +12342,40 @@
       "player_score": 3,
       "opponent_score": 7,
       "winner": "Jakob Lien",
+      "is_winner": false
+    }
+  ],
+  "Sixten R\u00e5dstr\u00f6m": [
+    {
+      "year": 2024,
+      "opponent": "Monica Harder",
+      "player_score": 9,
+      "opponent_score": 6,
+      "winner": "Sixten R\u00e5dstr\u00f6m",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Jonas Nygren",
+      "player_score": 2,
+      "opponent_score": 10,
+      "winner": "Jonas Nygren",
+      "is_winner": false
+    },
+    {
+      "year": 2024,
+      "opponent": "Chris Lowe",
+      "player_score": 9,
+      "opponent_score": 8,
+      "winner": "Sixten R\u00e5dstr\u00f6m",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Ville Nordenankar",
+      "player_score": 8,
+      "opponent_score": 10,
+      "winner": "Ville Nordenankar",
       "is_winner": false
     }
   ],
@@ -11437,6 +12555,14 @@
       "is_winner": true
     },
     {
+      "year": 2024,
+      "opponent": "Jerker Karlsson",
+      "player_score": 2,
+      "opponent_score": 11,
+      "winner": "Jerker Karlsson",
+      "is_winner": false
+    },
+    {
       "year": 2011,
       "opponent": "Jakob Lien",
       "player_score": 2,
@@ -11488,6 +12614,14 @@
       "year": 2023,
       "opponent": "Johan Kjell",
       "player_score": 0,
+      "opponent_score": 9,
+      "winner": "Johan Kjell",
+      "is_winner": false
+    },
+    {
+      "year": 2024,
+      "opponent": "Johan Kjell",
+      "player_score": 1,
       "opponent_score": 9,
       "winner": "Johan Kjell",
       "is_winner": false
@@ -11601,6 +12735,14 @@
       "is_winner": false
     },
     {
+      "year": 2024,
+      "opponent": "Tommy Damstr\u00f6m",
+      "player_score": 9,
+      "opponent_score": 5,
+      "winner": "Sofia \u00d6rning",
+      "is_winner": true
+    },
+    {
       "year": 2017,
       "opponent": "Love Andr\u00e9asson",
       "player_score": 1,
@@ -11670,6 +12812,22 @@
       "player_score": 3,
       "opponent_score": 9,
       "winner": "Hasse Hallgren",
+      "is_winner": false
+    },
+    {
+      "year": 2024,
+      "opponent": "Jerker Karlsson",
+      "player_score": 9,
+      "opponent_score": 4,
+      "winner": "Sofia \u00d6rning",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Johan Kjell",
+      "player_score": 1,
+      "opponent_score": 10,
+      "winner": "Johan Kjell",
       "is_winner": false
     }
   ],
@@ -12009,6 +13167,62 @@
       "is_winner": false
     },
     {
+      "year": 2024,
+      "opponent": "Clas \u00d6rjan Sp\u00e5ng",
+      "player_score": 9,
+      "opponent_score": 1,
+      "winner": "Theodore Ripman",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Folke Nordenankar",
+      "player_score": 9,
+      "opponent_score": 1,
+      "winner": "Theodore Ripman",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Tommy Damstr\u00f6m",
+      "player_score": 10,
+      "opponent_score": 8,
+      "winner": "Theodore Ripman",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Jonas Nygren",
+      "player_score": 10,
+      "opponent_score": 5,
+      "winner": "Theodore Ripman",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Filippa Berencreutz",
+      "player_score": 11,
+      "opponent_score": 5,
+      "winner": "Theodore Ripman",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Hannes Jordan",
+      "player_score": 11,
+      "opponent_score": 9,
+      "winner": "Theodore Ripman",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Benjamin Ger. Hed.",
+      "player_score": 4,
+      "opponent_score": 13,
+      "winner": "Benjamin Ger. Hed.",
+      "is_winner": false
+    },
+    {
       "year": 2012,
       "opponent": "Cissi Hellman",
       "player_score": 3,
@@ -12301,6 +13515,40 @@
       "is_winner": false
     }
   ],
+  "Tommy Damstr\u00f6m": [
+    {
+      "year": 2024,
+      "opponent": "\u00c5ke R\u00e5dstr\u00f6m",
+      "player_score": 9,
+      "opponent_score": 2,
+      "winner": "Tommy Damstr\u00f6m",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Erik Nordenankar",
+      "player_score": 1,
+      "opponent_score": 10,
+      "winner": "Erik Nordenankar",
+      "is_winner": false
+    },
+    {
+      "year": 2024,
+      "opponent": "Sofia \u00d6rning",
+      "player_score": 5,
+      "opponent_score": 9,
+      "winner": "Sofia \u00d6rning",
+      "is_winner": false
+    },
+    {
+      "year": 2024,
+      "opponent": "Theodore Ripman",
+      "player_score": 8,
+      "opponent_score": 10,
+      "winner": "Theodore Ripman",
+      "is_winner": false
+    }
+  ],
   "Tove Papp Lindkvist": [
     {
       "year": 2017,
@@ -12435,6 +13683,22 @@
       "is_winner": true
     },
     {
+      "year": 2024,
+      "opponent": "Rosanna Cederl\u00f6f",
+      "player_score": 9,
+      "opponent_score": 4,
+      "winner": "Ville Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Sixten R\u00e5dstr\u00f6m",
+      "player_score": 10,
+      "opponent_score": 8,
+      "winner": "Ville Nordenankar",
+      "is_winner": true
+    },
+    {
       "year": 2017,
       "opponent": "Johan Kjell",
       "player_score": 7,
@@ -12504,6 +13768,22 @@
       "player_score": 1,
       "opponent_score": 10,
       "winner": "Johannes Nordenhaag",
+      "is_winner": false
+    },
+    {
+      "year": 2024,
+      "opponent": "Chris Lowe",
+      "player_score": 9,
+      "opponent_score": 5,
+      "winner": "Ville Nordenankar",
+      "is_winner": true
+    },
+    {
+      "year": 2024,
+      "opponent": "Olle Strandberg",
+      "player_score": 3,
+      "opponent_score": 10,
+      "winner": "Olle Strandberg",
       "is_winner": false
     }
   ],
@@ -12609,6 +13889,14 @@
       "is_winner": false
     },
     {
+      "year": 2024,
+      "opponent": "Olle Nyr\u00e9n",
+      "player_score": 6,
+      "opponent_score": 9,
+      "winner": "Olle Nyr\u00e9n",
+      "is_winner": false
+    },
+    {
       "year": 2023,
       "opponent": "Richard Olsen",
       "player_score": 9,
@@ -12622,6 +13910,14 @@
       "player_score": 4,
       "opponent_score": 10,
       "winner": "Tim Samuelsson",
+      "is_winner": false
+    },
+    {
+      "year": 2024,
+      "opponent": "Tommy Damstr\u00f6m",
+      "player_score": 2,
+      "opponent_score": 9,
+      "winner": "Tommy Damstr\u00f6m",
       "is_winner": false
     }
   ]

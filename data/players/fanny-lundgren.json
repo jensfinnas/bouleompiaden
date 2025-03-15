@@ -1,0 +1,119 @@
+{
+  "n_games": 2,
+  "score_share": 0.17647058823529413,
+  "n_wins": 0,
+  "years": [
+    2024
+  ],
+  "win_rate": 0.0,
+  "opponent_score_share": 0.5235383643893592,
+  "skill": 47.72933562079569,
+  "skill_sigma": 74.70323491608721,
+  "name": "Fanny Lundgren",
+  "slug": "fanny-lundgren",
+  "skill_rank": 119.0,
+  "skill_rank_pct": 119.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      null
+    ],
+    [
+      2016,
+      null
+    ],
+    [
+      2017,
+      null
+    ],
+    [
+      2018,
+      null
+    ],
+    [
+      2019,
+      null
+    ],
+    [
+      2020,
+      null
+    ],
+    [
+      2021,
+      null
+    ],
+    [
+      2022,
+      null
+    ],
+    [
+      2023,
+      null
+    ],
+    [
+      2024,
+      48.0
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2024,
+      "last_game": {
+        "opponent_name": "Johannes Nordenhaag",
+        "opponent_slug": "johannes-nordenhaag",
+        "score": 0,
+        "opponent_score": 9,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "games": [
+        {
+          "game_id": 802,
+          "year": 2024,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Fanny Lundgren",
+          "score": 6,
+          "score_share": 0.35294117647058826,
+          "win_prob": 0.18034216285641574,
+          "opponent_name": "Jens Finn\u00e4s",
+          "opponent_score": 11,
+          "opponent_score_share": 0.6470588235294118,
+          "opponent_win_prob": 0.8196578371435843,
+          "is_winner": false,
+          "opponent_slug": "jens-finnas",
+          "opponent_hist_score_share": 0.4591026498011792
+        },
+        {
+          "game_id": 781,
+          "year": 2024,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Fanny Lundgren",
+          "score": 0,
+          "score_share": 0.0,
+          "win_prob": 0.2371494374100429,
+          "opponent_name": "Johannes Nordenhaag",
+          "opponent_score": 9,
+          "opponent_score_share": 1.0,
+          "opponent_win_prob": 0.7628505625899571,
+          "is_winner": false,
+          "opponent_slug": "johannes-nordenhaag",
+          "opponent_hist_score_share": 0.5879740789775392
+        }
+      ],
+      "n_games": 2,
+      "n_wins": 0
+    }
+  ],
+  "best_stage": "gruppspel",
+  "best_stage_years": [
+    2024
+  ]
+}

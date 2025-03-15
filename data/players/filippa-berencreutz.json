@@ -1,21 +1,22 @@
 {
-  "n_games": 14,
-  "score_share": 0.5345458055016878,
-  "n_wins": 8,
+  "n_games": 19,
+  "score_share": 0.5570843587097457,
+  "n_wins": 12,
   "years": [
     2020,
     2021,
     2022,
-    2023
+    2023,
+    2024
   ],
-  "win_rate": 0.5714285714285714,
-  "opponent_score_share": 0.517165185149999,
-  "skill": 164.91461925389044,
-  "skill_sigma": 28.985674441334464,
+  "win_rate": 0.631578947368421,
+  "opponent_score_share": 0.5068471246573574,
+  "skill": 180.411331551509,
+  "skill_sigma": 25.244735073304046,
   "name": "Filippa Berencreutz",
   "slug": "filippa-berencreutz",
-  "skill_rank": 24.0,
-  "skill_rank_pct": 24.0,
+  "skill_rank": 15.0,
+  "skill_rank_pct": 15.0,
   "skill_history": [
     [
       2011,
@@ -56,6 +57,10 @@
     [
       2023,
       165.0
+    ],
+    [
+      2024,
+      180.0
     ]
   ],
   "tournaments": [
@@ -86,7 +91,7 @@
           "opponent_win_prob": 0.8097557405515661,
           "is_winner": false,
           "opponent_slug": "erik-nordenankar",
-          "opponent_hist_score_share": 0.679882946820159
+          "opponent_hist_score_share": 0.6808699289679294
         },
         {
           "game_id": 401,
@@ -122,7 +127,7 @@
           "opponent_win_prob": 0.34455068317749227,
           "is_winner": false,
           "opponent_slug": "jon-jeppson",
-          "opponent_hist_score_share": 0.5966064708711767
+          "opponent_hist_score_share": 0.5860384917370212
         }
       ],
       "n_games": 3,
@@ -191,7 +196,7 @@
           "opponent_win_prob": 0.5494761350812388,
           "is_winner": false,
           "opponent_slug": "theodore-ripman",
-          "opponent_hist_score_share": 0.5597932488790567
+          "opponent_hist_score_share": 0.5710964566774074
         }
       ],
       "n_games": 3,
@@ -278,7 +283,7 @@
           "opponent_win_prob": 0.6103894818598097,
           "is_winner": false,
           "opponent_slug": "pelle-dovborg",
-          "opponent_hist_score_share": 0.5687558814642149
+          "opponent_hist_score_share": 0.5570986081958933
         }
       ],
       "n_games": 4,
@@ -311,7 +316,7 @@
           "opponent_win_prob": 0.5444188754026582,
           "is_winner": true,
           "opponent_slug": "jon-jeppson",
-          "opponent_hist_score_share": 0.5966064708711767
+          "opponent_hist_score_share": 0.5860384917370212
         },
         {
           "game_id": 676,
@@ -329,7 +334,7 @@
           "opponent_win_prob": 0.11452205377308815,
           "is_winner": true,
           "opponent_slug": "sofia-radstrom",
-          "opponent_hist_score_share": 0.33582760376878024
+          "opponent_hist_score_share": 0.3168362831464436
         },
         {
           "game_id": 741,
@@ -365,15 +370,120 @@
           "opponent_win_prob": 0.6511211327862967,
           "is_winner": false,
           "opponent_slug": "theodore-ripman",
-          "opponent_hist_score_share": 0.5597932488790567
+          "opponent_hist_score_share": 0.5710964566774074
         }
       ],
       "n_games": 4,
       "n_wins": 3
+    },
+    {
+      "year": 2024,
+      "last_game": {
+        "opponent_name": "Theodore Ripman",
+        "opponent_slug": "theodore-ripman",
+        "score": 5,
+        "opponent_score": 11,
+        "is_winner": false,
+        "stage": "kvartsfinal"
+      },
+      "games": [
+        {
+          "game_id": 778,
+          "year": 2024,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Filippa Berencreutz",
+          "score": 10,
+          "score_share": 0.625,
+          "win_prob": 0.9323973287514483,
+          "opponent_name": "Monica Harder",
+          "opponent_score": 6,
+          "opponent_score_share": 0.375,
+          "opponent_win_prob": 0.06760267124855168,
+          "is_winner": true,
+          "opponent_slug": "monica-harder",
+          "opponent_hist_score_share": 0.31264677588206996
+        },
+        {
+          "game_id": 792,
+          "year": 2024,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Filippa Berencreutz",
+          "score": 10,
+          "score_share": 0.7692307692307693,
+          "win_prob": 0.245444462602321,
+          "opponent_name": "Jonas Nygren",
+          "opponent_score": 3,
+          "opponent_score_share": 0.23076923076923078,
+          "opponent_win_prob": 0.754555537397679,
+          "is_winner": true,
+          "opponent_slug": "jonas-nygren",
+          "opponent_hist_score_share": 0.5608411894692854
+        },
+        {
+          "game_id": 827,
+          "year": 2024,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p1",
+          "name": "Filippa Berencreutz",
+          "score": 10,
+          "score_share": 0.7692307692307693,
+          "win_prob": 0.967801307991702,
+          "opponent_name": "Frida \u00d6hrn",
+          "opponent_score": 3,
+          "opponent_score_share": 0.23076923076923078,
+          "opponent_win_prob": 0.03219869200829795,
+          "is_winner": true,
+          "opponent_slug": "frida-ohrn",
+          "opponent_hist_score_share": 0.3834708320002438
+        },
+        {
+          "game_id": 837,
+          "year": 2024,
+          "stage": "\u00e5ttondelsfinal",
+          "stage_level": 2,
+          "winner": "p2",
+          "name": "Filippa Berencreutz",
+          "score": 10,
+          "score_share": 0.625,
+          "win_prob": 0.5693414446164538,
+          "opponent_name": "Bj\u00f6rn Berglund",
+          "opponent_score": 6,
+          "opponent_score_share": 0.375,
+          "opponent_win_prob": 0.43065855538354625,
+          "is_winner": true,
+          "opponent_slug": "bjorn-berglund",
+          "opponent_hist_score_share": 0.5899186767752944
+        },
+        {
+          "game_id": 842,
+          "year": 2024,
+          "stage": "kvartsfinal",
+          "stage_level": 3,
+          "winner": "p1",
+          "name": "Filippa Berencreutz",
+          "score": 5,
+          "score_share": 0.3125,
+          "win_prob": 0.3959358087349678,
+          "opponent_name": "Theodore Ripman",
+          "opponent_score": 11,
+          "opponent_score_share": 0.6875,
+          "opponent_win_prob": 0.6040641912650322,
+          "is_winner": false,
+          "opponent_slug": "theodore-ripman",
+          "opponent_hist_score_share": 0.5710964566774074
+        }
+      ],
+      "n_games": 5,
+      "n_wins": 4
     }
   ],
-  "best_stage": "\u00e5ttondelsfinal",
+  "best_stage": "kvartsfinal",
   "best_stage_years": [
-    2023
+    2024
   ]
 }

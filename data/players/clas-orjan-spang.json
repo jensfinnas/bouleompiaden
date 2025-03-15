@@ -1,0 +1,119 @@
+{
+  "n_games": 2,
+  "score_share": 0.15714285714285714,
+  "n_wins": 0,
+  "years": [
+    2024
+  ],
+  "win_rate": 0.0,
+  "opponent_score_share": 0.5304644640637629,
+  "skill": 13.000860988121767,
+  "skill_sigma": 71.06023859664944,
+  "name": "Clas \u00d6rjan Sp\u00e5ng",
+  "slug": "clas-orjan-spang",
+  "skill_rank": 152.0,
+  "skill_rank_pct": 152.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      null
+    ],
+    [
+      2016,
+      null
+    ],
+    [
+      2017,
+      null
+    ],
+    [
+      2018,
+      null
+    ],
+    [
+      2019,
+      null
+    ],
+    [
+      2020,
+      null
+    ],
+    [
+      2021,
+      null
+    ],
+    [
+      2022,
+      null
+    ],
+    [
+      2023,
+      null
+    ],
+    [
+      2024,
+      13.0
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2024,
+      "last_game": {
+        "opponent_name": "Theodore Ripman",
+        "opponent_slug": "theodore-ripman",
+        "score": 1,
+        "opponent_score": 9,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "games": [
+        {
+          "game_id": 800,
+          "year": 2024,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Clas \u00d6rjan Sp\u00e5ng",
+          "score": 3,
+          "score_share": 0.21428571428571427,
+          "win_prob": 0.6413728695970659,
+          "opponent_name": "Erika Andersson",
+          "opponent_score": 11,
+          "opponent_score_share": 0.7857142857142857,
+          "opponent_win_prob": 0.35862713040293415,
+          "is_winner": false,
+          "opponent_slug": "erika-andersson",
+          "opponent_hist_score_share": 0.4898324714501185
+        },
+        {
+          "game_id": 774,
+          "year": 2024,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Clas \u00d6rjan Sp\u00e5ng",
+          "score": 1,
+          "score_share": 0.1,
+          "win_prob": 0.20897006121073214,
+          "opponent_name": "Theodore Ripman",
+          "opponent_score": 9,
+          "opponent_score_share": 0.9,
+          "opponent_win_prob": 0.7910299387892679,
+          "is_winner": false,
+          "opponent_slug": "theodore-ripman",
+          "opponent_hist_score_share": 0.5710964566774074
+        }
+      ],
+      "n_games": 2,
+      "n_wins": 0
+    }
+  ],
+  "best_stage": "gruppspel",
+  "best_stage_years": [
+    2024
+  ]
+}

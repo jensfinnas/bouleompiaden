@@ -1,7 +1,7 @@
 {
-  "n_games": 20,
-  "score_share": 0.38998601072130484,
-  "n_wins": 5,
+  "n_games": 23,
+  "score_share": 0.4011214843695662,
+  "n_wins": 7,
   "years": [
     2017,
     2018,
@@ -9,16 +9,17 @@
     2020,
     2021,
     2022,
-    2023
+    2023,
+    2024
   ],
-  "win_rate": 0.25,
-  "opponent_score_share": 0.4563674713050451,
-  "skill": 23.025349542819,
-  "skill_sigma": 30.59726521575309,
+  "win_rate": 0.30434782608695654,
+  "opponent_score_share": 0.46657072348306644,
+  "skill": 55.015369029914986,
+  "skill_sigma": 27.492427751176784,
   "name": "Sofia \u00d6rning",
   "slug": "sofia-orning",
-  "skill_rank": 134.0,
-  "skill_rank_pct": 134.0,
+  "skill_rank": 113.0,
+  "skill_rank_pct": 113.0,
   "skill_history": [
     [
       2011,
@@ -59,6 +60,10 @@
     [
       2023,
       23.0
+    ],
+    [
+      2024,
+      55.0
     ]
   ],
   "tournaments": [
@@ -140,7 +145,7 @@
           "opponent_win_prob": 0.6933664892883382,
           "is_winner": true,
           "opponent_slug": "johan-kjell",
-          "opponent_hist_score_share": 0.5870032732503708
+          "opponent_hist_score_share": 0.6040345989993392
         },
         {
           "game_id": 208,
@@ -227,7 +232,7 @@
           "opponent_win_prob": 0.6655266330439638,
           "is_winner": true,
           "opponent_slug": "olle-nyren",
-          "opponent_hist_score_share": 0.32150706436420723
+          "opponent_hist_score_share": 0.3392216117216117
         },
         {
           "game_id": 320,
@@ -263,7 +268,7 @@
           "opponent_win_prob": 0.9471227069030091,
           "is_winner": false,
           "opponent_slug": "erik-nordenankar",
-          "opponent_hist_score_share": 0.679882946820159
+          "opponent_hist_score_share": 0.6808699289679294
         }
       ],
       "n_games": 3,
@@ -419,7 +424,7 @@
           "opponent_win_prob": 0.9652758513119584,
           "is_winner": false,
           "opponent_slug": "benjamin-ger-hed",
-          "opponent_hist_score_share": 0.614286949352186
+          "opponent_hist_score_share": 0.6311029571727272
         }
       ],
       "n_games": 4,
@@ -503,7 +508,7 @@
           "opponent_win_prob": 0.9565173332437857,
           "is_winner": false,
           "opponent_slug": "johannes-nordenhaag",
-          "opponent_hist_score_share": 0.5987708370061311
+          "opponent_hist_score_share": 0.5879740789775392
         },
         {
           "game_id": 718,
@@ -526,6 +531,75 @@
       ],
       "n_games": 2,
       "n_wins": 0
+    },
+    {
+      "year": 2024,
+      "last_game": {
+        "opponent_name": "Johan Kjell",
+        "opponent_slug": "johan-kjell",
+        "score": 1,
+        "opponent_score": 10,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "games": [
+        {
+          "game_id": 805,
+          "year": 2024,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Sofia \u00d6rning",
+          "score": 9,
+          "score_share": 0.6428571428571429,
+          "win_prob": 0.2453993693364619,
+          "opponent_name": "Tommy Damstr\u00f6m",
+          "opponent_score": 5,
+          "opponent_score_share": 0.35714285714285715,
+          "opponent_win_prob": 0.7546006306635381,
+          "is_winner": true,
+          "opponent_slug": "tommy-damstrom",
+          "opponent_hist_score_share": 0.42766955266955264
+        },
+        {
+          "game_id": 771,
+          "year": 2024,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Sofia \u00d6rning",
+          "score": 9,
+          "score_share": 0.6923076923076923,
+          "win_prob": 0.05929502654021346,
+          "opponent_name": "Jerker Karlsson",
+          "opponent_score": 4,
+          "opponent_score_share": 0.3076923076923077,
+          "opponent_win_prob": 0.9407049734597865,
+          "is_winner": true,
+          "opponent_slug": "jerker-karlsson",
+          "opponent_hist_score_share": 0.5303209572946416
+        },
+        {
+          "game_id": 787,
+          "year": 2024,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Sofia \u00d6rning",
+          "score": 1,
+          "score_share": 0.09090909090909091,
+          "win_prob": 0.04684020163000813,
+          "opponent_name": "Johan Kjell",
+          "opponent_score": 10,
+          "opponent_score_share": 0.9090909090909091,
+          "opponent_win_prob": 0.9531597983699919,
+          "is_winner": false,
+          "opponent_slug": "johan-kjell",
+          "opponent_hist_score_share": 0.6040345989993392
+        }
+      ],
+      "n_games": 3,
+      "n_wins": 2
     }
   ],
   "best_stage": "sextondelsfinal",

@@ -1,7 +1,7 @@
 {
-  "n_games": 17,
-  "score_share": 0.33566966962295686,
-  "n_wins": 3,
+  "n_games": 20,
+  "score_share": 0.32542617105117105,
+  "n_wins": 4,
   "years": [
     2012,
     2016,
@@ -10,16 +10,17 @@
     2019,
     2020,
     2021,
-    2022
+    2022,
+    2024
   ],
-  "win_rate": 0.17647058823529413,
-  "opponent_score_share": 0.5054463767165486,
-  "skill": 2.4596835283782847,
-  "skill_sigma": 37.592522257149675,
+  "win_rate": 0.2,
+  "opponent_score_share": 0.5160850002897315,
+  "skill": 37.64145209175494,
+  "skill_sigma": 32.33857948430788,
   "name": "Johanna R\u00e5dstr\u00f6m",
   "slug": "johanna-radstrom",
-  "skill_rank": 156.0,
-  "skill_rank_pct": 156.0,
+  "skill_rank": 128.0,
+  "skill_rank_pct": 128.0,
   "skill_history": [
     [
       2011,
@@ -60,6 +61,10 @@
     [
       2023,
       null
+    ],
+    [
+      2024,
+      38.0
     ]
   ],
   "tournaments": [
@@ -159,7 +164,7 @@
           "opponent_win_prob": 0.18725922235921538,
           "is_winner": true,
           "opponent_slug": "sofia-radstrom",
-          "opponent_hist_score_share": 0.33582760376878024
+          "opponent_hist_score_share": 0.3168362831464436
         }
       ],
       "n_games": 2,
@@ -294,7 +299,7 @@
           "opponent_win_prob": 0.9468682057236422,
           "is_winner": false,
           "opponent_slug": "hannes-jordan",
-          "opponent_hist_score_share": 0.5230629419600008
+          "opponent_hist_score_share": 0.5631626845679133
         },
         {
           "game_id": 260,
@@ -345,7 +350,7 @@
           "opponent_win_prob": 0.8077914640938769,
           "is_winner": false,
           "opponent_slug": "jon-jeppson",
-          "opponent_hist_score_share": 0.5966064708711767
+          "opponent_hist_score_share": 0.5860384917370212
         },
         {
           "game_id": 400,
@@ -447,7 +452,7 @@
           "opponent_win_prob": 0.9962709379937241,
           "is_winner": false,
           "opponent_slug": "benjamin-ger-hed",
-          "opponent_hist_score_share": 0.614286949352186
+          "opponent_hist_score_share": 0.6311029571727272
         },
         {
           "game_id": 609,
@@ -483,7 +488,76 @@
           "opponent_win_prob": 0.997578608980019,
           "is_winner": false,
           "opponent_slug": "gabriel-nordenankar",
-          "opponent_hist_score_share": 0.6508376694877611
+          "opponent_hist_score_share": 0.6495889153220986
+        }
+      ],
+      "n_games": 3,
+      "n_wins": 1
+    },
+    {
+      "year": 2024,
+      "last_game": {
+        "opponent_name": "Robin Linderborg",
+        "opponent_slug": "robin-linderborg",
+        "score": 9,
+        "opponent_score": 8,
+        "is_winner": true,
+        "stage": "gruppspel"
+      },
+      "games": [
+        {
+          "game_id": 797,
+          "year": 2024,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Johanna R\u00e5dstr\u00f6m",
+          "score": 1,
+          "score_share": 0.09090909090909091,
+          "win_prob": 0.08396865084266414,
+          "opponent_name": "Hannes Jordan",
+          "opponent_score": 10,
+          "opponent_score_share": 0.9090909090909091,
+          "opponent_win_prob": 0.9160313491573359,
+          "is_winner": false,
+          "opponent_slug": "hannes-jordan",
+          "opponent_hist_score_share": 0.5631626845679133
+        },
+        {
+          "game_id": 815,
+          "year": 2024,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Johanna R\u00e5dstr\u00f6m",
+          "score": 2,
+          "score_share": 0.18181818181818182,
+          "win_prob": 0.1250861622136779,
+          "opponent_name": "Lovisa Birgersson",
+          "opponent_score": 9,
+          "opponent_score_share": 0.8181818181818182,
+          "opponent_win_prob": 0.8749138377863221,
+          "is_winner": false,
+          "opponent_slug": "lovisa-birgersson",
+          "opponent_hist_score_share": 0.5785867334069948
+        },
+        {
+          "game_id": 784,
+          "year": 2024,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Johanna R\u00e5dstr\u00f6m",
+          "score": 9,
+          "score_share": 0.5294117647058824,
+          "win_prob": 0.021433238388787745,
+          "opponent_name": "Robin Linderborg",
+          "opponent_score": 8,
+          "opponent_score_share": 0.47058823529411764,
+          "opponent_win_prob": 0.9785667616112123,
+          "is_winner": true,
+          "opponent_slug": "robin-linderborg",
+          "opponent_hist_score_share": 0.5612544871320962
         }
       ],
       "n_games": 3,

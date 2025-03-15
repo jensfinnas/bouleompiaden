@@ -1,0 +1,155 @@
+{
+  "n_games": 4,
+  "score_share": 0.48775946275946275,
+  "n_wins": 2,
+  "years": [
+    2024
+  ],
+  "win_rate": 0.5,
+  "opponent_score_share": 0.5166810695087167,
+  "skill": 127.71717240594519,
+  "skill_sigma": 53.08759029685284,
+  "name": "Folke Nordenankar",
+  "slug": "folke-nordenankar",
+  "skill_rank": 60.0,
+  "skill_rank_pct": 60.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      null
+    ],
+    [
+      2016,
+      null
+    ],
+    [
+      2017,
+      null
+    ],
+    [
+      2018,
+      null
+    ],
+    [
+      2019,
+      null
+    ],
+    [
+      2020,
+      null
+    ],
+    [
+      2021,
+      null
+    ],
+    [
+      2022,
+      null
+    ],
+    [
+      2023,
+      null
+    ],
+    [
+      2024,
+      128.0
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2024,
+      "last_game": {
+        "opponent_name": "Pelle Dovborg",
+        "opponent_slug": "pelle-dovborg",
+        "score": 8,
+        "opponent_score": 10,
+        "is_winner": false,
+        "stage": "sextondelsfinal"
+      },
+      "games": [
+        {
+          "game_id": 775,
+          "year": 2024,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Folke Nordenankar",
+          "score": 10,
+          "score_share": 0.7142857142857143,
+          "win_prob": 0.6465553721789925,
+          "opponent_name": "Erika Andersson",
+          "opponent_score": 4,
+          "opponent_score_share": 0.2857142857142857,
+          "opponent_win_prob": 0.3534446278210075,
+          "is_winner": true,
+          "opponent_slug": "erika-andersson",
+          "opponent_hist_score_share": 0.4898324714501185
+        },
+        {
+          "game_id": 808,
+          "year": 2024,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Folke Nordenankar",
+          "score": 9,
+          "score_share": 0.6923076923076923,
+          "win_prob": 0.4795682799187262,
+          "opponent_name": "Kusha Bahrami",
+          "opponent_score": 4,
+          "opponent_score_share": 0.3076923076923077,
+          "opponent_win_prob": 0.5204317200812738,
+          "is_winner": true,
+          "opponent_slug": "kusha-bahrami",
+          "opponent_hist_score_share": 0.4486967417114476
+        },
+        {
+          "game_id": 790,
+          "year": 2024,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Folke Nordenankar",
+          "score": 1,
+          "score_share": 0.1,
+          "win_prob": 0.293384126291367,
+          "opponent_name": "Theodore Ripman",
+          "opponent_score": 9,
+          "opponent_score_share": 0.9,
+          "opponent_win_prob": 0.706615873708633,
+          "is_winner": false,
+          "opponent_slug": "theodore-ripman",
+          "opponent_hist_score_share": 0.5710964566774074
+        },
+        {
+          "game_id": 821,
+          "year": 2024,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p1",
+          "name": "Folke Nordenankar",
+          "score": 8,
+          "score_share": 0.4444444444444444,
+          "win_prob": 0.3505338986885683,
+          "opponent_name": "Pelle Dovborg",
+          "opponent_score": 10,
+          "opponent_score_share": 0.5555555555555556,
+          "opponent_win_prob": 0.6494661013114317,
+          "is_winner": false,
+          "opponent_slug": "pelle-dovborg",
+          "opponent_hist_score_share": 0.5570986081958933
+        }
+      ],
+      "n_games": 4,
+      "n_wins": 2
+    }
+  ],
+  "best_stage": "sextondelsfinal",
+  "best_stage_years": [
+    2024
+  ]
+}

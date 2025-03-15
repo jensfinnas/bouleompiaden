@@ -10,7 +10,7 @@
     2023
   ],
   "win_rate": 0.4666666666666667,
-  "opponent_score_share": 0.49856648440419604,
+  "opponent_score_share": 0.5002747181009389,
   "skill": 135.53280840443693,
   "skill_sigma": 28.076721204334657,
   "name": "Mina Kheirkhah",
@@ -57,6 +57,10 @@
     [
       2023,
       136.0
+    ],
+    [
+      2024,
+      null
     ]
   ],
   "tournaments": [
@@ -243,7 +247,7 @@
           "opponent_win_prob": 0.2839021121928391,
           "is_winner": false,
           "opponent_slug": "filippa-berencreutz",
-          "opponent_hist_score_share": 0.5345458055016878
+          "opponent_hist_score_share": 0.5570843587097457
         },
         {
           "game_id": 370,
@@ -294,7 +298,7 @@
           "opponent_win_prob": 0.822070313846803,
           "is_winner": true,
           "opponent_slug": "theodore-ripman",
-          "opponent_hist_score_share": 0.5597932488790567
+          "opponent_hist_score_share": 0.5710964566774074
         },
         {
           "game_id": 525,
@@ -312,7 +316,7 @@
           "opponent_win_prob": 0.5067130867947659,
           "is_winner": false,
           "opponent_slug": "robin-linderborg",
-          "opponent_hist_score_share": 0.569941409165547
+          "opponent_hist_score_share": 0.5612544871320962
         }
       ],
       "n_games": 2,
@@ -381,7 +385,7 @@
           "opponent_win_prob": 0.47407657400489045,
           "is_winner": false,
           "opponent_slug": "lovisa-birgersson",
-          "opponent_hist_score_share": 0.5781180669288086
+          "opponent_hist_score_share": 0.5785867334069948
         },
         {
           "game_id": 742,

@@ -1,18 +1,19 @@
 {
-  "n_games": 5,
-  "score_share": 0.3945915032679738,
+  "n_games": 8,
+  "score_share": 0.4056416316526611,
   "n_wins": 3,
   "years": [
-    2021
+    2021,
+    2024
   ],
-  "win_rate": 0.6,
-  "opponent_score_share": 0.44958692471856593,
-  "skill": 127.84648352629836,
-  "skill_sigma": 49.16330109690908,
+  "win_rate": 0.375,
+  "opponent_score_share": 0.4656120341969197,
+  "skill": 86.21053414868847,
+  "skill_sigma": 40.01283919522005,
   "name": "Chris Lowe",
   "slug": "chris-lowe",
-  "skill_rank": 58.0,
-  "skill_rank_pct": 58.0,
+  "skill_rank": 96.0,
+  "skill_rank_pct": 96.0,
   "skill_history": [
     [
       2011,
@@ -53,6 +54,10 @@
     [
       2023,
       null
+    ],
+    [
+      2024,
+      86.0
     ]
   ],
   "tournaments": [
@@ -137,7 +142,7 @@
           "opponent_win_prob": 0.5325928561612765,
           "is_winner": true,
           "opponent_slug": "bjorn-berglund",
-          "opponent_hist_score_share": 0.5912036941816353
+          "opponent_hist_score_share": 0.5899186767752944
         },
         {
           "game_id": 538,
@@ -155,11 +160,80 @@
           "opponent_win_prob": 0.7266423623151411,
           "is_winner": false,
           "opponent_slug": "theodore-ripman",
-          "opponent_hist_score_share": 0.5597932488790567
+          "opponent_hist_score_share": 0.5710964566774074
         }
       ],
       "n_games": 5,
       "n_wins": 3
+    },
+    {
+      "year": 2024,
+      "last_game": {
+        "opponent_name": "Jon Jeppson",
+        "opponent_slug": "jon-jeppson",
+        "score": 8,
+        "opponent_score": 10,
+        "is_winner": false,
+        "stage": "sextondelsfinal"
+      },
+      "games": [
+        {
+          "game_id": 793,
+          "year": 2024,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Chris Lowe",
+          "score": 5,
+          "score_share": 0.35714285714285715,
+          "win_prob": 0.5176335956164372,
+          "opponent_name": "Ville Nordenankar",
+          "opponent_score": 9,
+          "opponent_score_share": 0.6428571428571429,
+          "opponent_win_prob": 0.4823664043835628,
+          "is_winner": false,
+          "opponent_slug": "ville-nordenankar",
+          "opponent_hist_score_share": 0.4457742488992489
+        },
+        {
+          "game_id": 811,
+          "year": 2024,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Chris Lowe",
+          "score": 8,
+          "score_share": 0.47058823529411764,
+          "win_prob": 0.47737329480461804,
+          "opponent_name": "Sixten R\u00e5dstr\u00f6m",
+          "opponent_score": 9,
+          "opponent_score_share": 0.5294117647058824,
+          "opponent_win_prob": 0.5226267051953819,
+          "is_winner": false,
+          "opponent_slug": "sixten-radstrom",
+          "opponent_hist_score_share": 0.4351307189542484
+        },
+        {
+          "game_id": 818,
+          "year": 2024,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p1",
+          "name": "Chris Lowe",
+          "score": 8,
+          "score_share": 0.4444444444444444,
+          "win_prob": 0.16489852357072843,
+          "opponent_name": "Jon Jeppson",
+          "opponent_score": 10,
+          "opponent_score_share": 0.5555555555555556,
+          "opponent_win_prob": 0.8351014764292716,
+          "is_winner": false,
+          "opponent_slug": "jon-jeppson",
+          "opponent_hist_score_share": 0.5860384917370212
+        }
+      ],
+      "n_games": 3,
+      "n_wins": 0
     }
   ],
   "best_stage": "\u00e5ttondelsfinal",

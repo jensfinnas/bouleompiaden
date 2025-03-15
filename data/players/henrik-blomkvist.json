@@ -6,13 +6,13 @@
     2011
   ],
   "win_rate": 0.5,
-  "opponent_score_share": 0.5952968655526205,
+  "opponent_score_share": 0.5983694130391508,
   "skill": 124.7189196809611,
   "skill_sigma": 57.75703053348684,
   "name": "Henrik Blomkvist",
   "slug": "henrik-blomkvist",
-  "skill_rank": 63.0,
-  "skill_rank_pct": 63.0,
+  "skill_rank": 66.0,
+  "skill_rank_pct": 66.0,
   "skill_history": [
     [
       2011,
@@ -53,6 +53,10 @@
     [
       2023,
       null
+    ],
+    [
+      2024,
+      null
     ]
   ],
   "tournaments": [
@@ -83,7 +87,7 @@
           "opponent_win_prob": 0.631853259570434,
           "is_winner": false,
           "opponent_slug": "theodore-ripman",
-          "opponent_hist_score_share": 0.5597932488790567
+          "opponent_hist_score_share": 0.5710964566774074
         },
         {
           "game_id": 10,
@@ -137,7 +141,7 @@
           "opponent_win_prob": 0.4288144742053944,
           "is_winner": false,
           "opponent_slug": "erik-nordenankar",
-          "opponent_hist_score_share": 0.679882946820159
+          "opponent_hist_score_share": 0.6808699289679294
         }
       ],
       "n_games": 4,

@@ -69,7 +69,7 @@
         },
         {
           "p1_name": "Jens Finn\u00e4s",
-          "p2_name": "Caroline Verst\u00e4ndig",
+          "p2_name": "Karolina Widerstr\u00f6m",
           "p1_score": 9,
           "p2_score": 7,
           "winner": "p1"
@@ -262,7 +262,7 @@
   "top_performers": [
     {
       "name": "Jonas Nygren",
-      "performance": 0.5443191769815386
+      "performance": 0.5443180689375113
     },
     {
       "name": "Bj\u00f6rn Berglund",
@@ -277,32 +277,28 @@
       "performance": 0.37792854866561004
     },
     {
+      "name": "Caroline Verst\u00e4ndig",
+      "performance": 0.34005764079574224
+    },
+    {
       "name": "Robin Linderborg",
       "performance": 0.329756410751996
     },
     {
-      "name": "Karolina Widerstr\u00f6m",
-      "performance": 0.22926970742230704
-    },
-    {
       "name": "Benjamin Ger. Hed.",
-      "performance": 0.22624339835978513
-    },
-    {
-      "name": "Jens Finn\u00e4s",
-      "performance": 0.2039915399787558
+      "performance": 0.22540131122923276
     },
     {
       "name": "Filippa Berencreutz",
       "performance": 0.20354743599907826
     },
     {
-      "name": "Calle Buddee Roos",
-      "performance": 0.18575897215267687
+      "name": "Jens Finn\u00e4s",
+      "performance": 0.19961332555023267
     },
     {
-      "name": "Caroline Verst\u00e4ndig",
-      "performance": 0.14888336889172826
+      "name": "Calle Buddee Roos",
+      "performance": 0.18570338642224848
     },
     {
       "name": "Tim Samuelsson",
@@ -319,6 +315,10 @@
     {
       "name": "Simon Fridh",
       "performance": 0.09583645608478464
+    },
+    {
+      "name": "Pelle Dovborg",
+      "performance": 0.07917535014174383
     }
   ],
   "top_low_prob_winners": [
@@ -373,7 +373,7 @@
     {
       "winner_name": "Jonas Nygren",
       "loser_name": "Gabriel Nordenankar",
-      "winner_win_prob": 0.2640575539562688,
+      "winner_win_prob": 0.26406641830848726,
       "stage": "final"
     },
     {

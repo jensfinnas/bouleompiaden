@@ -1,23 +1,24 @@
 {
-  "n_games": 20,
-  "score_share": 0.5912036941816353,
-  "n_wins": 10,
+  "n_games": 24,
+  "score_share": 0.5899186767752944,
+  "n_wins": 13,
   "years": [
     2018,
     2019,
     2020,
     2021,
     2022,
-    2023
+    2023,
+    2024
   ],
-  "win_rate": 0.5,
-  "opponent_score_share": 0.4951496088587269,
-  "skill": 146.28378567886526,
-  "skill_sigma": 26.530444345589544,
+  "win_rate": 0.5416666666666666,
+  "opponent_score_share": 0.5000190142941386,
+  "skill": 160.72950333214013,
+  "skill_sigma": 23.465362292719643,
   "name": "Bj\u00f6rn Berglund",
   "slug": "bjorn-berglund",
-  "skill_rank": 42.0,
-  "skill_rank_pct": 42.0,
+  "skill_rank": 32.0,
+  "skill_rank_pct": 32.0,
   "skill_history": [
     [
       2011,
@@ -58,6 +59,10 @@
     [
       2023,
       146.0
+    ],
+    [
+      2024,
+      161.0
     ]
   ],
   "tournaments": [
@@ -106,7 +111,7 @@
           "opponent_win_prob": 0.5920441515589089,
           "is_winner": false,
           "opponent_slug": "theodore-ripman",
-          "opponent_hist_score_share": 0.5597932488790567
+          "opponent_hist_score_share": 0.5710964566774074
         }
       ],
       "n_games": 2,
@@ -175,7 +180,7 @@
           "opponent_win_prob": 0.7799821506628273,
           "is_winner": false,
           "opponent_slug": "benjamin-ger-hed",
-          "opponent_hist_score_share": 0.614286949352186
+          "opponent_hist_score_share": 0.6311029571727272
         }
       ],
       "n_games": 3,
@@ -208,7 +213,7 @@
           "opponent_win_prob": 0.976864510115324,
           "is_winner": false,
           "opponent_slug": "gabriel-nordenankar",
-          "opponent_hist_score_share": 0.6508376694877611
+          "opponent_hist_score_share": 0.6495889153220986
         },
         {
           "game_id": 406,
@@ -313,7 +318,7 @@
           "opponent_win_prob": 0.7915734658062761,
           "is_winner": true,
           "opponent_slug": "robin-linderborg",
-          "opponent_hist_score_share": 0.569941409165547
+          "opponent_hist_score_share": 0.5612544871320962
         },
         {
           "game_id": 523,
@@ -331,7 +336,7 @@
           "opponent_win_prob": 0.4674071438387235,
           "is_winner": false,
           "opponent_slug": "chris-lowe",
-          "opponent_hist_score_share": 0.3945915032679738
+          "opponent_hist_score_share": 0.4056416316526611
         }
       ],
       "n_games": 3,
@@ -400,7 +405,7 @@
           "opponent_win_prob": 0.4794157031075971,
           "is_winner": true,
           "opponent_slug": "johannes-nordenhaag",
-          "opponent_hist_score_share": 0.5987708370061311
+          "opponent_hist_score_share": 0.5879740789775392
         }
       ],
       "n_games": 3,
@@ -487,7 +492,7 @@
           "opponent_win_prob": 0.6812852203515323,
           "is_winner": true,
           "opponent_slug": "jon-jeppson",
-          "opponent_hist_score_share": 0.5966064708711767
+          "opponent_hist_score_share": 0.5860384917370212
         },
         {
           "game_id": 763,
@@ -505,11 +510,98 @@
           "opponent_win_prob": 0.9059486934197086,
           "is_winner": false,
           "opponent_slug": "gabriel-nordenankar",
-          "opponent_hist_score_share": 0.6508376694877611
+          "opponent_hist_score_share": 0.6495889153220986
         }
       ],
       "n_games": 5,
       "n_wins": 4
+    },
+    {
+      "year": 2024,
+      "last_game": {
+        "opponent_name": "Filippa Berencreutz",
+        "opponent_slug": "filippa-berencreutz",
+        "score": 6,
+        "opponent_score": 10,
+        "is_winner": false,
+        "stage": "\u00e5ttondelsfinal"
+      },
+      "games": [
+        {
+          "game_id": 776,
+          "year": 2024,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Bj\u00f6rn Berglund",
+          "score": 9,
+          "score_share": 0.6923076923076923,
+          "win_prob": 0.6279166260313778,
+          "opponent_name": "Kusha Bahrami",
+          "opponent_score": 4,
+          "opponent_score_share": 0.3076923076923077,
+          "opponent_win_prob": 0.37208337396862223,
+          "is_winner": true,
+          "opponent_slug": "kusha-bahrami",
+          "opponent_hist_score_share": 0.4486967417114476
+        },
+        {
+          "game_id": 791,
+          "year": 2024,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Bj\u00f6rn Berglund",
+          "score": 9,
+          "score_share": 0.6,
+          "win_prob": 0.298112728223241,
+          "opponent_name": "Olle Strandberg",
+          "opponent_score": 6,
+          "opponent_score_share": 0.4,
+          "opponent_win_prob": 0.701887271776759,
+          "is_winner": true,
+          "opponent_slug": "olle-strandberg",
+          "opponent_hist_score_share": 0.6284587088539505
+        },
+        {
+          "game_id": 826,
+          "year": 2024,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p1",
+          "name": "Bj\u00f6rn Berglund",
+          "score": 10,
+          "score_share": 0.6666666666666666,
+          "win_prob": 0.5839345708085688,
+          "opponent_name": "Sara Welff",
+          "opponent_score": 5,
+          "opponent_score_share": 0.3333333333333333,
+          "opponent_win_prob": 0.4160654291914312,
+          "is_winner": true,
+          "opponent_slug": "sara-welff",
+          "opponent_hist_score_share": 0.4566041801335919
+        },
+        {
+          "game_id": 837,
+          "year": 2024,
+          "stage": "\u00e5ttondelsfinal",
+          "stage_level": 2,
+          "winner": "p2",
+          "name": "Bj\u00f6rn Berglund",
+          "score": 6,
+          "score_share": 0.375,
+          "win_prob": 0.43065855538354625,
+          "opponent_name": "Filippa Berencreutz",
+          "opponent_score": 10,
+          "opponent_score_share": 0.625,
+          "opponent_win_prob": 0.5693414446164538,
+          "is_winner": false,
+          "opponent_slug": "filippa-berencreutz",
+          "opponent_hist_score_share": 0.5570843587097457
+        }
+      ],
+      "n_games": 4,
+      "n_wins": 3
     }
   ],
   "best_stage": "kvartsfinal",
