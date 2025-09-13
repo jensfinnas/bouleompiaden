@@ -1,21 +1,22 @@
 {
-  "n_games": 12,
-  "score_share": 0.4416463599609884,
-  "n_wins": 5,
+  "n_games": 16,
+  "score_share": 0.4735299747659461,
+  "n_wins": 7,
   "years": [
     2020,
     2021,
     2022,
-    2023
+    2023,
+    2025
   ],
-  "win_rate": 0.4166666666666667,
-  "opponent_score_share": 0.5248002856008568,
-  "skill": 127.04613609202593,
-  "skill_sigma": 31.370095875021168,
+  "win_rate": 0.4375,
+  "opponent_score_share": 0.5108107486362666,
+  "skill": 128.74662044846153,
+  "skill_sigma": 27.18369323086865,
   "name": "Emma Bergmark",
   "slug": "emma-bergmark",
-  "skill_rank": 61.0,
-  "skill_rank_pct": 61.0,
+  "skill_rank": 57.0,
+  "skill_rank_pct": 57.0,
   "skill_history": [
     [
       2011,
@@ -60,6 +61,10 @@
     [
       2024,
       null
+    ],
+    [
+      2025,
+      129.0
     ]
   ],
   "tournaments": [
@@ -90,7 +95,7 @@
           "opponent_win_prob": 0.788913628118646,
           "is_winner": true,
           "opponent_slug": "gabriel-nordenankar",
-          "opponent_hist_score_share": 0.6495889153220986
+          "opponent_hist_score_share": 0.6605136495334323
         },
         {
           "game_id": 382,
@@ -159,7 +164,7 @@
           "opponent_win_prob": 0.23105945723671417,
           "is_winner": false,
           "opponent_slug": "filippa-berencreutz",
-          "opponent_hist_score_share": 0.5570843587097457
+          "opponent_hist_score_share": 0.5609186707012794
         },
         {
           "game_id": 503,
@@ -177,7 +182,7 @@
           "opponent_win_prob": 0.10223878690525763,
           "is_winner": false,
           "opponent_slug": "erik-numan",
-          "opponent_hist_score_share": 0.4878937512797705
+          "opponent_hist_score_share": 0.46364990195153843
         }
       ],
       "n_games": 2,
@@ -246,7 +251,7 @@
           "opponent_win_prob": 0.9056085807247457,
           "is_winner": false,
           "opponent_slug": "gabriel-nordenankar",
-          "opponent_hist_score_share": 0.6495889153220986
+          "opponent_hist_score_share": 0.6605136495334323
         }
       ],
       "n_games": 3,
@@ -279,7 +284,7 @@
           "opponent_win_prob": 0.39223410502391265,
           "is_winner": false,
           "opponent_slug": "ville-nordenankar",
-          "opponent_hist_score_share": 0.4457742488992489
+          "opponent_hist_score_share": 0.4262469368238599
         },
         {
           "game_id": 728,
@@ -297,7 +302,7 @@
           "opponent_win_prob": 0.6992319641516671,
           "is_winner": true,
           "opponent_slug": "jerker-karlsson",
-          "opponent_hist_score_share": 0.5303209572946416
+          "opponent_hist_score_share": 0.5263087714504718
         },
         {
           "game_id": 672,
@@ -333,7 +338,94 @@
           "opponent_win_prob": 0.930013886768519,
           "is_winner": false,
           "opponent_slug": "gabriel-nordenankar",
-          "opponent_hist_score_share": 0.6495889153220986
+          "opponent_hist_score_share": 0.6605136495334323
+        }
+      ],
+      "n_games": 4,
+      "n_wins": 2
+    },
+    {
+      "year": 2025,
+      "last_game": {
+        "opponent_name": "Filippa Berencreutz",
+        "opponent_slug": "filippa-berencreutz",
+        "score": 9,
+        "opponent_score": 12,
+        "is_winner": false,
+        "stage": "sextondelsfinal"
+      },
+      "games": [
+        {
+          "game_id": 864,
+          "year": 2025,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Emma Bergmark",
+          "score": 6,
+          "score_share": 0.42857142857142855,
+          "win_prob": 0.3265370327332524,
+          "opponent_name": "Edvin Lindsten",
+          "opponent_score": 8,
+          "opponent_score_share": 0.5714285714285714,
+          "opponent_win_prob": 0.6734629672667476,
+          "is_winner": false,
+          "opponent_slug": "edvin-lindsten",
+          "opponent_hist_score_share": 0.5631097566469083
+        },
+        {
+          "game_id": 900,
+          "year": 2025,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Emma Bergmark",
+          "score": 8,
+          "score_share": 0.7272727272727273,
+          "win_prob": 0.4788319396119456,
+          "opponent_name": "Ville Nordenankar",
+          "opponent_score": 3,
+          "opponent_score_share": 0.2727272727272727,
+          "opponent_win_prob": 0.5211680603880544,
+          "is_winner": true,
+          "opponent_slug": "ville-nordenankar",
+          "opponent_hist_score_share": 0.4262469368238599
+        },
+        {
+          "game_id": 915,
+          "year": 2025,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Emma Bergmark",
+          "score": 9,
+          "score_share": 0.6923076923076923,
+          "win_prob": 0.8283962176161768,
+          "opponent_name": "Johanna R\u00e5dstr\u00f6m",
+          "opponent_score": 4,
+          "opponent_score_share": 0.3076923076923077,
+          "opponent_win_prob": 0.17160378238382323,
+          "is_winner": true,
+          "opponent_slug": "johanna-radstrom",
+          "opponent_hist_score_share": 0.33626801942019335
+        },
+        {
+          "game_id": 931,
+          "year": 2025,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p1",
+          "name": "Emma Bergmark",
+          "score": 9,
+          "score_share": 0.42857142857142855,
+          "win_prob": 0.25535624181597383,
+          "opponent_name": "Filippa Berencreutz",
+          "opponent_score": 12,
+          "opponent_score_share": 0.5714285714285714,
+          "opponent_win_prob": 0.7446437581840262,
+          "is_winner": false,
+          "opponent_slug": "filippa-berencreutz",
+          "opponent_hist_score_share": 0.5609186707012794
         }
       ],
       "n_games": 4,

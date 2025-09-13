@@ -7,13 +7,13 @@
     2019
   ],
   "win_rate": 0.5,
-  "opponent_score_share": 0.5672818890526762,
+  "opponent_score_share": 0.5667651067524146,
   "skill": 108.82771618591043,
   "skill_sigma": 43.484028971553144,
   "name": "Charlotte Johansson",
   "slug": "charlotte-johansson",
-  "skill_rank": 78.0,
-  "skill_rank_pct": 78.0,
+  "skill_rank": 79.0,
+  "skill_rank_pct": 79.0,
   "skill_history": [
     [
       2011,
@@ -57,6 +57,10 @@
     ],
     [
       2024,
+      null
+    ],
+    [
+      2025,
       null
     ]
   ],
@@ -106,7 +110,7 @@
           "opponent_win_prob": 0.7395739329912017,
           "is_winner": true,
           "opponent_slug": "benjamin-ger-hed",
-          "opponent_hist_score_share": 0.6311029571727272
+          "opponent_hist_score_share": 0.6318897883013175
         },
         {
           "game_id": 227,
@@ -142,7 +146,7 @@
           "opponent_win_prob": 0.1305956364541747,
           "is_winner": false,
           "opponent_slug": "johan-kjell",
-          "opponent_hist_score_share": 0.6040345989993392
+          "opponent_hist_score_share": 0.6084677404065949
         }
       ],
       "n_games": 4,
@@ -193,7 +197,7 @@
           "opponent_win_prob": 0.08002353426926534,
           "is_winner": false,
           "opponent_slug": "bjorn-berglund",
-          "opponent_hist_score_share": 0.5899186767752944
+          "opponent_hist_score_share": 0.5815980104378797
         }
       ],
       "n_games": 2,

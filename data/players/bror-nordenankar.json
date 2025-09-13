@@ -1,19 +1,20 @@
 {
-  "n_games": 6,
-  "score_share": 0.2706002331002331,
-  "n_wins": 1,
+  "n_games": 10,
+  "score_share": 0.33286519036519036,
+  "n_wins": 3,
   "years": [
     2023,
-    2024
+    2024,
+    2025
   ],
-  "win_rate": 0.16666666666666666,
-  "opponent_score_share": 0.4999225208142246,
-  "skill": 30.21835249480263,
-  "skill_sigma": 51.81901803831406,
+  "win_rate": 0.3,
+  "opponent_score_share": 0.5007934780901906,
+  "skill": 71.09349249361303,
+  "skill_sigma": 40.98836775495034,
   "name": "Bror Nordenankar",
   "slug": "bror-nordenankar",
-  "skill_rank": 138.0,
-  "skill_rank_pct": 138.0,
+  "skill_rank": 111.0,
+  "skill_rank_pct": 111.0,
   "skill_history": [
     [
       2011,
@@ -58,6 +59,10 @@
     [
       2024,
       30.0
+    ],
+    [
+      2025,
+      71.0
     ]
   ],
   "tournaments": [
@@ -106,7 +111,7 @@
           "opponent_win_prob": 0.28199486130213874,
           "is_winner": true,
           "opponent_slug": "kajsa-hallberg-nor",
-          "opponent_hist_score_share": 0.24588014382132029
+          "opponent_hist_score_share": 0.24440404846979244
         },
         {
           "game_id": 733,
@@ -157,7 +162,7 @@
           "opponent_win_prob": 0.8229413944051249,
           "is_winner": false,
           "opponent_slug": "jakob-gustafsson",
-          "opponent_hist_score_share": 0.4804225409171934
+          "opponent_hist_score_share": 0.48171395597866185
         },
         {
           "game_id": 813,
@@ -175,7 +180,7 @@
           "opponent_win_prob": 0.9361851355903166,
           "is_winner": false,
           "opponent_slug": "johannes-nordenhaag",
-          "opponent_hist_score_share": 0.5879740789775392
+          "opponent_hist_score_share": 0.5865835226864639
         },
         {
           "game_id": 831,
@@ -193,15 +198,103 @@
           "opponent_win_prob": 0.9062219671440044,
           "is_winner": false,
           "opponent_slug": "hannes-jordan",
-          "opponent_hist_score_share": 0.5631626845679133
+          "opponent_hist_score_share": 0.5798265565343363
         }
       ],
       "n_games": 3,
       "n_wins": 0
+    },
+    {
+      "year": 2025,
+      "last_game": {
+        "opponent_name": "Johannes Nordenhaag",
+        "opponent_slug": "johannes-nordenhaag",
+        "score": 5,
+        "opponent_score": 10,
+        "is_winner": false,
+        "stage": "sextondelsfinal"
+      },
+      "games": [
+        {
+          "game_id": 850,
+          "year": 2025,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Bror Nordenankar",
+          "score": 8,
+          "score_share": 0.5333333333333333,
+          "win_prob": 0.5648909929172077,
+          "opponent_name": "Anna Malmqvist",
+          "opponent_score": 7,
+          "opponent_score_share": 0.4666666666666667,
+          "opponent_win_prob": 0.4351090070827923,
+          "is_winner": true,
+          "opponent_slug": "anna-malmqvist",
+          "opponent_hist_score_share": 0.32462121212121214
+        },
+        {
+          "game_id": 878,
+          "year": 2025,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Bror Nordenankar",
+          "score": 1,
+          "score_share": 0.1111111111111111,
+          "win_prob": 0.023942711137783342,
+          "opponent_name": "Erik Nordenankar",
+          "opponent_score": 8,
+          "opponent_score_share": 0.8888888888888888,
+          "opponent_win_prob": 0.9760572888622167,
+          "is_winner": false,
+          "opponent_slug": "erik-nordenankar",
+          "opponent_hist_score_share": 0.6713917107373603
+        },
+        {
+          "game_id": 907,
+          "year": 2025,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Bror Nordenankar",
+          "score": 8,
+          "score_share": 0.7272727272727273,
+          "win_prob": 0.27030960024374584,
+          "opponent_name": "Chris Lowe",
+          "opponent_score": 3,
+          "opponent_score_share": 0.2727272727272727,
+          "opponent_win_prob": 0.7296903997562542,
+          "is_winner": true,
+          "opponent_slug": "chris-lowe",
+          "opponent_hist_score_share": 0.4107145750862328
+        },
+        {
+          "game_id": 929,
+          "year": 2025,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p1",
+          "name": "Bror Nordenankar",
+          "score": 5,
+          "score_share": 0.3333333333333333,
+          "win_prob": 0.10413358642738313,
+          "opponent_name": "Johannes Nordenhaag",
+          "opponent_score": 10,
+          "opponent_score_share": 0.6666666666666666,
+          "opponent_win_prob": 0.8958664135726169,
+          "is_winner": false,
+          "opponent_slug": "johannes-nordenhaag",
+          "opponent_hist_score_share": 0.5865835226864639
+        }
+      ],
+      "n_games": 4,
+      "n_wins": 2
     }
   ],
   "best_stage": "sextondelsfinal",
   "best_stage_years": [
-    2024
+    2024,
+    2025
   ]
 }

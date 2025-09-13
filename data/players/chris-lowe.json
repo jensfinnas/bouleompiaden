@@ -1,19 +1,20 @@
 {
-  "n_games": 8,
-  "score_share": 0.4056416316526611,
-  "n_wins": 3,
+  "n_games": 11,
+  "score_share": 0.4107145750862328,
+  "n_wins": 4,
   "years": [
     2021,
-    2024
+    2024,
+    2025
   ],
-  "win_rate": 0.375,
-  "opponent_score_share": 0.4656120341969197,
-  "skill": 86.21053414868847,
-  "skill_sigma": 40.01283919522005,
+  "win_rate": 0.36363636363636365,
+  "opponent_score_share": 0.46337329781513753,
+  "skill": 85.3675203804698,
+  "skill_sigma": 33.06012874988931,
   "name": "Chris Lowe",
   "slug": "chris-lowe",
-  "skill_rank": 96.0,
-  "skill_rank_pct": 96.0,
+  "skill_rank": 99.0,
+  "skill_rank_pct": 99.0,
   "skill_history": [
     [
       2011,
@@ -58,6 +59,10 @@
     [
       2024,
       86.0
+    ],
+    [
+      2025,
+      85.0
     ]
   ],
   "tournaments": [
@@ -88,7 +93,7 @@
           "opponent_win_prob": 0.5819248497875111,
           "is_winner": false,
           "opponent_slug": "tim-samuelsson",
-          "opponent_hist_score_share": 0.5020184943261866
+          "opponent_hist_score_share": 0.5092587006714431
         },
         {
           "game_id": 499,
@@ -124,7 +129,7 @@
           "opponent_win_prob": 0.445600243350037,
           "is_winner": true,
           "opponent_slug": "linn-enhage",
-          "opponent_hist_score_share": 0.2980441862059509
+          "opponent_hist_score_share": 0.35837486420065606
         },
         {
           "game_id": 523,
@@ -142,7 +147,7 @@
           "opponent_win_prob": 0.5325928561612765,
           "is_winner": true,
           "opponent_slug": "bjorn-berglund",
-          "opponent_hist_score_share": 0.5899186767752944
+          "opponent_hist_score_share": 0.5815980104378797
         },
         {
           "game_id": 538,
@@ -160,7 +165,7 @@
           "opponent_win_prob": 0.7266423623151411,
           "is_winner": false,
           "opponent_slug": "theodore-ripman",
-          "opponent_hist_score_share": 0.5710964566774074
+          "opponent_hist_score_share": 0.5743604529581897
         }
       ],
       "n_games": 5,
@@ -193,7 +198,7 @@
           "opponent_win_prob": 0.4823664043835628,
           "is_winner": false,
           "opponent_slug": "ville-nordenankar",
-          "opponent_hist_score_share": 0.4457742488992489
+          "opponent_hist_score_share": 0.4262469368238599
         },
         {
           "game_id": 811,
@@ -211,7 +216,7 @@
           "opponent_win_prob": 0.5226267051953819,
           "is_winner": false,
           "opponent_slug": "sixten-radstrom",
-          "opponent_hist_score_share": 0.4351307189542484
+          "opponent_hist_score_share": 0.4392934951758481
         },
         {
           "game_id": 818,
@@ -234,6 +239,75 @@
       ],
       "n_games": 3,
       "n_wins": 0
+    },
+    {
+      "year": 2025,
+      "last_game": {
+        "opponent_name": "Bror Nordenankar",
+        "opponent_slug": "bror-nordenankar",
+        "score": 3,
+        "opponent_score": 8,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "games": [
+        {
+          "game_id": 893,
+          "year": 2025,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Chris Lowe",
+          "score": 8,
+          "score_share": 0.5333333333333333,
+          "win_prob": 0.2673263346209602,
+          "opponent_name": "Jerker Karlsson",
+          "opponent_score": 7,
+          "opponent_score_share": 0.4666666666666667,
+          "opponent_win_prob": 0.7326736653790398,
+          "is_winner": true,
+          "opponent_slug": "jerker-karlsson",
+          "opponent_hist_score_share": 0.5263087714504718
+        },
+        {
+          "game_id": 848,
+          "year": 2025,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Chris Lowe",
+          "score": 7,
+          "score_share": 0.4666666666666667,
+          "win_prob": 0.18835064474895047,
+          "opponent_name": "Jens Finn\u00e4s",
+          "opponent_score": 8,
+          "opponent_score_share": 0.5333333333333333,
+          "opponent_win_prob": 0.8116493552510495,
+          "is_winner": false,
+          "opponent_slug": "jens-finnas",
+          "opponent_hist_score_share": 0.4658863621459529
+        },
+        {
+          "game_id": 907,
+          "year": 2025,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Chris Lowe",
+          "score": 3,
+          "score_share": 0.2727272727272727,
+          "win_prob": 0.7296903997562542,
+          "opponent_name": "Bror Nordenankar",
+          "opponent_score": 8,
+          "opponent_score_share": 0.7272727272727273,
+          "opponent_win_prob": 0.27030960024374584,
+          "is_winner": false,
+          "opponent_slug": "bror-nordenankar",
+          "opponent_hist_score_share": 0.33286519036519036
+        }
+      ],
+      "n_games": 3,
+      "n_wins": 1
     }
   ],
   "best_stage": "\u00e5ttondelsfinal",

@@ -11,8 +11,8 @@
   "skill_sigma": 63.77939250092646,
   "name": "Joel Gustafsson",
   "slug": "joel-gustafsson",
-  "skill_rank": 114.0,
-  "skill_rank_pct": 114.0,
+  "skill_rank": 126.0,
+  "skill_rank_pct": 126.0,
   "skill_history": [
     [
       2011,
@@ -56,6 +56,10 @@
     ],
     [
       2024,
+      null
+    ],
+    [
+      2025,
       null
     ]
   ],

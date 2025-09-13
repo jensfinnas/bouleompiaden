@@ -1,0 +1,123 @@
+{
+  "n_games": 2,
+  "score_share": 0.2727272727272727,
+  "n_wins": 0,
+  "years": [
+    2025
+  ],
+  "win_rate": 0.0,
+  "opponent_score_share": 0.5743468627664202,
+  "skill": 30.527148664575442,
+  "skill_sigma": 72.00058215060491,
+  "name": "Jan Jordan",
+  "slug": "jan-jordan",
+  "skill_rank": 148.0,
+  "skill_rank_pct": 148.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      null
+    ],
+    [
+      2016,
+      null
+    ],
+    [
+      2017,
+      null
+    ],
+    [
+      2018,
+      null
+    ],
+    [
+      2019,
+      null
+    ],
+    [
+      2020,
+      null
+    ],
+    [
+      2021,
+      null
+    ],
+    [
+      2022,
+      null
+    ],
+    [
+      2023,
+      null
+    ],
+    [
+      2024,
+      null
+    ],
+    [
+      2025,
+      31.0
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2025,
+      "last_game": {
+        "opponent_name": "Simon Fridh",
+        "opponent_slug": "simon-fridh",
+        "score": 3,
+        "opponent_score": 8,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "games": [
+        {
+          "game_id": 853,
+          "year": 2025,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Jan Jordan",
+          "score": 3,
+          "score_share": 0.2727272727272727,
+          "win_prob": 0.4187990963639747,
+          "opponent_name": "Carl Rother-Schirren",
+          "opponent_score": 8,
+          "opponent_score_share": 0.7272727272727273,
+          "opponent_win_prob": 0.5812009036360253,
+          "is_winner": false,
+          "opponent_slug": "carl-rother-schirren",
+          "opponent_hist_score_share": 0.5184825225943647
+        },
+        {
+          "game_id": 895,
+          "year": 2025,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Jan Jordan",
+          "score": 3,
+          "score_share": 0.2727272727272727,
+          "win_prob": 0.16658486949992357,
+          "opponent_name": "Simon Fridh",
+          "opponent_score": 8,
+          "opponent_score_share": 0.7272727272727273,
+          "opponent_win_prob": 0.8334151305000764,
+          "is_winner": false,
+          "opponent_slug": "simon-fridh",
+          "opponent_hist_score_share": 0.6302112029384758
+        }
+      ],
+      "n_games": 2,
+      "n_wins": 0
+    }
+  ],
+  "best_stage": "gruppspel",
+  "best_stage_years": [
+    2025
+  ]
+}

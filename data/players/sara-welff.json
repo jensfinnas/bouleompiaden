@@ -7,7 +7,7 @@
     2024
   ],
   "win_rate": 0.42857142857142855,
-  "opponent_score_share": 0.5011915024834684,
+  "opponent_score_share": 0.5041285531837271,
   "skill": 126.95784611566098,
   "skill_sigma": 41.52480603145506,
   "name": "Sara Welff",
@@ -58,6 +58,10 @@
     [
       2024,
       127.0
+    ],
+    [
+      2025,
+      null
     ]
   ],
   "tournaments": [
@@ -88,7 +92,7 @@
           "opponent_win_prob": 0.8788835471975843,
           "is_winner": false,
           "opponent_slug": "gabriel-nordenankar",
-          "opponent_hist_score_share": 0.6495889153220986
+          "opponent_hist_score_share": 0.6605136495334323
         },
         {
           "game_id": 719,
@@ -124,7 +128,7 @@
           "opponent_win_prob": 0.585514796243807,
           "is_winner": false,
           "opponent_slug": "jakob-gustafsson",
-          "opponent_hist_score_share": 0.4804225409171934
+          "opponent_hist_score_share": 0.48171395597866185
         }
       ],
       "n_games": 3,
@@ -157,7 +161,7 @@
           "opponent_win_prob": 0.7678039500812655,
           "is_winner": false,
           "opponent_slug": "hannes-jordan",
-          "opponent_hist_score_share": 0.5631626845679133
+          "opponent_hist_score_share": 0.5798265565343363
         },
         {
           "game_id": 803,
@@ -211,7 +215,7 @@
           "opponent_win_prob": 0.5839345708085688,
           "is_winner": false,
           "opponent_slug": "bjorn-berglund",
-          "opponent_hist_score_share": 0.5899186767752944
+          "opponent_hist_score_share": 0.5815980104378797
         }
       ],
       "n_games": 4,

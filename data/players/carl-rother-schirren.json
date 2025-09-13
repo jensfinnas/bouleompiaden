@@ -1,20 +1,21 @@
 {
-  "n_games": 9,
-  "score_share": 0.49939083820662766,
-  "n_wins": 4,
+  "n_games": 12,
+  "score_share": 0.5184825225943647,
+  "n_wins": 6,
   "years": [
     2020,
     2021,
-    2022
+    2022,
+    2025
   ],
-  "win_rate": 0.4444444444444444,
-  "opponent_score_share": 0.49401476735146527,
-  "skill": 126.30164946285349,
-  "skill_sigma": 38.294001858922904,
+  "win_rate": 0.5,
+  "opponent_score_share": 0.46665875427876496,
+  "skill": 127.8469459399115,
+  "skill_sigma": 33.513198577564204,
   "name": "Carl Rother-Schirren",
   "slug": "carl-rother-schirren",
-  "skill_rank": 64.0,
-  "skill_rank_pct": 64.0,
+  "skill_rank": 60.0,
+  "skill_rank_pct": 60.0,
   "skill_history": [
     [
       2011,
@@ -59,6 +60,10 @@
     [
       2024,
       null
+    ],
+    [
+      2025,
+      128.0
     ]
   ],
   "tournaments": [
@@ -107,7 +112,7 @@
           "opponent_win_prob": 0.39694518305888915,
           "is_winner": false,
           "opponent_slug": "fredrik-berg",
-          "opponent_hist_score_share": 0.4357142857142857
+          "opponent_hist_score_share": 0.4198848770277342
         }
       ],
       "n_games": 2,
@@ -140,7 +145,7 @@
           "opponent_win_prob": 0.8677105316229925,
           "is_winner": true,
           "opponent_slug": "kusha-bahrami",
-          "opponent_hist_score_share": 0.4486967417114476
+          "opponent_hist_score_share": 0.47827151198474727
         },
         {
           "game_id": 481,
@@ -158,7 +163,7 @@
           "opponent_win_prob": 0.7064762014413488,
           "is_winner": true,
           "opponent_slug": "hannes-jordan",
-          "opponent_hist_score_share": 0.5631626845679133
+          "opponent_hist_score_share": 0.5798265565343363
         }
       ],
       "n_games": 2,
@@ -245,7 +250,7 @@
           "opponent_win_prob": 0.7088881291662179,
           "is_winner": false,
           "opponent_slug": "olle-strandberg",
-          "opponent_hist_score_share": 0.6284587088539505
+          "opponent_hist_score_share": 0.6165712283638421
         },
         {
           "game_id": 640,
@@ -263,10 +268,79 @@
           "opponent_win_prob": 0.8531527097613963,
           "is_winner": false,
           "opponent_slug": "erik-nordenankar",
-          "opponent_hist_score_share": 0.6808699289679294
+          "opponent_hist_score_share": 0.6713917107373603
         }
       ],
       "n_games": 5,
+      "n_wins": 2
+    },
+    {
+      "year": 2025,
+      "last_game": {
+        "opponent_name": "Tim Samuelsson",
+        "opponent_slug": "tim-samuelsson",
+        "score": 5,
+        "opponent_score": 10,
+        "is_winner": false,
+        "stage": "sextondelsfinal"
+      },
+      "games": [
+        {
+          "game_id": 853,
+          "year": 2025,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Carl Rother-Schirren",
+          "score": 8,
+          "score_share": 0.7272727272727273,
+          "win_prob": 0.5812009036360253,
+          "opponent_name": "Jan Jordan",
+          "opponent_score": 3,
+          "opponent_score_share": 0.2727272727272727,
+          "opponent_win_prob": 0.4187990963639747,
+          "is_winner": true,
+          "opponent_slug": "jan-jordan",
+          "opponent_hist_score_share": 0.2727272727272727
+        },
+        {
+          "game_id": 879,
+          "year": 2025,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Carl Rother-Schirren",
+          "score": 10,
+          "score_share": 0.6666666666666666,
+          "win_prob": 0.743675406493244,
+          "opponent_name": "Hasse Hallgren",
+          "opponent_score": 5,
+          "opponent_score_share": 0.3333333333333333,
+          "opponent_win_prob": 0.2563245935067559,
+          "is_winner": true,
+          "opponent_slug": "hasse-hallgren",
+          "opponent_hist_score_share": 0.36274263695078174
+        },
+        {
+          "game_id": 934,
+          "year": 2025,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p2",
+          "name": "Carl Rother-Schirren",
+          "score": 5,
+          "score_share": 0.3333333333333333,
+          "win_prob": 0.5435622388186057,
+          "opponent_name": "Tim Samuelsson",
+          "opponent_score": 10,
+          "opponent_score_share": 0.6666666666666666,
+          "opponent_win_prob": 0.45643776118139434,
+          "is_winner": false,
+          "opponent_slug": "tim-samuelsson",
+          "opponent_hist_score_share": 0.5092587006714431
+        }
+      ],
+      "n_games": 3,
       "n_wins": 2
     }
   ],

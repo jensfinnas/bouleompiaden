@@ -11,8 +11,8 @@
   "skill_sigma": 77.94776656249569,
   "name": "Jens West",
   "slug": "jens-west",
-  "skill_rank": 144.0,
-  "skill_rank_pct": 144.0,
+  "skill_rank": 153.0,
+  "skill_rank_pct": 153.0,
   "skill_history": [
     [
       2011,
@@ -56,6 +56,10 @@
     ],
     [
       2024,
+      null
+    ],
+    [
+      2025,
       null
     ]
   ],

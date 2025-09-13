@@ -1,21 +1,22 @@
 {
-  "n_games": 10,
-  "score_share": 0.2980441862059509,
-  "n_wins": 2,
+  "n_games": 13,
+  "score_share": 0.35837486420065606,
+  "n_wins": 4,
   "years": [
     2016,
     2018,
     2020,
-    2021
+    2021,
+    2025
   ],
-  "win_rate": 0.2,
-  "opponent_score_share": 0.5326355066270589,
-  "skill": 50.16627678628159,
-  "skill_sigma": 38.182749741147276,
+  "win_rate": 0.3076923076923077,
+  "opponent_score_share": 0.5183048320806537,
+  "skill": 78.72245043672959,
+  "skill_sigma": 33.035035373160724,
   "name": "Linn Enhage",
   "slug": "linn-enhage",
-  "skill_rank": 116.0,
-  "skill_rank_pct": 116.0,
+  "skill_rank": 104.0,
+  "skill_rank_pct": 104.0,
   "skill_history": [
     [
       2011,
@@ -60,6 +61,10 @@
     [
       2024,
       null
+    ],
+    [
+      2025,
+      79.0
     ]
   ],
   "tournaments": [
@@ -90,7 +95,7 @@
           "opponent_win_prob": 0.571519846658479,
           "is_winner": false,
           "opponent_slug": "jerker-karlsson",
-          "opponent_hist_score_share": 0.5303209572946416
+          "opponent_hist_score_share": 0.5263087714504718
         },
         {
           "game_id": 51,
@@ -108,7 +113,7 @@
           "opponent_win_prob": 0.5000000150000002,
           "is_winner": false,
           "opponent_slug": "bjorn-westerfors",
-          "opponent_hist_score_share": 0.5349999999999999
+          "opponent_hist_score_share": 0.4832094988344988
         }
       ],
       "n_games": 2,
@@ -141,7 +146,7 @@
           "opponent_win_prob": 0.571937197012097,
           "is_winner": false,
           "opponent_slug": "hannes-jordan",
-          "opponent_hist_score_share": 0.5631626845679133
+          "opponent_hist_score_share": 0.5798265565343363
         },
         {
           "game_id": 204,
@@ -159,7 +164,7 @@
           "opponent_win_prob": 0.42177215652572475,
           "is_winner": false,
           "opponent_slug": "lovisa-birgersson",
-          "opponent_hist_score_share": 0.5785867334069948
+          "opponent_hist_score_share": 0.5778136854169652
         },
         {
           "game_id": 150,
@@ -210,7 +215,7 @@
           "opponent_win_prob": 0.7822049704195473,
           "is_winner": false,
           "opponent_slug": "lovisa-birgersson",
-          "opponent_hist_score_share": 0.5785867334069948
+          "opponent_hist_score_share": 0.5778136854169652
         },
         {
           "game_id": 402,
@@ -228,7 +233,7 @@
           "opponent_win_prob": 0.5049558442717784,
           "is_winner": false,
           "opponent_slug": "tim-samuelsson",
-          "opponent_hist_score_share": 0.5020184943261866
+          "opponent_hist_score_share": 0.5092587006714431
         }
       ],
       "n_games": 2,
@@ -261,7 +266,7 @@
           "opponent_win_prob": 0.554399756649963,
           "is_winner": false,
           "opponent_slug": "chris-lowe",
-          "opponent_hist_score_share": 0.4056416316526611
+          "opponent_hist_score_share": 0.4107145750862328
         },
         {
           "game_id": 456,
@@ -302,13 +307,79 @@
       ],
       "n_games": 3,
       "n_wins": 1
+    },
+    {
+      "year": 2025,
+      "last_game": {
+        "opponent_name": "Robeson",
+        "opponent_slug": "robeson",
+        "score": 7,
+        "opponent_score": 10,
+        "is_winner": false,
+        "stage": "sextondelsfinal"
+      },
+      "games": [
+        {
+          "game_id": 860,
+          "year": 2025,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Linn Enhage",
+          "score": 8,
+          "score_share": 0.6666666666666666,
+          "win_prob": 0.17151743642751816,
+          "opponent_name": "Hilda Dahlberg",
+          "opponent_score": 4,
+          "opponent_score_share": 0.3333333333333333,
+          "opponent_win_prob": 0.8284825635724818,
+          "is_winner": true,
+          "opponent_slug": "hilda-dahlberg",
+          "opponent_hist_score_share": 0.4893564768564769
+        },
+        {
+          "game_id": 883,
+          "year": 2025,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Linn Enhage",
+          "score": 9,
+          "score_share": 0.6,
+          "win_prob": 0.6986701987626844,
+          "opponent_name": "John Qvale",
+          "opponent_score": 6,
+          "opponent_score_share": 0.4,
+          "opponent_win_prob": 0.3013298012373156,
+          "is_winner": true,
+          "opponent_slug": "john-qvale",
+          "opponent_hist_score_share": 0.3778044376258662
+        },
+        {
+          "game_id": 927,
+          "year": 2025,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p2",
+          "name": "Linn Enhage",
+          "score": 7,
+          "score_share": 0.4117647058823529,
+          "win_prob": 0.09323333833955133,
+          "opponent_name": "Robeson",
+          "opponent_score": 10,
+          "opponent_score_share": 0.5882352941176471,
+          "opponent_win_prob": 0.9067666616604486,
+          "is_winner": false,
+          "opponent_slug": "robeson",
+          "opponent_hist_score_share": 0.5728185975400439
+        }
+      ],
+      "n_games": 3,
+      "n_wins": 2
     }
   ],
-  "best_stage": "gruppspel",
+  "best_stage": "sextondelsfinal",
   "best_stage_years": [
-    2016,
-    2018,
-    2020,
-    2021
+    2025
   ]
 }

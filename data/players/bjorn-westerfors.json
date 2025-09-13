@@ -1,19 +1,20 @@
 {
-  "n_games": 5,
-  "score_share": 0.5349999999999999,
-  "n_wins": 2,
+  "n_games": 8,
+  "score_share": 0.4832094988344988,
+  "n_wins": 3,
   "years": [
     2016,
-    2023
+    2023,
+    2025
   ],
-  "win_rate": 0.4,
-  "opponent_score_share": 0.4240417829228643,
-  "skill": 56.04987386717119,
-  "skill_sigma": 49.398059096856294,
+  "win_rate": 0.375,
+  "opponent_score_share": 0.44363650642030883,
+  "skill": 50.94358328404014,
+  "skill_sigma": 41.84114866082017,
   "name": "Bj\u00f6rn Westerfors",
   "slug": "bjorn-westerfors",
-  "skill_rank": 112.0,
-  "skill_rank_pct": 112.0,
+  "skill_rank": 128.0,
+  "skill_rank_pct": 128.0,
   "skill_history": [
     [
       2011,
@@ -58,6 +59,10 @@
     [
       2024,
       null
+    ],
+    [
+      2025,
+      51.0
     ]
   ],
   "tournaments": [
@@ -88,7 +93,7 @@
           "opponent_win_prob": 0.49999998499999976,
           "is_winner": true,
           "opponent_slug": "linn-enhage",
-          "opponent_hist_score_share": 0.2980441862059509
+          "opponent_hist_score_share": 0.35837486420065606
         },
         {
           "game_id": 59,
@@ -106,7 +111,7 @@
           "opponent_win_prob": 0.14868811581729935,
           "is_winner": false,
           "opponent_slug": "jerker-karlsson",
-          "opponent_hist_score_share": 0.5303209572946416
+          "opponent_hist_score_share": 0.5263087714504718
         }
       ],
       "n_games": 2,
@@ -139,7 +144,7 @@
           "opponent_win_prob": 0.6908708467232543,
           "is_winner": false,
           "opponent_slug": "johan-ekman",
-          "opponent_hist_score_share": 0.50221448427856
+          "opponent_hist_score_share": 0.5086246033115104
         },
         {
           "game_id": 708,
@@ -157,7 +162,7 @@
           "opponent_win_prob": 0.5513712017433907,
           "is_winner": true,
           "opponent_slug": "monica-harder",
-          "opponent_hist_score_share": 0.31264677588206996
+          "opponent_hist_score_share": 0.30856732394165554
         },
         {
           "game_id": 725,
@@ -180,11 +185,81 @@
       ],
       "n_games": 3,
       "n_wins": 1
+    },
+    {
+      "year": 2025,
+      "last_game": {
+        "opponent_name": "Olle Strandberg",
+        "opponent_slug": "olle-strandberg",
+        "score": 3,
+        "opponent_score": 8,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "games": [
+        {
+          "game_id": 905,
+          "year": 2025,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Bj\u00f6rn Westerfors",
+          "score": 8,
+          "score_share": 0.5333333333333333,
+          "win_prob": 0.7531861987683208,
+          "opponent_name": "Kajsa Hallberg-Nor.",
+          "opponent_score": 7,
+          "opponent_score_share": 0.4666666666666667,
+          "opponent_win_prob": 0.24681380123167918,
+          "is_winner": true,
+          "opponent_slug": "kajsa-hallberg-nor",
+          "opponent_hist_score_share": 0.24440404846979244
+        },
+        {
+          "game_id": 875,
+          "year": 2025,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Bj\u00f6rn Westerfors",
+          "score": 5,
+          "score_share": 0.38461538461538464,
+          "win_prob": 0.22211968173072805,
+          "opponent_name": "Tim Samuelsson",
+          "opponent_score": 8,
+          "opponent_score_share": 0.6153846153846154,
+          "opponent_win_prob": 0.777880318269272,
+          "is_winner": false,
+          "opponent_slug": "tim-samuelsson",
+          "opponent_hist_score_share": 0.5092587006714431
+        },
+        {
+          "game_id": 920,
+          "year": 2025,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Bj\u00f6rn Westerfors",
+          "score": 3,
+          "score_share": 0.2727272727272727,
+          "win_prob": 0.10557127645591946,
+          "opponent_name": "Olle Strandberg",
+          "opponent_score": 8,
+          "opponent_score_share": 0.7272727272727273,
+          "opponent_win_prob": 0.8944287235440805,
+          "is_winner": false,
+          "opponent_slug": "olle-strandberg",
+          "opponent_hist_score_share": 0.6165712283638421
+        }
+      ],
+      "n_games": 3,
+      "n_wins": 1
     }
   ],
   "best_stage": "gruppspel",
   "best_stage_years": [
     2016,
-    2023
+    2023,
+    2025
   ]
 }

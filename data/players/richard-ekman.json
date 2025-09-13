@@ -10,13 +10,13 @@
     2019
   ],
   "win_rate": 0.5333333333333333,
-  "opponent_score_share": 0.4394512631384807,
+  "opponent_score_share": 0.4435422484982248,
   "skill": 82.85579750439959,
   "skill_sigma": 32.23354272422082,
   "name": "Richard Ekman",
   "slug": "richard-ekman",
-  "skill_rank": 98.0,
-  "skill_rank_pct": 98.0,
+  "skill_rank": 102.0,
+  "skill_rank_pct": 102.0,
   "skill_history": [
     [
       2011,
@@ -60,6 +60,10 @@
     ],
     [
       2024,
+      null
+    ],
+    [
+      2025,
       null
     ]
   ],
@@ -142,7 +146,7 @@
           "opponent_win_prob": 0.3725905379855232,
           "is_winner": true,
           "opponent_slug": "sofia-radstrom",
-          "opponent_hist_score_share": 0.3168362831464436
+          "opponent_hist_score_share": 0.3364460012084447
         },
         {
           "game_id": 67,
@@ -160,7 +164,7 @@
           "opponent_win_prob": 0.7180644371804317,
           "is_winner": true,
           "opponent_slug": "johanna-radstrom",
-          "opponent_hist_score_share": 0.32542617105117105
+          "opponent_hist_score_share": 0.33626801942019335
         },
         {
           "game_id": 73,
@@ -178,7 +182,7 @@
           "opponent_win_prob": 0.5334163269808834,
           "is_winner": false,
           "opponent_slug": "jerker-karlsson",
-          "opponent_hist_score_share": 0.5303209572946416
+          "opponent_hist_score_share": 0.5263087714504718
         }
       ],
       "n_games": 3,
@@ -247,7 +251,7 @@
           "opponent_win_prob": 0.2503306847778113,
           "is_winner": true,
           "opponent_slug": "sofia-radstrom",
-          "opponent_hist_score_share": 0.3168362831464436
+          "opponent_hist_score_share": 0.3364460012084447
         },
         {
           "game_id": 138,
@@ -265,7 +269,7 @@
           "opponent_win_prob": 0.8927184293193292,
           "is_winner": false,
           "opponent_slug": "edvin-lindsten",
-          "opponent_hist_score_share": 0.5674037929616024
+          "opponent_hist_score_share": 0.5631097566469083
         }
       ],
       "n_games": 4,
@@ -385,7 +389,7 @@
           "opponent_win_prob": 0.18224123025661831,
           "is_winner": false,
           "opponent_slug": "sofia-radstrom",
-          "opponent_hist_score_share": 0.3168362831464436
+          "opponent_hist_score_share": 0.3364460012084447
         },
         {
           "game_id": 313,

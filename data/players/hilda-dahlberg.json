@@ -1,19 +1,20 @@
 {
-  "n_games": 8,
-  "score_share": 0.481198489010989,
-  "n_wins": 4,
+  "n_games": 11,
+  "score_share": 0.4893564768564769,
+  "n_wins": 5,
   "years": [
     2021,
-    2022
+    2022,
+    2025
   ],
-  "win_rate": 0.5,
-  "opponent_score_share": 0.5296861055000263,
-  "skill": 134.996778130246,
-  "skill_sigma": 39.32255352968545,
+  "win_rate": 0.45454545454545453,
+  "opponent_score_share": 0.5046109376229595,
+  "skill": 109.23760389282626,
+  "skill_sigma": 32.09685925134432,
   "name": "Hilda Dahlberg",
   "slug": "hilda-dahlberg",
-  "skill_rank": 52.0,
-  "skill_rank_pct": 52.0,
+  "skill_rank": 78.0,
+  "skill_rank_pct": 78.0,
   "skill_history": [
     [
       2011,
@@ -58,6 +59,10 @@
     [
       2024,
       null
+    ],
+    [
+      2025,
+      109.0
     ]
   ],
   "tournaments": [
@@ -88,7 +93,7 @@
           "opponent_win_prob": 0.6580263592525337,
           "is_winner": true,
           "opponent_slug": "ville-nordenankar",
-          "opponent_hist_score_share": 0.4457742488992489
+          "opponent_hist_score_share": 0.4262469368238599
         },
         {
           "game_id": 468,
@@ -106,7 +111,7 @@
           "opponent_win_prob": 0.7852837832957243,
           "is_winner": false,
           "opponent_slug": "johan-kjell",
-          "opponent_hist_score_share": 0.6040345989993392
+          "opponent_hist_score_share": 0.6084677404065949
         },
         {
           "game_id": 516,
@@ -124,7 +129,7 @@
           "opponent_win_prob": 0.6384917730246569,
           "is_winner": false,
           "opponent_slug": "edvin-lindsten",
-          "opponent_hist_score_share": 0.5674037929616024
+          "opponent_hist_score_share": 0.5631097566469083
         }
       ],
       "n_games": 3,
@@ -175,7 +180,7 @@
           "opponent_win_prob": 0.6794341358336928,
           "is_winner": false,
           "opponent_slug": "olle-strandberg",
-          "opponent_hist_score_share": 0.6284587088539505
+          "opponent_hist_score_share": 0.6165712283638421
         },
         {
           "game_id": 621,
@@ -193,7 +198,7 @@
           "opponent_win_prob": 0.05408869279972739,
           "is_winner": true,
           "opponent_slug": "john-qvale",
-          "opponent_hist_score_share": 0.3610284917103099
+          "opponent_hist_score_share": 0.3778044376258662
         },
         {
           "game_id": 639,
@@ -234,6 +239,75 @@
       ],
       "n_games": 5,
       "n_wins": 3
+    },
+    {
+      "year": 2025,
+      "last_game": {
+        "opponent_name": "Joakim Kulo",
+        "opponent_slug": "joakim-kulo",
+        "score": 2,
+        "opponent_score": 8,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "games": [
+        {
+          "game_id": 860,
+          "year": 2025,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Hilda Dahlberg",
+          "score": 4,
+          "score_share": 0.3333333333333333,
+          "win_prob": 0.8284825635724818,
+          "opponent_name": "Linn Enhage",
+          "opponent_score": 8,
+          "opponent_score_share": 0.6666666666666666,
+          "opponent_win_prob": 0.17151743642751816,
+          "is_winner": false,
+          "opponent_slug": "linn-enhage",
+          "opponent_hist_score_share": 0.35837486420065606
+        },
+        {
+          "game_id": 898,
+          "year": 2025,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Hilda Dahlberg",
+          "score": 8,
+          "score_share": 1.0,
+          "win_prob": 0.39234083117055196,
+          "opponent_name": "Erik Numan",
+          "opponent_score": 0,
+          "opponent_score_share": 0.0,
+          "opponent_win_prob": 0.607659168829448,
+          "is_winner": true,
+          "opponent_slug": "erik-numan",
+          "opponent_hist_score_share": 0.46364990195153843
+        },
+        {
+          "game_id": 913,
+          "year": 2025,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Hilda Dahlberg",
+          "score": 2,
+          "score_share": 0.2,
+          "win_prob": 0.7720063755190033,
+          "opponent_name": "Joakim Kulo",
+          "opponent_score": 8,
+          "opponent_score_share": 0.8,
+          "opponent_win_prob": 0.22799362448099672,
+          "is_winner": false,
+          "opponent_slug": "joakim-kulo",
+          "opponent_hist_score_share": 0.5057064452575288
+        }
+      ],
+      "n_games": 3,
+      "n_wins": 1
     }
   ],
   "best_stage": "\u00e5ttondelsfinal",

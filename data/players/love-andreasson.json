@@ -9,13 +9,13 @@
     2019
   ],
   "win_rate": 0.6428571428571429,
-  "opponent_score_share": 0.5195933017569732,
+  "opponent_score_share": 0.5201661102842937,
   "skill": 162.49216893538738,
   "skill_sigma": 32.578888729699194,
   "name": "Love Andr\u00e9asson",
   "slug": "love-andreasson",
-  "skill_rank": 30.0,
-  "skill_rank_pct": 30.0,
+  "skill_rank": 29.0,
+  "skill_rank_pct": 29.0,
   "skill_history": [
     [
       2011,
@@ -59,6 +59,10 @@
     ],
     [
       2024,
+      null
+    ],
+    [
+      2025,
       null
     ]
   ],
@@ -108,7 +112,7 @@
           "opponent_win_prob": 0.3925307099900544,
           "is_winner": true,
           "opponent_slug": "gabriel-nordenankar",
-          "opponent_hist_score_share": 0.6495889153220986
+          "opponent_hist_score_share": 0.6605136495334323
         },
         {
           "game_id": 42,
@@ -195,7 +199,7 @@
           "opponent_win_prob": 0.28014026745162046,
           "is_winner": false,
           "opponent_slug": "jerker-karlsson",
-          "opponent_hist_score_share": 0.5303209572946416
+          "opponent_hist_score_share": 0.5263087714504718
         }
       ],
       "n_games": 3,
@@ -246,7 +250,7 @@
           "opponent_win_prob": 0.27223660240809044,
           "is_winner": true,
           "opponent_slug": "pelle-dovborg",
-          "opponent_hist_score_share": 0.5570986081958933
+          "opponent_hist_score_share": 0.5601130539684227
         },
         {
           "game_id": 174,
@@ -264,7 +268,7 @@
           "opponent_win_prob": 0.6342950979488342,
           "is_winner": false,
           "opponent_slug": "erik-nordenankar",
-          "opponent_hist_score_share": 0.6808699289679294
+          "opponent_hist_score_share": 0.6713917107373603
         },
         {
           "game_id": 229,
@@ -282,7 +286,7 @@
           "opponent_win_prob": 0.4879287612448507,
           "is_winner": true,
           "opponent_slug": "jens-finnas",
-          "opponent_hist_score_share": 0.4591026498011792
+          "opponent_hist_score_share": 0.4658863621459529
         },
         {
           "game_id": 238,
@@ -369,7 +373,7 @@
           "opponent_win_prob": 0.4030707189969136,
           "is_winner": false,
           "opponent_slug": "benjamin-ger-hed",
-          "opponent_hist_score_share": 0.6311029571727272
+          "opponent_hist_score_share": 0.6318897883013175
         }
       ],
       "n_games": 3,

@@ -1,18 +1,19 @@
 {
-  "n_games": 4,
-  "score_share": 0.48775946275946275,
-  "n_wins": 2,
+  "n_games": 8,
+  "score_share": 0.4754450410700411,
+  "n_wins": 3,
   "years": [
-    2024
+    2024,
+    2025
   ],
-  "win_rate": 0.5,
-  "opponent_score_share": 0.5166810695087167,
-  "skill": 127.71717240594519,
-  "skill_sigma": 53.08759029685284,
+  "win_rate": 0.375,
+  "opponent_score_share": 0.5063354849786227,
+  "skill": 105.2093027165812,
+  "skill_sigma": 41.224575178523956,
   "name": "Folke Nordenankar",
   "slug": "folke-nordenankar",
-  "skill_rank": 60.0,
-  "skill_rank_pct": 60.0,
+  "skill_rank": 86.0,
+  "skill_rank_pct": 86.0,
   "skill_history": [
     [
       2011,
@@ -57,6 +58,10 @@
     [
       2024,
       128.0
+    ],
+    [
+      2025,
+      105.0
     ]
   ],
   "tournaments": [
@@ -87,7 +92,7 @@
           "opponent_win_prob": 0.3534446278210075,
           "is_winner": true,
           "opponent_slug": "erika-andersson",
-          "opponent_hist_score_share": 0.4898324714501185
+          "opponent_hist_score_share": 0.5373486077046449
         },
         {
           "game_id": 808,
@@ -105,7 +110,7 @@
           "opponent_win_prob": 0.5204317200812738,
           "is_winner": true,
           "opponent_slug": "kusha-bahrami",
-          "opponent_hist_score_share": 0.4486967417114476
+          "opponent_hist_score_share": 0.47827151198474727
         },
         {
           "game_id": 790,
@@ -123,7 +128,7 @@
           "opponent_win_prob": 0.706615873708633,
           "is_winner": false,
           "opponent_slug": "theodore-ripman",
-          "opponent_hist_score_share": 0.5710964566774074
+          "opponent_hist_score_share": 0.5743604529581897
         },
         {
           "game_id": 821,
@@ -141,15 +146,103 @@
           "opponent_win_prob": 0.6494661013114317,
           "is_winner": false,
           "opponent_slug": "pelle-dovborg",
-          "opponent_hist_score_share": 0.5570986081958933
+          "opponent_hist_score_share": 0.5601130539684227
         }
       ],
       "n_games": 4,
       "n_wins": 2
+    },
+    {
+      "year": 2025,
+      "last_game": {
+        "opponent_name": "Gabriel Nordenankar",
+        "opponent_slug": "gabriel-nordenankar",
+        "score": 3,
+        "opponent_score": 10,
+        "is_winner": false,
+        "stage": "sextondelsfinal"
+      },
+      "games": [
+        {
+          "game_id": 873,
+          "year": 2025,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Folke Nordenankar",
+          "score": 9,
+          "score_share": 0.8181818181818182,
+          "win_prob": 0.5822458581248297,
+          "opponent_name": "Charlie Berg",
+          "opponent_score": 2,
+          "opponent_score_share": 0.18181818181818182,
+          "opponent_win_prob": 0.41775414187517035,
+          "is_winner": true,
+          "opponent_slug": "charlie-berg",
+          "opponent_hist_score_share": 0.18181818181818182
+        },
+        {
+          "game_id": 890,
+          "year": 2025,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Folke Nordenankar",
+          "score": 6,
+          "score_share": 0.375,
+          "win_prob": 0.3380616596069278,
+          "opponent_name": "Johannes Nordenhaag",
+          "opponent_score": 10,
+          "opponent_score_share": 0.625,
+          "opponent_win_prob": 0.6619383403930722,
+          "is_winner": false,
+          "opponent_slug": "johannes-nordenhaag",
+          "opponent_hist_score_share": 0.5865835226864639
+        },
+        {
+          "game_id": 919,
+          "year": 2025,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Folke Nordenankar",
+          "score": 6,
+          "score_share": 0.42857142857142855,
+          "win_prob": 0.5084792298073803,
+          "opponent_name": "Martha Brauer",
+          "opponent_score": 8,
+          "opponent_score_share": 0.5714285714285714,
+          "opponent_win_prob": 0.49152077019261975,
+          "is_winner": false,
+          "opponent_slug": "martha-brauer",
+          "opponent_hist_score_share": 0.4716748991748992
+        },
+        {
+          "game_id": 922,
+          "year": 2025,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p1",
+          "name": "Folke Nordenankar",
+          "score": 3,
+          "score_share": 0.23076923076923078,
+          "win_prob": 0.0438148593272879,
+          "opponent_name": "Gabriel Nordenankar",
+          "opponent_score": 10,
+          "opponent_score_share": 0.7692307692307693,
+          "opponent_win_prob": 0.9561851406727121,
+          "is_winner": false,
+          "opponent_slug": "gabriel-nordenankar",
+          "opponent_hist_score_share": 0.6605136495334323
+        }
+      ],
+      "n_games": 4,
+      "n_wins": 1
     }
   ],
   "best_stage": "sextondelsfinal",
   "best_stage_years": [
-    2024
+    2024,
+    2025
   ]
 }

@@ -6,7 +6,7 @@
     2018
   ],
   "win_rate": 0.5,
-  "opponent_score_share": 0.4769025678335459,
+  "opponent_score_share": 0.4823442134786349,
   "skill": 109.31082030197226,
   "skill_sigma": 60.93786060465312,
   "name": "Niklas Larsson",
@@ -57,6 +57,10 @@
     [
       2024,
       null
+    ],
+    [
+      2025,
+      null
     ]
   ],
   "tournaments": [
@@ -105,7 +109,7 @@
           "opponent_win_prob": 0.34856690727886397,
           "is_winner": true,
           "opponent_slug": "johanna-radstrom",
-          "opponent_hist_score_share": 0.32542617105117105
+          "opponent_hist_score_share": 0.33626801942019335
         },
         {
           "game_id": 208,
@@ -141,7 +145,7 @@
           "opponent_win_prob": 0.9136656347001425,
           "is_winner": false,
           "opponent_slug": "gabriel-nordenankar",
-          "opponent_hist_score_share": 0.6495889153220986
+          "opponent_hist_score_share": 0.6605136495334323
         }
       ],
       "n_games": 4,

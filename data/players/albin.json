@@ -11,8 +11,8 @@
   "skill_sigma": 61.70181815969178,
   "name": "Albin",
   "slug": "albin",
-  "skill_rank": 104.0,
-  "skill_rank_pct": 104.0,
+  "skill_rank": 112.0,
+  "skill_rank_pct": 112.0,
   "skill_history": [
     [
       2011,
@@ -56,6 +56,10 @@
     ],
     [
       2024,
+      null
+    ],
+    [
+      2025,
       null
     ]
   ],

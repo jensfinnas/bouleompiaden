@@ -7,13 +7,13 @@
     2024
   ],
   "win_rate": 0.2,
-  "opponent_score_share": 0.4744130302410845,
+  "opponent_score_share": 0.477842810980992,
   "skill": 40.20909658866397,
   "skill_sigma": 47.32170725486132,
   "name": "\u00c5ke R\u00e5dstr\u00f6m",
   "slug": "ake-radstrom",
-  "skill_rank": 127.0,
-  "skill_rank_pct": 127.0,
+  "skill_rank": 137.0,
+  "skill_rank_pct": 137.0,
   "skill_history": [
     [
       2011,
@@ -58,6 +58,10 @@
     [
       2024,
       40.0
+    ],
+    [
+      2025,
+      null
     ]
   ],
   "tournaments": [
@@ -88,7 +92,7 @@
           "opponent_win_prob": 0.7473763980007228,
           "is_winner": false,
           "opponent_slug": "pelle-dovborg",
-          "opponent_hist_score_share": 0.5570986081958933
+          "opponent_hist_score_share": 0.5601130539684227
         },
         {
           "game_id": 707,
@@ -124,7 +128,7 @@
           "opponent_win_prob": 0.4464723645863106,
           "is_winner": false,
           "opponent_slug": "tim-samuelsson",
-          "opponent_hist_score_share": 0.5020184943261866
+          "opponent_hist_score_share": 0.5092587006714431
         }
       ],
       "n_games": 3,
@@ -157,7 +161,7 @@
           "opponent_win_prob": 0.23604134371297603,
           "is_winner": false,
           "opponent_slug": "olle-nyren",
-          "opponent_hist_score_share": 0.3392216117216117
+          "opponent_hist_score_share": 0.3411262348762349
         },
         {
           "game_id": 798,
@@ -175,7 +179,7 @@
           "opponent_win_prob": 0.5685532929813077,
           "is_winner": false,
           "opponent_slug": "tommy-damstrom",
-          "opponent_hist_score_share": 0.42766955266955264
+          "opponent_hist_score_share": 0.4326591810966811
         }
       ],
       "n_games": 2,

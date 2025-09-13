@@ -7,13 +7,13 @@
     2023
   ],
   "win_rate": 0.5714285714285714,
-  "opponent_score_share": 0.5199038433843277,
+  "opponent_score_share": 0.51952051237222,
   "skill": 144.56377592391954,
   "skill_sigma": 42.09368322203404,
   "name": "Jakob Gudmundsson",
   "slug": "jakob-gudmundsson",
-  "skill_rank": 42.0,
-  "skill_rank_pct": 42.0,
+  "skill_rank": 43.0,
+  "skill_rank_pct": 43.0,
   "skill_history": [
     [
       2011,
@@ -58,6 +58,10 @@
     [
       2024,
       null
+    ],
+    [
+      2025,
+      null
     ]
   ],
   "tournaments": [
@@ -88,7 +92,7 @@
           "opponent_win_prob": 0.7102207252993319,
           "is_winner": true,
           "opponent_slug": "jerker-karlsson",
-          "opponent_hist_score_share": 0.5303209572946416
+          "opponent_hist_score_share": 0.5263087714504718
         },
         {
           "game_id": 595,
@@ -106,7 +110,7 @@
           "opponent_win_prob": 0.30859243427301125,
           "is_winner": true,
           "opponent_slug": "carl-rother-schirren",
-          "opponent_hist_score_share": 0.49939083820662766
+          "opponent_hist_score_share": 0.5184825225943647
         },
         {
           "game_id": 629,
@@ -157,7 +161,7 @@
           "opponent_win_prob": 0.5394404702428792,
           "is_winner": false,
           "opponent_slug": "simon-fridh",
-          "opponent_hist_score_share": 0.6537129537129537
+          "opponent_hist_score_share": 0.6302112029384758
         },
         {
           "game_id": 720,
@@ -193,7 +197,7 @@
           "opponent_win_prob": 0.09676306397283355,
           "is_winner": true,
           "opponent_slug": "olle-nyren",
-          "opponent_hist_score_share": 0.3392216117216117
+          "opponent_hist_score_share": 0.3411262348762349
         },
         {
           "game_id": 741,
@@ -211,7 +215,7 @@
           "opponent_win_prob": 0.49587231796573017,
           "is_winner": false,
           "opponent_slug": "filippa-berencreutz",
-          "opponent_hist_score_share": 0.5570843587097457
+          "opponent_hist_score_share": 0.5609186707012794
         }
       ],
       "n_games": 4,

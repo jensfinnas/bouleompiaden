@@ -6,13 +6,13 @@
     2024
   ],
   "win_rate": 0.0,
-  "opponent_score_share": 0.5624951224454878,
+  "opponent_score_share": 0.5528266123435018,
   "skill": 31.723348087610212,
   "skill_sigma": 70.68678821876055,
   "name": "Rosanna Cederl\u00f6f",
   "slug": "rosanna-cederlof",
-  "skill_rank": 134.0,
-  "skill_rank_pct": 134.0,
+  "skill_rank": 144.0,
+  "skill_rank_pct": 144.0,
   "skill_history": [
     [
       2011,
@@ -57,6 +57,10 @@
     [
       2024,
       32.0
+    ],
+    [
+      2025,
+      null
     ]
   ],
   "tournaments": [
@@ -87,7 +91,7 @@
           "opponent_win_prob": 0.564005509941822,
           "is_winner": false,
           "opponent_slug": "ville-nordenankar",
-          "opponent_hist_score_share": 0.4457742488992489
+          "opponent_hist_score_share": 0.4262469368238599
         },
         {
           "game_id": 810,
@@ -123,7 +127,7 @@
           "opponent_win_prob": 0.9611437498004939,
           "is_winner": false,
           "opponent_slug": "erik-nordenankar",
-          "opponent_hist_score_share": 0.6808699289679294
+          "opponent_hist_score_share": 0.6713917107373603
         }
       ],
       "n_games": 3,

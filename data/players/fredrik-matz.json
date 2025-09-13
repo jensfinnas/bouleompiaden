@@ -7,13 +7,13 @@
     2023
   ],
   "win_rate": 0.5714285714285714,
-  "opponent_score_share": 0.4791747516748492,
+  "opponent_score_share": 0.4787578424769036,
   "skill": 146.48387946888488,
   "skill_sigma": 38.59228147040312,
   "name": "Fredrik Matz",
   "slug": "fredrik-matz",
-  "skill_rank": 41.0,
-  "skill_rank_pct": 41.0,
+  "skill_rank": 42.0,
+  "skill_rank_pct": 42.0,
   "skill_history": [
     [
       2011,
@@ -58,6 +58,10 @@
     [
       2024,
       null
+    ],
+    [
+      2025,
+      null
     ]
   ],
   "tournaments": [
@@ -88,7 +92,7 @@
           "opponent_win_prob": 0.2177792345974645,
           "is_winner": true,
           "opponent_slug": "kajsa-hallberg-nor",
-          "opponent_hist_score_share": 0.24588014382132029
+          "opponent_hist_score_share": 0.24440404846979244
         },
         {
           "game_id": 591,
@@ -124,7 +128,7 @@
           "opponent_win_prob": 0.28902283477272606,
           "is_winner": false,
           "opponent_slug": "hilda-dahlberg",
-          "opponent_hist_score_share": 0.481198489010989
+          "opponent_hist_score_share": 0.4893564768564769
         }
       ],
       "n_games": 3,
@@ -175,7 +179,7 @@
           "opponent_win_prob": 0.5783101951792273,
           "is_winner": false,
           "opponent_slug": "pelle-dovborg",
-          "opponent_hist_score_share": 0.5570986081958933
+          "opponent_hist_score_share": 0.5601130539684227
         },
         {
           "game_id": 723,
@@ -193,7 +197,7 @@
           "opponent_win_prob": 0.6083084480989491,
           "is_winner": true,
           "opponent_slug": "edvin-lindsten",
-          "opponent_hist_score_share": 0.5674037929616024
+          "opponent_hist_score_share": 0.5631097566469083
         },
         {
           "game_id": 751,
@@ -211,7 +215,7 @@
           "opponent_win_prob": 0.30647914638584406,
           "is_winner": false,
           "opponent_slug": "bjorn-berglund",
-          "opponent_hist_score_share": 0.5899186767752944
+          "opponent_hist_score_share": 0.5815980104378797
         }
       ],
       "n_games": 4,

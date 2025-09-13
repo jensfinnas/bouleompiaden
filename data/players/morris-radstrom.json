@@ -1,0 +1,141 @@
+{
+  "n_games": 3,
+  "score_share": 0.39999999999999997,
+  "n_wins": 1,
+  "years": [
+    2025
+  ],
+  "win_rate": 0.3333333333333333,
+  "opponent_score_share": 0.43269074556490494,
+  "skill": 75.65503451418782,
+  "skill_sigma": 63.67573916226872,
+  "name": "Morris R\u00e5dstr\u00f6m",
+  "slug": "morris-radstrom",
+  "skill_rank": 108.0,
+  "skill_rank_pct": 108.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      null
+    ],
+    [
+      2016,
+      null
+    ],
+    [
+      2017,
+      null
+    ],
+    [
+      2018,
+      null
+    ],
+    [
+      2019,
+      null
+    ],
+    [
+      2020,
+      null
+    ],
+    [
+      2021,
+      null
+    ],
+    [
+      2022,
+      null
+    ],
+    [
+      2023,
+      null
+    ],
+    [
+      2024,
+      null
+    ],
+    [
+      2025,
+      76.0
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2025,
+      "last_game": {
+        "opponent_name": "Bj\u00f6rn Berglund",
+        "opponent_slug": "bjorn-berglund",
+        "score": 2,
+        "opponent_score": 8,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "games": [
+        {
+          "game_id": 858,
+          "year": 2025,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Morris R\u00e5dstr\u00f6m",
+          "score": 2,
+          "score_share": 0.2,
+          "win_prob": 0.2600998074805685,
+          "opponent_name": "Filippa Berencreutz",
+          "opponent_score": 8,
+          "opponent_score_share": 0.8,
+          "opponent_win_prob": 0.7399001925194315,
+          "is_winner": false,
+          "opponent_slug": "filippa-berencreutz",
+          "opponent_hist_score_share": 0.5609186707012794
+        },
+        {
+          "game_id": 897,
+          "year": 2025,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Morris R\u00e5dstr\u00f6m",
+          "score": 8,
+          "score_share": 0.8,
+          "win_prob": 0.5676341558543645,
+          "opponent_name": "Christina Bergmark",
+          "opponent_score": 2,
+          "opponent_score_share": 0.2,
+          "opponent_win_prob": 0.4323658441456355,
+          "is_winner": true,
+          "opponent_slug": "christina-bergmark",
+          "opponent_hist_score_share": 0.15555555555555556
+        },
+        {
+          "game_id": 910,
+          "year": 2025,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Morris R\u00e5dstr\u00f6m",
+          "score": 2,
+          "score_share": 0.2,
+          "win_prob": 0.29133853413761623,
+          "opponent_name": "Bj\u00f6rn Berglund",
+          "opponent_score": 8,
+          "opponent_score_share": 0.8,
+          "opponent_win_prob": 0.7086614658623838,
+          "is_winner": false,
+          "opponent_slug": "bjorn-berglund",
+          "opponent_hist_score_share": 0.5815980104378797
+        }
+      ],
+      "n_games": 3,
+      "n_wins": 1
+    }
+  ],
+  "best_stage": "gruppspel",
+  "best_stage_years": [
+    2025
+  ]
+}

@@ -1,21 +1,22 @@
 {
-  "n_games": 10,
-  "score_share": 0.3392216117216117,
+  "n_games": 12,
+  "score_share": 0.3411262348762349,
   "n_wins": 2,
   "years": [
     2019,
     2022,
     2023,
-    2024
+    2024,
+    2025
   ],
-  "win_rate": 0.2,
-  "opponent_score_share": 0.4886355258474057,
-  "skill": 43.91185792340872,
-  "skill_sigma": 42.12409374536709,
+  "win_rate": 0.16666666666666666,
+  "opponent_score_share": 0.4950564850065083,
+  "skill": 28.029790439545824,
+  "skill_sigma": 39.07942056219294,
   "name": "Olle Nyr\u00e9n",
   "slug": "olle-nyren",
-  "skill_rank": 124.0,
-  "skill_rank_pct": 124.0,
+  "skill_rank": 149.0,
+  "skill_rank_pct": 149.0,
   "skill_history": [
     [
       2011,
@@ -60,6 +61,10 @@
     [
       2024,
       44.0
+    ],
+    [
+      2025,
+      28.0
     ]
   ],
   "tournaments": [
@@ -159,7 +164,7 @@
           "opponent_win_prob": 0.9530676209611152,
           "is_winner": false,
           "opponent_slug": "theodore-ripman",
-          "opponent_hist_score_share": 0.5710964566774074
+          "opponent_hist_score_share": 0.5743604529581897
         },
         {
           "game_id": 615,
@@ -261,7 +266,7 @@
           "opponent_win_prob": 0.8451681393964132,
           "is_winner": false,
           "opponent_slug": "jerker-karlsson",
-          "opponent_hist_score_share": 0.5303209572946416
+          "opponent_hist_score_share": 0.5263087714504718
         },
         {
           "game_id": 769,
@@ -297,11 +302,62 @@
           "opponent_win_prob": 0.9745537286033646,
           "is_winner": false,
           "opponent_slug": "erik-nordenankar",
-          "opponent_hist_score_share": 0.6808699289679294
+          "opponent_hist_score_share": 0.6713917107373603
         }
       ],
       "n_games": 3,
       "n_wins": 1
+    },
+    {
+      "year": 2025,
+      "last_game": {
+        "opponent_name": "Tommy Damstr\u00f6m",
+        "opponent_slug": "tommy-damstrom",
+        "score": 6,
+        "opponent_score": 8,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "games": [
+        {
+          "game_id": 870,
+          "year": 2025,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Olle Nyr\u00e9n",
+          "score": 3,
+          "score_share": 0.2727272727272727,
+          "win_prob": 0.017678253431821833,
+          "opponent_name": "Benjamin Ger. Hed.",
+          "opponent_score": 8,
+          "opponent_score_share": 0.7272727272727273,
+          "opponent_win_prob": 0.9823217465681782,
+          "is_winner": false,
+          "opponent_slug": "benjamin-ger-hed",
+          "opponent_hist_score_share": 0.6318897883013175
+        },
+        {
+          "game_id": 903,
+          "year": 2025,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Olle Nyr\u00e9n",
+          "score": 6,
+          "score_share": 0.42857142857142855,
+          "win_prob": 0.5277283952526213,
+          "opponent_name": "Tommy Damstr\u00f6m",
+          "opponent_score": 8,
+          "opponent_score_share": 0.5714285714285714,
+          "opponent_win_prob": 0.4722716047473788,
+          "is_winner": false,
+          "opponent_slug": "tommy-damstrom",
+          "opponent_hist_score_share": 0.4326591810966811
+        }
+      ],
+      "n_games": 2,
+      "n_wins": 0
     }
   ],
   "best_stage": "gruppspel",
@@ -309,6 +365,7 @@
     2022,
     2023,
     2024,
-    2019
+    2019,
+    2025
   ]
 }

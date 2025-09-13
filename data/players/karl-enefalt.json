@@ -1,0 +1,123 @@
+{
+  "n_games": 2,
+  "score_share": 0.3333333333333333,
+  "n_wins": 0,
+  "years": [
+    2025
+  ],
+  "win_rate": 0.0,
+  "opponent_score_share": 0.49985571678103524,
+  "skill": 0.6807765769246519,
+  "skill_sigma": 67.35697242725897,
+  "name": "Karl Enef\u00e4lt",
+  "slug": "karl-enefalt",
+  "skill_rank": 178.0,
+  "skill_rank_pct": 178.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      null
+    ],
+    [
+      2016,
+      null
+    ],
+    [
+      2017,
+      null
+    ],
+    [
+      2018,
+      null
+    ],
+    [
+      2019,
+      null
+    ],
+    [
+      2020,
+      null
+    ],
+    [
+      2021,
+      null
+    ],
+    [
+      2022,
+      null
+    ],
+    [
+      2023,
+      null
+    ],
+    [
+      2024,
+      null
+    ],
+    [
+      2025,
+      1.0
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2025,
+      "last_game": {
+        "opponent_name": "Fredrik Berg",
+        "opponent_slug": "fredrik-berg",
+        "score": 4,
+        "opponent_score": 8,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "games": [
+        {
+          "game_id": 862,
+          "year": 2025,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Karl Enef\u00e4lt",
+          "score": 4,
+          "score_share": 0.3333333333333333,
+          "win_prob": 0.29700841764204755,
+          "opponent_name": "Hannes Jordan",
+          "opponent_score": 8,
+          "opponent_score_share": 0.6666666666666666,
+          "opponent_win_prob": 0.7029915823579524,
+          "is_winner": false,
+          "opponent_slug": "hannes-jordan",
+          "opponent_hist_score_share": 0.5798265565343363
+        },
+        {
+          "game_id": 899,
+          "year": 2025,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Karl Enef\u00e4lt",
+          "score": 4,
+          "score_share": 0.3333333333333333,
+          "win_prob": 0.6595771161108912,
+          "opponent_name": "Fredrik Berg",
+          "opponent_score": 8,
+          "opponent_score_share": 0.6666666666666666,
+          "opponent_win_prob": 0.34042288388910885,
+          "is_winner": false,
+          "opponent_slug": "fredrik-berg",
+          "opponent_hist_score_share": 0.4198848770277342
+        }
+      ],
+      "n_games": 2,
+      "n_wins": 0
+    }
+  ],
+  "best_stage": "gruppspel",
+  "best_stage_years": [
+    2025
+  ]
+}

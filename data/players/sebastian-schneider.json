@@ -6,13 +6,13 @@
     2022
   ],
   "win_rate": 0.75,
-  "opponent_score_share": 0.4298946881201212,
+  "opponent_score_share": 0.4583779693936546,
   "skill": 171.4833485037326,
   "skill_sigma": 55.0135149136545,
   "name": "Sebastian Schneider",
   "slug": "sebastian-schneider",
-  "skill_rank": 21.0,
-  "skill_rank_pct": 21.0,
+  "skill_rank": 20.0,
+  "skill_rank_pct": 20.0,
   "skill_history": [
     [
       2011,
@@ -57,6 +57,10 @@
     [
       2024,
       null
+    ],
+    [
+      2025,
+      null
     ]
   ],
   "tournaments": [
@@ -87,7 +91,7 @@
           "opponent_win_prob": 0.5355969015895098,
           "is_winner": true,
           "opponent_slug": "emma-bergmark",
-          "opponent_hist_score_share": 0.4416463599609884
+          "opponent_hist_score_share": 0.4735299747659461
         },
         {
           "game_id": 589,
@@ -105,7 +109,7 @@
           "opponent_win_prob": 0.4310110280844057,
           "is_winner": true,
           "opponent_slug": "tim-samuelsson",
-          "opponent_hist_score_share": 0.5020184943261866
+          "opponent_hist_score_share": 0.5092587006714431
         },
         {
           "game_id": 637,
@@ -123,7 +127,7 @@
           "opponent_win_prob": 0.09070041355204761,
           "is_winner": true,
           "opponent_slug": "hasse-hallgren",
-          "opponent_hist_score_share": 0.33823209470268295
+          "opponent_hist_score_share": 0.36274263695078174
         },
         {
           "game_id": 646,
@@ -141,7 +145,7 @@
           "opponent_win_prob": 0.3310015099815806,
           "is_winner": false,
           "opponent_slug": "amanda-engstrom",
-          "opponent_hist_score_share": 0.437681803490627
+          "opponent_hist_score_share": 0.48798056518644756
         }
       ],
       "n_games": 4,

@@ -11,8 +11,8 @@
   "skill_sigma": 66.446425381796,
   "name": "Simon Rosendahl",
   "slug": "simon-rosendahl",
-  "skill_rank": 102.0,
-  "skill_rank_pct": 102.0,
+  "skill_rank": 109.0,
+  "skill_rank_pct": 109.0,
   "skill_history": [
     [
       2011,
@@ -56,6 +56,10 @@
     ],
     [
       2024,
+      null
+    ],
+    [
+      2025,
       null
     ]
   ],

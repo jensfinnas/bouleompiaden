@@ -7,13 +7,13 @@
     2018
   ],
   "win_rate": 0.42857142857142855,
-  "opponent_score_share": 0.4835625988445537,
+  "opponent_score_share": 0.4817486489087628,
   "skill": 83.23915158295911,
   "skill_sigma": 44.060859547860005,
   "name": "Love Elfvelin",
   "slug": "love-elfvelin",
-  "skill_rank": 97.0,
-  "skill_rank_pct": 97.0,
+  "skill_rank": 101.0,
+  "skill_rank_pct": 101.0,
   "skill_history": [
     [
       2011,
@@ -57,6 +57,10 @@
     ],
     [
       2024,
+      null
+    ],
+    [
+      2025,
       null
     ]
   ],
@@ -106,7 +110,7 @@
           "opponent_win_prob": 0.517593825336986,
           "is_winner": true,
           "opponent_slug": "johanna-radstrom",
-          "opponent_hist_score_share": 0.32542617105117105
+          "opponent_hist_score_share": 0.33626801942019335
         },
         {
           "game_id": 122,
@@ -124,7 +128,7 @@
           "opponent_win_prob": 0.7327361552593394,
           "is_winner": false,
           "opponent_slug": "jerker-karlsson",
-          "opponent_hist_score_share": 0.5303209572946416
+          "opponent_hist_score_share": 0.5263087714504718
         }
       ],
       "n_games": 3,
@@ -211,7 +215,7 @@
           "opponent_win_prob": 0.8975294400294883,
           "is_winner": false,
           "opponent_slug": "ville-nordenankar",
-          "opponent_hist_score_share": 0.4457742488992489
+          "opponent_hist_score_share": 0.4262469368238599
         }
       ],
       "n_games": 4,

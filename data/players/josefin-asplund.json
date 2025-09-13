@@ -7,13 +7,13 @@
     2018
   ],
   "win_rate": 0.5714285714285714,
-  "opponent_score_share": 0.5139871573190133,
+  "opponent_score_share": 0.5133035524855563,
   "skill": 129.10117675240986,
   "skill_sigma": 43.652678330858585,
   "name": "Josefin Asplund",
   "slug": "josefin-asplund",
-  "skill_rank": 57.0,
-  "skill_rank_pct": 57.0,
+  "skill_rank": 56.0,
+  "skill_rank_pct": 56.0,
   "skill_history": [
     [
       2011,
@@ -57,6 +57,10 @@
     ],
     [
       2024,
+      null
+    ],
+    [
+      2025,
       null
     ]
   ],
@@ -142,7 +146,7 @@
           "opponent_win_prob": 0.26890284525692515,
           "is_winner": false,
           "opponent_slug": "jerker-karlsson",
-          "opponent_hist_score_share": 0.5303209572946416
+          "opponent_hist_score_share": 0.5263087714504718
         }
       ],
       "n_games": 4,
@@ -175,7 +179,7 @@
           "opponent_win_prob": 0.17710947357529983,
           "is_winner": true,
           "opponent_slug": "lovisa-birgersson",
-          "opponent_hist_score_share": 0.5785867334069948
+          "opponent_hist_score_share": 0.5778136854169652
         },
         {
           "game_id": 183,

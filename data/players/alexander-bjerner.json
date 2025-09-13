@@ -6,7 +6,7 @@
     2019
   ],
   "win_rate": 0.6666666666666666,
-  "opponent_score_share": 0.582303967138526,
+  "opponent_score_share": 0.579530411692721,
   "skill": 137.98382676526975,
   "skill_sigma": 58.48142083789554,
   "name": "Alexander Bjerner",
@@ -57,6 +57,10 @@
     [
       2024,
       null
+    ],
+    [
+      2025,
+      null
     ]
   ],
   "tournaments": [
@@ -87,7 +91,7 @@
           "opponent_win_prob": 0.2662051108746257,
           "is_winner": true,
           "opponent_slug": "bjorn-berglund",
-          "opponent_hist_score_share": 0.5899186767752944
+          "opponent_hist_score_share": 0.5815980104378797
         },
         {
           "game_id": 285,

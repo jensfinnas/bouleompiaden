@@ -12,8 +12,8 @@
   "skill_sigma": 47.161066411553726,
   "name": "Ida Wimmerman",
   "slug": "ida-wimmerman",
-  "skill_rank": 67.0,
-  "skill_rank_pct": 67.0,
+  "skill_rank": 68.0,
+  "skill_rank_pct": 68.0,
   "skill_history": [
     [
       2011,
@@ -57,6 +57,10 @@
     ],
     [
       2024,
+      null
+    ],
+    [
+      2025,
       null
     ]
   ],

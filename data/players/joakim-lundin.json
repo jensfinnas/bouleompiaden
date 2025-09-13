@@ -7,13 +7,13 @@
     2019
   ],
   "win_rate": 0.0,
-  "opponent_score_share": 0.4838620732443227,
+  "opponent_score_share": 0.4890427963264819,
   "skill": -15.1169883792109,
   "skill_sigma": 62.978256945265564,
   "name": "Joakim Lundin",
   "slug": "joakim-lundin",
-  "skill_rank": 170.0,
-  "skill_rank_pct": 170.0,
+  "skill_rank": 182.0,
+  "skill_rank_pct": 182.0,
   "skill_history": [
     [
       2011,
@@ -58,6 +58,10 @@
     [
       2024,
       null
+    ],
+    [
+      2025,
+      null
     ]
   ],
   "tournaments": [
@@ -88,7 +92,7 @@
           "opponent_win_prob": 0.4838402210525887,
           "is_winner": false,
           "opponent_slug": "jens-finnas",
-          "opponent_hist_score_share": 0.4591026498011792
+          "opponent_hist_score_share": 0.4658863621459529
         },
         {
           "game_id": 195,
@@ -106,7 +110,7 @@
           "opponent_win_prob": 0.6360009712975938,
           "is_winner": false,
           "opponent_slug": "pelle-dovborg",
-          "opponent_hist_score_share": 0.5570986081958933
+          "opponent_hist_score_share": 0.5601130539684227
         }
       ],
       "n_games": 2,
@@ -157,7 +161,7 @@
           "opponent_win_prob": 0.9874240762662386,
           "is_winner": false,
           "opponent_slug": "gabriel-nordenankar",
-          "opponent_hist_score_share": 0.6495889153220986
+          "opponent_hist_score_share": 0.6605136495334323
         }
       ],
       "n_games": 2,

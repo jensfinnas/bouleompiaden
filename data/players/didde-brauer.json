@@ -1,0 +1,141 @@
+{
+  "n_games": 3,
+  "score_share": 0.3384615384615384,
+  "n_wins": 1,
+  "years": [
+    2025
+  ],
+  "win_rate": 0.3333333333333333,
+  "opponent_score_share": 0.5877142848156475,
+  "skill": 132.70297178984413,
+  "skill_sigma": 51.1515812706649,
+  "name": "Didde Brauer",
+  "slug": "didde-brauer",
+  "skill_rank": 51.0,
+  "skill_rank_pct": 51.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      null
+    ],
+    [
+      2016,
+      null
+    ],
+    [
+      2017,
+      null
+    ],
+    [
+      2018,
+      null
+    ],
+    [
+      2019,
+      null
+    ],
+    [
+      2020,
+      null
+    ],
+    [
+      2021,
+      null
+    ],
+    [
+      2022,
+      null
+    ],
+    [
+      2023,
+      null
+    ],
+    [
+      2024,
+      null
+    ],
+    [
+      2025,
+      133.0
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2025,
+      "last_game": {
+        "opponent_name": "Robeson",
+        "opponent_slug": "robeson",
+        "score": 8,
+        "opponent_score": 5,
+        "is_winner": true,
+        "stage": "gruppspel"
+      },
+      "games": [
+        {
+          "game_id": 880,
+          "year": 2025,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Didde Brauer",
+          "score": 2,
+          "score_share": 0.2,
+          "win_prob": 0.5754218531665809,
+          "opponent_name": "Pelle Dovborg",
+          "opponent_score": 8,
+          "opponent_score_share": 0.8,
+          "opponent_win_prob": 0.4245781468334191,
+          "is_winner": false,
+          "opponent_slug": "pelle-dovborg",
+          "opponent_hist_score_share": 0.5601130539684227
+        },
+        {
+          "game_id": 909,
+          "year": 2025,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Didde Brauer",
+          "score": 2,
+          "score_share": 0.2,
+          "win_prob": 0.5017996851122994,
+          "opponent_name": "Simon Fridh",
+          "opponent_score": 8,
+          "opponent_score_share": 0.8,
+          "opponent_win_prob": 0.49820031488770056,
+          "is_winner": false,
+          "opponent_slug": "simon-fridh",
+          "opponent_hist_score_share": 0.6302112029384758
+        },
+        {
+          "game_id": 854,
+          "year": 2025,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Didde Brauer",
+          "score": 8,
+          "score_share": 0.6153846153846154,
+          "win_prob": 0.23262109285398924,
+          "opponent_name": "Robeson",
+          "opponent_score": 5,
+          "opponent_score_share": 0.38461538461538464,
+          "opponent_win_prob": 0.7673789071460108,
+          "is_winner": true,
+          "opponent_slug": "robeson",
+          "opponent_hist_score_share": 0.5728185975400439
+        }
+      ],
+      "n_games": 3,
+      "n_wins": 1
+    }
+  ],
+  "best_stage": "gruppspel",
+  "best_stage_years": [
+    2025
+  ]
+}

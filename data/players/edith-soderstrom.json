@@ -8,13 +8,13 @@
     2021
   ],
   "win_rate": 0.25,
-  "opponent_score_share": 0.5202021220866433,
+  "opponent_score_share": 0.520041648642375,
   "skill": 31.867695401330568,
   "skill_sigma": 44.877579135688684,
   "name": "Edith S\u00f6derstr\u00f6m",
   "slug": "edith-soderstrom",
-  "skill_rank": 133.0,
-  "skill_rank_pct": 133.0,
+  "skill_rank": 143.0,
+  "skill_rank_pct": 143.0,
   "skill_history": [
     [
       2011,
@@ -59,6 +59,10 @@
     [
       2024,
       null
+    ],
+    [
+      2025,
+      null
     ]
   ],
   "tournaments": [
@@ -89,7 +93,7 @@
           "opponent_win_prob": 0.7008102833531132,
           "is_winner": false,
           "opponent_slug": "benjamin-ger-hed",
-          "opponent_hist_score_share": 0.6311029571727272
+          "opponent_hist_score_share": 0.6318897883013175
         },
         {
           "game_id": 153,
@@ -125,7 +129,7 @@
           "opponent_win_prob": 0.45855230542145703,
           "is_winner": false,
           "opponent_slug": "olle-strandberg",
-          "opponent_hist_score_share": 0.6284587088539505
+          "opponent_hist_score_share": 0.6165712283638421
         }
       ],
       "n_games": 3,
@@ -158,7 +162,7 @@
           "opponent_win_prob": 0.6857763477204726,
           "is_winner": false,
           "opponent_slug": "jens-finnas",
-          "opponent_hist_score_share": 0.4591026498011792
+          "opponent_hist_score_share": 0.4658863621459529
         },
         {
           "game_id": 310,
@@ -245,7 +249,7 @@
           "opponent_win_prob": 0.9493397536030364,
           "is_winner": false,
           "opponent_slug": "robeson",
-          "opponent_hist_score_share": 0.5697854480774457
+          "opponent_hist_score_share": 0.5728185975400439
         }
       ],
       "n_games": 2,

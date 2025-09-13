@@ -1,18 +1,19 @@
 {
-  "n_games": 2,
-  "score_share": 0.15,
-  "n_wins": 0,
+  "n_games": 5,
+  "score_share": 0.28043650793650793,
+  "n_wins": 1,
   "years": [
-    2016
+    2016,
+    2025
   ],
-  "win_rate": 0.0,
-  "opponent_score_share": 0.48798653179727347,
-  "skill": 25.23396074100435,
-  "skill_sigma": 77.13335364641657,
+  "win_rate": 0.2,
+  "opponent_score_share": 0.4609228396798833,
+  "skill": 60.980422719344,
+  "skill_sigma": 46.0806738266066,
   "name": "Sofia S\u00f6derberg",
   "slug": "sofia-soderberg",
-  "skill_rank": 140.0,
-  "skill_rank_pct": 140.0,
+  "skill_rank": 118.0,
+  "skill_rank_pct": 118.0,
   "skill_history": [
     [
       2011,
@@ -57,6 +58,10 @@
     [
       2024,
       null
+    ],
+    [
+      2025,
+      61.0
     ]
   ],
   "tournaments": [
@@ -110,10 +115,80 @@
       ],
       "n_games": 2,
       "n_wins": 0
+    },
+    {
+      "year": 2025,
+      "last_game": {
+        "opponent_name": "Jens Finn\u00e4s",
+        "opponent_slug": "jens-finnas",
+        "score": 1,
+        "opponent_score": 8,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "games": [
+        {
+          "game_id": 906,
+          "year": 2025,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Sofia S\u00f6derberg",
+          "score": 6,
+          "score_share": 0.42857142857142855,
+          "win_prob": 0.6896742028709779,
+          "opponent_name": "Sofia R\u00e5dstr\u00f6m",
+          "opponent_score": 8,
+          "opponent_score_share": 0.5714285714285714,
+          "opponent_win_prob": 0.3103257971290221,
+          "is_winner": false,
+          "opponent_slug": "sofia-radstrom",
+          "opponent_hist_score_share": 0.3364460012084447
+        },
+        {
+          "game_id": 849,
+          "year": 2025,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Sofia S\u00f6derberg",
+          "score": 9,
+          "score_share": 0.5625,
+          "win_prob": 0.14638891269930787,
+          "opponent_name": "Jerker Karlsson",
+          "opponent_score": 7,
+          "opponent_score_share": 0.4375,
+          "opponent_win_prob": 0.8536110873006921,
+          "is_winner": true,
+          "opponent_slug": "jerker-karlsson",
+          "opponent_hist_score_share": 0.5263087714504718
+        },
+        {
+          "game_id": 877,
+          "year": 2025,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Sofia S\u00f6derberg",
+          "score": 1,
+          "score_share": 0.1111111111111111,
+          "win_prob": 0.29438420782050834,
+          "opponent_name": "Jens Finn\u00e4s",
+          "opponent_score": 8,
+          "opponent_score_share": 0.8888888888888888,
+          "opponent_win_prob": 0.7056157921794917,
+          "is_winner": false,
+          "opponent_slug": "jens-finnas",
+          "opponent_hist_score_share": 0.4658863621459529
+        }
+      ],
+      "n_games": 3,
+      "n_wins": 1
     }
   ],
   "best_stage": "gruppspel",
   "best_stage_years": [
-    2016
+    2016,
+    2025
   ]
 }

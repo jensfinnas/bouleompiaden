@@ -9,13 +9,13 @@
     2023
   ],
   "win_rate": 0.2222222222222222,
-  "opponent_score_share": 0.5791598024135083,
+  "opponent_score_share": 0.5804850527049692,
   "skill": 52.17035205042871,
   "skill_sigma": 45.07040691313938,
   "name": "Andreas Josefson",
   "slug": "andreas-josefson",
-  "skill_rank": 115.0,
-  "skill_rank_pct": 115.0,
+  "skill_rank": 127.0,
+  "skill_rank_pct": 127.0,
   "skill_history": [
     [
       2011,
@@ -60,6 +60,10 @@
     [
       2024,
       null
+    ],
+    [
+      2025,
+      null
     ]
   ],
   "tournaments": [
@@ -90,7 +94,7 @@
           "opponent_win_prob": 0.8036286847058723,
           "is_winner": true,
           "opponent_slug": "gabriel-nordenankar",
-          "opponent_hist_score_share": 0.6495889153220986
+          "opponent_hist_score_share": 0.6605136495334323
         },
         {
           "game_id": 1,
@@ -126,7 +130,7 @@
           "opponent_win_prob": 0.4028192866931639,
           "is_winner": false,
           "opponent_slug": "erik-nordenankar",
-          "opponent_hist_score_share": 0.6808699289679294
+          "opponent_hist_score_share": 0.6713917107373603
         }
       ],
       "n_games": 3,
@@ -228,7 +232,7 @@
           "opponent_win_prob": 0.8373100557104158,
           "is_winner": false,
           "opponent_slug": "pelle-dovborg",
-          "opponent_hist_score_share": 0.5570986081958933
+          "opponent_hist_score_share": 0.5601130539684227
         }
       ],
       "n_games": 2,
@@ -261,7 +265,7 @@
           "opponent_win_prob": 0.9221632062081172,
           "is_winner": false,
           "opponent_slug": "johan-kjell",
-          "opponent_hist_score_share": 0.6040345989993392
+          "opponent_hist_score_share": 0.6084677404065949
         },
         {
           "game_id": 715,
@@ -279,7 +283,7 @@
           "opponent_win_prob": 0.9478753201426748,
           "is_winner": false,
           "opponent_slug": "robeson",
-          "opponent_hist_score_share": 0.5697854480774457
+          "opponent_hist_score_share": 0.5728185975400439
         }
       ],
       "n_games": 2,

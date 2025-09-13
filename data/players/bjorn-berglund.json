@@ -1,7 +1,7 @@
 {
-  "n_games": 24,
-  "score_share": 0.5899186767752944,
-  "n_wins": 13,
+  "n_games": 27,
+  "score_share": 0.5815980104378797,
+  "n_wins": 14,
   "years": [
     2018,
     2019,
@@ -9,16 +9,17 @@
     2021,
     2022,
     2023,
-    2024
+    2024,
+    2025
   ],
-  "win_rate": 0.5416666666666666,
-  "opponent_score_share": 0.5000190142941386,
-  "skill": 160.72950333214013,
-  "skill_sigma": 23.465362292719643,
+  "win_rate": 0.5185185185185185,
+  "opponent_score_share": 0.503678416650481,
+  "skill": 157.46112654574597,
+  "skill_sigma": 22.271627567548624,
   "name": "Bj\u00f6rn Berglund",
   "slug": "bjorn-berglund",
-  "skill_rank": 32.0,
-  "skill_rank_pct": 32.0,
+  "skill_rank": 33.0,
+  "skill_rank_pct": 33.0,
   "skill_history": [
     [
       2011,
@@ -63,6 +64,10 @@
     [
       2024,
       161.0
+    ],
+    [
+      2025,
+      157.0
     ]
   ],
   "tournaments": [
@@ -111,7 +116,7 @@
           "opponent_win_prob": 0.5920441515589089,
           "is_winner": false,
           "opponent_slug": "theodore-ripman",
-          "opponent_hist_score_share": 0.5710964566774074
+          "opponent_hist_score_share": 0.5743604529581897
         }
       ],
       "n_games": 2,
@@ -180,7 +185,7 @@
           "opponent_win_prob": 0.7799821506628273,
           "is_winner": false,
           "opponent_slug": "benjamin-ger-hed",
-          "opponent_hist_score_share": 0.6311029571727272
+          "opponent_hist_score_share": 0.6318897883013175
         }
       ],
       "n_games": 3,
@@ -213,7 +218,7 @@
           "opponent_win_prob": 0.976864510115324,
           "is_winner": false,
           "opponent_slug": "gabriel-nordenankar",
-          "opponent_hist_score_share": 0.6495889153220986
+          "opponent_hist_score_share": 0.6605136495334323
         },
         {
           "game_id": 406,
@@ -336,7 +341,7 @@
           "opponent_win_prob": 0.4674071438387235,
           "is_winner": false,
           "opponent_slug": "chris-lowe",
-          "opponent_hist_score_share": 0.4056416316526611
+          "opponent_hist_score_share": 0.4107145750862328
         }
       ],
       "n_games": 3,
@@ -369,7 +374,7 @@
           "opponent_win_prob": 0.882788042745404,
           "is_winner": false,
           "opponent_slug": "robeson",
-          "opponent_hist_score_share": 0.5697854480774457
+          "opponent_hist_score_share": 0.5728185975400439
         },
         {
           "game_id": 612,
@@ -405,7 +410,7 @@
           "opponent_win_prob": 0.4794157031075971,
           "is_winner": true,
           "opponent_slug": "johannes-nordenhaag",
-          "opponent_hist_score_share": 0.5879740789775392
+          "opponent_hist_score_share": 0.5865835226864639
         }
       ],
       "n_games": 3,
@@ -510,7 +515,7 @@
           "opponent_win_prob": 0.9059486934197086,
           "is_winner": false,
           "opponent_slug": "gabriel-nordenankar",
-          "opponent_hist_score_share": 0.6495889153220986
+          "opponent_hist_score_share": 0.6605136495334323
         }
       ],
       "n_games": 5,
@@ -543,7 +548,7 @@
           "opponent_win_prob": 0.37208337396862223,
           "is_winner": true,
           "opponent_slug": "kusha-bahrami",
-          "opponent_hist_score_share": 0.4486967417114476
+          "opponent_hist_score_share": 0.47827151198474727
         },
         {
           "game_id": 791,
@@ -561,7 +566,7 @@
           "opponent_win_prob": 0.701887271776759,
           "is_winner": true,
           "opponent_slug": "olle-strandberg",
-          "opponent_hist_score_share": 0.6284587088539505
+          "opponent_hist_score_share": 0.6165712283638421
         },
         {
           "game_id": 826,
@@ -597,11 +602,80 @@
           "opponent_win_prob": 0.5693414446164538,
           "is_winner": false,
           "opponent_slug": "filippa-berencreutz",
-          "opponent_hist_score_share": 0.5570843587097457
+          "opponent_hist_score_share": 0.5609186707012794
         }
       ],
       "n_games": 4,
       "n_wins": 3
+    },
+    {
+      "year": 2025,
+      "last_game": {
+        "opponent_name": "Theodore Ripman",
+        "opponent_slug": "theodore-ripman",
+        "score": 7,
+        "opponent_score": 10,
+        "is_winner": false,
+        "stage": "sextondelsfinal"
+      },
+      "games": [
+        {
+          "game_id": 881,
+          "year": 2025,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Bj\u00f6rn Berglund",
+          "score": 4,
+          "score_share": 0.3333333333333333,
+          "win_prob": 0.2463871062780275,
+          "opponent_name": "Richard Printz",
+          "opponent_score": 8,
+          "opponent_score_share": 0.6666666666666666,
+          "opponent_win_prob": 0.7536128937219725,
+          "is_winner": false,
+          "opponent_slug": "richard-printz",
+          "opponent_hist_score_share": 0.5703630193336076
+        },
+        {
+          "game_id": 910,
+          "year": 2025,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Bj\u00f6rn Berglund",
+          "score": 8,
+          "score_share": 0.8,
+          "win_prob": 0.7086614658623838,
+          "opponent_name": "Morris R\u00e5dstr\u00f6m",
+          "opponent_score": 2,
+          "opponent_score_share": 0.2,
+          "opponent_win_prob": 0.29133853413761623,
+          "is_winner": true,
+          "opponent_slug": "morris-radstrom",
+          "opponent_hist_score_share": 0.39999999999999997
+        },
+        {
+          "game_id": 936,
+          "year": 2025,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p1",
+          "name": "Bj\u00f6rn Berglund",
+          "score": 7,
+          "score_share": 0.4117647058823529,
+          "win_prob": 0.26157849323361293,
+          "opponent_name": "Theodore Ripman",
+          "opponent_score": 10,
+          "opponent_score_share": 0.5882352941176471,
+          "opponent_win_prob": 0.7384215067663871,
+          "is_winner": false,
+          "opponent_slug": "theodore-ripman",
+          "opponent_hist_score_share": 0.5743604529581897
+        }
+      ],
+      "n_games": 3,
+      "n_wins": 1
     }
   ],
   "best_stage": "kvartsfinal",

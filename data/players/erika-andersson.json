@@ -1,19 +1,20 @@
 {
-  "n_games": 6,
-  "score_share": 0.4898324714501185,
-  "n_wins": 2,
+  "n_games": 11,
+  "score_share": 0.5373486077046449,
+  "n_wins": 5,
   "years": [
     2023,
-    2024
+    2024,
+    2025
   ],
-  "win_rate": 0.3333333333333333,
-  "opponent_score_share": 0.4851447950832841,
-  "skill": 108.04526321514824,
-  "skill_sigma": 45.37256776687864,
+  "win_rate": 0.45454545454545453,
+  "opponent_score_share": 0.44659031476100425,
+  "skill": 128.73230083349304,
+  "skill_sigma": 34.47772816802592,
   "name": "Erika Andersson",
   "slug": "erika-andersson",
-  "skill_rank": 81.0,
-  "skill_rank_pct": 81.0,
+  "skill_rank": 58.0,
+  "skill_rank_pct": 58.0,
   "skill_history": [
     [
       2011,
@@ -58,6 +59,10 @@
     [
       2024,
       108.0
+    ],
+    [
+      2025,
+      129.0
     ]
   ],
   "tournaments": [
@@ -88,7 +93,7 @@
           "opponent_win_prob": 0.7815389177733065,
           "is_winner": false,
           "opponent_slug": "richard-printz",
-          "opponent_hist_score_share": 0.5710272570566689
+          "opponent_hist_score_share": 0.5703630193336076
         },
         {
           "game_id": 710,
@@ -106,7 +111,7 @@
           "opponent_win_prob": 0.7706422321602021,
           "is_winner": false,
           "opponent_slug": "erik-numan",
-          "opponent_hist_score_share": 0.4878937512797705
+          "opponent_hist_score_share": 0.46364990195153843
         }
       ],
       "n_games": 2,
@@ -139,7 +144,7 @@
           "opponent_win_prob": 0.6465553721789925,
           "is_winner": false,
           "opponent_slug": "folke-nordenankar",
-          "opponent_hist_score_share": 0.48775946275946275
+          "opponent_hist_score_share": 0.4754450410700411
         },
         {
           "game_id": 800,
@@ -175,7 +180,7 @@
           "opponent_win_prob": 0.8927358701733179,
           "is_winner": true,
           "opponent_slug": "olle-strandberg",
-          "opponent_hist_score_share": 0.6284587088539505
+          "opponent_hist_score_share": 0.6165712283638421
         },
         {
           "game_id": 830,
@@ -193,15 +198,120 @@
           "opponent_win_prob": 0.5301521196207475,
           "is_winner": false,
           "opponent_slug": "lovisa-birgersson",
-          "opponent_hist_score_share": 0.5785867334069948
+          "opponent_hist_score_share": 0.5778136854169652
         }
       ],
       "n_games": 4,
       "n_wins": 2
+    },
+    {
+      "year": 2025,
+      "last_game": {
+        "opponent_name": "Edvin Lindsten",
+        "opponent_slug": "edvin-lindsten",
+        "score": 7,
+        "opponent_score": 12,
+        "is_winner": false,
+        "stage": "\u00e5ttondelsfinal"
+      },
+      "games": [
+        {
+          "game_id": 857,
+          "year": 2025,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Erika Andersson",
+          "score": 8,
+          "score_share": 0.8888888888888888,
+          "win_prob": 0.5245586163781446,
+          "opponent_name": "Christina Bergmark",
+          "opponent_score": 1,
+          "opponent_score_share": 0.1111111111111111,
+          "opponent_win_prob": 0.4754413836218554,
+          "is_winner": true,
+          "opponent_slug": "christina-bergmark",
+          "opponent_hist_score_share": 0.15555555555555556
+        },
+        {
+          "game_id": 882,
+          "year": 2025,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Erika Andersson",
+          "score": 7,
+          "score_share": 0.4666666666666667,
+          "win_prob": 0.23518783997364603,
+          "opponent_name": "Filippa Berencreutz",
+          "opponent_score": 8,
+          "opponent_score_share": 0.5333333333333333,
+          "opponent_win_prob": 0.764812160026354,
+          "is_winner": false,
+          "opponent_slug": "filippa-berencreutz",
+          "opponent_hist_score_share": 0.5609186707012794
+        },
+        {
+          "game_id": 911,
+          "year": 2025,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Erika Andersson",
+          "score": 9,
+          "score_share": 0.6923076923076923,
+          "win_prob": 0.6212589101045183,
+          "opponent_name": "Jimmy Karlsson",
+          "opponent_score": 4,
+          "opponent_score_share": 0.3076923076923077,
+          "opponent_win_prob": 0.3787410898954817,
+          "is_winner": true,
+          "opponent_slug": "jimmy-karlsson",
+          "opponent_hist_score_share": 0.2902097902097902
+        },
+        {
+          "game_id": 925,
+          "year": 2025,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p1",
+          "name": "Erika Andersson",
+          "score": 10,
+          "score_share": 0.5555555555555556,
+          "win_prob": 0.38409211914103153,
+          "opponent_name": "Jakob Gustafsson",
+          "opponent_score": 8,
+          "opponent_score_share": 0.4444444444444444,
+          "opponent_win_prob": 0.6159078808589684,
+          "is_winner": true,
+          "opponent_slug": "jakob-gustafsson",
+          "opponent_hist_score_share": 0.48171395597866185
+        },
+        {
+          "game_id": 939,
+          "year": 2025,
+          "stage": "\u00e5ttondelsfinal",
+          "stage_level": 2,
+          "winner": "p1",
+          "name": "Erika Andersson",
+          "score": 7,
+          "score_share": 0.3684210526315789,
+          "win_prob": 0.36299306158428246,
+          "opponent_name": "Edvin Lindsten",
+          "opponent_score": 12,
+          "opponent_score_share": 0.631578947368421,
+          "opponent_win_prob": 0.6370069384157175,
+          "is_winner": false,
+          "opponent_slug": "edvin-lindsten",
+          "opponent_hist_score_share": 0.5631097566469083
+        }
+      ],
+      "n_games": 5,
+      "n_wins": 3
     }
   ],
-  "best_stage": "sextondelsfinal",
+  "best_stage": "\u00e5ttondelsfinal",
   "best_stage_years": [
-    2024
+    2025
   ]
 }

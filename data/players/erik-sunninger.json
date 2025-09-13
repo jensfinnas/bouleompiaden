@@ -6,7 +6,7 @@
     2016
   ],
   "win_rate": 0.6666666666666666,
-  "opponent_score_share": 0.5311015183074006,
+  "opponent_score_share": 0.5097566726768407,
   "skill": 143.53061316562594,
   "skill_sigma": 66.47656039941576,
   "name": "Erik Sunninger",
@@ -56,6 +56,10 @@
     ],
     [
       2024,
+      null
+    ],
+    [
+      2025,
       null
     ]
   ],
@@ -123,7 +127,7 @@
           "opponent_win_prob": 0.39819085108179336,
           "is_winner": false,
           "opponent_slug": "daniel-mensak",
-          "opponent_hist_score_share": 0.6307142857142857
+          "opponent_hist_score_share": 0.566679748822606
         }
       ],
       "n_games": 3,

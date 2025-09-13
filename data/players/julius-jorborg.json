@@ -9,7 +9,7 @@
     2021
   ],
   "win_rate": 0.42857142857142855,
-  "opponent_score_share": 0.4730242542326731,
+  "opponent_score_share": 0.4730863425980446,
   "skill": 99.93891721312637,
   "skill_sigma": 31.447849128018916,
   "name": "Julius Jorborg",
@@ -59,6 +59,10 @@
     ],
     [
       2024,
+      null
+    ],
+    [
+      2025,
       null
     ]
   ],
@@ -126,7 +130,7 @@
           "opponent_win_prob": 0.08102327740783699,
           "is_winner": false,
           "opponent_slug": "sofia-radstrom",
-          "opponent_hist_score_share": 0.3168362831464436
+          "opponent_hist_score_share": 0.3364460012084447
         }
       ],
       "n_games": 3,
@@ -195,7 +199,7 @@
           "opponent_win_prob": 0.8715073912406951,
           "is_winner": false,
           "opponent_slug": "ville-nordenankar",
-          "opponent_hist_score_share": 0.4457742488992489
+          "opponent_hist_score_share": 0.4262469368238599
         }
       ],
       "n_games": 3,
@@ -246,7 +250,7 @@
           "opponent_win_prob": 0.8579172019795771,
           "is_winner": false,
           "opponent_slug": "benjamin-ger-hed",
-          "opponent_hist_score_share": 0.6311029571727272
+          "opponent_hist_score_share": 0.6318897883013175
         },
         {
           "game_id": 317,

@@ -6,13 +6,13 @@
     2017
   ],
   "win_rate": 0.0,
-  "opponent_score_share": 0.5365009113142598,
+  "opponent_score_share": 0.5380081342005245,
   "skill": -11.154393807653689,
   "skill_sigma": 71.74620212161844,
   "name": "Tove Papp Lindkvist",
   "slug": "tove-papp-lindkvist",
-  "skill_rank": 168.0,
-  "skill_rank_pct": 168.0,
+  "skill_rank": 180.0,
+  "skill_rank_pct": 180.0,
   "skill_history": [
     [
       2011,
@@ -57,6 +57,10 @@
     [
       2024,
       null
+    ],
+    [
+      2025,
+      null
     ]
   ],
   "tournaments": [
@@ -87,7 +91,7 @@
           "opponent_win_prob": 0.30614706298999195,
           "is_winner": false,
           "opponent_slug": "pelle-dovborg",
-          "opponent_hist_score_share": 0.5570986081958933
+          "opponent_hist_score_share": 0.5601130539684227
         },
         {
           "game_id": 113,

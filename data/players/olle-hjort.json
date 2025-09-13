@@ -11,8 +11,8 @@
   "skill_sigma": 63.9634474212986,
   "name": "Olle Hjort",
   "slug": "olle-hjort",
-  "skill_rank": 108.0,
-  "skill_rank_pct": 108.0,
+  "skill_rank": 117.0,
+  "skill_rank_pct": 117.0,
   "skill_history": [
     [
       2011,
@@ -56,6 +56,10 @@
     ],
     [
       2024,
+      null
+    ],
+    [
+      2025,
       null
     ]
   ],

@@ -11,8 +11,8 @@
   "skill_sigma": 76.54184696087367,
   "name": "Robert Hallman",
   "slug": "robert-hallman",
-  "skill_rank": 149.0,
-  "skill_rank_pct": 149.0,
+  "skill_rank": 159.0,
+  "skill_rank_pct": 159.0,
   "skill_history": [
     [
       2011,
@@ -56,6 +56,10 @@
     ],
     [
       2024,
+      null
+    ],
+    [
+      2025,
       null
     ]
   ],

@@ -1,18 +1,19 @@
 {
-  "n_games": 3,
-  "score_share": 0.25089126559714797,
-  "n_wins": 0,
+  "n_games": 9,
+  "score_share": 0.5057064452575288,
+  "n_wins": 4,
   "years": [
-    2024
+    2024,
+    2025
   ],
-  "win_rate": 0.0,
-  "opponent_score_share": 0.5956767983880803,
-  "skill": 26.512028630754862,
-  "skill_sigma": 69.75504548739013,
+  "win_rate": 0.4444444444444444,
+  "opponent_score_share": 0.5450773534627417,
+  "skill": 142.86343483273177,
+  "skill_sigma": 37.35501377480778,
   "name": "Joakim Kulo",
   "slug": "joakim-kulo",
-  "skill_rank": 139.0,
-  "skill_rank_pct": 139.0,
+  "skill_rank": 45.0,
+  "skill_rank_pct": 45.0,
   "skill_history": [
     [
       2011,
@@ -57,6 +58,10 @@
     [
       2024,
       27.0
+    ],
+    [
+      2025,
+      143.0
     ]
   ],
   "tournaments": [
@@ -87,7 +92,7 @@
           "opponent_win_prob": 0.5247759123112881,
           "is_winner": false,
           "opponent_slug": "johan-ekman",
-          "opponent_hist_score_share": 0.50221448427856
+          "opponent_hist_score_share": 0.5086246033115104
         },
         {
           "game_id": 806,
@@ -105,7 +110,7 @@
           "opponent_win_prob": 0.9376578875795992,
           "is_winner": false,
           "opponent_slug": "benjamin-ger-hed",
-          "opponent_hist_score_share": 0.6311029571727272
+          "opponent_hist_score_share": 0.6318897883013175
         },
         {
           "game_id": 819,
@@ -123,15 +128,138 @@
           "opponent_win_prob": 0.9484557214650735,
           "is_winner": false,
           "opponent_slug": "simon-fridh",
-          "opponent_hist_score_share": 0.6537129537129537
+          "opponent_hist_score_share": 0.6302112029384758
         }
       ],
       "n_games": 3,
       "n_wins": 0
+    },
+    {
+      "year": 2025,
+      "last_game": {
+        "opponent_name": "Erik Nordenankar",
+        "opponent_slug": "erik-nordenankar",
+        "score": 9,
+        "opponent_score": 10,
+        "is_winner": false,
+        "stage": "kvartsfinal"
+      },
+      "games": [
+        {
+          "game_id": 861,
+          "year": 2025,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Joakim Kulo",
+          "score": 9,
+          "score_share": 0.9,
+          "win_prob": 0.4619927934519948,
+          "opponent_name": "Fredrik Berg",
+          "opponent_score": 1,
+          "opponent_score_share": 0.1,
+          "opponent_win_prob": 0.5380072065480053,
+          "is_winner": true,
+          "opponent_slug": "fredrik-berg",
+          "opponent_hist_score_share": 0.4198848770277342
+        },
+        {
+          "game_id": 884,
+          "year": 2025,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Joakim Kulo",
+          "score": 1,
+          "score_share": 0.1111111111111111,
+          "win_prob": 0.1349288409738805,
+          "opponent_name": "Hannes Jordan",
+          "opponent_score": 8,
+          "opponent_score_share": 0.8888888888888888,
+          "opponent_win_prob": 0.8650711590261195,
+          "is_winner": false,
+          "opponent_slug": "hannes-jordan",
+          "opponent_hist_score_share": 0.5798265565343363
+        },
+        {
+          "game_id": 913,
+          "year": 2025,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Joakim Kulo",
+          "score": 8,
+          "score_share": 0.8,
+          "win_prob": 0.22799362448099672,
+          "opponent_name": "Hilda Dahlberg",
+          "opponent_score": 2,
+          "opponent_score_share": 0.2,
+          "opponent_win_prob": 0.7720063755190033,
+          "is_winner": true,
+          "opponent_slug": "hilda-dahlberg",
+          "opponent_hist_score_share": 0.4893564768564769
+        },
+        {
+          "game_id": 932,
+          "year": 2025,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p2",
+          "name": "Joakim Kulo",
+          "score": 8,
+          "score_share": 0.8888888888888888,
+          "win_prob": 0.21400254541802144,
+          "opponent_name": "Jens Finn\u00e4s",
+          "opponent_score": 1,
+          "opponent_score_share": 0.1111111111111111,
+          "opponent_win_prob": 0.7859974545819786,
+          "is_winner": true,
+          "opponent_slug": "jens-finnas",
+          "opponent_hist_score_share": 0.4658863621459529
+        },
+        {
+          "game_id": 943,
+          "year": 2025,
+          "stage": "\u00e5ttondelsfinal",
+          "stage_level": 2,
+          "winner": "p1",
+          "name": "Joakim Kulo",
+          "score": 10,
+          "score_share": 0.625,
+          "win_prob": 0.5194824503308872,
+          "opponent_name": "Johan Ekman",
+          "opponent_score": 6,
+          "opponent_score_share": 0.375,
+          "opponent_win_prob": 0.48051754966911275,
+          "is_winner": true,
+          "opponent_slug": "johan-ekman",
+          "opponent_hist_score_share": 0.5086246033115104
+        },
+        {
+          "game_id": 948,
+          "year": 2025,
+          "stage": "kvartsfinal",
+          "stage_level": 3,
+          "winner": "p1",
+          "name": "Joakim Kulo",
+          "score": 9,
+          "score_share": 0.47368421052631576,
+          "win_prob": 0.18888673253962573,
+          "opponent_name": "Erik Nordenankar",
+          "opponent_score": 10,
+          "opponent_score_share": 0.5263157894736842,
+          "opponent_win_prob": 0.8111132674603743,
+          "is_winner": false,
+          "opponent_slug": "erik-nordenankar",
+          "opponent_hist_score_share": 0.6713917107373603
+        }
+      ],
+      "n_games": 6,
+      "n_wins": 4
     }
   ],
-  "best_stage": "sextondelsfinal",
+  "best_stage": "kvartsfinal",
   "best_stage_years": [
-    2024
+    2025
   ]
 }

@@ -6,13 +6,13 @@
     2020
   ],
   "win_rate": 0.8,
-  "opponent_score_share": 0.5837083579827477,
+  "opponent_score_share": 0.5859230654266867,
   "skill": 206.19579370243187,
   "skill_sigma": 46.677400140395676,
   "name": "Niklas Solberg",
   "slug": "niklas-solberg",
-  "skill_rank": 9.0,
-  "skill_rank_pct": 9.0,
+  "skill_rank": 8.0,
+  "skill_rank_pct": 8.0,
   "skill_history": [
     [
       2011,
@@ -57,6 +57,10 @@
     [
       2024,
       null
+    ],
+    [
+      2025,
+      null
     ]
   ],
   "tournaments": [
@@ -87,7 +91,7 @@
           "opponent_win_prob": 0.7303368498396667,
           "is_winner": true,
           "opponent_slug": "robeson",
-          "opponent_hist_score_share": 0.5697854480774457
+          "opponent_hist_score_share": 0.5728185975400439
         },
         {
           "game_id": 388,
@@ -123,7 +127,7 @@
           "opponent_win_prob": 0.4582511214607037,
           "is_winner": true,
           "opponent_slug": "theodore-ripman",
-          "opponent_hist_score_share": 0.5710964566774074
+          "opponent_hist_score_share": 0.5743604529581897
         },
         {
           "game_id": 440,
@@ -141,7 +145,7 @@
           "opponent_win_prob": 0.1361269641267029,
           "is_winner": true,
           "opponent_slug": "hannes-jordan",
-          "opponent_hist_score_share": 0.5631626845679133
+          "opponent_hist_score_share": 0.5798265565343363
         },
         {
           "game_id": 445,
@@ -159,7 +163,7 @@
           "opponent_win_prob": 0.10056313429826293,
           "is_winner": false,
           "opponent_slug": "olle-strandberg",
-          "opponent_hist_score_share": 0.6284587088539505
+          "opponent_hist_score_share": 0.6165712283638421
         }
       ],
       "n_games": 5,

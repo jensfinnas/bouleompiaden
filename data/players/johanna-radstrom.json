@@ -1,7 +1,7 @@
 {
-  "n_games": 20,
-  "score_share": 0.32542617105117105,
-  "n_wins": 4,
+  "n_games": 23,
+  "score_share": 0.33626801942019335,
+  "n_wins": 5,
   "years": [
     2012,
     2016,
@@ -11,16 +11,17 @@
     2020,
     2021,
     2022,
-    2024
+    2024,
+    2025
   ],
-  "win_rate": 0.2,
-  "opponent_score_share": 0.5160850002897315,
-  "skill": 37.64145209175494,
-  "skill_sigma": 32.33857948430788,
+  "win_rate": 0.21739130434782608,
+  "opponent_score_share": 0.5164707046506326,
+  "skill": 48.50474542709813,
+  "skill_sigma": 29.72791609400453,
   "name": "Johanna R\u00e5dstr\u00f6m",
   "slug": "johanna-radstrom",
-  "skill_rank": 128.0,
-  "skill_rank_pct": 128.0,
+  "skill_rank": 131.0,
+  "skill_rank_pct": 131.0,
   "skill_history": [
     [
       2011,
@@ -65,6 +66,10 @@
     [
       2024,
       38.0
+    ],
+    [
+      2025,
+      49.0
     ]
   ],
   "tournaments": [
@@ -164,7 +169,7 @@
           "opponent_win_prob": 0.18725922235921538,
           "is_winner": true,
           "opponent_slug": "sofia-radstrom",
-          "opponent_hist_score_share": 0.3168362831464436
+          "opponent_hist_score_share": 0.3364460012084447
         }
       ],
       "n_games": 2,
@@ -266,7 +271,7 @@
           "opponent_win_prob": 0.7508247564989103,
           "is_winner": false,
           "opponent_slug": "robeson",
-          "opponent_hist_score_share": 0.5697854480774457
+          "opponent_hist_score_share": 0.5728185975400439
         }
       ],
       "n_games": 2,
@@ -299,7 +304,7 @@
           "opponent_win_prob": 0.9468682057236422,
           "is_winner": false,
           "opponent_slug": "hannes-jordan",
-          "opponent_hist_score_share": 0.5631626845679133
+          "opponent_hist_score_share": 0.5798265565343363
         },
         {
           "game_id": 260,
@@ -368,7 +373,7 @@
           "opponent_win_prob": 0.9819884502176617,
           "is_winner": false,
           "opponent_slug": "robeson",
-          "opponent_hist_score_share": 0.5697854480774457
+          "opponent_hist_score_share": 0.5728185975400439
         }
       ],
       "n_games": 2,
@@ -452,7 +457,7 @@
           "opponent_win_prob": 0.9962709379937241,
           "is_winner": false,
           "opponent_slug": "benjamin-ger-hed",
-          "opponent_hist_score_share": 0.6311029571727272
+          "opponent_hist_score_share": 0.6318897883013175
         },
         {
           "game_id": 609,
@@ -488,7 +493,7 @@
           "opponent_win_prob": 0.997578608980019,
           "is_winner": false,
           "opponent_slug": "gabriel-nordenankar",
-          "opponent_hist_score_share": 0.6495889153220986
+          "opponent_hist_score_share": 0.6605136495334323
         }
       ],
       "n_games": 3,
@@ -521,7 +526,7 @@
           "opponent_win_prob": 0.9160313491573359,
           "is_winner": false,
           "opponent_slug": "hannes-jordan",
-          "opponent_hist_score_share": 0.5631626845679133
+          "opponent_hist_score_share": 0.5798265565343363
         },
         {
           "game_id": 815,
@@ -539,7 +544,7 @@
           "opponent_win_prob": 0.8749138377863221,
           "is_winner": false,
           "opponent_slug": "lovisa-birgersson",
-          "opponent_hist_score_share": 0.5785867334069948
+          "opponent_hist_score_share": 0.5778136854169652
         },
         {
           "game_id": 784,
@@ -558,6 +563,75 @@
           "is_winner": true,
           "opponent_slug": "robin-linderborg",
           "opponent_hist_score_share": 0.5612544871320962
+        }
+      ],
+      "n_games": 3,
+      "n_wins": 1
+    },
+    {
+      "year": 2025,
+      "last_game": {
+        "opponent_name": "Sixten R\u00e5dstr\u00f6m",
+        "opponent_slug": "sixten-radstrom",
+        "score": 8,
+        "opponent_score": 7,
+        "is_winner": true,
+        "stage": "gruppspel"
+      },
+      "games": [
+        {
+          "game_id": 886,
+          "year": 2025,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Johanna R\u00e5dstr\u00f6m",
+          "score": 5,
+          "score_share": 0.38461538461538464,
+          "win_prob": 0.023883791163662335,
+          "opponent_name": "Theodore Ripman",
+          "opponent_score": 8,
+          "opponent_score_share": 0.6153846153846154,
+          "opponent_win_prob": 0.9761162088363377,
+          "is_winner": false,
+          "opponent_slug": "theodore-ripman",
+          "opponent_hist_score_share": 0.5743604529581897
+        },
+        {
+          "game_id": 915,
+          "year": 2025,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Johanna R\u00e5dstr\u00f6m",
+          "score": 4,
+          "score_share": 0.3076923076923077,
+          "win_prob": 0.17160378238382323,
+          "opponent_name": "Emma Bergmark",
+          "opponent_score": 9,
+          "opponent_score_share": 0.6923076923076923,
+          "opponent_win_prob": 0.8283962176161768,
+          "is_winner": false,
+          "opponent_slug": "emma-bergmark",
+          "opponent_hist_score_share": 0.4735299747659461
+        },
+        {
+          "game_id": 865,
+          "year": 2025,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p2",
+          "name": "Johanna R\u00e5dstr\u00f6m",
+          "score": 8,
+          "score_share": 0.5333333333333333,
+          "win_prob": 0.21602141880802006,
+          "opponent_name": "Sixten R\u00e5dstr\u00f6m",
+          "opponent_score": 7,
+          "opponent_score_share": 0.4666666666666667,
+          "opponent_win_prob": 0.7839785811919799,
+          "is_winner": true,
+          "opponent_slug": "sixten-radstrom",
+          "opponent_hist_score_share": 0.4392934951758481
         }
       ],
       "n_games": 3,

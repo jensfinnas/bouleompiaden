@@ -1,0 +1,123 @@
+{
+  "n_games": 2,
+  "score_share": 0.2902097902097902,
+  "n_wins": 0,
+  "years": [
+    2025
+  ],
+  "win_rate": 0.0,
+  "opponent_score_share": 0.5538558135191263,
+  "skill": 35.480372968470355,
+  "skill_sigma": 72.84118427736283,
+  "name": "Jimmy Karlsson",
+  "slug": "jimmy-karlsson",
+  "skill_rank": 142.0,
+  "skill_rank_pct": 142.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      null
+    ],
+    [
+      2016,
+      null
+    ],
+    [
+      2017,
+      null
+    ],
+    [
+      2018,
+      null
+    ],
+    [
+      2019,
+      null
+    ],
+    [
+      2020,
+      null
+    ],
+    [
+      2021,
+      null
+    ],
+    [
+      2022,
+      null
+    ],
+    [
+      2023,
+      null
+    ],
+    [
+      2024,
+      null
+    ],
+    [
+      2025,
+      35.0
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2025,
+      "last_game": {
+        "opponent_name": "Erika Andersson",
+        "opponent_slug": "erika-andersson",
+        "score": 4,
+        "opponent_score": 9,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "games": [
+        {
+          "game_id": 856,
+          "year": 2025,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Jimmy Karlsson",
+          "score": 3,
+          "score_share": 0.2727272727272727,
+          "win_prob": 0.18756801132218848,
+          "opponent_name": "Richard Printz",
+          "opponent_score": 8,
+          "opponent_score_share": 0.7272727272727273,
+          "opponent_win_prob": 0.8124319886778115,
+          "is_winner": false,
+          "opponent_slug": "richard-printz",
+          "opponent_hist_score_share": 0.5703630193336076
+        },
+        {
+          "game_id": 911,
+          "year": 2025,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Jimmy Karlsson",
+          "score": 4,
+          "score_share": 0.3076923076923077,
+          "win_prob": 0.3787410898954817,
+          "opponent_name": "Erika Andersson",
+          "opponent_score": 9,
+          "opponent_score_share": 0.6923076923076923,
+          "opponent_win_prob": 0.6212589101045183,
+          "is_winner": false,
+          "opponent_slug": "erika-andersson",
+          "opponent_hist_score_share": 0.5373486077046449
+        }
+      ],
+      "n_games": 2,
+      "n_wins": 0
+    }
+  ],
+  "best_stage": "gruppspel",
+  "best_stage_years": [
+    2025
+  ]
+}

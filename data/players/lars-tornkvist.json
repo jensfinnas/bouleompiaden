@@ -6,13 +6,13 @@
     2020
   ],
   "win_rate": 0.5,
-  "opponent_score_share": 0.5763627593356422,
+  "opponent_score_share": 0.5762395694822485,
   "skill": 150.3793402184042,
   "skill_sigma": 49.07582564549711,
   "name": "Lars T\u00f6rnkvist",
   "slug": "lars-tornkvist",
-  "skill_rank": 35.0,
-  "skill_rank_pct": 35.0,
+  "skill_rank": 36.0,
+  "skill_rank_pct": 36.0,
   "skill_history": [
     [
       2011,
@@ -57,6 +57,10 @@
     [
       2024,
       null
+    ],
+    [
+      2025,
+      null
     ]
   ],
   "tournaments": [
@@ -87,7 +91,7 @@
           "opponent_win_prob": 0.7785944343434634,
           "is_winner": false,
           "opponent_slug": "benjamin-ger-hed",
-          "opponent_hist_score_share": 0.6311029571727272
+          "opponent_hist_score_share": 0.6318897883013175
         },
         {
           "game_id": 404,
@@ -123,7 +127,7 @@
           "opponent_win_prob": 0.6973190919455445,
           "is_winner": true,
           "opponent_slug": "edvin-lindsten",
-          "opponent_hist_score_share": 0.5674037929616024
+          "opponent_hist_score_share": 0.5631097566469083
         },
         {
           "game_id": 431,
@@ -141,7 +145,7 @@
           "opponent_win_prob": 0.38155243167559905,
           "is_winner": false,
           "opponent_slug": "pelle-dovborg",
-          "opponent_hist_score_share": 0.5570986081958933
+          "opponent_hist_score_share": 0.5601130539684227
         }
       ],
       "n_games": 4,

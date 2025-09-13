@@ -1,19 +1,20 @@
 {
-  "n_games": 8,
-  "score_share": 0.437681803490627,
-  "n_wins": 4,
+  "n_games": 12,
+  "score_share": 0.48798056518644756,
+  "n_wins": 6,
   "years": [
     2022,
-    2023
+    2023,
+    2025
   ],
   "win_rate": 0.5,
-  "opponent_score_share": 0.4935269596351554,
-  "skill": 128.14823723134955,
-  "skill_sigma": 37.56788306964193,
+  "opponent_score_share": 0.48050955713954274,
+  "skill": 123.35046715796868,
+  "skill_sigma": 30.900821017812973,
   "name": "Amanda Engstr\u00f6m",
   "slug": "amanda-engstrom",
-  "skill_rank": 58.0,
-  "skill_rank_pct": 58.0,
+  "skill_rank": 67.0,
+  "skill_rank_pct": 67.0,
   "skill_history": [
     [
       2011,
@@ -58,6 +59,10 @@
     [
       2024,
       null
+    ],
+    [
+      2025,
+      123.0
     ]
   ],
   "tournaments": [
@@ -88,7 +93,7 @@
           "opponent_win_prob": 0.7375853787153877,
           "is_winner": false,
           "opponent_slug": "pelle-dovborg",
-          "opponent_hist_score_share": 0.5570986081958933
+          "opponent_hist_score_share": 0.5601130539684227
         },
         {
           "game_id": 617,
@@ -106,7 +111,7 @@
           "opponent_win_prob": 0.7292985293631098,
           "is_winner": true,
           "opponent_slug": "tim-samuelsson",
-          "opponent_hist_score_share": 0.5020184943261866
+          "opponent_hist_score_share": 0.5092587006714431
         },
         {
           "game_id": 636,
@@ -229,11 +234,98 @@
           "opponent_win_prob": 0.0339286594951658,
           "is_winner": true,
           "opponent_slug": "kajsa-hallberg-nor",
-          "opponent_hist_score_share": 0.24588014382132029
+          "opponent_hist_score_share": 0.24440404846979244
         }
       ],
       "n_games": 3,
       "n_wins": 1
+    },
+    {
+      "year": 2025,
+      "last_game": {
+        "opponent_name": "Lovisa Birgersson",
+        "opponent_slug": "lovisa-birgersson",
+        "score": 5,
+        "opponent_score": 10,
+        "is_winner": false,
+        "stage": "sextondelsfinal"
+      },
+      "games": [
+        {
+          "game_id": 872,
+          "year": 2025,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Amanda Engstr\u00f6m",
+          "score": 9,
+          "score_share": 0.8181818181818182,
+          "win_prob": 0.5125185308131952,
+          "opponent_name": "Martha Brauer",
+          "opponent_score": 2,
+          "opponent_score_share": 0.18181818181818182,
+          "opponent_win_prob": 0.4874814691868048,
+          "is_winner": true,
+          "opponent_slug": "martha-brauer",
+          "opponent_hist_score_share": 0.4716748991748992
+        },
+        {
+          "game_id": 918,
+          "year": 2025,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Amanda Engstr\u00f6m",
+          "score": 9,
+          "score_share": 0.8181818181818182,
+          "win_prob": 0.7567591492167557,
+          "opponent_name": "Charlie Berg",
+          "opponent_score": 2,
+          "opponent_score_share": 0.18181818181818182,
+          "opponent_win_prob": 0.2432408507832443,
+          "is_winner": true,
+          "opponent_slug": "charlie-berg",
+          "opponent_hist_score_share": 0.18181818181818182
+        },
+        {
+          "game_id": 889,
+          "year": 2025,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Amanda Engstr\u00f6m",
+          "score": 5,
+          "score_share": 0.38461538461538464,
+          "win_prob": 0.4986284881364843,
+          "opponent_name": "Lovisa Birgersson",
+          "opponent_score": 8,
+          "opponent_score_share": 0.6153846153846154,
+          "opponent_win_prob": 0.5013715118635157,
+          "is_winner": false,
+          "opponent_slug": "lovisa-birgersson",
+          "opponent_hist_score_share": 0.5778136854169652
+        },
+        {
+          "game_id": 923,
+          "year": 2025,
+          "stage": "sextondelsfinal",
+          "stage_level": 1,
+          "winner": "p1",
+          "name": "Amanda Engstr\u00f6m",
+          "score": 5,
+          "score_share": 0.3333333333333333,
+          "win_prob": 0.43636400568435096,
+          "opponent_name": "Lovisa Birgersson",
+          "opponent_score": 10,
+          "opponent_score_share": 0.6666666666666666,
+          "opponent_win_prob": 0.563635994315649,
+          "is_winner": false,
+          "opponent_slug": "lovisa-birgersson",
+          "opponent_hist_score_share": 0.5778136854169652
+        }
+      ],
+      "n_games": 4,
+      "n_wins": 2
     }
   ],
   "best_stage": "kvartsfinal",

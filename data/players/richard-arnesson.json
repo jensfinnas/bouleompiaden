@@ -11,8 +11,8 @@
   "skill_sigma": 70.70262226266988,
   "name": "Richard Arnesson",
   "slug": "richard-arnesson",
-  "skill_rank": 156.0,
-  "skill_rank_pct": 156.0,
+  "skill_rank": 165.0,
+  "skill_rank_pct": 165.0,
   "skill_history": [
     [
       2011,
@@ -56,6 +56,10 @@
     ],
     [
       2024,
+      null
+    ],
+    [
+      2025,
       null
     ]
   ],

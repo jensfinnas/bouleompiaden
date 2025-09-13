@@ -1,0 +1,123 @@
+{
+  "n_games": 2,
+  "score_share": 0.28888888888888886,
+  "n_wins": 0,
+  "years": [
+    2025
+  ],
+  "win_rate": 0.0,
+  "opponent_score_share": 0.5664658257542333,
+  "skill": 50.06111674270452,
+  "skill_sigma": 74.98542453840852,
+  "name": "Jonathan Abrahamsson",
+  "slug": "jonathan-abrahamsson",
+  "skill_rank": 129.0,
+  "skill_rank_pct": 129.0,
+  "skill_history": [
+    [
+      2011,
+      null
+    ],
+    [
+      2012,
+      null
+    ],
+    [
+      2016,
+      null
+    ],
+    [
+      2017,
+      null
+    ],
+    [
+      2018,
+      null
+    ],
+    [
+      2019,
+      null
+    ],
+    [
+      2020,
+      null
+    ],
+    [
+      2021,
+      null
+    ],
+    [
+      2022,
+      null
+    ],
+    [
+      2023,
+      null
+    ],
+    [
+      2024,
+      null
+    ],
+    [
+      2025,
+      50.0
+    ]
+  ],
+  "tournaments": [
+    {
+      "year": 2025,
+      "last_game": {
+        "opponent_name": "Robeson",
+        "opponent_slug": "robeson",
+        "score": 1,
+        "opponent_score": 8,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "games": [
+        {
+          "game_id": 855,
+          "year": 2025,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Jonathan Abrahamsson",
+          "score": 7,
+          "score_share": 0.4666666666666667,
+          "win_prob": 0.24514688031710585,
+          "opponent_name": "Pelle Dovborg",
+          "opponent_score": 8,
+          "opponent_score_share": 0.5333333333333333,
+          "opponent_win_prob": 0.7548531196828941,
+          "is_winner": false,
+          "opponent_slug": "pelle-dovborg",
+          "opponent_hist_score_share": 0.5601130539684227
+        },
+        {
+          "game_id": 896,
+          "year": 2025,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Jonathan Abrahamsson",
+          "score": 1,
+          "score_share": 0.1111111111111111,
+          "win_prob": 0.1402636200105728,
+          "opponent_name": "Robeson",
+          "opponent_score": 8,
+          "opponent_score_share": 0.8888888888888888,
+          "opponent_win_prob": 0.8597363799894272,
+          "is_winner": false,
+          "opponent_slug": "robeson",
+          "opponent_hist_score_share": 0.5728185975400439
+        }
+      ],
+      "n_games": 2,
+      "n_wins": 0
+    }
+  ],
+  "best_stage": "gruppspel",
+  "best_stage_years": [
+    2025
+  ]
+}

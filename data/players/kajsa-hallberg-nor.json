@@ -1,6 +1,6 @@
 {
-  "n_games": 15,
-  "score_share": 0.24588014382132029,
+  "n_games": 17,
+  "score_share": 0.24440404846979244,
   "n_wins": 1,
   "years": [
     2017,
@@ -9,16 +9,17 @@
     2020,
     2021,
     2022,
-    2023
+    2023,
+    2025
   ],
-  "win_rate": 0.06666666666666667,
-  "opponent_score_share": 0.4768104577637568,
-  "skill": -18.35319085389873,
-  "skill_sigma": 41.23635547127309,
+  "win_rate": 0.058823529411764705,
+  "opponent_score_share": 0.49660841579896636,
+  "skill": -25.96898702036006,
+  "skill_sigma": 39.32578697244494,
   "name": "Kajsa Hallberg-Nor.",
   "slug": "kajsa-hallberg-nor",
-  "skill_rank": 171.0,
-  "skill_rank_pct": 171.0,
+  "skill_rank": 184.0,
+  "skill_rank_pct": 184.0,
   "skill_history": [
     [
       2011,
@@ -63,6 +64,10 @@
     [
       2024,
       null
+    ],
+    [
+      2025,
+      -26.0
     ]
   ],
   "tournaments": [
@@ -213,7 +218,7 @@
           "opponent_win_prob": 0.8750046837318833,
           "is_winner": false,
           "opponent_slug": "kusha-bahrami",
-          "opponent_hist_score_share": 0.4486967417114476
+          "opponent_hist_score_share": 0.47827151198474727
         }
       ],
       "n_games": 2,
@@ -315,7 +320,7 @@
           "opponent_win_prob": 0.9911224596557534,
           "is_winner": false,
           "opponent_slug": "robeson",
-          "opponent_hist_score_share": 0.5697854480774457
+          "opponent_hist_score_share": 0.5728185975400439
         },
         {
           "game_id": 528,
@@ -333,7 +338,7 @@
           "opponent_win_prob": 0.9188265632554081,
           "is_winner": false,
           "opponent_slug": "jakob-gustafsson",
-          "opponent_hist_score_share": 0.4804225409171934
+          "opponent_hist_score_share": 0.48171395597866185
         }
       ],
       "n_games": 3,
@@ -417,7 +422,7 @@
           "opponent_win_prob": 0.9660713405048342,
           "is_winner": false,
           "opponent_slug": "amanda-engstrom",
-          "opponent_hist_score_share": 0.437681803490627
+          "opponent_hist_score_share": 0.48798056518644756
         },
         {
           "game_id": 716,
@@ -435,7 +440,58 @@
           "opponent_win_prob": 0.7180051386978612,
           "is_winner": false,
           "opponent_slug": "bror-nordenankar",
-          "opponent_hist_score_share": 0.2706002331002331
+          "opponent_hist_score_share": 0.33286519036519036
+        }
+      ],
+      "n_games": 2,
+      "n_wins": 0
+    },
+    {
+      "year": 2025,
+      "last_game": {
+        "opponent_name": "Bj\u00f6rn Westerfors",
+        "opponent_slug": "bjorn-westerfors",
+        "score": 7,
+        "opponent_score": 8,
+        "is_winner": false,
+        "stage": "gruppspel"
+      },
+      "games": [
+        {
+          "game_id": 876,
+          "year": 2025,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Kajsa Hallberg-Nor.",
+          "score": 0,
+          "score_share": 0.0,
+          "win_prob": 0.0006583588770175952,
+          "opponent_name": "Gabriel Nordenankar",
+          "opponent_score": 10,
+          "opponent_score_share": 1.0,
+          "opponent_win_prob": 0.9993416411229824,
+          "is_winner": false,
+          "opponent_slug": "gabriel-nordenankar",
+          "opponent_hist_score_share": 0.6605136495334323
+        },
+        {
+          "game_id": 905,
+          "year": 2025,
+          "stage": "gruppspel",
+          "stage_level": 0,
+          "winner": "p1",
+          "name": "Kajsa Hallberg-Nor.",
+          "score": 7,
+          "score_share": 0.4666666666666667,
+          "win_prob": 0.24681380123167918,
+          "opponent_name": "Bj\u00f6rn Westerfors",
+          "opponent_score": 8,
+          "opponent_score_share": 0.5333333333333333,
+          "opponent_win_prob": 0.7531861987683208,
+          "is_winner": false,
+          "opponent_slug": "bjorn-westerfors",
+          "opponent_hist_score_share": 0.4832094988344988
         }
       ],
       "n_games": 2,

@@ -7,7 +7,7 @@
     2019
   ],
   "win_rate": 0.75,
-  "opponent_score_share": 0.5348227127033766,
+  "opponent_score_share": 0.5357731570835428,
   "skill": 212.41833338920398,
   "skill_sigma": 32.900214983908874,
   "name": "Estrid",
@@ -57,6 +57,10 @@
     ],
     [
       2024,
+      null
+    ],
+    [
+      2025,
       null
     ]
   ],
@@ -124,7 +128,7 @@
           "opponent_win_prob": 0.37929864991453366,
           "is_winner": true,
           "opponent_slug": "benjamin-ger-hed",
-          "opponent_hist_score_share": 0.6311029571727272
+          "opponent_hist_score_share": 0.6318897883013175
         },
         {
           "game_id": 233,
@@ -142,7 +146,7 @@
           "opponent_win_prob": 0.3841884471719119,
           "is_winner": true,
           "opponent_slug": "hannes-jordan",
-          "opponent_hist_score_share": 0.5631626845679133
+          "opponent_hist_score_share": 0.5798265565343363
         },
         {
           "game_id": 240,
@@ -211,7 +215,7 @@
           "opponent_win_prob": 0.309950643858366,
           "is_winner": true,
           "opponent_slug": "martha-brauer",
-          "opponent_hist_score_share": 0.4924649845104391
+          "opponent_hist_score_share": 0.4716748991748992
         },
         {
           "game_id": 331,
@@ -265,7 +269,7 @@
           "opponent_win_prob": 0.556188905187206,
           "is_winner": true,
           "opponent_slug": "gabriel-nordenankar",
-          "opponent_hist_score_share": 0.6495889153220986
+          "opponent_hist_score_share": 0.6605136495334323
         },
         {
           "game_id": 355,
@@ -283,7 +287,7 @@
           "opponent_win_prob": 0.2246341313833681,
           "is_winner": false,
           "opponent_slug": "benjamin-ger-hed",
-          "opponent_hist_score_share": 0.6311029571727272
+          "opponent_hist_score_share": 0.6318897883013175
         },
         {
           "game_id": 357,
@@ -301,7 +305,7 @@
           "opponent_win_prob": 0.19292245856084445,
           "is_winner": false,
           "opponent_slug": "robeson",
-          "opponent_hist_score_share": 0.5697854480774457
+          "opponent_hist_score_share": 0.5728185975400439
         }
       ],
       "n_games": 7,

@@ -6,13 +6,13 @@
     2016
   ],
   "win_rate": 0.5,
-  "opponent_score_share": 0.5070925588572648,
+  "opponent_score_share": 0.4750752904114249,
   "skill": 88.71090118347175,
   "skill_sigma": 69.38499574726352,
   "name": "Felix H\u00e4ggstr\u00f6m",
   "slug": "felix-haggstrom",
-  "skill_rank": 94.0,
-  "skill_rank_pct": 94.0,
+  "skill_rank": 97.0,
+  "skill_rank_pct": 97.0,
   "skill_history": [
     [
       2011,
@@ -56,6 +56,10 @@
     ],
     [
       2024,
+      null
+    ],
+    [
+      2025,
       null
     ]
   ],
@@ -105,7 +109,7 @@
           "opponent_win_prob": 0.4181406140652833,
           "is_winner": false,
           "opponent_slug": "daniel-mensak",
-          "opponent_hist_score_share": 0.6307142857142857
+          "opponent_hist_score_share": 0.566679748822606
         }
       ],
       "n_games": 2,
